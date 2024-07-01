@@ -1,0 +1,46 @@
+---
+name: Adblock Rule Request
+about: Request a new adblock rule for specific content.
+title: "[Rule Request] - "
+labels: "rule request"
+assignees: ''
+body:
+ - type: markdown
+ attributes:
+ value: "### URL(s) where the issue occurs\n\nPlease provide the URL(s) where the ad or unwanted content appears. If the issue occurs on multiple pages, list them too."
+ - type: input
+ id: urls
+ attributes:
+ label: URL(s)
+ description: "Enter the URL(s) where the issue occurs."
+ placeholder: "https://example.com/page1"
+ validations:
+ required: true
+ - type: markdown
+ attributes:
+ value: "### Screenshot(s)\n\nAttach screenshots highlighting the ad or unwanted content you wish to block. This helps in understanding exactly what needs to be addressed."
+ - type: file
+ id: screenshots
+ attributes:
+ label: Screenshot(s)
+ description: "Upload screenshots highlighting the ad or unwanted content. You can upload more than one file."
+ render: "image"
+ validations:
+ required: true
+ - type: textarea
+ id: description
+ attributes:
+ label: Description
+ description: "Describe in detail what you would like to block or change on the page(s). Include any specific elements (e.g., ad banners, trackers, pop-ups) and their locations on the page if possible."
+ placeholder: "Describe what to block..."
+ validations:
+ required: true
+ - type: textarea
+ id: additional-information
+ attributes:
+ label: Additional Information
+ description: "Any other information you think might be helpful for creating the adblock rule. This could include details about the website, the type of ad, or any other relevant context."
+ placeholder: "Any other information..."
+ validations:
+ required: false
+---

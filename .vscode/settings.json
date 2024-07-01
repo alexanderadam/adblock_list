@@ -1,0 +1,9 @@
+{
+  "cSpell.words": [
+    "adblock",
+    "adblocker",
+    "adblockers"
+  ],
+  "adblock.enableAglint": true,
+  "adblock.packageManager": "yarn"
+}
