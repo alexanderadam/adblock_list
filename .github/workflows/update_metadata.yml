@@ -29,9 +29,11 @@ jobs:
  sed -i 's/! Last modified: .*/! Last modified: $(date +%Y-%m-%d)/' alexanderadam.txt
 
  - name: Commit and push if changed
+ env:
+ ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
  run: |
  git config --global user.email "action@github.com"
  git config --global user.name "GitHub Action"
  git add alexanderadam.txt
  git commit -m "Update metadata" || exit 0 # Exit gracefully if no changes
- git push
+ git push https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/alexanderadam/adblock_list.git
