@@ -1,653 +1,653 @@
 # Affected hosts
 
 
-- ![](https://icons.duckduckgo.com/ip3/20min.ch.ico | width=16) 20min.ch
-- ![](https://icons.duckduckgo.com/ip3/24hamburg.de.ico | width=16) 24hamburg.de
-- ![](https://icons.duckduckgo.com/ip3/404media.co.ico | width=16) 404media.co
-- ![](https://icons.duckduckgo.com/ip3/50gameslike.com.ico | width=16) 50gameslike.com
-- ![](https://icons.duckduckgo.com/ip3/9gag.com.ico | width=16) 9gag.com
-- ![](https://icons.duckduckgo.com/ip3/9monate.de.ico | width=16) 9monate.de
-- ![](https://icons.duckduckgo.com/ip3/9to5mac.com.ico | width=16) 9to5mac.com
-- ![](https://icons.duckduckgo.com/ip3/aargauerzeitung.ch.ico | width=16) aargauerzeitung.ch
-- ![](https://icons.duckduckgo.com/ip3/abbreviations.com.ico | width=16) abbreviations.com
-- ![](https://icons.duckduckgo.com/ip3/abcnews.go.com.ico | width=16) abcnews.go.com
-- ![](https://icons.duckduckgo.com/ip3/abendblatt.de.ico | width=16) abendblatt.de
-- admin-magazin.de
+- <img src="https://icons.duckduckgo.com/ip3/20min.ch.ico" title="20min.ch" width="16" /> 20min.ch
+- 24hamburg.de
+- <img src="https://icons.duckduckgo.com/ip3/404media.co.ico" title="404media.co" width="16" /> 404media.co
+- <img src="https://icons.duckduckgo.com/ip3/50gameslike.com.ico" title="50gameslike.com" width="16" /> 50gameslike.com
+- <img src="https://icons.duckduckgo.com/ip3/9gag.com.ico" title="9gag.com" width="16" /> 9gag.com
+- <img src="https://icons.duckduckgo.com/ip3/9monate.de.ico" title="9monate.de" width="16" /> 9monate.de
+- <img src="https://icons.duckduckgo.com/ip3/9to5mac.com.ico" title="9to5mac.com" width="16" /> 9to5mac.com
+- <img src="https://icons.duckduckgo.com/ip3/aargauerzeitung.ch.ico" title="aargauerzeitung.ch" width="16" /> aargauerzeitung.ch
+- <img src="https://icons.duckduckgo.com/ip3/abbreviations.com.ico" title="abbreviations.com" width="16" /> abbreviations.com
+- <img src="https://icons.duckduckgo.com/ip3/abcnews.go.com.ico" title="abcnews.go.com" width="16" /> abcnews.go.com
+- <img src="https://icons.duckduckgo.com/ip3/abendblatt.de.ico" title="abendblatt.de" width="16" /> abendblatt.de
+- <img src="https://icons.duckduckgo.com/ip3/admin-magazin.de.ico" title="admin-magazin.de" width="16" /> admin-magazin.de
 - agenzianova.com
-- ![](https://icons.duckduckgo.com/ip3/aljazeera.com.ico | width=16) aljazeera.com
-- ![](https://icons.duckduckgo.com/ip3/allaboutvision.com.ico | width=16) allaboutvision.com
-- ![](https://icons.duckduckgo.com/ip3/allegro.pl.ico | width=16) allegro.pl
-- ![](https://icons.duckduckgo.com/ip3/analyticsinsight.net.ico | width=16) analyticsinsight.net
+- <img src="https://icons.duckduckgo.com/ip3/aljazeera.com.ico" title="aljazeera.com" width="16" /> aljazeera.com
+- <img src="https://icons.duckduckgo.com/ip3/allaboutvision.com.ico" title="allaboutvision.com" width="16" /> allaboutvision.com
+- allegro.pl
+- <img src="https://icons.duckduckgo.com/ip3/analyticsinsight.net.ico" title="analyticsinsight.net" width="16" /> analyticsinsight.net
 - andreagoulet.substack.com
-- ![](https://icons.duckduckgo.com/ip3/android-hilfe.de.ico | width=16) android-hilfe.de
-- ![](https://icons.duckduckgo.com/ip3/androidauthority.com.ico | width=16) androidauthority.com
-- ![](https://icons.duckduckgo.com/ip3/androidcentral.com.ico | width=16) androidcentral.com
-- ![](https://icons.duckduckgo.com/ip3/androidheadlines.com.ico | width=16) androidheadlines.com
-- ![](https://icons.duckduckgo.com/ip3/androidpolice.com.ico | width=16) androidpolice.com
-- ![](https://icons.duckduckgo.com/ip3/apfeltalk.de.ico | width=16) apfeltalk.de
-- ![](https://icons.duckduckgo.com/ip3/apkcombo.com.ico | width=16) apkcombo.com
-- ![](https://icons.duckduckgo.com/ip3/apklinker.com.ico | width=16) apklinker.com
-- ![](https://icons.duckduckgo.com/ip3/apkmirror.com.ico | width=16) apkmirror.com
-- ![](https://icons.duckduckgo.com/ip3/apkpure.com.ico | width=16) apkpure.com
-- ![](https://icons.duckduckgo.com/ip3/apnews.com.ico | width=16) apnews.com
-- ![](https://icons.duckduckgo.com/ip3/apotheken-umschau.de.ico | width=16) apotheken-umschau.de
-- ![](https://icons.duckduckgo.com/ip3/argoviatoday.ch.ico | width=16) argoviatoday.ch
-- ![](https://icons.duckduckgo.com/ip3/arstechnica.com.ico | width=16) arstechnica.com
-- ![](https://icons.duckduckgo.com/ip3/attackofthefanboy.com.ico | width=16) attackofthefanboy.com
-- ![](https://icons.duckduckgo.com/ip3/augsburger-allgemeine.de.ico | width=16) augsburger-allgemeine.de
-- ![](https://icons.duckduckgo.com/ip3/axios.com.ico | width=16) axios.com
-- ![](https://icons.duckduckgo.com/ip3/azlyrics.com.ico | width=16) azlyrics.com
-- ![](https://icons.duckduckgo.com/ip3/baby-vornamen.de.ico | width=16) baby-vornamen.de
-- ![](https://icons.duckduckgo.com/ip3/baerntoday.ch.ico | width=16) baerntoday.ch
-- ![](https://icons.duckduckgo.com/ip3/bazonline.ch.ico | width=16) bazonline.ch
-- ![](https://icons.duckduckgo.com/ip3/bbc.com.ico | width=16) bbc.com
-- ![](https://icons.duckduckgo.com/ip3/bbcgoodfood.com.ico | width=16) bbcgoodfood.com
-- ![](https://icons.duckduckgo.com/ip3/bbqpit.de.ico | width=16) bbqpit.de
-- ![](https://icons.duckduckgo.com/ip3/befonts.com.ico | width=16) befonts.com
-- ![](https://icons.duckduckgo.com/ip3/beobachter.ch.ico | width=16) beobachter.ch
-- ![](https://icons.duckduckgo.com/ip3/berliner-kurier.de.ico | width=16) berliner-kurier.de
-- ![](https://icons.duckduckgo.com/ip3/berliner-zeitung.de.ico | width=16) berliner-zeitung.de
-- ![](https://icons.duckduckgo.com/ip3/bernerzeitung.ch.ico | width=16) bernerzeitung.ch
-- ![](https://icons.duckduckgo.com/ip3/best-of-twitter.com.ico | width=16) best-of-twitter.com
-- ![](https://icons.duckduckgo.com/ip3/betterprogramming.pub.ico | width=16) betterprogramming.pub
-- ![](https://icons.duckduckgo.com/ip3/betvisa.games.ico | width=16) betvisa.games
-- ![](https://icons.duckduckgo.com/ip3/bhg.com.ico | width=16) bhg.com
-- ![](https://icons.duckduckgo.com/ip3/biblestudytools.com.ico | width=16) biblestudytools.com
-- ![](https://icons.duckduckgo.com/ip3/bigthink.com.ico | width=16) bigthink.com
-- bild.de
-- ![](https://icons.duckduckgo.com/ip3/billboard.com.ico | width=16) billboard.com
-- ![](https://icons.duckduckgo.com/ip3/bing.com.ico | width=16) bing.com
-- ![](https://icons.duckduckgo.com/ip3/bionity.com.ico | width=16) bionity.com
-- bitslovers.com
+- <img src="https://icons.duckduckgo.com/ip3/android-hilfe.de.ico" title="android-hilfe.de" width="16" /> android-hilfe.de
+- <img src="https://icons.duckduckgo.com/ip3/androidauthority.com.ico" title="androidauthority.com" width="16" /> androidauthority.com
+- <img src="https://icons.duckduckgo.com/ip3/androidcentral.com.ico" title="androidcentral.com" width="16" /> androidcentral.com
+- <img src="https://icons.duckduckgo.com/ip3/androidheadlines.com.ico" title="androidheadlines.com" width="16" /> androidheadlines.com
+- <img src="https://icons.duckduckgo.com/ip3/androidpolice.com.ico" title="androidpolice.com" width="16" /> androidpolice.com
+- <img src="https://icons.duckduckgo.com/ip3/apfeltalk.de.ico" title="apfeltalk.de" width="16" /> apfeltalk.de
+- <img src="https://icons.duckduckgo.com/ip3/apkcombo.com.ico" title="apkcombo.com" width="16" /> apkcombo.com
+- <img src="https://icons.duckduckgo.com/ip3/apklinker.com.ico" title="apklinker.com" width="16" /> apklinker.com
+- <img src="https://icons.duckduckgo.com/ip3/apkmirror.com.ico" title="apkmirror.com" width="16" /> apkmirror.com
+- <img src="https://icons.duckduckgo.com/ip3/apkpure.com.ico" title="apkpure.com" width="16" /> apkpure.com
+- <img src="https://icons.duckduckgo.com/ip3/apnews.com.ico" title="apnews.com" width="16" /> apnews.com
+- <img src="https://icons.duckduckgo.com/ip3/apotheken-umschau.de.ico" title="apotheken-umschau.de" width="16" /> apotheken-umschau.de
+- argoviatoday.ch
+- <img src="https://icons.duckduckgo.com/ip3/arstechnica.com.ico" title="arstechnica.com" width="16" /> arstechnica.com
+- <img src="https://icons.duckduckgo.com/ip3/attackofthefanboy.com.ico" title="attackofthefanboy.com" width="16" /> attackofthefanboy.com
+- <img src="https://icons.duckduckgo.com/ip3/augsburger-allgemeine.de.ico" title="augsburger-allgemeine.de" width="16" /> augsburger-allgemeine.de
+- <img src="https://icons.duckduckgo.com/ip3/axios.com.ico" title="axios.com" width="16" /> axios.com
+- <img src="https://icons.duckduckgo.com/ip3/azlyrics.com.ico" title="azlyrics.com" width="16" /> azlyrics.com
+- <img src="https://icons.duckduckgo.com/ip3/baby-vornamen.de.ico" title="baby-vornamen.de" width="16" /> baby-vornamen.de
+- <img src="https://icons.duckduckgo.com/ip3/baerntoday.ch.ico" title="baerntoday.ch" width="16" /> baerntoday.ch
+- <img src="https://icons.duckduckgo.com/ip3/bazonline.ch.ico" title="bazonline.ch" width="16" /> bazonline.ch
+- <img src="https://icons.duckduckgo.com/ip3/bbc.com.ico" title="bbc.com" width="16" /> bbc.com
+- <img src="https://icons.duckduckgo.com/ip3/bbcgoodfood.com.ico" title="bbcgoodfood.com" width="16" /> bbcgoodfood.com
+- <img src="https://icons.duckduckgo.com/ip3/bbqpit.de.ico" title="bbqpit.de" width="16" /> bbqpit.de
+- <img src="https://icons.duckduckgo.com/ip3/befonts.com.ico" title="befonts.com" width="16" /> befonts.com
+- <img src="https://icons.duckduckgo.com/ip3/beobachter.ch.ico" title="beobachter.ch" width="16" /> beobachter.ch
+- <img src="https://icons.duckduckgo.com/ip3/berliner-kurier.de.ico" title="berliner-kurier.de" width="16" /> berliner-kurier.de
+- <img src="https://icons.duckduckgo.com/ip3/berliner-zeitung.de.ico" title="berliner-zeitung.de" width="16" /> berliner-zeitung.de
+- <img src="https://icons.duckduckgo.com/ip3/bernerzeitung.ch.ico" title="bernerzeitung.ch" width="16" /> bernerzeitung.ch
+- <img src="https://icons.duckduckgo.com/ip3/best-of-twitter.com.ico" title="best-of-twitter.com" width="16" /> best-of-twitter.com
+- <img src="https://icons.duckduckgo.com/ip3/betterprogramming.pub.ico" title="betterprogramming.pub" width="16" /> betterprogramming.pub
+- <img src="https://icons.duckduckgo.com/ip3/betvisa.games.ico" title="betvisa.games" width="16" /> betvisa.games
+- <img src="https://icons.duckduckgo.com/ip3/bhg.com.ico" title="bhg.com" width="16" /> bhg.com
+- <img src="https://icons.duckduckgo.com/ip3/biblestudytools.com.ico" title="biblestudytools.com" width="16" /> biblestudytools.com
+- <img src="https://icons.duckduckgo.com/ip3/bigthink.com.ico" title="bigthink.com" width="16" /> bigthink.com
+- <img src="https://icons.duckduckgo.com/ip3/bild.de.ico" title="bild.de" width="16" /> bild.de
+- <img src="https://icons.duckduckgo.com/ip3/billboard.com.ico" title="billboard.com" width="16" /> billboard.com
+- <img src="https://icons.duckduckgo.com/ip3/bing.com.ico" title="bing.com" width="16" /> bing.com
+- <img src="https://icons.duckduckgo.com/ip3/bionity.com.ico" title="bionity.com" width="16" /> bionity.com
+- <img src="https://icons.duckduckgo.com/ip3/bitslovers.com.ico" title="bitslovers.com" width="16" /> bitslovers.com
 - bizjournals.com
-- ![](https://icons.duckduckgo.com/ip3/bjjee.com.ico | width=16) bjjee.com
-- ![](https://icons.duckduckgo.com/ip3/bleepingcomputer.com.ico | width=16) bleepingcomputer.com
-- ![](https://icons.duckduckgo.com/ip3/blick.ch.ico | width=16) blick.ch
+- <img src="https://icons.duckduckgo.com/ip3/bjjee.com.ico" title="bjjee.com" width="16" /> bjjee.com
+- <img src="https://icons.duckduckgo.com/ip3/bleepingcomputer.com.ico" title="bleepingcomputer.com" width="16" /> bleepingcomputer.com
+- <img src="https://icons.duckduckgo.com/ip3/blick.ch.ico" title="blick.ch" width="16" /> blick.ch
 - blog.appsignal.com
-- ![](https://icons.duckduckgo.com/ip3/blog.hubspot.com.ico | width=16) blog.hubspot.com
-- ![](https://icons.duckduckgo.com/ip3/blog.packagecloud.io.ico | width=16) blog.packagecloud.io
-- ![](https://icons.duckduckgo.com/ip3/blog.prepscholar.com.ico | width=16) blog.prepscholar.com
-- ![](https://icons.duckduckgo.com/ip3/blog.tagesanzeiger.ch.ico | width=16) blog.tagesanzeiger.ch
-- ![](https://icons.duckduckgo.com/ip3/bloomberg.com.ico | width=16) bloomberg.com
+- <img src="https://icons.duckduckgo.com/ip3/blog.hubspot.com.ico" title="blog.hubspot.com" width="16" /> blog.hubspot.com
+- <img src="https://icons.duckduckgo.com/ip3/blog.packagecloud.io.ico" title="blog.packagecloud.io" width="16" /> blog.packagecloud.io
+- <img src="https://icons.duckduckgo.com/ip3/blog.prepscholar.com.ico" title="blog.prepscholar.com" width="16" /> blog.prepscholar.com
+- <img src="https://icons.duckduckgo.com/ip3/blog.tagesanzeiger.ch.ico" title="blog.tagesanzeiger.ch" width="16" /> blog.tagesanzeiger.ch
+- <img src="https://icons.duckduckgo.com/ip3/bloomberg.com.ico" title="bloomberg.com" width="16" /> bloomberg.com
 - bluewin.ch
-- ![](https://icons.duckduckgo.com/ip3/bnn.network.ico | width=16) bnn.network
-- ![](https://icons.duckduckgo.com/ip3/bonedo.de.ico | width=16) bonedo.de
-- ![](https://icons.duckduckgo.com/ip3/box.com.ico | width=16) box.com
-- ![](https://icons.duckduckgo.com/ip3/brides.com.ico | width=16) brides.com
-- ![](https://icons.duckduckgo.com/ip3/bristolpost.co.uk.ico | width=16) bristolpost.co.uk
-- ![](https://icons.duckduckgo.com/ip3/bulma.io.ico | width=16) bulma.io
-- ![](https://icons.duckduckgo.com/ip3/bunte.de.ico | width=16) bunte.de
-- business-punk.com
-- ![](https://icons.duckduckgo.com/ip3/businessinsider.com.ico | width=16) businessinsider.com
-- ![](https://icons.duckduckgo.com/ip3/businessinsider.de.ico | width=16) businessinsider.de
-- ![](https://icons.duckduckgo.com/ip3/businessinsider.in.ico | width=16) businessinsider.in
-- ![](https://icons.duckduckgo.com/ip3/bw24.de.ico | width=16) bw24.de
-- ![](https://icons.duckduckgo.com/ip3/bz-berlin.de.ico | width=16) bz-berlin.de
-- ![](https://icons.duckduckgo.com/ip3/call.plus.ico | width=16) call.plus
-- ![](https://icons.duckduckgo.com/ip3/candyfonts.com.ico | width=16) candyfonts.com
-- ![](https://icons.duckduckgo.com/ip3/careerkarma.com.ico | width=16) careerkarma.com
-- ![](https://icons.duckduckgo.com/ip3/cbsnews.com.ico | width=16) cbsnews.com
-- ![](https://icons.duckduckgo.com/ip3/chaptercheats.com.ico | width=16) chaptercheats.com
-- ![](https://icons.duckduckgo.com/ip3/cheezburger.com.ico | width=16) cheezburger.com
-- ![](https://icons.duckduckgo.com/ip3/chefkoch.de.ico | width=16) chefkoch.de
-- chicagotribune.com
-- ![](https://icons.duckduckgo.com/ip3/chip.de.ico | width=16) chip.de
-- ![](https://icons.duckduckgo.com/ip3/chordify.net.ico | width=16) chordify.net
-- ![](https://icons.duckduckgo.com/ip3/cineman.ch.ico | width=16) cineman.ch
-- ![](https://icons.duckduckgo.com/ip3/cio.de.ico | width=16) cio.de
-- ![](https://icons.duckduckgo.com/ip3/cjr.org.ico | width=16) cjr.org
-- ![](https://icons.duckduckgo.com/ip3/clavio.de.ico | width=16) clavio.de
-- ![](https://icons.duckduckgo.com/ip3/clockify.me.ico | width=16) clockify.me
-- ![](https://icons.duckduckgo.com/ip3/cnet.com.ico | width=16) cnet.com
-- ![](https://icons.duckduckgo.com/ip3/cnn.com.ico | width=16) cnn.com
-- ![](https://icons.duckduckgo.com/ip3/cofonts.com.ico | width=16) cofonts.com
-- ![](https://icons.duckduckgo.com/ip3/collider.com.ico | width=16) collider.com
-- ![](https://icons.duckduckgo.com/ip3/comicsands.com.ico | width=16) comicsands.com
+- <img src="https://icons.duckduckgo.com/ip3/bnn.network.ico" title="bnn.network" width="16" /> bnn.network
+- <img src="https://icons.duckduckgo.com/ip3/bonedo.de.ico" title="bonedo.de" width="16" /> bonedo.de
+- <img src="https://icons.duckduckgo.com/ip3/box.com.ico" title="box.com" width="16" /> box.com
+- <img src="https://icons.duckduckgo.com/ip3/brides.com.ico" title="brides.com" width="16" /> brides.com
+- <img src="https://icons.duckduckgo.com/ip3/bristolpost.co.uk.ico" title="bristolpost.co.uk" width="16" /> bristolpost.co.uk
+- <img src="https://icons.duckduckgo.com/ip3/bulma.io.ico" title="bulma.io" width="16" /> bulma.io
+- <img src="https://icons.duckduckgo.com/ip3/bunte.de.ico" title="bunte.de" width="16" /> bunte.de
+- <img src="https://icons.duckduckgo.com/ip3/business-punk.com.ico" title="business-punk.com" width="16" /> business-punk.com
+- <img src="https://icons.duckduckgo.com/ip3/businessinsider.com.ico" title="businessinsider.com" width="16" /> businessinsider.com
+- <img src="https://icons.duckduckgo.com/ip3/businessinsider.de.ico" title="businessinsider.de" width="16" /> businessinsider.de
+- <img src="https://icons.duckduckgo.com/ip3/businessinsider.in.ico" title="businessinsider.in" width="16" /> businessinsider.in
+- <img src="https://icons.duckduckgo.com/ip3/bw24.de.ico" title="bw24.de" width="16" /> bw24.de
+- <img src="https://icons.duckduckgo.com/ip3/bz-berlin.de.ico" title="bz-berlin.de" width="16" /> bz-berlin.de
+- <img src="https://icons.duckduckgo.com/ip3/call.plus.ico" title="call.plus" width="16" /> call.plus
+- <img src="https://icons.duckduckgo.com/ip3/candyfonts.com.ico" title="candyfonts.com" width="16" /> candyfonts.com
+- <img src="https://icons.duckduckgo.com/ip3/careerkarma.com.ico" title="careerkarma.com" width="16" /> careerkarma.com
+- <img src="https://icons.duckduckgo.com/ip3/cbsnews.com.ico" title="cbsnews.com" width="16" /> cbsnews.com
+- <img src="https://icons.duckduckgo.com/ip3/chaptercheats.com.ico" title="chaptercheats.com" width="16" /> chaptercheats.com
+- <img src="https://icons.duckduckgo.com/ip3/cheezburger.com.ico" title="cheezburger.com" width="16" /> cheezburger.com
+- <img src="https://icons.duckduckgo.com/ip3/chefkoch.de.ico" title="chefkoch.de" width="16" /> chefkoch.de
+- <img src="https://icons.duckduckgo.com/ip3/chicagotribune.com.ico" title="chicagotribune.com" width="16" /> chicagotribune.com
+- <img src="https://icons.duckduckgo.com/ip3/chip.de.ico" title="chip.de" width="16" /> chip.de
+- <img src="https://icons.duckduckgo.com/ip3/chordify.net.ico" title="chordify.net" width="16" /> chordify.net
+- <img src="https://icons.duckduckgo.com/ip3/cineman.ch.ico" title="cineman.ch" width="16" /> cineman.ch
+- <img src="https://icons.duckduckgo.com/ip3/cio.de.ico" title="cio.de" width="16" /> cio.de
+- <img src="https://icons.duckduckgo.com/ip3/cjr.org.ico" title="cjr.org" width="16" /> cjr.org
+- <img src="https://icons.duckduckgo.com/ip3/clavio.de.ico" title="clavio.de" width="16" /> clavio.de
+- <img src="https://icons.duckduckgo.com/ip3/clockify.me.ico" title="clockify.me" width="16" /> clockify.me
+- <img src="https://icons.duckduckgo.com/ip3/cnet.com.ico" title="cnet.com" width="16" /> cnet.com
+- <img src="https://icons.duckduckgo.com/ip3/cnn.com.ico" title="cnn.com" width="16" /> cnn.com
+- <img src="https://icons.duckduckgo.com/ip3/cofonts.com.ico" title="cofonts.com" width="16" /> cofonts.com
+- <img src="https://icons.duckduckgo.com/ip3/collider.com.ico" title="collider.com" width="16" /> collider.com
+- <img src="https://icons.duckduckgo.com/ip3/comicsands.com.ico" title="comicsands.com" width="16" /> comicsands.com
 - comingsoon.net
-- ![](https://icons.duckduckgo.com/ip3/computerbase.de.ico | width=16) computerbase.de
-- ![](https://icons.duckduckgo.com/ip3/computerbild.de.ico | width=16) computerbild.de
-- ![](https://icons.duckduckgo.com/ip3/computerwoche.de.ico | width=16) computerwoche.de
-- ![](https://icons.duckduckgo.com/ip3/computerworld.com.ico | width=16) computerworld.com
-- ![](https://icons.duckduckgo.com/ip3/connect.de.ico | width=16) connect.de
-- ![](https://icons.duckduckgo.com/ip3/content.techgig.com.ico | width=16) content.techgig.com
-- ![](https://icons.duckduckgo.com/ip3/cookidoo.ch.ico | width=16) cookidoo.ch
-- ![](https://icons.duckduckgo.com/ip3/correctiv.org.ico | width=16) correctiv.org
-- ![](https://icons.duckduckgo.com/ip3/couponbirds.com.ico | width=16) couponbirds.com
-- ![](https://icons.duckduckgo.com/ip3/cracked.com.ico | width=16) cracked.com
+- <img src="https://icons.duckduckgo.com/ip3/computerbase.de.ico" title="computerbase.de" width="16" /> computerbase.de
+- <img src="https://icons.duckduckgo.com/ip3/computerbild.de.ico" title="computerbild.de" width="16" /> computerbild.de
+- <img src="https://icons.duckduckgo.com/ip3/computerwoche.de.ico" title="computerwoche.de" width="16" /> computerwoche.de
+- <img src="https://icons.duckduckgo.com/ip3/computerworld.com.ico" title="computerworld.com" width="16" /> computerworld.com
+- <img src="https://icons.duckduckgo.com/ip3/connect.de.ico" title="connect.de" width="16" /> connect.de
+- <img src="https://icons.duckduckgo.com/ip3/content.techgig.com.ico" title="content.techgig.com" width="16" /> content.techgig.com
+- <img src="https://icons.duckduckgo.com/ip3/cookidoo.ch.ico" title="cookidoo.ch" width="16" /> cookidoo.ch
+- <img src="https://icons.duckduckgo.com/ip3/correctiv.org.ico" title="correctiv.org" width="16" /> correctiv.org
+- <img src="https://icons.duckduckgo.com/ip3/couponbirds.com.ico" title="couponbirds.com" width="16" /> couponbirds.com
+- <img src="https://icons.duckduckgo.com/ip3/cracked.com.ico" title="cracked.com" width="16" /> cracked.com
 - crast.net
-- ![](https://icons.duckduckgo.com/ip3/cript.to.ico | width=16) cript.to
-- ![](https://icons.duckduckgo.com/ip3/crn.com.ico | width=16) crn.com
-- ![](https://icons.duckduckgo.com/ip3/csoonline.com.ico | width=16) csoonline.com
-- ![](https://icons.duckduckgo.com/ip3/curved.de.ico | width=16) curved.de
-- ![](https://icons.duckduckgo.com/ip3/custom-roms.com.ico | width=16) custom-roms.com
-- ![](https://icons.duckduckgo.com/ip3/customercontrolpanel.de.ico | width=16) customercontrolpanel.de
-- ![](https://icons.duckduckgo.com/ip3/cyberciti.biz.ico | width=16) cyberciti.biz
-- ![](https://icons.duckduckgo.com/ip3/cybernews.com.ico | width=16) cybernews.com
-- ![](https://icons.duckduckgo.com/ip3/dailymail.co.uk.ico | width=16) dailymail.co.uk
-- ![](https://icons.duckduckgo.com/ip3/date.noii.ch.ico | width=16) date.noii.ch
-- ![](https://icons.duckduckgo.com/ip3/dba.stackexchange.com.ico | width=16) dba.stackexchange.com
-- ![](https://icons.duckduckgo.com/ip3/dcrainmaker.com.ico | width=16) dcrainmaker.com
-- ![](https://icons.duckduckgo.com/ip3/de.minitool.com.ico | width=16) de.minitool.com
-- ![](https://icons.duckduckgo.com/ip3/de.ryte.com.ico | width=16) de.ryte.com
+- <img src="https://icons.duckduckgo.com/ip3/cript.to.ico" title="cript.to" width="16" /> cript.to
+- <img src="https://icons.duckduckgo.com/ip3/crn.com.ico" title="crn.com" width="16" /> crn.com
+- <img src="https://icons.duckduckgo.com/ip3/csoonline.com.ico" title="csoonline.com" width="16" /> csoonline.com
+- <img src="https://icons.duckduckgo.com/ip3/curved.de.ico" title="curved.de" width="16" /> curved.de
+- <img src="https://icons.duckduckgo.com/ip3/custom-roms.com.ico" title="custom-roms.com" width="16" /> custom-roms.com
+- <img src="https://icons.duckduckgo.com/ip3/customercontrolpanel.de.ico" title="customercontrolpanel.de" width="16" /> customercontrolpanel.de
+- <img src="https://icons.duckduckgo.com/ip3/cyberciti.biz.ico" title="cyberciti.biz" width="16" /> cyberciti.biz
+- <img src="https://icons.duckduckgo.com/ip3/cybernews.com.ico" title="cybernews.com" width="16" /> cybernews.com
+- <img src="https://icons.duckduckgo.com/ip3/dailymail.co.uk.ico" title="dailymail.co.uk" width="16" /> dailymail.co.uk
+- <img src="https://icons.duckduckgo.com/ip3/date.noii.ch.ico" title="date.noii.ch" width="16" /> date.noii.ch
+- <img src="https://icons.duckduckgo.com/ip3/dba.stackexchange.com.ico" title="dba.stackexchange.com" width="16" /> dba.stackexchange.com
+- <img src="https://icons.duckduckgo.com/ip3/dcrainmaker.com.ico" title="dcrainmaker.com" width="16" /> dcrainmaker.com
+- <img src="https://icons.duckduckgo.com/ip3/de.minitool.com.ico" title="de.minitool.com" width="16" /> de.minitool.com
+- <img src="https://icons.duckduckgo.com/ip3/de.ryte.com.ico" title="de.ryte.com" width="16" /> de.ryte.com
 - de.sportshub.fan
-- ![](https://icons.duckduckgo.com/ip3/de.wikipedia.org.ico | width=16) de.wikipedia.org
-- ![](https://icons.duckduckgo.com/ip3/de24live.de.ico | width=16) de24live.de
+- <img src="https://icons.duckduckgo.com/ip3/de.wikipedia.org.ico" title="de.wikipedia.org" width="16" /> de.wikipedia.org
+- <img src="https://icons.duckduckgo.com/ip3/de24live.de.ico" title="de24live.de" width="16" /> de24live.de
 - dealdoktor.de
-- ![](https://icons.duckduckgo.com/ip3/decider.com.ico | width=16) decider.com
-- ![](https://icons.duckduckgo.com/ip3/dekudeals.com.ico | width=16) dekudeals.com
+- <img src="https://icons.duckduckgo.com/ip3/decider.com.ico" title="decider.com" width="16" /> decider.com
+- <img src="https://icons.duckduckgo.com/ip3/dekudeals.com.ico" title="dekudeals.com" width="16" /> dekudeals.com
 - demonoid.is
-- ![](https://icons.duckduckgo.com/ip3/der-postillon.com.ico | width=16) der-postillon.com
-- ![](https://icons.duckduckgo.com/ip3/derbund.ch.ico | width=16) derbund.ch
+- <img src="https://icons.duckduckgo.com/ip3/der-postillon.com.ico" title="der-postillon.com" width="16" /> der-postillon.com
+- <img src="https://icons.duckduckgo.com/ip3/derbund.ch.ico" title="derbund.ch" width="16" /> derbund.ch
 - derstandard.de
-- derwesten.de
-- ![](https://icons.duckduckgo.com/ip3/designcise.com.ico | width=16) designcise.com
-- ![](https://icons.duckduckgo.com/ip3/devopsideas.com.ico | width=16) devopsideas.com
-- ![](https://icons.duckduckgo.com/ip3/dict.leo.org.ico | width=16) dict.leo.org
-- ![](https://icons.duckduckgo.com/ip3/dictionary.com.ico | width=16) dictionary.com
-- ![](https://icons.duckduckgo.com/ip3/dietdoctor.com.ico | width=16) dietdoctor.com
-- ![](https://icons.duckduckgo.com/ip3/digg.com.ico | width=16) digg.com
-- ![](https://icons.duckduckgo.com/ip3/digitalcitizen.life.ico | width=16) digitalcitizen.life
-- ![](https://icons.duckduckgo.com/ip3/digitalspy.com.ico | width=16) digitalspy.com
-- ![](https://icons.duckduckgo.com/ip3/digitaltrends.com.ico | width=16) digitaltrends.com
-- ![](https://icons.duckduckgo.com/ip3/disneydining.com.ico | width=16) disneydining.com
-- dnoid.pw
+- <img src="https://icons.duckduckgo.com/ip3/derwesten.de.ico" title="derwesten.de" width="16" /> derwesten.de
+- <img src="https://icons.duckduckgo.com/ip3/designcise.com.ico" title="designcise.com" width="16" /> designcise.com
+- <img src="https://icons.duckduckgo.com/ip3/devopsideas.com.ico" title="devopsideas.com" width="16" /> devopsideas.com
+- <img src="https://icons.duckduckgo.com/ip3/dict.leo.org.ico" title="dict.leo.org" width="16" /> dict.leo.org
+- <img src="https://icons.duckduckgo.com/ip3/dictionary.com.ico" title="dictionary.com" width="16" /> dictionary.com
+- <img src="https://icons.duckduckgo.com/ip3/dietdoctor.com.ico" title="dietdoctor.com" width="16" /> dietdoctor.com
+- <img src="https://icons.duckduckgo.com/ip3/digg.com.ico" title="digg.com" width="16" /> digg.com
+- <img src="https://icons.duckduckgo.com/ip3/digitalcitizen.life.ico" title="digitalcitizen.life" width="16" /> digitalcitizen.life
+- <img src="https://icons.duckduckgo.com/ip3/digitalspy.com.ico" title="digitalspy.com" width="16" /> digitalspy.com
+- <img src="https://icons.duckduckgo.com/ip3/digitaltrends.com.ico" title="digitaltrends.com" width="16" /> digitaltrends.com
+- <img src="https://icons.duckduckgo.com/ip3/disneydining.com.ico" title="disneydining.com" width="16" /> disneydining.com
+- <img src="https://icons.duckduckgo.com/ip3/dnoid.pw.ico" title="dnoid.pw" width="16" /> dnoid.pw
 - dnoid.to
-- ![](https://icons.duckduckgo.com/ip3/docapp.ch.ico | width=16) docapp.ch
-- ![](https://icons.duckduckgo.com/ip3/docs.ansible.com.ico | width=16) docs.ansible.com
-- ![](https://icons.duckduckgo.com/ip3/dontwasteyourmoney.com.ico | width=16) dontwasteyourmoney.com
-- ![](https://icons.duckduckgo.com/ip3/doodle.com.ico | width=16) doodle.com
-- ![](https://icons.duckduckgo.com/ip3/dr-dsgvo.de.ico | width=16) dr-dsgvo.de
-- ![](https://icons.duckduckgo.com/ip3/dr-gumpert.de.ico | width=16) dr-gumpert.de
-- ![](https://icons.duckduckgo.com/ip3/duden.de.ico | width=16) duden.de
-- ![](https://icons.duckduckgo.com/ip3/dutchnews.nl.ico | width=16) dutchnews.nl
-- ![](https://icons.duckduckgo.com/ip3/dw.com.ico | width=16) dw.com
-- ![](https://icons.duckduckgo.com/ip3/easyjet.com.ico | width=16) easyjet.com
-- ![](https://icons.duckduckgo.com/ip3/eatbetter.de.ico | width=16) eatbetter.de
-- ![](https://icons.duckduckgo.com/ip3/eater.com.ico | width=16) eater.com
-- ![](https://icons.duckduckgo.com/ip3/eatsmarter.de.ico | width=16) eatsmarter.de
-- ![](https://icons.duckduckgo.com/ip3/ebaumsworld.com.ico | width=16) ebaumsworld.com
-- ![](https://icons.duckduckgo.com/ip3/ebay-kleinanzeigen.de.ico | width=16) ebay-kleinanzeigen.de
+- <img src="https://icons.duckduckgo.com/ip3/docapp.ch.ico" title="docapp.ch" width="16" /> docapp.ch
+- <img src="https://icons.duckduckgo.com/ip3/docs.ansible.com.ico" title="docs.ansible.com" width="16" /> docs.ansible.com
+- <img src="https://icons.duckduckgo.com/ip3/dontwasteyourmoney.com.ico" title="dontwasteyourmoney.com" width="16" /> dontwasteyourmoney.com
+- <img src="https://icons.duckduckgo.com/ip3/doodle.com.ico" title="doodle.com" width="16" /> doodle.com
+- <img src="https://icons.duckduckgo.com/ip3/dr-dsgvo.de.ico" title="dr-dsgvo.de" width="16" /> dr-dsgvo.de
+- <img src="https://icons.duckduckgo.com/ip3/dr-gumpert.de.ico" title="dr-gumpert.de" width="16" /> dr-gumpert.de
+- <img src="https://icons.duckduckgo.com/ip3/duden.de.ico" title="duden.de" width="16" /> duden.de
+- <img src="https://icons.duckduckgo.com/ip3/dutchnews.nl.ico" title="dutchnews.nl" width="16" /> dutchnews.nl
+- <img src="https://icons.duckduckgo.com/ip3/dw.com.ico" title="dw.com" width="16" /> dw.com
+- <img src="https://icons.duckduckgo.com/ip3/easyjet.com.ico" title="easyjet.com" width="16" /> easyjet.com
+- <img src="https://icons.duckduckgo.com/ip3/eatbetter.de.ico" title="eatbetter.de" width="16" /> eatbetter.de
+- <img src="https://icons.duckduckgo.com/ip3/eater.com.ico" title="eater.com" width="16" /> eater.com
+- <img src="https://icons.duckduckgo.com/ip3/eatsmarter.de.ico" title="eatsmarter.de" width="16" /> eatsmarter.de
+- <img src="https://icons.duckduckgo.com/ip3/ebaumsworld.com.ico" title="ebaumsworld.com" width="16" /> ebaumsworld.com
+- <img src="https://icons.duckduckgo.com/ip3/ebay-kleinanzeigen.de.ico" title="ebay-kleinanzeigen.de" width="16" /> ebay-kleinanzeigen.de
 - ebookee.com
-- ![](https://icons.duckduckgo.com/ip3/ecomento.de.ico | width=16) ecomento.de
-- ![](https://icons.duckduckgo.com/ip3/economictimes.indiatimes.com.ico | width=16) economictimes.indiatimes.com
-- ![](https://icons.duckduckgo.com/ip3/economist.com.ico | width=16) economist.com
-- ecos-online.de
-- ![](https://icons.duckduckgo.com/ip3/edition.cnn.com.ico | width=16) edition.cnn.com
-- ![](https://icons.duckduckgo.com/ip3/educationworld.com.ico | width=16) educationworld.com
-- ![](https://icons.duckduckgo.com/ip3/edureka.co.ico | width=16) edureka.co
+- <img src="https://icons.duckduckgo.com/ip3/ecomento.de.ico" title="ecomento.de" width="16" /> ecomento.de
+- <img src="https://icons.duckduckgo.com/ip3/economictimes.indiatimes.com.ico" title="economictimes.indiatimes.com" width="16" /> economictimes.indiatimes.com
+- <img src="https://icons.duckduckgo.com/ip3/economist.com.ico" title="economist.com" width="16" /> economist.com
+- <img src="https://icons.duckduckgo.com/ip3/ecos-online.de.ico" title="ecos-online.de" width="16" /> ecos-online.de
+- <img src="https://icons.duckduckgo.com/ip3/edition.cnn.com.ico" title="edition.cnn.com" width="16" /> edition.cnn.com
+- <img src="https://icons.duckduckgo.com/ip3/educationworld.com.ico" title="educationworld.com" width="16" /> educationworld.com
+- <img src="https://icons.duckduckgo.com/ip3/edureka.co.ico" title="edureka.co" width="16" /> edureka.co
 - eftm.com
-- ![](https://icons.duckduckgo.com/ip3/einfachbacken.de.ico | width=16) einfachbacken.de
-- ![](https://icons.duckduckgo.com/ip3/elektrotanya.com.ico | width=16) elektrotanya.com
-- ![](https://icons.duckduckgo.com/ip3/emojipedia.org.ico | width=16) emojipedia.org
-- ![](https://icons.duckduckgo.com/ip3/emuparadise.me.ico | width=16) emuparadise.me
-- ![](https://icons.duckduckgo.com/ip3/en-gb.smashrun.com.ico | width=16) en-gb.smashrun.com
-- ![](https://icons.duckduckgo.com/ip3/en.comparis.ch.ico | width=16) en.comparis.ch
-- ![](https://icons.duckduckgo.com/ip3/en.cryptonomist.ch.ico | width=16) en.cryptonomist.ch
-- ![](https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico | width=16) en.wikipedia.org
-- ![](https://icons.duckduckgo.com/ip3/englisch-hilfen.de.ico | width=16) englisch-hilfen.de
-- ![](https://icons.duckduckgo.com/ip3/english.elpais.com.ico | width=16) english.elpais.com
-- ![](https://icons.duckduckgo.com/ip3/eshop-prices.com.ico | width=16) eshop-prices.com
-- ![](https://icons.duckduckgo.com/ip3/esquire.de.ico | width=16) esquire.de
-- ![](https://icons.duckduckgo.com/ip3/eurailpress.de.ico | width=16) eurailpress.de
-- ![](https://icons.duckduckgo.com/ip3/eurogamer.de.ico | width=16) eurogamer.de
-- ![](https://icons.duckduckgo.com/ip3/eurogamer.net.ico | width=16) eurogamer.net
-- ![](https://icons.duckduckgo.com/ip3/evangelische-zeitung.de.ico | width=16) evangelische-zeitung.de
-- ![](https://icons.duckduckgo.com/ip3/exali.ch.ico | width=16) exali.ch
-- ![](https://icons.duckduckgo.com/ip3/express.co.uk.ico | width=16) express.co.uk
-- ![](https://icons.duckduckgo.com/ip3/facts.net.ico | width=16) facts.net
-- ![](https://icons.duckduckgo.com/ip3/faktastisch.de.ico | width=16) faktastisch.de
-- ![](https://icons.duckduckgo.com/ip3/fastcompany.com.ico | width=16) fastcompany.com
-- ![](https://icons.duckduckgo.com/ip3/faz.net.ico | width=16) faz.net
-- ![](https://icons.duckduckgo.com/ip3/feiertag.info.ico | width=16) feiertag.info
-- ![](https://icons.duckduckgo.com/ip3/fictionhorizon.com.ico | width=16) fictionhorizon.com
-- ![](https://icons.duckduckgo.com/ip3/film.at.ico | width=16) film.at
-- ![](https://icons.duckduckgo.com/ip3/filmstarts.de.ico | width=16) filmstarts.de
-- ![](https://icons.duckduckgo.com/ip3/finance.yahoo.com.ico | width=16) finance.yahoo.com
-- ![](https://icons.duckduckgo.com/ip3/finanzen.ch.ico | width=16) finanzen.ch
-- finanzen.net
-- ![](https://icons.duckduckgo.com/ip3/finews.ch.ico | width=16) finews.ch
-- ![](https://icons.duckduckgo.com/ip3/firstsportz.com.ico | width=16) firstsportz.com
-- ![](https://icons.duckduckgo.com/ip3/fitforfun.de.ico | width=16) fitforfun.de
-- ![](https://icons.duckduckgo.com/ip3/flyertalk.com.ico | width=16) flyertalk.com
-- ![](https://icons.duckduckgo.com/ip3/focus.de.ico | width=16) focus.de
-- ![](https://icons.duckduckgo.com/ip3/forbes.com.ico | width=16) forbes.com
-- ![](https://icons.duckduckgo.com/ip3/fortune.com.ico | width=16) fortune.com
-- ![](https://icons.duckduckgo.com/ip3/forum.pianoworld.com.ico | width=16) forum.pianoworld.com
-- ![](https://icons.duckduckgo.com/ip3/forum.xda-developers.com.ico | width=16) forum.xda-developers.com
-- ![](https://icons.duckduckgo.com/ip3/fox29.com.ico | width=16) fox29.com
-- fr.de
-- ![](https://icons.duckduckgo.com/ip3/fragen.lifeline.de.ico | width=16) fragen.lifeline.de
-- ![](https://icons.duckduckgo.com/ip3/freebies.indiegala.com.ico | width=16) freebies.indiegala.com
-- ![](https://icons.duckduckgo.com/ip3/freefontsdownload.net.ico | width=16) freefontsdownload.net
-- ![](https://icons.duckduckgo.com/ip3/freetutsdownload.com.ico | width=16) freetutsdownload.com
-- ![](https://icons.duckduckgo.com/ip3/freitag.de.ico | width=16) freitag.de
-- ![](https://icons.duckduckgo.com/ip3/freundin.de.ico | width=16) freundin.de
-- ![](https://icons.duckduckgo.com/ip3/fstoppers.com.ico | width=16) fstoppers.com
-- ![](https://icons.duckduckgo.com/ip3/ft.com.ico | width=16) ft.com
-- ![](https://icons.duckduckgo.com/ip3/ftd.de.ico | width=16) ftd.de
-- ![](https://icons.duckduckgo.com/ip3/futurezone.at.ico | width=16) futurezone.at
-- ![](https://icons.duckduckgo.com/ip3/gamerant.com.ico | width=16) gamerant.com
-- ![](https://icons.duckduckgo.com/ip3/games.ch.ico | width=16) games.ch
-- ![](https://icons.duckduckgo.com/ip3/gamesradar.com.ico | width=16) gamesradar.com
-- ![](https://icons.duckduckgo.com/ip3/gamestar.de.ico | width=16) gamestar.de
-- ![](https://icons.duckduckgo.com/ip3/gamulator.com.ico | width=16) gamulator.com
-- ![](https://icons.duckduckgo.com/ip3/gartenjournal.net.ico | width=16) gartenjournal.net
-- ![](https://icons.duckduckgo.com/ip3/gearrice.com.ico | width=16) gearrice.com
-- ![](https://icons.duckduckgo.com/ip3/geekflare.com.ico | width=16) geekflare.com
-- ![](https://icons.duckduckgo.com/ip3/geeksforgeeks.org.ico | width=16) geeksforgeeks.org
-- ![](https://icons.duckduckgo.com/ip3/genius.com.ico | width=16) genius.com
-- ![](https://icons.duckduckgo.com/ip3/geo.de.ico | width=16) geo.de
-- ![](https://icons.duckduckgo.com/ip3/geocaching.com.ico | width=16) geocaching.com
-- ![](https://icons.duckduckgo.com/ip3/geschichtedergegenwart.ch.ico | width=16) geschichtedergegenwart.ch
-- ![](https://icons.duckduckgo.com/ip3/gesundheitsfrage.net.ico | width=16) gesundheitsfrage.net
-- ![](https://icons.duckduckgo.com/ip3/getdroidtips.com.ico | width=16) getdroidtips.com
-- ![](https://icons.duckduckgo.com/ip3/getpocket.com.ico | width=16) getpocket.com
-- ![](https://icons.duckduckgo.com/ip3/gettotext.com.ico | width=16) gettotext.com
+- <img src="https://icons.duckduckgo.com/ip3/einfachbacken.de.ico" title="einfachbacken.de" width="16" /> einfachbacken.de
+- <img src="https://icons.duckduckgo.com/ip3/elektrotanya.com.ico" title="elektrotanya.com" width="16" /> elektrotanya.com
+- <img src="https://icons.duckduckgo.com/ip3/emojipedia.org.ico" title="emojipedia.org" width="16" /> emojipedia.org
+- <img src="https://icons.duckduckgo.com/ip3/emuparadise.me.ico" title="emuparadise.me" width="16" /> emuparadise.me
+- <img src="https://icons.duckduckgo.com/ip3/en-gb.smashrun.com.ico" title="en-gb.smashrun.com" width="16" /> en-gb.smashrun.com
+- <img src="https://icons.duckduckgo.com/ip3/en.comparis.ch.ico" title="en.comparis.ch" width="16" /> en.comparis.ch
+- <img src="https://icons.duckduckgo.com/ip3/en.cryptonomist.ch.ico" title="en.cryptonomist.ch" width="16" /> en.cryptonomist.ch
+- <img src="https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico" title="en.wikipedia.org" width="16" /> en.wikipedia.org
+- <img src="https://icons.duckduckgo.com/ip3/englisch-hilfen.de.ico" title="englisch-hilfen.de" width="16" /> englisch-hilfen.de
+- <img src="https://icons.duckduckgo.com/ip3/english.elpais.com.ico" title="english.elpais.com" width="16" /> english.elpais.com
+- <img src="https://icons.duckduckgo.com/ip3/eshop-prices.com.ico" title="eshop-prices.com" width="16" /> eshop-prices.com
+- <img src="https://icons.duckduckgo.com/ip3/esquire.de.ico" title="esquire.de" width="16" /> esquire.de
+- <img src="https://icons.duckduckgo.com/ip3/eurailpress.de.ico" title="eurailpress.de" width="16" /> eurailpress.de
+- <img src="https://icons.duckduckgo.com/ip3/eurogamer.de.ico" title="eurogamer.de" width="16" /> eurogamer.de
+- <img src="https://icons.duckduckgo.com/ip3/eurogamer.net.ico" title="eurogamer.net" width="16" /> eurogamer.net
+- <img src="https://icons.duckduckgo.com/ip3/evangelische-zeitung.de.ico" title="evangelische-zeitung.de" width="16" /> evangelische-zeitung.de
+- <img src="https://icons.duckduckgo.com/ip3/exali.ch.ico" title="exali.ch" width="16" /> exali.ch
+- <img src="https://icons.duckduckgo.com/ip3/express.co.uk.ico" title="express.co.uk" width="16" /> express.co.uk
+- <img src="https://icons.duckduckgo.com/ip3/facts.net.ico" title="facts.net" width="16" /> facts.net
+- <img src="https://icons.duckduckgo.com/ip3/faktastisch.de.ico" title="faktastisch.de" width="16" /> faktastisch.de
+- <img src="https://icons.duckduckgo.com/ip3/fastcompany.com.ico" title="fastcompany.com" width="16" /> fastcompany.com
+- <img src="https://icons.duckduckgo.com/ip3/faz.net.ico" title="faz.net" width="16" /> faz.net
+- <img src="https://icons.duckduckgo.com/ip3/feiertag.info.ico" title="feiertag.info" width="16" /> feiertag.info
+- <img src="https://icons.duckduckgo.com/ip3/fictionhorizon.com.ico" title="fictionhorizon.com" width="16" /> fictionhorizon.com
+- <img src="https://icons.duckduckgo.com/ip3/film.at.ico" title="film.at" width="16" /> film.at
+- <img src="https://icons.duckduckgo.com/ip3/filmstarts.de.ico" title="filmstarts.de" width="16" /> filmstarts.de
+- <img src="https://icons.duckduckgo.com/ip3/finance.yahoo.com.ico" title="finance.yahoo.com" width="16" /> finance.yahoo.com
+- <img src="https://icons.duckduckgo.com/ip3/finanzen.ch.ico" title="finanzen.ch" width="16" /> finanzen.ch
+- <img src="https://icons.duckduckgo.com/ip3/finanzen.net.ico" title="finanzen.net" width="16" /> finanzen.net
+- <img src="https://icons.duckduckgo.com/ip3/finews.ch.ico" title="finews.ch" width="16" /> finews.ch
+- <img src="https://icons.duckduckgo.com/ip3/firstsportz.com.ico" title="firstsportz.com" width="16" /> firstsportz.com
+- <img src="https://icons.duckduckgo.com/ip3/fitforfun.de.ico" title="fitforfun.de" width="16" /> fitforfun.de
+- <img src="https://icons.duckduckgo.com/ip3/flyertalk.com.ico" title="flyertalk.com" width="16" /> flyertalk.com
+- <img src="https://icons.duckduckgo.com/ip3/focus.de.ico" title="focus.de" width="16" /> focus.de
+- <img src="https://icons.duckduckgo.com/ip3/forbes.com.ico" title="forbes.com" width="16" /> forbes.com
+- <img src="https://icons.duckduckgo.com/ip3/fortune.com.ico" title="fortune.com" width="16" /> fortune.com
+- <img src="https://icons.duckduckgo.com/ip3/forum.pianoworld.com.ico" title="forum.pianoworld.com" width="16" /> forum.pianoworld.com
+- <img src="https://icons.duckduckgo.com/ip3/forum.xda-developers.com.ico" title="forum.xda-developers.com" width="16" /> forum.xda-developers.com
+- <img src="https://icons.duckduckgo.com/ip3/fox29.com.ico" title="fox29.com" width="16" /> fox29.com
+- <img src="https://icons.duckduckgo.com/ip3/fr.de.ico" title="fr.de" width="16" /> fr.de
+- <img src="https://icons.duckduckgo.com/ip3/fragen.lifeline.de.ico" title="fragen.lifeline.de" width="16" /> fragen.lifeline.de
+- <img src="https://icons.duckduckgo.com/ip3/freebies.indiegala.com.ico" title="freebies.indiegala.com" width="16" /> freebies.indiegala.com
+- <img src="https://icons.duckduckgo.com/ip3/freefontsdownload.net.ico" title="freefontsdownload.net" width="16" /> freefontsdownload.net
+- <img src="https://icons.duckduckgo.com/ip3/freetutsdownload.com.ico" title="freetutsdownload.com" width="16" /> freetutsdownload.com
+- freitag.de
+- <img src="https://icons.duckduckgo.com/ip3/freundin.de.ico" title="freundin.de" width="16" /> freundin.de
+- <img src="https://icons.duckduckgo.com/ip3/fstoppers.com.ico" title="fstoppers.com" width="16" /> fstoppers.com
+- <img src="https://icons.duckduckgo.com/ip3/ft.com.ico" title="ft.com" width="16" /> ft.com
+- <img src="https://icons.duckduckgo.com/ip3/ftd.de.ico" title="ftd.de" width="16" /> ftd.de
+- <img src="https://icons.duckduckgo.com/ip3/futurezone.at.ico" title="futurezone.at" width="16" /> futurezone.at
+- <img src="https://icons.duckduckgo.com/ip3/gamerant.com.ico" title="gamerant.com" width="16" /> gamerant.com
+- <img src="https://icons.duckduckgo.com/ip3/games.ch.ico" title="games.ch" width="16" /> games.ch
+- <img src="https://icons.duckduckgo.com/ip3/gamesradar.com.ico" title="gamesradar.com" width="16" /> gamesradar.com
+- <img src="https://icons.duckduckgo.com/ip3/gamestar.de.ico" title="gamestar.de" width="16" /> gamestar.de
+- <img src="https://icons.duckduckgo.com/ip3/gamulator.com.ico" title="gamulator.com" width="16" /> gamulator.com
+- <img src="https://icons.duckduckgo.com/ip3/gartenjournal.net.ico" title="gartenjournal.net" width="16" /> gartenjournal.net
+- <img src="https://icons.duckduckgo.com/ip3/gearrice.com.ico" title="gearrice.com" width="16" /> gearrice.com
+- <img src="https://icons.duckduckgo.com/ip3/geekflare.com.ico" title="geekflare.com" width="16" /> geekflare.com
+- <img src="https://icons.duckduckgo.com/ip3/geeksforgeeks.org.ico" title="geeksforgeeks.org" width="16" /> geeksforgeeks.org
+- <img src="https://icons.duckduckgo.com/ip3/genius.com.ico" title="genius.com" width="16" /> genius.com
+- <img src="https://icons.duckduckgo.com/ip3/geo.de.ico" title="geo.de" width="16" /> geo.de
+- <img src="https://icons.duckduckgo.com/ip3/geocaching.com.ico" title="geocaching.com" width="16" /> geocaching.com
+- <img src="https://icons.duckduckgo.com/ip3/geschichtedergegenwart.ch.ico" title="geschichtedergegenwart.ch" width="16" /> geschichtedergegenwart.ch
+- <img src="https://icons.duckduckgo.com/ip3/gesundheitsfrage.net.ico" title="gesundheitsfrage.net" width="16" /> gesundheitsfrage.net
+- <img src="https://icons.duckduckgo.com/ip3/getdroidtips.com.ico" title="getdroidtips.com" width="16" /> getdroidtips.com
+- <img src="https://icons.duckduckgo.com/ip3/getpocket.com.ico" title="getpocket.com" width="16" /> getpocket.com
+- <img src="https://icons.duckduckgo.com/ip3/gettotext.com.ico" title="gettotext.com" width="16" /> gettotext.com
 - ghacks.net
-- ![](https://icons.duckduckgo.com/ip3/giga.de.ico | width=16) giga.de
-- ![](https://icons.duckduckgo.com/ip3/github.com.ico | width=16) github.com
-- ![](https://icons.duckduckgo.com/ip3/gitlab.com.ico | width=16) gitlab.com
-- ![](https://icons.duckduckgo.com/ip3/gizmodo.com.ico | width=16) gizmodo.com
-- ![](https://icons.duckduckgo.com/ip3/gizmodo.com.au.ico | width=16) gizmodo.com.au
-- ![](https://icons.duckduckgo.com/ip3/glamour.de.ico | width=16) glamour.de
-- ![](https://icons.duckduckgo.com/ip3/glassdoor.com.ico | width=16) glassdoor.com
-- ![](https://icons.duckduckgo.com/ip3/global.techradar.com.ico | width=16) global.techradar.com
+- <img src="https://icons.duckduckgo.com/ip3/giga.de.ico" title="giga.de" width="16" /> giga.de
+- <img src="https://icons.duckduckgo.com/ip3/github.com.ico" title="github.com" width="16" /> github.com
+- <img src="https://icons.duckduckgo.com/ip3/gitlab.com.ico" title="gitlab.com" width="16" /> gitlab.com
+- <img src="https://icons.duckduckgo.com/ip3/gizmodo.com.ico" title="gizmodo.com" width="16" /> gizmodo.com
+- <img src="https://icons.duckduckgo.com/ip3/gizmodo.com.au.ico" title="gizmodo.com.au" width="16" /> gizmodo.com.au
+- <img src="https://icons.duckduckgo.com/ip3/glamour.de.ico" title="glamour.de" width="16" /> glamour.de
+- <img src="https://icons.duckduckgo.com/ip3/glassdoor.com.ico" title="glassdoor.com" width="16" /> glassdoor.com
+- <img src="https://icons.duckduckgo.com/ip3/global.techradar.com.ico" title="global.techradar.com" width="16" /> global.techradar.com
 - globifylanguages.com
-- gmx.at
+- <img src="https://icons.duckduckgo.com/ip3/gmx.at.ico" title="gmx.at" width="16" /> gmx.at
 - gmx.ch
-- ![](https://icons.duckduckgo.com/ip3/gmx.de.ico | width=16) gmx.de
-- ![](https://icons.duckduckgo.com/ip3/gmx.net.ico | width=16) gmx.net
+- <img src="https://icons.duckduckgo.com/ip3/gmx.de.ico" title="gmx.de" width="16" /> gmx.de
+- <img src="https://icons.duckduckgo.com/ip3/gmx.net.ico" title="gmx.net" width="16" /> gmx.net
 - golem.de
-- ![](https://icons.duckduckgo.com/ip3/google.com.ico | width=16) google.com
-- ![](https://icons.duckduckgo.com/ip3/googlewatchblog.de.ico | width=16) googlewatchblog.de
-- ![](https://icons.duckduckgo.com/ip3/gq-magazin.de.ico | width=16) gq-magazin.de
-- ![](https://icons.duckduckgo.com/ip3/guidingtech.com.ico | width=16) guidingtech.com
-- ![](https://icons.duckduckgo.com/ip3/gutefrage.net.ico | width=16) gutefrage.net
+- <img src="https://icons.duckduckgo.com/ip3/google.com.ico" title="google.com" width="16" /> google.com
+- <img src="https://icons.duckduckgo.com/ip3/googlewatchblog.de.ico" title="googlewatchblog.de" width="16" /> googlewatchblog.de
+- <img src="https://icons.duckduckgo.com/ip3/gq-magazin.de.ico" title="gq-magazin.de" width="16" /> gq-magazin.de
+- <img src="https://icons.duckduckgo.com/ip3/guidingtech.com.ico" title="guidingtech.com" width="16" /> guidingtech.com
+- <img src="https://icons.duckduckgo.com/ip3/gutefrage.net.ico" title="gutefrage.net" width="16" /> gutefrage.net
 - haaretz.com
-- ![](https://icons.duckduckgo.com/ip3/hackster.io.ico | width=16) hackster.io
-- ![](https://icons.duckduckgo.com/ip3/handelsblatt.com.ico | width=16) handelsblatt.com
-- ![](https://icons.duckduckgo.com/ip3/handelszeitung.ch.ico | width=16) handelszeitung.ch
-- ![](https://icons.duckduckgo.com/ip3/handgepaeckguide.de.ico | width=16) handgepaeckguide.de
-- ![](https://icons.duckduckgo.com/ip3/harpersbazaar.de.ico | width=16) harpersbazaar.de
-- hausgeraete-test.de
-- ![](https://icons.duckduckgo.com/ip3/haz.de.ico | width=16) haz.de
-- ![](https://icons.duckduckgo.com/ip3/heise.de.ico | width=16) heise.de
-- ![](https://icons.duckduckgo.com/ip3/hessenschau.de.ico | width=16) hessenschau.de
-- ![](https://icons.duckduckgo.com/ip3/heute.at.ico | width=16) heute.at
-- ![](https://icons.duckduckgo.com/ip3/hifi.de.ico | width=16) hifi.de
-- ![](https://icons.duckduckgo.com/ip3/highscalability.com.ico | width=16) highscalability.com
-- ![](https://icons.duckduckgo.com/ip3/hitc.com.ico | width=16) hitc.com
+- <img src="https://icons.duckduckgo.com/ip3/hackster.io.ico" title="hackster.io" width="16" /> hackster.io
+- <img src="https://icons.duckduckgo.com/ip3/handelsblatt.com.ico" title="handelsblatt.com" width="16" /> handelsblatt.com
+- <img src="https://icons.duckduckgo.com/ip3/handelszeitung.ch.ico" title="handelszeitung.ch" width="16" /> handelszeitung.ch
+- <img src="https://icons.duckduckgo.com/ip3/handgepaeckguide.de.ico" title="handgepaeckguide.de" width="16" /> handgepaeckguide.de
+- <img src="https://icons.duckduckgo.com/ip3/harpersbazaar.de.ico" title="harpersbazaar.de" width="16" /> harpersbazaar.de
+- <img src="https://icons.duckduckgo.com/ip3/hausgeraete-test.de.ico" title="hausgeraete-test.de" width="16" /> hausgeraete-test.de
+- <img src="https://icons.duckduckgo.com/ip3/haz.de.ico" title="haz.de" width="16" /> haz.de
+- <img src="https://icons.duckduckgo.com/ip3/heise.de.ico" title="heise.de" width="16" /> heise.de
+- <img src="https://icons.duckduckgo.com/ip3/hessenschau.de.ico" title="hessenschau.de" width="16" /> hessenschau.de
+- <img src="https://icons.duckduckgo.com/ip3/heute.at.ico" title="heute.at" width="16" /> heute.at
+- <img src="https://icons.duckduckgo.com/ip3/hifi.de.ico" title="hifi.de" width="16" /> hifi.de
+- <img src="https://icons.duckduckgo.com/ip3/highscalability.com.ico" title="highscalability.com" width="16" /> highscalability.com
+- <img src="https://icons.duckduckgo.com/ip3/hitc.com.ico" title="hitc.com" width="16" /> hitc.com
 - home.navigator.gmx.net
-- ![](https://icons.duckduckgo.com/ip3/homegate.ch.ico | width=16) homegate.ch
-- ![](https://icons.duckduckgo.com/ip3/homeoftravel.de.ico | width=16) homeoftravel.de
-- ![](https://icons.duckduckgo.com/ip3/homesteady.com.ico | width=16) homesteady.com
-- ![](https://icons.duckduckgo.com/ip3/howtogeek.com.ico | width=16) howtogeek.com
-- ![](https://icons.duckduckgo.com/ip3/howtoisolve.com.ico | width=16) howtoisolve.com
-- ![](https://icons.duckduckgo.com/ip3/hub.docker.com.ico | width=16) hub.docker.com
-- ![](https://icons.duckduckgo.com/ip3/huffpost.com.ico | width=16) huffpost.com
-- ![](https://icons.duckduckgo.com/ip3/ibooks.to.ico | width=16) ibooks.to
-- ![](https://icons.duckduckgo.com/ip3/idropnews.com.ico | width=16) idropnews.com
-- ![](https://icons.duckduckgo.com/ip3/ifixit.com.ico | width=16) ifixit.com
-- ![](https://icons.duckduckgo.com/ip3/imgur.com.ico | width=16) imgur.com
-- immoscout24.ch
-- ![](https://icons.duckduckgo.com/ip3/imore.com.ico | width=16) imore.com
-- ![](https://icons.duckduckgo.com/ip3/imtest.de.ico | width=16) imtest.de
-- ![](https://icons.duckduckgo.com/ip3/independent.co.uk.ico | width=16) independent.co.uk
-- ![](https://icons.duckduckgo.com/ip3/indianexpress.com.ico | width=16) indianexpress.com
-- ![](https://icons.duckduckgo.com/ip3/indiatimes.com.ico | width=16) indiatimes.com
-- ![](https://icons.duckduckgo.com/ip3/infiniteundo.com.ico | width=16) infiniteundo.com
-- ![](https://icons.duckduckgo.com/ip3/infoq.com.ico | width=16) infoq.com
+- <img src="https://icons.duckduckgo.com/ip3/homegate.ch.ico" title="homegate.ch" width="16" /> homegate.ch
+- <img src="https://icons.duckduckgo.com/ip3/homeoftravel.de.ico" title="homeoftravel.de" width="16" /> homeoftravel.de
+- <img src="https://icons.duckduckgo.com/ip3/homesteady.com.ico" title="homesteady.com" width="16" /> homesteady.com
+- <img src="https://icons.duckduckgo.com/ip3/howtogeek.com.ico" title="howtogeek.com" width="16" /> howtogeek.com
+- <img src="https://icons.duckduckgo.com/ip3/howtoisolve.com.ico" title="howtoisolve.com" width="16" /> howtoisolve.com
+- <img src="https://icons.duckduckgo.com/ip3/hub.docker.com.ico" title="hub.docker.com" width="16" /> hub.docker.com
+- <img src="https://icons.duckduckgo.com/ip3/huffpost.com.ico" title="huffpost.com" width="16" /> huffpost.com
+- <img src="https://icons.duckduckgo.com/ip3/ibooks.to.ico" title="ibooks.to" width="16" /> ibooks.to
+- <img src="https://icons.duckduckgo.com/ip3/idropnews.com.ico" title="idropnews.com" width="16" /> idropnews.com
+- <img src="https://icons.duckduckgo.com/ip3/ifixit.com.ico" title="ifixit.com" width="16" /> ifixit.com
+- <img src="https://icons.duckduckgo.com/ip3/imgur.com.ico" title="imgur.com" width="16" /> imgur.com
+- <img src="https://icons.duckduckgo.com/ip3/immoscout24.ch.ico" title="immoscout24.ch" width="16" /> immoscout24.ch
+- <img src="https://icons.duckduckgo.com/ip3/imore.com.ico" title="imore.com" width="16" /> imore.com
+- <img src="https://icons.duckduckgo.com/ip3/imtest.de.ico" title="imtest.de" width="16" /> imtest.de
+- <img src="https://icons.duckduckgo.com/ip3/independent.co.uk.ico" title="independent.co.uk" width="16" /> independent.co.uk
+- <img src="https://icons.duckduckgo.com/ip3/indianexpress.com.ico" title="indianexpress.com" width="16" /> indianexpress.com
+- <img src="https://icons.duckduckgo.com/ip3/indiatimes.com.ico" title="indiatimes.com" width="16" /> indiatimes.com
+- <img src="https://icons.duckduckgo.com/ip3/infiniteundo.com.ico" title="infiniteundo.com" width="16" /> infiniteundo.com
+- <img src="https://icons.duckduckgo.com/ip3/infoq.com.ico" title="infoq.com" width="16" /> infoq.com
 - infranken.de
-- ![](https://icons.duckduckgo.com/ip3/ingame.de.ico | width=16) ingame.de
-- ![](https://icons.duckduckgo.com/ip3/inquirer.com.ico | width=16) inquirer.com
-- ![](https://icons.duckduckgo.com/ip3/inside-it.ch.ico | width=16) inside-it.ch
-- ![](https://icons.duckduckgo.com/ip3/insider.com.ico | width=16) insider.com
-- ![](https://icons.duckduckgo.com/ip3/instagram.com.ico | width=16) instagram.com
-- ![](https://icons.duckduckgo.com/ip3/instagram.en.uptodown.com.ico | width=16) instagram.en.uptodown.com
-- ![](https://icons.duckduckgo.com/ip3/interestingengineering.com.ico | width=16) interestingengineering.com
-- ![](https://icons.duckduckgo.com/ip3/inverse.com.ico | width=16) inverse.com
-- ![](https://icons.duckduckgo.com/ip3/investopedia.com.ico | width=16) investopedia.com
-- ![](https://icons.duckduckgo.com/ip3/ipswichstar.co.uk.ico | width=16) ipswichstar.co.uk
-- ![](https://icons.duckduckgo.com/ip3/itmagazine.ch.ico | width=16) itmagazine.ch
-- itreseller.ch
-- ![](https://icons.duckduckgo.com/ip3/jobleads.com.ico | width=16) jobleads.com
-- ![](https://icons.duckduckgo.com/ip3/jofogas.hu.ico | width=16) jofogas.hu
+- <img src="https://icons.duckduckgo.com/ip3/ingame.de.ico" title="ingame.de" width="16" /> ingame.de
+- <img src="https://icons.duckduckgo.com/ip3/inquirer.com.ico" title="inquirer.com" width="16" /> inquirer.com
+- <img src="https://icons.duckduckgo.com/ip3/inside-it.ch.ico" title="inside-it.ch" width="16" /> inside-it.ch
+- <img src="https://icons.duckduckgo.com/ip3/insider.com.ico" title="insider.com" width="16" /> insider.com
+- <img src="https://icons.duckduckgo.com/ip3/instagram.com.ico" title="instagram.com" width="16" /> instagram.com
+- <img src="https://icons.duckduckgo.com/ip3/instagram.en.uptodown.com.ico" title="instagram.en.uptodown.com" width="16" /> instagram.en.uptodown.com
+- <img src="https://icons.duckduckgo.com/ip3/interestingengineering.com.ico" title="interestingengineering.com" width="16" /> interestingengineering.com
+- <img src="https://icons.duckduckgo.com/ip3/inverse.com.ico" title="inverse.com" width="16" /> inverse.com
+- <img src="https://icons.duckduckgo.com/ip3/investopedia.com.ico" title="investopedia.com" width="16" /> investopedia.com
+- <img src="https://icons.duckduckgo.com/ip3/ipswichstar.co.uk.ico" title="ipswichstar.co.uk" width="16" /> ipswichstar.co.uk
+- itmagazine.ch
+- <img src="https://icons.duckduckgo.com/ip3/itreseller.ch.ico" title="itreseller.ch" width="16" /> itreseller.ch
+- <img src="https://icons.duckduckgo.com/ip3/jobleads.com.ico" title="jobleads.com" width="16" /> jobleads.com
+- <img src="https://icons.duckduckgo.com/ip3/jofogas.hu.ico" title="jofogas.hu" width="16" /> jofogas.hu
 - jsonformatter.curiousconcept.com
-- ![](https://icons.duckduckgo.com/ip3/juedische-allgemeine.de.ico | width=16) juedische-allgemeine.de
-- ![](https://icons.duckduckgo.com/ip3/justetf.com.ico | width=16) justetf.com
-- ![](https://icons.duckduckgo.com/ip3/kayak.de.ico | width=16) kayak.de
-- ![](https://icons.duckduckgo.com/ip3/kino.de.ico | width=16) kino.de
-- ![](https://icons.duckduckgo.com/ip3/kleinanzeigen.de.ico | width=16) kleinanzeigen.de
+- <img src="https://icons.duckduckgo.com/ip3/juedische-allgemeine.de.ico" title="juedische-allgemeine.de" width="16" /> juedische-allgemeine.de
+- <img src="https://icons.duckduckgo.com/ip3/justetf.com.ico" title="justetf.com" width="16" /> justetf.com
+- <img src="https://icons.duckduckgo.com/ip3/kayak.de.ico" title="kayak.de" width="16" /> kayak.de
+- <img src="https://icons.duckduckgo.com/ip3/kino.de.ico" title="kino.de" width="16" /> kino.de
+- kleinanzeigen.de
 - kleinezeitung.at
-- ![](https://icons.duckduckgo.com/ip3/knovhov.com.ico | width=16) knovhov.com
-- ![](https://icons.duckduckgo.com/ip3/knowyourmeme.com.ico | width=16) knowyourmeme.com
-- ![](https://icons.duckduckgo.com/ip3/kompass.com.ico | width=16) kompass.com
-- ![](https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico | width=16) krebsonsecurity.com
-- ![](https://icons.duckduckgo.com/ip3/ladbible.com.ico | width=16) ladbible.com
+- <img src="https://icons.duckduckgo.com/ip3/knovhov.com.ico" title="knovhov.com" width="16" /> knovhov.com
+- <img src="https://icons.duckduckgo.com/ip3/knowyourmeme.com.ico" title="knowyourmeme.com" width="16" /> knowyourmeme.com
+- kompass.com
+- <img src="https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico" title="krebsonsecurity.com" width="16" /> krebsonsecurity.com
+- <img src="https://icons.duckduckgo.com/ip3/ladbible.com.ico" title="ladbible.com" width="16" /> ladbible.com
 - laptrinhx.com
 - latex.org
-- ![](https://icons.duckduckgo.com/ip3/lauterbacher-anzeiger.de.ico | width=16) lauterbacher-anzeiger.de
-- ![](https://icons.duckduckgo.com/ip3/lemonde.fr.ico | width=16) lemonde.fr
-- ![](https://icons.duckduckgo.com/ip3/leo.org.ico | width=16) leo.org
-- ![](https://icons.duckduckgo.com/ip3/letemps.ch.ico | width=16) letemps.ch
-- ![](https://icons.duckduckgo.com/ip3/letterboxd.com.ico | width=16) letterboxd.com
+- <img src="https://icons.duckduckgo.com/ip3/lauterbacher-anzeiger.de.ico" title="lauterbacher-anzeiger.de" width="16" /> lauterbacher-anzeiger.de
+- <img src="https://icons.duckduckgo.com/ip3/lemonde.fr.ico" title="lemonde.fr" width="16" /> lemonde.fr
+- <img src="https://icons.duckduckgo.com/ip3/leo.org.ico" title="leo.org" width="16" /> leo.org
+- <img src="https://icons.duckduckgo.com/ip3/letemps.ch.ico" title="letemps.ch" width="16" /> letemps.ch
+- <img src="https://icons.duckduckgo.com/ip3/letterboxd.com.ico" title="letterboxd.com" width="16" /> letterboxd.com
 - levels.fyi
-- libgen.rocks
-- ![](https://icons.duckduckgo.com/ip3/lifewire.com.ico | width=16) lifewire.com
-- ![](https://icons.duckduckgo.com/ip3/limetorrentx.cc.ico | width=16) limetorrentx.cc
-- ![](https://icons.duckduckgo.com/ip3/linkedin.com.ico | width=16) linkedin.com
-- ![](https://icons.duckduckgo.com/ip3/linux-magazin.de.ico | width=16) linux-magazin.de
-- ![](https://icons.duckduckgo.com/ip3/linuxconfig.org.ico | width=16) linuxconfig.org
-- ![](https://icons.duckduckgo.com/ip3/linuxhint.com.ico | width=16) linuxhint.com
-- ![](https://icons.duckduckgo.com/ip3/linuxlinks.com.ico | width=16) linuxlinks.com
-- ![](https://icons.duckduckgo.com/ip3/linuxnews.de.ico | width=16) linuxnews.de
-- ![](https://icons.duckduckgo.com/ip3/livescience.com.ico | width=16) livescience.com
-- ![](https://icons.duckduckgo.com/ip3/logosbynick.com.ico | width=16) logosbynick.com
-- ![](https://icons.duckduckgo.com/ip3/lowcarbrezepte.org.ico | width=16) lowcarbrezepte.org
-- ![](https://icons.duckduckgo.com/ip3/luzernerzeitung.ch.ico | width=16) luzernerzeitung.ch
-- ![](https://icons.duckduckgo.com/ip3/lyricsmode.com.ico | width=16) lyricsmode.com
-- ![](https://icons.duckduckgo.com/ip3/m.bild.de.ico | width=16) m.bild.de
-- ![](https://icons.duckduckgo.com/ip3/m.faz.net.ico | width=16) m.faz.net
-- ![](https://icons.duckduckgo.com/ip3/m.focus.de.ico | width=16) m.focus.de
-- ![](https://icons.duckduckgo.com/ip3/macstories.net.ico | width=16) macstories.net
-- ![](https://icons.duckduckgo.com/ip3/mactechnews.de.ico | width=16) mactechnews.de
-- ![](https://icons.duckduckgo.com/ip3/makandracards.com.ico | width=16) makandracards.com
-- ![](https://icons.duckduckgo.com/ip3/maketecheasier.com.ico | width=16) maketecheasier.com
-- ![](https://icons.duckduckgo.com/ip3/markets.businessinsider.com.ico | width=16) markets.businessinsider.com
-- ![](https://icons.duckduckgo.com/ip3/marktundmittelstand.de.ico | width=16) marktundmittelstand.de
-- ![](https://icons.duckduckgo.com/ip3/marthastewart.com.ico | width=16) marthastewart.com
-- ![](https://icons.duckduckgo.com/ip3/mathepower.com.ico | width=16) mathepower.com
-- ![](https://icons.duckduckgo.com/ip3/mdr.de.ico | width=16) mdr.de
-- ![](https://icons.duckduckgo.com/ip3/medicalnewstoday.com.ico | width=16) medicalnewstoday.com
-- ![](https://icons.duckduckgo.com/ip3/medium.com.ico | width=16) medium.com
-- ![](https://icons.duckduckgo.com/ip3/meetup.com.ico | width=16) meetup.com
-- ![](https://icons.duckduckgo.com/ip3/mein-schoener-garten.de.ico | width=16) mein-schoener-garten.de
-- ![](https://icons.duckduckgo.com/ip3/menshealth.de.ico | width=16) menshealth.de
-- ![](https://icons.duckduckgo.com/ip3/mensjournal.com.ico | width=16) mensjournal.com
-- ![](https://icons.duckduckgo.com/ip3/merkur.de.ico | width=16) merkur.de
-- ![](https://icons.duckduckgo.com/ip3/metacritic.com.ico | width=16) metacritic.com
-- ![](https://icons.duckduckgo.com/ip3/metro.co.uk.ico | width=16) metro.co.uk
-- ![](https://icons.duckduckgo.com/ip3/mimikama.org.ico | width=16) mimikama.org
+- <img src="https://icons.duckduckgo.com/ip3/libgen.rocks.ico" title="libgen.rocks" width="16" /> libgen.rocks
+- <img src="https://icons.duckduckgo.com/ip3/lifewire.com.ico" title="lifewire.com" width="16" /> lifewire.com
+- <img src="https://icons.duckduckgo.com/ip3/limetorrentx.cc.ico" title="limetorrentx.cc" width="16" /> limetorrentx.cc
+- <img src="https://icons.duckduckgo.com/ip3/linkedin.com.ico" title="linkedin.com" width="16" /> linkedin.com
+- <img src="https://icons.duckduckgo.com/ip3/linux-magazin.de.ico" title="linux-magazin.de" width="16" /> linux-magazin.de
+- <img src="https://icons.duckduckgo.com/ip3/linuxconfig.org.ico" title="linuxconfig.org" width="16" /> linuxconfig.org
+- <img src="https://icons.duckduckgo.com/ip3/linuxhint.com.ico" title="linuxhint.com" width="16" /> linuxhint.com
+- <img src="https://icons.duckduckgo.com/ip3/linuxlinks.com.ico" title="linuxlinks.com" width="16" /> linuxlinks.com
+- <img src="https://icons.duckduckgo.com/ip3/linuxnews.de.ico" title="linuxnews.de" width="16" /> linuxnews.de
+- <img src="https://icons.duckduckgo.com/ip3/livescience.com.ico" title="livescience.com" width="16" /> livescience.com
+- <img src="https://icons.duckduckgo.com/ip3/logosbynick.com.ico" title="logosbynick.com" width="16" /> logosbynick.com
+- lowcarbrezepte.org
+- <img src="https://icons.duckduckgo.com/ip3/luzernerzeitung.ch.ico" title="luzernerzeitung.ch" width="16" /> luzernerzeitung.ch
+- <img src="https://icons.duckduckgo.com/ip3/lyricsmode.com.ico" title="lyricsmode.com" width="16" /> lyricsmode.com
+- <img src="https://icons.duckduckgo.com/ip3/m.bild.de.ico" title="m.bild.de" width="16" /> m.bild.de
+- <img src="https://icons.duckduckgo.com/ip3/m.faz.net.ico" title="m.faz.net" width="16" /> m.faz.net
+- <img src="https://icons.duckduckgo.com/ip3/m.focus.de.ico" title="m.focus.de" width="16" /> m.focus.de
+- <img src="https://icons.duckduckgo.com/ip3/macstories.net.ico" title="macstories.net" width="16" /> macstories.net
+- <img src="https://icons.duckduckgo.com/ip3/mactechnews.de.ico" title="mactechnews.de" width="16" /> mactechnews.de
+- <img src="https://icons.duckduckgo.com/ip3/makandracards.com.ico" title="makandracards.com" width="16" /> makandracards.com
+- <img src="https://icons.duckduckgo.com/ip3/maketecheasier.com.ico" title="maketecheasier.com" width="16" /> maketecheasier.com
+- <img src="https://icons.duckduckgo.com/ip3/markets.businessinsider.com.ico" title="markets.businessinsider.com" width="16" /> markets.businessinsider.com
+- <img src="https://icons.duckduckgo.com/ip3/marktundmittelstand.de.ico" title="marktundmittelstand.de" width="16" /> marktundmittelstand.de
+- <img src="https://icons.duckduckgo.com/ip3/marthastewart.com.ico" title="marthastewart.com" width="16" /> marthastewart.com
+- <img src="https://icons.duckduckgo.com/ip3/mathepower.com.ico" title="mathepower.com" width="16" /> mathepower.com
+- <img src="https://icons.duckduckgo.com/ip3/mdr.de.ico" title="mdr.de" width="16" /> mdr.de
+- <img src="https://icons.duckduckgo.com/ip3/medicalnewstoday.com.ico" title="medicalnewstoday.com" width="16" /> medicalnewstoday.com
+- <img src="https://icons.duckduckgo.com/ip3/medium.com.ico" title="medium.com" width="16" /> medium.com
+- <img src="https://icons.duckduckgo.com/ip3/meetup.com.ico" title="meetup.com" width="16" /> meetup.com
+- <img src="https://icons.duckduckgo.com/ip3/mein-schoener-garten.de.ico" title="mein-schoener-garten.de" width="16" /> mein-schoener-garten.de
+- <img src="https://icons.duckduckgo.com/ip3/menshealth.de.ico" title="menshealth.de" width="16" /> menshealth.de
+- <img src="https://icons.duckduckgo.com/ip3/mensjournal.com.ico" title="mensjournal.com" width="16" /> mensjournal.com
+- <img src="https://icons.duckduckgo.com/ip3/merkur.de.ico" title="merkur.de" width="16" /> merkur.de
+- <img src="https://icons.duckduckgo.com/ip3/metacritic.com.ico" title="metacritic.com" width="16" /> metacritic.com
+- <img src="https://icons.duckduckgo.com/ip3/metro.co.uk.ico" title="metro.co.uk" width="16" /> metro.co.uk
+- <img src="https://icons.duckduckgo.com/ip3/mimikama.org.ico" title="mimikama.org" width="16" /> mimikama.org
 - minitool.com
-- ![](https://icons.duckduckgo.com/ip3/moneyhouse.ch.ico | width=16) moneyhouse.ch
+- moneyhouse.ch
 - moneyweek.com
-- ![](https://icons.duckduckgo.com/ip3/mopo.de.ico | width=16) mopo.de
-- ![](https://icons.duckduckgo.com/ip3/moregameslike.com.ico | width=16) moregameslike.com
-- ![](https://icons.duckduckgo.com/ip3/morgenpost.de.ico | width=16) morgenpost.de
-- ![](https://icons.duckduckgo.com/ip3/motherjones.com.ico | width=16) motherjones.com
-- ![](https://icons.duckduckgo.com/ip3/moviepilot.de.ico | width=16) moviepilot.de
-- ![](https://icons.duckduckgo.com/ip3/moz.de.ico | width=16) moz.de
-- ![](https://icons.duckduckgo.com/ip3/msn.com.ico | width=16) msn.com
-- ![](https://icons.duckduckgo.com/ip3/music.youtube.com.ico | width=16) music.youtube.com
-- ![](https://icons.duckduckgo.com/ip3/mydealz.de.ico | width=16) mydealz.de
-- ![](https://icons.duckduckgo.com/ip3/n-joy.de.ico | width=16) n-joy.de
-- ![](https://icons.duckduckgo.com/ip3/n-tv.de.ico | width=16) n-tv.de
-- ![](https://icons.duckduckgo.com/ip3/nachhaltigleben.ch.ico | width=16) nachhaltigleben.ch
-- ![](https://icons.duckduckgo.com/ip3/nationalgeographic.com.ico | width=16) nationalgeographic.com
-- ![](https://icons.duckduckgo.com/ip3/nationalgeographic.de.ico | width=16) nationalgeographic.de
-- ![](https://icons.duckduckgo.com/ip3/nature.com.ico | width=16) nature.com
-- ![](https://icons.duckduckgo.com/ip3/nau.ch.ico | width=16) nau.ch
+- <img src="https://icons.duckduckgo.com/ip3/mopo.de.ico" title="mopo.de" width="16" /> mopo.de
+- <img src="https://icons.duckduckgo.com/ip3/moregameslike.com.ico" title="moregameslike.com" width="16" /> moregameslike.com
+- <img src="https://icons.duckduckgo.com/ip3/morgenpost.de.ico" title="morgenpost.de" width="16" /> morgenpost.de
+- <img src="https://icons.duckduckgo.com/ip3/motherjones.com.ico" title="motherjones.com" width="16" /> motherjones.com
+- <img src="https://icons.duckduckgo.com/ip3/moviepilot.de.ico" title="moviepilot.de" width="16" /> moviepilot.de
+- <img src="https://icons.duckduckgo.com/ip3/moz.de.ico" title="moz.de" width="16" /> moz.de
+- <img src="https://icons.duckduckgo.com/ip3/msn.com.ico" title="msn.com" width="16" /> msn.com
+- <img src="https://icons.duckduckgo.com/ip3/music.youtube.com.ico" title="music.youtube.com" width="16" /> music.youtube.com
+- <img src="https://icons.duckduckgo.com/ip3/mydealz.de.ico" title="mydealz.de" width="16" /> mydealz.de
+- n-joy.de
+- <img src="https://icons.duckduckgo.com/ip3/n-tv.de.ico" title="n-tv.de" width="16" /> n-tv.de
+- <img src="https://icons.duckduckgo.com/ip3/nachhaltigleben.ch.ico" title="nachhaltigleben.ch" width="16" /> nachhaltigleben.ch
+- <img src="https://icons.duckduckgo.com/ip3/nationalgeographic.com.ico" title="nationalgeographic.com" width="16" /> nationalgeographic.com
+- <img src="https://icons.duckduckgo.com/ip3/nationalgeographic.de.ico" title="nationalgeographic.de" width="16" /> nationalgeographic.de
+- <img src="https://icons.duckduckgo.com/ip3/nature.com.ico" title="nature.com" width="16" /> nature.com
+- <img src="https://icons.duckduckgo.com/ip3/nau.ch.ico" title="nau.ch" width="16" /> nau.ch
 - navigator.gmx.net
-- ![](https://icons.duckduckgo.com/ip3/nbcnews.com.ico | width=16) nbcnews.com
-- ![](https://icons.duckduckgo.com/ip3/nebelspalter.ch.ico | width=16) nebelspalter.ch
-- ![](https://icons.duckduckgo.com/ip3/netdoktor.ch.ico | width=16) netdoktor.ch
-- ![](https://icons.duckduckgo.com/ip3/netmums.com.ico | width=16) netmums.com
-- ![](https://icons.duckduckgo.com/ip3/networkworld.com.ico | width=16) networkworld.com
-- ![](https://icons.duckduckgo.com/ip3/netzpolitik.org.ico | width=16) netzpolitik.org
-- ![](https://icons.duckduckgo.com/ip3/netzwelt.de.ico | width=16) netzwelt.de
-- ![](https://icons.duckduckgo.com/ip3/netzwoche.ch.ico | width=16) netzwoche.ch
-- ![](https://icons.duckduckgo.com/ip3/newatlas.com.ico | width=16) newatlas.com
-- ![](https://icons.duckduckgo.com/ip3/newhome.ch.ico | width=16) newhome.ch
-- ![](https://icons.duckduckgo.com/ip3/news.yahoo.com.ico | width=16) news.yahoo.com
-- ![](https://icons.duckduckgo.com/ip3/newscientist.com.ico | width=16) newscientist.com
-- ![](https://icons.duckduckgo.com/ip3/newsweek.com.ico | width=16) newsweek.com
-- ![](https://icons.duckduckgo.com/ip3/newyorker.com.ico | width=16) newyorker.com
-- ![](https://icons.duckduckgo.com/ip3/next-episode.net.ico | width=16) next-episode.net
-- ![](https://icons.duckduckgo.com/ip3/nintendo-connect.de.ico | width=16) nintendo-connect.de
-- ![](https://icons.duckduckgo.com/ip3/nintendolife.com.ico | width=16) nintendolife.com
-- ![](https://icons.duckduckgo.com/ip3/nintendoworldreport.com.ico | width=16) nintendoworldreport.com
-- ![](https://icons.duckduckgo.com/ip3/npr.org.ico | width=16) npr.org
-- ![](https://icons.duckduckgo.com/ip3/nrwz.de.ico | width=16) nrwz.de
-- ![](https://icons.duckduckgo.com/ip3/nu.nl.ico | width=16) nu.nl
-- ![](https://icons.duckduckgo.com/ip3/nydailynews.com.ico | width=16) nydailynews.com
-- ![](https://icons.duckduckgo.com/ip3/nymag.com.ico | width=16) nymag.com
-- ![](https://icons.duckduckgo.com/ip3/nypost.com.ico | width=16) nypost.com
-- ![](https://icons.duckduckgo.com/ip3/nytimes.com.ico | width=16) nytimes.com
-- ![](https://icons.duckduckgo.com/ip3/nzz.ch.ico | width=16) nzz.ch
+- <img src="https://icons.duckduckgo.com/ip3/nbcnews.com.ico" title="nbcnews.com" width="16" /> nbcnews.com
+- <img src="https://icons.duckduckgo.com/ip3/nebelspalter.ch.ico" title="nebelspalter.ch" width="16" /> nebelspalter.ch
+- <img src="https://icons.duckduckgo.com/ip3/netdoktor.ch.ico" title="netdoktor.ch" width="16" /> netdoktor.ch
+- <img src="https://icons.duckduckgo.com/ip3/netmums.com.ico" title="netmums.com" width="16" /> netmums.com
+- <img src="https://icons.duckduckgo.com/ip3/networkworld.com.ico" title="networkworld.com" width="16" /> networkworld.com
+- <img src="https://icons.duckduckgo.com/ip3/netzpolitik.org.ico" title="netzpolitik.org" width="16" /> netzpolitik.org
+- <img src="https://icons.duckduckgo.com/ip3/netzwelt.de.ico" title="netzwelt.de" width="16" /> netzwelt.de
+- <img src="https://icons.duckduckgo.com/ip3/netzwoche.ch.ico" title="netzwoche.ch" width="16" /> netzwoche.ch
+- <img src="https://icons.duckduckgo.com/ip3/newatlas.com.ico" title="newatlas.com" width="16" /> newatlas.com
+- <img src="https://icons.duckduckgo.com/ip3/newhome.ch.ico" title="newhome.ch" width="16" /> newhome.ch
+- <img src="https://icons.duckduckgo.com/ip3/news.yahoo.com.ico" title="news.yahoo.com" width="16" /> news.yahoo.com
+- <img src="https://icons.duckduckgo.com/ip3/newscientist.com.ico" title="newscientist.com" width="16" /> newscientist.com
+- <img src="https://icons.duckduckgo.com/ip3/newsweek.com.ico" title="newsweek.com" width="16" /> newsweek.com
+- <img src="https://icons.duckduckgo.com/ip3/newyorker.com.ico" title="newyorker.com" width="16" /> newyorker.com
+- <img src="https://icons.duckduckgo.com/ip3/next-episode.net.ico" title="next-episode.net" width="16" /> next-episode.net
+- <img src="https://icons.duckduckgo.com/ip3/nintendo-connect.de.ico" title="nintendo-connect.de" width="16" /> nintendo-connect.de
+- <img src="https://icons.duckduckgo.com/ip3/nintendolife.com.ico" title="nintendolife.com" width="16" /> nintendolife.com
+- <img src="https://icons.duckduckgo.com/ip3/nintendoworldreport.com.ico" title="nintendoworldreport.com" width="16" /> nintendoworldreport.com
+- <img src="https://icons.duckduckgo.com/ip3/npr.org.ico" title="npr.org" width="16" /> npr.org
+- <img src="https://icons.duckduckgo.com/ip3/nrwz.de.ico" title="nrwz.de" width="16" /> nrwz.de
+- <img src="https://icons.duckduckgo.com/ip3/nu.nl.ico" title="nu.nl" width="16" /> nu.nl
+- <img src="https://icons.duckduckgo.com/ip3/nydailynews.com.ico" title="nydailynews.com" width="16" /> nydailynews.com
+- <img src="https://icons.duckduckgo.com/ip3/nymag.com.ico" title="nymag.com" width="16" /> nymag.com
+- <img src="https://icons.duckduckgo.com/ip3/nypost.com.ico" title="nypost.com" width="16" /> nypost.com
+- <img src="https://icons.duckduckgo.com/ip3/nytimes.com.ico" title="nytimes.com" width="16" /> nytimes.com
+- <img src="https://icons.duckduckgo.com/ip3/nzz.ch.ico" title="nzz.ch" width="16" /> nzz.ch
 - occupydemocrats.com
-- ![](https://icons.duckduckgo.com/ip3/oe24.at.ico | width=16) oe24.at
-- ![](https://icons.duckduckgo.com/ip3/okdiario.com.ico | width=16) okdiario.com
-- ![](https://icons.duckduckgo.com/ip3/omglinux.com.ico | width=16) omglinux.com
-- ![](https://icons.duckduckgo.com/ip3/onmeda.de.ico | width=16) onmeda.de
-- ![](https://icons.duckduckgo.com/ip3/open.spotify.com.ico | width=16) open.spotify.com
-- ![](https://icons.duckduckgo.com/ip3/opensource.com.ico | width=16) opensource.com
-- ![](https://icons.duckduckgo.com/ip3/opensubtitles.org.ico | width=16) opensubtitles.org
-- ![](https://icons.duckduckgo.com/ip3/orf.at.ico | width=16) orf.at
-- ![](https://icons.duckduckgo.com/ip3/outsideonline.com.ico | width=16) outsideonline.com
-- ![](https://icons.duckduckgo.com/ip3/packtpub.com.ico | width=16) packtpub.com
-- ![](https://icons.duckduckgo.com/ip3/pagesix.com.ico | width=16) pagesix.com
-- ![](https://icons.duckduckgo.com/ip3/pastedownload.com.ico | width=16) pastedownload.com
-- pc-magazin.de
-- ![](https://icons.duckduckgo.com/ip3/pcgamer.com.ico | width=16) pcgamer.com
-- ![](https://icons.duckduckgo.com/ip3/pcgames.de.ico | width=16) pcgames.de
-- ![](https://icons.duckduckgo.com/ip3/pcgameshardware.de.ico | width=16) pcgameshardware.de
+- <img src="https://icons.duckduckgo.com/ip3/oe24.at.ico" title="oe24.at" width="16" /> oe24.at
+- <img src="https://icons.duckduckgo.com/ip3/okdiario.com.ico" title="okdiario.com" width="16" /> okdiario.com
+- <img src="https://icons.duckduckgo.com/ip3/omglinux.com.ico" title="omglinux.com" width="16" /> omglinux.com
+- <img src="https://icons.duckduckgo.com/ip3/onmeda.de.ico" title="onmeda.de" width="16" /> onmeda.de
+- <img src="https://icons.duckduckgo.com/ip3/open.spotify.com.ico" title="open.spotify.com" width="16" /> open.spotify.com
+- <img src="https://icons.duckduckgo.com/ip3/opensource.com.ico" title="opensource.com" width="16" /> opensource.com
+- <img src="https://icons.duckduckgo.com/ip3/opensubtitles.org.ico" title="opensubtitles.org" width="16" /> opensubtitles.org
+- <img src="https://icons.duckduckgo.com/ip3/orf.at.ico" title="orf.at" width="16" /> orf.at
+- <img src="https://icons.duckduckgo.com/ip3/outsideonline.com.ico" title="outsideonline.com" width="16" /> outsideonline.com
+- <img src="https://icons.duckduckgo.com/ip3/packtpub.com.ico" title="packtpub.com" width="16" /> packtpub.com
+- <img src="https://icons.duckduckgo.com/ip3/pagesix.com.ico" title="pagesix.com" width="16" /> pagesix.com
+- <img src="https://icons.duckduckgo.com/ip3/pastedownload.com.ico" title="pastedownload.com" width="16" /> pastedownload.com
+- <img src="https://icons.duckduckgo.com/ip3/pc-magazin.de.ico" title="pc-magazin.de" width="16" /> pc-magazin.de
+- <img src="https://icons.duckduckgo.com/ip3/pcgamer.com.ico" title="pcgamer.com" width="16" /> pcgamer.com
+- <img src="https://icons.duckduckgo.com/ip3/pcgames.de.ico" title="pcgames.de" width="16" /> pcgames.de
+- <img src="https://icons.duckduckgo.com/ip3/pcgameshardware.de.ico" title="pcgameshardware.de" width="16" /> pcgameshardware.de
 - pcgameslike.com
-- ![](https://icons.duckduckgo.com/ip3/pcmag.com.ico | width=16) pcmag.com
-- ![](https://icons.duckduckgo.com/ip3/pctipp.ch.ico | width=16) pctipp.ch
-- ![](https://icons.duckduckgo.com/ip3/pcwelt.de.ico | width=16) pcwelt.de
-- pdfen.com
-- ![](https://icons.duckduckgo.com/ip3/people.com.ico | width=16) people.com
-- ![](https://icons.duckduckgo.com/ip3/persoenlich.com.ico | width=16) persoenlich.com
-- ![](https://icons.duckduckgo.com/ip3/petapixel.com.ico | width=16) petapixel.com
+- <img src="https://icons.duckduckgo.com/ip3/pcmag.com.ico" title="pcmag.com" width="16" /> pcmag.com
+- pctipp.ch
+- <img src="https://icons.duckduckgo.com/ip3/pcwelt.de.ico" title="pcwelt.de" width="16" /> pcwelt.de
+- <img src="https://icons.duckduckgo.com/ip3/pdfen.com.ico" title="pdfen.com" width="16" /> pdfen.com
+- <img src="https://icons.duckduckgo.com/ip3/people.com.ico" title="people.com" width="16" /> people.com
+- persoenlich.com
+- <img src="https://icons.duckduckgo.com/ip3/petapixel.com.ico" title="petapixel.com" width="16" /> petapixel.com
 - phoenixnap.com
-- ![](https://icons.duckduckgo.com/ip3/pilatustoday.ch.ico | width=16) pilatustoday.ch
-- ![](https://icons.duckduckgo.com/ip3/pirate-bays.net.ico | width=16) pirate-bays.net
-- ![](https://icons.duckduckgo.com/ip3/plus.tagesspiegel.de.ico | width=16) plus.tagesspiegel.de
-- ![](https://icons.duckduckgo.com/ip3/pnp.de.ico | width=16) pnp.de
-- ![](https://icons.duckduckgo.com/ip3/pocket-lint.com.ico | width=16) pocket-lint.com
-- ![](https://icons.duckduckgo.com/ip3/politifact.com.ico | width=16) politifact.com
-- ![](https://icons.duckduckgo.com/ip3/polygon.com.ico | width=16) polygon.com
-- ![](https://icons.duckduckgo.com/ip3/pons.com.ico | width=16) pons.com
-- ![](https://icons.duckduckgo.com/ip3/popularmechanics.com.ico | width=16) popularmechanics.com
-- ![](https://icons.duckduckgo.com/ip3/postgresqltutorial.com.ico | width=16) postgresqltutorial.com
-- ![](https://icons.duckduckgo.com/ip3/poz.com.ico | width=16) poz.com
-- ![](https://icons.duckduckgo.com/ip3/praxistipps.chip.de.ico | width=16) praxistipps.chip.de
-- ![](https://icons.duckduckgo.com/ip3/praxistipps.focus.de.ico | width=16) praxistipps.focus.de
-- ![](https://icons.duckduckgo.com/ip3/preispirat.ch.ico | width=16) preispirat.ch
-- ![](https://icons.duckduckgo.com/ip3/prepaid-wiki.de.ico | width=16) prepaid-wiki.de
-- ![](https://icons.duckduckgo.com/ip3/pronto.es.ico | width=16) pronto.es
-- ![](https://icons.duckduckgo.com/ip3/prosieben.ch.ico | width=16) prosieben.ch
-- ![](https://icons.duckduckgo.com/ip3/psycatgames.com.ico | width=16) psycatgames.com
-- ![](https://icons.duckduckgo.com/ip3/psychologytoday.com.ico | width=16) psychologytoday.com
-- ![](https://icons.duckduckgo.com/ip3/quantamagazine.org.ico | width=16) quantamagazine.org
-- ![](https://icons.duckduckgo.com/ip3/quora.com.ico | width=16) quora.com
-- ![](https://icons.duckduckgo.com/ip3/randomlists.com.ico | width=16) randomlists.com
-- ![](https://icons.duckduckgo.com/ip3/rapidlydigital.com.ico | width=16) rapidlydigital.com
-- ![](https://icons.duckduckgo.com/ip3/raptastisch.net.ico | width=16) raptastisch.net
-- ![](https://icons.duckduckgo.com/ip3/ratgeber.bunte.de.ico | width=16) ratgeber.bunte.de
-- ![](https://icons.duckduckgo.com/ip3/rawstory.com.ico | width=16) rawstory.com
-- ![](https://icons.duckduckgo.com/ip3/rd.com.ico | width=16) rd.com
-- ![](https://icons.duckduckgo.com/ip3/reddit.com.ico | width=16) reddit.com
-- redensarten-index.de
-- ![](https://icons.duckduckgo.com/ip3/republik.ch.ico | width=16) republik.ch
-- ![](https://icons.duckduckgo.com/ip3/restofworld.org.ico | width=16) restofworld.org
-- ![](https://icons.duckduckgo.com/ip3/rezeptwelt.de.ico | width=16) rezeptwelt.de
-- ![](https://icons.duckduckgo.com/ip3/rintor.space.ico | width=16) rintor.space
-- ![](https://icons.duckduckgo.com/ip3/rnd.de.ico | width=16) rnd.de
-- ![](https://icons.duckduckgo.com/ip3/rollingstone.com.ico | width=16) rollingstone.com
-- ![](https://icons.duckduckgo.com/ip3/rome2rio.com.ico | width=16) rome2rio.com
-- ![](https://icons.duckduckgo.com/ip3/romhustler.org.ico | width=16) romhustler.org
-- ![](https://icons.duckduckgo.com/ip3/romsfun.com.ico | width=16) romsfun.com
-- ![](https://icons.duckduckgo.com/ip3/rp-online.de.ico | width=16) rp-online.de
-- ![](https://icons.duckduckgo.com/ip3/rte.ie.ico | width=16) rte.ie
-- ![](https://icons.duckduckgo.com/ip3/rubyonrails.ba.ico | width=16) rubyonrails.ba
-- ![](https://icons.duckduckgo.com/ip3/runalyze.com.ico | width=16) runalyze.com
-- ![](https://icons.duckduckgo.com/ip3/runnersworld.de.ico | width=16) runnersworld.de
-- ![](https://icons.duckduckgo.com/ip3/saarbruecker-zeitung.de.ico | width=16) saarbruecker-zeitung.de
-- ![](https://icons.duckduckgo.com/ip3/sammobile.com.ico | width=16) sammobile.com
-- ![](https://icons.duckduckgo.com/ip3/sanet.lc.ico | width=16) sanet.lc
-- ![](https://icons.duckduckgo.com/ip3/schweizer-illustrierte.ch.ico | width=16) schweizer-illustrierte.ch
-- ![](https://icons.duckduckgo.com/ip3/science.org.ico | width=16) science.org
-- ![](https://icons.duckduckgo.com/ip3/sciencenews.org.ico | width=16) sciencenews.org
-- ![](https://icons.duckduckgo.com/ip3/scientificamerican.com.ico | width=16) scientificamerican.com
-- ![](https://icons.duckduckgo.com/ip3/scitechdaily.com.ico | width=16) scitechdaily.com
-- ![](https://icons.duckduckgo.com/ip3/screenrant.com.ico | width=16) screenrant.com
-- ![](https://icons.duckduckgo.com/ip3/sdtimes.com.ico | width=16) sdtimes.com
-- ![](https://icons.duckduckgo.com/ip3/secure.splitwise.com.ico | width=16) secure.splitwise.com
-- ![](https://icons.duckduckgo.com/ip3/securityinfowatch.com.ico | width=16) securityinfowatch.com
-- ![](https://icons.duckduckgo.com/ip3/seevetal-aktuell.de.ico | width=16) seevetal-aktuell.de
-- ![](https://icons.duckduckgo.com/ip3/serienjunkies.de.ico | width=16) serienjunkies.de
-- ![](https://icons.duckduckgo.com/ip3/servethehome.com.ico | width=16) servethehome.com
+- <img src="https://icons.duckduckgo.com/ip3/pilatustoday.ch.ico" title="pilatustoday.ch" width="16" /> pilatustoday.ch
+- <img src="https://icons.duckduckgo.com/ip3/pirate-bays.net.ico" title="pirate-bays.net" width="16" /> pirate-bays.net
+- <img src="https://icons.duckduckgo.com/ip3/plus.tagesspiegel.de.ico" title="plus.tagesspiegel.de" width="16" /> plus.tagesspiegel.de
+- <img src="https://icons.duckduckgo.com/ip3/pnp.de.ico" title="pnp.de" width="16" /> pnp.de
+- <img src="https://icons.duckduckgo.com/ip3/pocket-lint.com.ico" title="pocket-lint.com" width="16" /> pocket-lint.com
+- <img src="https://icons.duckduckgo.com/ip3/politifact.com.ico" title="politifact.com" width="16" /> politifact.com
+- <img src="https://icons.duckduckgo.com/ip3/polygon.com.ico" title="polygon.com" width="16" /> polygon.com
+- <img src="https://icons.duckduckgo.com/ip3/pons.com.ico" title="pons.com" width="16" /> pons.com
+- <img src="https://icons.duckduckgo.com/ip3/popularmechanics.com.ico" title="popularmechanics.com" width="16" /> popularmechanics.com
+- <img src="https://icons.duckduckgo.com/ip3/postgresqltutorial.com.ico" title="postgresqltutorial.com" width="16" /> postgresqltutorial.com
+- <img src="https://icons.duckduckgo.com/ip3/poz.com.ico" title="poz.com" width="16" /> poz.com
+- <img src="https://icons.duckduckgo.com/ip3/praxistipps.chip.de.ico" title="praxistipps.chip.de" width="16" /> praxistipps.chip.de
+- <img src="https://icons.duckduckgo.com/ip3/praxistipps.focus.de.ico" title="praxistipps.focus.de" width="16" /> praxistipps.focus.de
+- <img src="https://icons.duckduckgo.com/ip3/preispirat.ch.ico" title="preispirat.ch" width="16" /> preispirat.ch
+- <img src="https://icons.duckduckgo.com/ip3/prepaid-wiki.de.ico" title="prepaid-wiki.de" width="16" /> prepaid-wiki.de
+- <img src="https://icons.duckduckgo.com/ip3/pronto.es.ico" title="pronto.es" width="16" /> pronto.es
+- <img src="https://icons.duckduckgo.com/ip3/prosieben.ch.ico" title="prosieben.ch" width="16" /> prosieben.ch
+- <img src="https://icons.duckduckgo.com/ip3/psycatgames.com.ico" title="psycatgames.com" width="16" /> psycatgames.com
+- <img src="https://icons.duckduckgo.com/ip3/psychologytoday.com.ico" title="psychologytoday.com" width="16" /> psychologytoday.com
+- <img src="https://icons.duckduckgo.com/ip3/quantamagazine.org.ico" title="quantamagazine.org" width="16" /> quantamagazine.org
+- <img src="https://icons.duckduckgo.com/ip3/quora.com.ico" title="quora.com" width="16" /> quora.com
+- <img src="https://icons.duckduckgo.com/ip3/randomlists.com.ico" title="randomlists.com" width="16" /> randomlists.com
+- <img src="https://icons.duckduckgo.com/ip3/rapidlydigital.com.ico" title="rapidlydigital.com" width="16" /> rapidlydigital.com
+- <img src="https://icons.duckduckgo.com/ip3/raptastisch.net.ico" title="raptastisch.net" width="16" /> raptastisch.net
+- <img src="https://icons.duckduckgo.com/ip3/ratgeber.bunte.de.ico" title="ratgeber.bunte.de" width="16" /> ratgeber.bunte.de
+- <img src="https://icons.duckduckgo.com/ip3/rawstory.com.ico" title="rawstory.com" width="16" /> rawstory.com
+- <img src="https://icons.duckduckgo.com/ip3/rd.com.ico" title="rd.com" width="16" /> rd.com
+- <img src="https://icons.duckduckgo.com/ip3/reddit.com.ico" title="reddit.com" width="16" /> reddit.com
+- <img src="https://icons.duckduckgo.com/ip3/redensarten-index.de.ico" title="redensarten-index.de" width="16" /> redensarten-index.de
+- <img src="https://icons.duckduckgo.com/ip3/republik.ch.ico" title="republik.ch" width="16" /> republik.ch
+- <img src="https://icons.duckduckgo.com/ip3/restofworld.org.ico" title="restofworld.org" width="16" /> restofworld.org
+- <img src="https://icons.duckduckgo.com/ip3/rezeptwelt.de.ico" title="rezeptwelt.de" width="16" /> rezeptwelt.de
+- <img src="https://icons.duckduckgo.com/ip3/rintor.space.ico" title="rintor.space" width="16" /> rintor.space
+- <img src="https://icons.duckduckgo.com/ip3/rnd.de.ico" title="rnd.de" width="16" /> rnd.de
+- <img src="https://icons.duckduckgo.com/ip3/rollingstone.com.ico" title="rollingstone.com" width="16" /> rollingstone.com
+- <img src="https://icons.duckduckgo.com/ip3/rome2rio.com.ico" title="rome2rio.com" width="16" /> rome2rio.com
+- <img src="https://icons.duckduckgo.com/ip3/romhustler.org.ico" title="romhustler.org" width="16" /> romhustler.org
+- <img src="https://icons.duckduckgo.com/ip3/romsfun.com.ico" title="romsfun.com" width="16" /> romsfun.com
+- <img src="https://icons.duckduckgo.com/ip3/rp-online.de.ico" title="rp-online.de" width="16" /> rp-online.de
+- <img src="https://icons.duckduckgo.com/ip3/rte.ie.ico" title="rte.ie" width="16" /> rte.ie
+- <img src="https://icons.duckduckgo.com/ip3/rubyonrails.ba.ico" title="rubyonrails.ba" width="16" /> rubyonrails.ba
+- <img src="https://icons.duckduckgo.com/ip3/runalyze.com.ico" title="runalyze.com" width="16" /> runalyze.com
+- <img src="https://icons.duckduckgo.com/ip3/runnersworld.de.ico" title="runnersworld.de" width="16" /> runnersworld.de
+- <img src="https://icons.duckduckgo.com/ip3/saarbruecker-zeitung.de.ico" title="saarbruecker-zeitung.de" width="16" /> saarbruecker-zeitung.de
+- <img src="https://icons.duckduckgo.com/ip3/sammobile.com.ico" title="sammobile.com" width="16" /> sammobile.com
+- <img src="https://icons.duckduckgo.com/ip3/sanet.lc.ico" title="sanet.lc" width="16" /> sanet.lc
+- <img src="https://icons.duckduckgo.com/ip3/schweizer-illustrierte.ch.ico" title="schweizer-illustrierte.ch" width="16" /> schweizer-illustrierte.ch
+- <img src="https://icons.duckduckgo.com/ip3/science.org.ico" title="science.org" width="16" /> science.org
+- <img src="https://icons.duckduckgo.com/ip3/sciencenews.org.ico" title="sciencenews.org" width="16" /> sciencenews.org
+- <img src="https://icons.duckduckgo.com/ip3/scientificamerican.com.ico" title="scientificamerican.com" width="16" /> scientificamerican.com
+- <img src="https://icons.duckduckgo.com/ip3/scitechdaily.com.ico" title="scitechdaily.com" width="16" /> scitechdaily.com
+- <img src="https://icons.duckduckgo.com/ip3/screenrant.com.ico" title="screenrant.com" width="16" /> screenrant.com
+- <img src="https://icons.duckduckgo.com/ip3/sdtimes.com.ico" title="sdtimes.com" width="16" /> sdtimes.com
+- <img src="https://icons.duckduckgo.com/ip3/secure.splitwise.com.ico" title="secure.splitwise.com" width="16" /> secure.splitwise.com
+- <img src="https://icons.duckduckgo.com/ip3/securityinfowatch.com.ico" title="securityinfowatch.com" width="16" /> securityinfowatch.com
+- <img src="https://icons.duckduckgo.com/ip3/seevetal-aktuell.de.ico" title="seevetal-aktuell.de" width="16" /> seevetal-aktuell.de
+- <img src="https://icons.duckduckgo.com/ip3/serienjunkies.de.ico" title="serienjunkies.de" width="16" /> serienjunkies.de
+- <img src="https://icons.duckduckgo.com/ip3/servethehome.com.ico" title="servethehome.com" width="16" /> servethehome.com
 - servicemanuals.us
-- ![](https://icons.duckduckgo.com/ip3/sitepoint.com.ico | width=16) sitepoint.com
-- ![](https://icons.duckduckgo.com/ip3/sky.com.ico | width=16) sky.com
-- smarthomeassistent.de
-- ![](https://icons.duckduckgo.com/ip3/smithsonianmag.com.ico | width=16) smithsonianmag.com
-- ![](https://icons.duckduckgo.com/ip3/snopes.com.ico | width=16) snopes.com
-- ![](https://icons.duckduckgo.com/ip3/softonic.com.ico | width=16) softonic.com
-- ![](https://icons.duckduckgo.com/ip3/songfacts.com.ico | width=16) songfacts.com
-- ![](https://icons.duckduckgo.com/ip3/songlyrics.com.ico | width=16) songlyrics.com
+- <img src="https://icons.duckduckgo.com/ip3/sitepoint.com.ico" title="sitepoint.com" width="16" /> sitepoint.com
+- <img src="https://icons.duckduckgo.com/ip3/sky.com.ico" title="sky.com" width="16" /> sky.com
+- <img src="https://icons.duckduckgo.com/ip3/smarthomeassistent.de.ico" title="smarthomeassistent.de" width="16" /> smarthomeassistent.de
+- <img src="https://icons.duckduckgo.com/ip3/smithsonianmag.com.ico" title="smithsonianmag.com" width="16" /> smithsonianmag.com
+- <img src="https://icons.duckduckgo.com/ip3/snopes.com.ico" title="snopes.com" width="16" /> snopes.com
+- <img src="https://icons.duckduckgo.com/ip3/softonic.com.ico" title="softonic.com" width="16" /> softonic.com
+- <img src="https://icons.duckduckgo.com/ip3/songfacts.com.ico" title="songfacts.com" width="16" /> songfacts.com
+- <img src="https://icons.duckduckgo.com/ip3/songlyrics.com.ico" title="songlyrics.com" width="16" /> songlyrics.com
 - speedtorrent.com
-- ![](https://icons.duckduckgo.com/ip3/spektrum.de.ico | width=16) spektrum.de
+- <img src="https://icons.duckduckgo.com/ip3/spektrum.de.ico" title="spektrum.de" width="16" /> spektrum.de
 - spiegel.de
-- ![](https://icons.duckduckgo.com/ip3/spieleforum.de.ico | width=16) spieleforum.de
-- spieletipps.de
+- <img src="https://icons.duckduckgo.com/ip3/spieleforum.de.ico" title="spieleforum.de" width="16" /> spieleforum.de
+- <img src="https://icons.duckduckgo.com/ip3/spieletipps.de.ico" title="spieletipps.de" width="16" /> spieletipps.de
 - spin.atomicobject.com
-- ![](https://icons.duckduckgo.com/ip3/srf.ch.ico | width=16) srf.ch
-- ![](https://icons.duckduckgo.com/ip3/ssstwitter.com.ico | width=16) ssstwitter.com
-- ![](https://icons.duckduckgo.com/ip3/stackoverflow.com.ico | width=16) stackoverflow.com
-- stadionwelt.de
-- ![](https://icons.duckduckgo.com/ip3/stadt-bremerhaven.de.ico | width=16) stadt-bremerhaven.de
-- ![](https://icons.duckduckgo.com/ip3/standard.co.uk.ico | width=16) standard.co.uk
-- ![](https://icons.duckduckgo.com/ip3/stern.de.ico | width=16) stern.de
-- ![](https://icons.duckduckgo.com/ip3/strava.com.ico | width=16) strava.com
-- ![](https://icons.duckduckgo.com/ip3/streaming.ch.ico | width=16) streaming.ch
-- ![](https://icons.duckduckgo.com/ip3/stuttgarter-zeitung.de.ico | width=16) stuttgarter-zeitung.de
-- ![](https://icons.duckduckgo.com/ip3/sueddeutsche.de.ico | width=16) sueddeutsche.de
-- ![](https://icons.duckduckgo.com/ip3/swissinfo.ch.ico | width=16) swissinfo.ch
-- ![](https://icons.duckduckgo.com/ip3/swrfernsehen.de.ico | width=16) swrfernsehen.de
-- ![](https://icons.duckduckgo.com/ip3/syfy.com.ico | width=16) syfy.com
-- ![](https://icons.duckduckgo.com/ip3/szenebox.org.ico | width=16) szenebox.org
-- ![](https://icons.duckduckgo.com/ip3/t-online.de.ico | width=16) t-online.de
-- ![](https://icons.duckduckgo.com/ip3/t3n.de.ico | width=16) t3n.de
-- ![](https://icons.duckduckgo.com/ip3/tag24.de.ico | width=16) tag24.de
-- ![](https://icons.duckduckgo.com/ip3/tagblatt.ch.ico | width=16) tagblatt.ch
-- ![](https://icons.duckduckgo.com/ip3/tagesanzeiger.ch.ico | width=16) tagesanzeiger.ch
-- ![](https://icons.duckduckgo.com/ip3/tagesspiegel.de.ico | width=16) tagesspiegel.de
-- ![](https://icons.duckduckgo.com/ip3/tampabay.com.ico | width=16) tampabay.com
-- ![](https://icons.duckduckgo.com/ip3/target.com.ico | width=16) target.com
-- ![](https://icons.duckduckgo.com/ip3/tarnkappe.info.ico | width=16) tarnkappe.info
+- <img src="https://icons.duckduckgo.com/ip3/srf.ch.ico" title="srf.ch" width="16" /> srf.ch
+- <img src="https://icons.duckduckgo.com/ip3/ssstwitter.com.ico" title="ssstwitter.com" width="16" /> ssstwitter.com
+- <img src="https://icons.duckduckgo.com/ip3/stackoverflow.com.ico" title="stackoverflow.com" width="16" /> stackoverflow.com
+- <img src="https://icons.duckduckgo.com/ip3/stadionwelt.de.ico" title="stadionwelt.de" width="16" /> stadionwelt.de
+- <img src="https://icons.duckduckgo.com/ip3/stadt-bremerhaven.de.ico" title="stadt-bremerhaven.de" width="16" /> stadt-bremerhaven.de
+- <img src="https://icons.duckduckgo.com/ip3/standard.co.uk.ico" title="standard.co.uk" width="16" /> standard.co.uk
+- <img src="https://icons.duckduckgo.com/ip3/stern.de.ico" title="stern.de" width="16" /> stern.de
+- <img src="https://icons.duckduckgo.com/ip3/strava.com.ico" title="strava.com" width="16" /> strava.com
+- <img src="https://icons.duckduckgo.com/ip3/streaming.ch.ico" title="streaming.ch" width="16" /> streaming.ch
+- <img src="https://icons.duckduckgo.com/ip3/stuttgarter-zeitung.de.ico" title="stuttgarter-zeitung.de" width="16" /> stuttgarter-zeitung.de
+- <img src="https://icons.duckduckgo.com/ip3/sueddeutsche.de.ico" title="sueddeutsche.de" width="16" /> sueddeutsche.de
+- <img src="https://icons.duckduckgo.com/ip3/swissinfo.ch.ico" title="swissinfo.ch" width="16" /> swissinfo.ch
+- <img src="https://icons.duckduckgo.com/ip3/swrfernsehen.de.ico" title="swrfernsehen.de" width="16" /> swrfernsehen.de
+- <img src="https://icons.duckduckgo.com/ip3/syfy.com.ico" title="syfy.com" width="16" /> syfy.com
+- <img src="https://icons.duckduckgo.com/ip3/szenebox.org.ico" title="szenebox.org" width="16" /> szenebox.org
+- <img src="https://icons.duckduckgo.com/ip3/t-online.de.ico" title="t-online.de" width="16" /> t-online.de
+- <img src="https://icons.duckduckgo.com/ip3/t3n.de.ico" title="t3n.de" width="16" /> t3n.de
+- <img src="https://icons.duckduckgo.com/ip3/tag24.de.ico" title="tag24.de" width="16" /> tag24.de
+- <img src="https://icons.duckduckgo.com/ip3/tagblatt.ch.ico" title="tagblatt.ch" width="16" /> tagblatt.ch
+- <img src="https://icons.duckduckgo.com/ip3/tagesanzeiger.ch.ico" title="tagesanzeiger.ch" width="16" /> tagesanzeiger.ch
+- <img src="https://icons.duckduckgo.com/ip3/tagesspiegel.de.ico" title="tagesspiegel.de" width="16" /> tagesspiegel.de
+- <img src="https://icons.duckduckgo.com/ip3/tampabay.com.ico" title="tampabay.com" width="16" /> tampabay.com
+- <img src="https://icons.duckduckgo.com/ip3/target.com.ico" title="target.com" width="16" /> target.com
+- <img src="https://icons.duckduckgo.com/ip3/tarnkappe.info.ico" title="tarnkappe.info" width="16" /> tarnkappe.info
 - taxi-times.com
-- ![](https://icons.duckduckgo.com/ip3/taz.de.ico | width=16) taz.de
-- ![](https://icons.duckduckgo.com/ip3/techcrunch.com.ico | width=16) techcrunch.com
-- ![](https://icons.duckduckgo.com/ip3/technologyreview.com.ico | width=16) technologyreview.com
-- ![](https://icons.duckduckgo.com/ip3/techotopia.com.ico | width=16) techotopia.com
-- ![](https://icons.duckduckgo.com/ip3/techradar.com.ico | width=16) techradar.com
-- ![](https://icons.duckduckgo.com/ip3/techspot.com.ico | width=16) techspot.com
-- ![](https://icons.duckduckgo.com/ip3/tecmint.com.ico | width=16) tecmint.com
-- ![](https://icons.duckduckgo.com/ip3/telegraf.com.ua.ico | width=16) telegraf.com.ua
-- ![](https://icons.duckduckgo.com/ip3/telegraph.co.uk.ico | width=16) telegraph.co.uk
-- ![](https://icons.duckduckgo.com/ip3/telepolis.de.ico | width=16) telepolis.de
-- ![](https://icons.duckduckgo.com/ip3/teltarif.de.ico | width=16) teltarif.de
-- tgx.rs
+- <img src="https://icons.duckduckgo.com/ip3/taz.de.ico" title="taz.de" width="16" /> taz.de
+- <img src="https://icons.duckduckgo.com/ip3/techcrunch.com.ico" title="techcrunch.com" width="16" /> techcrunch.com
+- <img src="https://icons.duckduckgo.com/ip3/technologyreview.com.ico" title="technologyreview.com" width="16" /> technologyreview.com
+- <img src="https://icons.duckduckgo.com/ip3/techotopia.com.ico" title="techotopia.com" width="16" /> techotopia.com
+- <img src="https://icons.duckduckgo.com/ip3/techradar.com.ico" title="techradar.com" width="16" /> techradar.com
+- <img src="https://icons.duckduckgo.com/ip3/techspot.com.ico" title="techspot.com" width="16" /> techspot.com
+- <img src="https://icons.duckduckgo.com/ip3/tecmint.com.ico" title="tecmint.com" width="16" /> tecmint.com
+- <img src="https://icons.duckduckgo.com/ip3/telegraf.com.ua.ico" title="telegraf.com.ua" width="16" /> telegraf.com.ua
+- <img src="https://icons.duckduckgo.com/ip3/telegraph.co.uk.ico" title="telegraph.co.uk" width="16" /> telegraph.co.uk
+- <img src="https://icons.duckduckgo.com/ip3/telepolis.de.ico" title="telepolis.de" width="16" /> telepolis.de
+- <img src="https://icons.duckduckgo.com/ip3/teltarif.de.ico" title="teltarif.de" width="16" /> teltarif.de
+- <img src="https://icons.duckduckgo.com/ip3/tgx.rs.ico" title="tgx.rs" width="16" /> tgx.rs
 - tgx.sb
-- ![](https://icons.duckduckgo.com/ip3/the-sun.com.ico | width=16) the-sun.com
-- ![](https://icons.duckduckgo.com/ip3/the5krunner.com.ico | width=16) the5krunner.com
-- ![](https://icons.duckduckgo.com/ip3/theadvocate.com.ico | width=16) theadvocate.com
-- ![](https://icons.duckduckgo.com/ip3/theatlantic.com.ico | width=16) theatlantic.com
-- ![](https://icons.duckduckgo.com/ip3/thebigmansworld.com.ico | width=16) thebigmansworld.com
-- ![](https://icons.duckduckgo.com/ip3/thecinemaholic.com.ico | width=16) thecinemaholic.com
-- ![](https://icons.duckduckgo.com/ip3/theconversation.com.ico | width=16) theconversation.com
-- ![](https://icons.duckduckgo.com/ip3/thedeveloperspace.com.ico | width=16) thedeveloperspace.com
-- ![](https://icons.duckduckgo.com/ip3/thedirect.com.ico | width=16) thedirect.com
-- ![](https://icons.duckduckgo.com/ip3/thedodo.com.ico | width=16) thedodo.com
-- ![](https://icons.duckduckgo.com/ip3/thegamer.com.ico | width=16) thegamer.com
-- ![](https://icons.duckduckgo.com/ip3/theguardian.com.ico | width=16) theguardian.com
-- ![](https://icons.duckduckgo.com/ip3/thehackernews.com.ico | width=16) thehackernews.com
-- ![](https://icons.duckduckgo.com/ip3/thehill.com.ico | width=16) thehill.com
-- thelocal.de
-- ![](https://icons.duckduckgo.com/ip3/themoscowtimes.com.ico | width=16) themoscowtimes.com
-- ![](https://icons.duckduckgo.com/ip3/thenationalnews.com.ico | width=16) thenationalnews.com
-- ![](https://icons.duckduckgo.com/ip3/thenerdystudent.com.ico | width=16) thenerdystudent.com
-- ![](https://icons.duckduckgo.com/ip3/thepirate-bay.org.ico | width=16) thepirate-bay.org
-- ![](https://icons.duckduckgo.com/ip3/theregister.com.ico | width=16) theregister.com
-- ![](https://icons.duckduckgo.com/ip3/theserverside.com.ico | width=16) theserverside.com
-- ![](https://icons.duckduckgo.com/ip3/thetimes.co.uk.ico | width=16) thetimes.co.uk
-- ![](https://icons.duckduckgo.com/ip3/theverge.com.ico | width=16) theverge.com
-- ![](https://icons.duckduckgo.com/ip3/thewearify.com.ico | width=16) thewearify.com
-- ![](https://icons.duckduckgo.com/ip3/thewrap.com.ico | width=16) thewrap.com
-- ![](https://icons.duckduckgo.com/ip3/time.com.ico | width=16) time.com
-- ![](https://icons.duckduckgo.com/ip3/timeslive.co.za.ico | width=16) timeslive.co.za
-- ![](https://icons.duckduckgo.com/ip3/tipseason.com.ico | width=16) tipseason.com
-- ![](https://icons.duckduckgo.com/ip3/tomsguide.com.ico | width=16) tomsguide.com
-- ![](https://icons.duckduckgo.com/ip3/torrentgalaxy.mx.ico | width=16) torrentgalaxy.mx
-- ![](https://icons.duckduckgo.com/ip3/torrenting.com.ico | width=16) torrenting.com
-- ![](https://icons.duckduckgo.com/ip3/trakt.tv.ico | width=16) trakt.tv
-- ![](https://icons.duckduckgo.com/ip3/trello.com.ico | width=16) trello.com
-- ![](https://icons.duckduckgo.com/ip3/trustedreviews.com.ico | width=16) trustedreviews.com
-- ![](https://icons.duckduckgo.com/ip3/tsri.ch.ico | width=16) tsri.ch
-- ![](https://icons.duckduckgo.com/ip3/turkhacks.com.ico | width=16) turkhacks.com
-- ![](https://icons.duckduckgo.com/ip3/tutorialscan.com.ico | width=16) tutorialscan.com
-- ![](https://icons.duckduckgo.com/ip3/tutorialspoint.com.ico | width=16) tutorialspoint.com
+- <img src="https://icons.duckduckgo.com/ip3/the-sun.com.ico" title="the-sun.com" width="16" /> the-sun.com
+- <img src="https://icons.duckduckgo.com/ip3/the5krunner.com.ico" title="the5krunner.com" width="16" /> the5krunner.com
+- <img src="https://icons.duckduckgo.com/ip3/theadvocate.com.ico" title="theadvocate.com" width="16" /> theadvocate.com
+- <img src="https://icons.duckduckgo.com/ip3/theatlantic.com.ico" title="theatlantic.com" width="16" /> theatlantic.com
+- <img src="https://icons.duckduckgo.com/ip3/thebigmansworld.com.ico" title="thebigmansworld.com" width="16" /> thebigmansworld.com
+- <img src="https://icons.duckduckgo.com/ip3/thecinemaholic.com.ico" title="thecinemaholic.com" width="16" /> thecinemaholic.com
+- <img src="https://icons.duckduckgo.com/ip3/theconversation.com.ico" title="theconversation.com" width="16" /> theconversation.com
+- <img src="https://icons.duckduckgo.com/ip3/thedeveloperspace.com.ico" title="thedeveloperspace.com" width="16" /> thedeveloperspace.com
+- <img src="https://icons.duckduckgo.com/ip3/thedirect.com.ico" title="thedirect.com" width="16" /> thedirect.com
+- <img src="https://icons.duckduckgo.com/ip3/thedodo.com.ico" title="thedodo.com" width="16" /> thedodo.com
+- <img src="https://icons.duckduckgo.com/ip3/thegamer.com.ico" title="thegamer.com" width="16" /> thegamer.com
+- <img src="https://icons.duckduckgo.com/ip3/theguardian.com.ico" title="theguardian.com" width="16" /> theguardian.com
+- <img src="https://icons.duckduckgo.com/ip3/thehackernews.com.ico" title="thehackernews.com" width="16" /> thehackernews.com
+- <img src="https://icons.duckduckgo.com/ip3/thehill.com.ico" title="thehill.com" width="16" /> thehill.com
+- <img src="https://icons.duckduckgo.com/ip3/thelocal.de.ico" title="thelocal.de" width="16" /> thelocal.de
+- <img src="https://icons.duckduckgo.com/ip3/themoscowtimes.com.ico" title="themoscowtimes.com" width="16" /> themoscowtimes.com
+- <img src="https://icons.duckduckgo.com/ip3/thenationalnews.com.ico" title="thenationalnews.com" width="16" /> thenationalnews.com
+- <img src="https://icons.duckduckgo.com/ip3/thenerdystudent.com.ico" title="thenerdystudent.com" width="16" /> thenerdystudent.com
+- <img src="https://icons.duckduckgo.com/ip3/thepirate-bay.org.ico" title="thepirate-bay.org" width="16" /> thepirate-bay.org
+- <img src="https://icons.duckduckgo.com/ip3/theregister.com.ico" title="theregister.com" width="16" /> theregister.com
+- <img src="https://icons.duckduckgo.com/ip3/theserverside.com.ico" title="theserverside.com" width="16" /> theserverside.com
+- <img src="https://icons.duckduckgo.com/ip3/thetimes.co.uk.ico" title="thetimes.co.uk" width="16" /> thetimes.co.uk
+- <img src="https://icons.duckduckgo.com/ip3/theverge.com.ico" title="theverge.com" width="16" /> theverge.com
+- <img src="https://icons.duckduckgo.com/ip3/thewearify.com.ico" title="thewearify.com" width="16" /> thewearify.com
+- <img src="https://icons.duckduckgo.com/ip3/thewrap.com.ico" title="thewrap.com" width="16" /> thewrap.com
+- <img src="https://icons.duckduckgo.com/ip3/time.com.ico" title="time.com" width="16" /> time.com
+- <img src="https://icons.duckduckgo.com/ip3/timeslive.co.za.ico" title="timeslive.co.za" width="16" /> timeslive.co.za
+- <img src="https://icons.duckduckgo.com/ip3/tipseason.com.ico" title="tipseason.com" width="16" /> tipseason.com
+- <img src="https://icons.duckduckgo.com/ip3/tomsguide.com.ico" title="tomsguide.com" width="16" /> tomsguide.com
+- <img src="https://icons.duckduckgo.com/ip3/torrentgalaxy.mx.ico" title="torrentgalaxy.mx" width="16" /> torrentgalaxy.mx
+- <img src="https://icons.duckduckgo.com/ip3/torrenting.com.ico" title="torrenting.com" width="16" /> torrenting.com
+- <img src="https://icons.duckduckgo.com/ip3/trakt.tv.ico" title="trakt.tv" width="16" /> trakt.tv
+- <img src="https://icons.duckduckgo.com/ip3/trello.com.ico" title="trello.com" width="16" /> trello.com
+- <img src="https://icons.duckduckgo.com/ip3/trustedreviews.com.ico" title="trustedreviews.com" width="16" /> trustedreviews.com
+- <img src="https://icons.duckduckgo.com/ip3/tsri.ch.ico" title="tsri.ch" width="16" /> tsri.ch
+- <img src="https://icons.duckduckgo.com/ip3/turkhacks.com.ico" title="turkhacks.com" width="16" /> turkhacks.com
+- tutorialscan.com
+- <img src="https://icons.duckduckgo.com/ip3/tutorialspoint.com.ico" title="tutorialspoint.com" width="16" /> tutorialspoint.com
 - tutorialworks.com
-- ![](https://icons.duckduckgo.com/ip3/tutti-ch.en.uptodown.com.ico | width=16) tutti-ch.en.uptodown.com
-- ![](https://icons.duckduckgo.com/ip3/tutti.ch.ico | width=16) tutti.ch
-- ![](https://icons.duckduckgo.com/ip3/tvpartstoday.worthepenny.com.ico | width=16) tvpartstoday.worthepenny.com
-- ![](https://icons.duckduckgo.com/ip3/twitch.tv.ico | width=16) twitch.tv
-- ![](https://icons.duckduckgo.com/ip3/twitter.com.ico | width=16) twitter.com
-- ![](https://icons.duckduckgo.com/ip3/twitterperlen.de.ico | width=16) twitterperlen.de
-- ![](https://icons.duckduckgo.com/ip3/tz.de.ico | width=16) tz.de
-- ukr.net
-- ![](https://icons.duckduckgo.com/ip3/ummn.nu.ico | width=16) ummn.nu
-- ![](https://icons.duckduckgo.com/ip3/umrechnungeuro.com.ico | width=16) umrechnungeuro.com
-- ![](https://icons.duckduckgo.com/ip3/unsplash.com.ico | width=16) unsplash.com
-- ![](https://icons.duckduckgo.com/ip3/uptodown.com.ico | width=16) uptodown.com
-- ![](https://icons.duckduckgo.com/ip3/upwork.com.ico | width=16) upwork.com
-- ![](https://icons.duckduckgo.com/ip3/usatoday.com.ico | width=16) usatoday.com
-- ![](https://icons.duckduckgo.com/ip3/utopia.de.ico | width=16) utopia.de
-- ![](https://icons.duckduckgo.com/ip3/valenciasecreta.com.ico | width=16) valenciasecreta.com
-- ![](https://icons.duckduckgo.com/ip3/vanityfair.com.ico | width=16) vanityfair.com
-- ![](https://icons.duckduckgo.com/ip3/vice.com.ico | width=16) vice.com
-- ![](https://icons.duckduckgo.com/ip3/vital.de.ico | width=16) vital.de
-- ![](https://icons.duckduckgo.com/ip3/voip-catalog.com.ico | width=16) voip-catalog.com
-- ![](https://icons.duckduckgo.com/ip3/volksverpetzer.de.ico | width=16) volksverpetzer.de
-- ![](https://icons.duckduckgo.com/ip3/w3schools.com.ico | width=16) w3schools.com
-- ![](https://icons.duckduckgo.com/ip3/wallapop.com.ico | width=16) wallapop.com
-- ![](https://icons.duckduckgo.com/ip3/washingtonexaminer.com.ico | width=16) washingtonexaminer.com
-- ![](https://icons.duckduckgo.com/ip3/washingtonpost.com.ico | width=16) washingtonpost.com
-- ![](https://icons.duckduckgo.com/ip3/watson.ch.ico | width=16) watson.ch
-- ![](https://icons.duckduckgo.com/ip3/weather.com.ico | width=16) weather.com
-- ![](https://icons.duckduckgo.com/ip3/web.de.ico | width=16) web.de
-- ![](https://icons.duckduckgo.com/ip3/welt.de.ico | width=16) welt.de
-- ![](https://icons.duckduckgo.com/ip3/weltwoche.ch.ico | width=16) weltwoche.ch
-- ![](https://icons.duckduckgo.com/ip3/wetter.com.ico | width=16) wetter.com
-- ![](https://icons.duckduckgo.com/ip3/what-song.com.ico | width=16) what-song.com
-- ![](https://icons.duckduckgo.com/ip3/wieistmeineip.de.ico | width=16) wieistmeineip.de
-- ![](https://icons.duckduckgo.com/ip3/wikihow.com.ico | width=16) wikihow.com
-- ![](https://icons.duckduckgo.com/ip3/willhaben.at.ico | width=16) willhaben.at
-- ![](https://icons.duckduckgo.com/ip3/wired.co.uk.ico | width=16) wired.co.uk
-- ![](https://icons.duckduckgo.com/ip3/wired.com.ico | width=16) wired.com
-- ![](https://icons.duckduckgo.com/ip3/wired.it.ico | width=16) wired.it
-- ![](https://icons.duckduckgo.com/ip3/wirelesshack.org.ico | width=16) wirelesshack.org
-- ![](https://icons.duckduckgo.com/ip3/wissenschaft.de.ico | width=16) wissenschaft.de
-- ![](https://icons.duckduckgo.com/ip3/wiwo.de.ico | width=16) wiwo.de
-- ![](https://icons.duckduckgo.com/ip3/wizcase.com.ico | width=16) wizcase.com
-- ![](https://icons.duckduckgo.com/ip3/womenshealth.de.ico | width=16) womenshealth.de
-- ![](https://icons.duckduckgo.com/ip3/wortbedeutung.info.ico | width=16) wortbedeutung.info
-- ![](https://icons.duckduckgo.com/ip3/wowroms.com.ico | width=16) wowroms.com
-- ![](https://icons.duckduckgo.com/ip3/woz.ch.ico | width=16) woz.ch
-- ![](https://icons.duckduckgo.com/ip3/wsj.com.ico | width=16) wsj.com
+- <img src="https://icons.duckduckgo.com/ip3/tutti-ch.en.uptodown.com.ico" title="tutti-ch.en.uptodown.com" width="16" /> tutti-ch.en.uptodown.com
+- <img src="https://icons.duckduckgo.com/ip3/tutti.ch.ico" title="tutti.ch" width="16" /> tutti.ch
+- <img src="https://icons.duckduckgo.com/ip3/tvpartstoday.worthepenny.com.ico" title="tvpartstoday.worthepenny.com" width="16" /> tvpartstoday.worthepenny.com
+- <img src="https://icons.duckduckgo.com/ip3/twitch.tv.ico" title="twitch.tv" width="16" /> twitch.tv
+- <img src="https://icons.duckduckgo.com/ip3/twitter.com.ico" title="twitter.com" width="16" /> twitter.com
+- <img src="https://icons.duckduckgo.com/ip3/twitterperlen.de.ico" title="twitterperlen.de" width="16" /> twitterperlen.de
+- <img src="https://icons.duckduckgo.com/ip3/tz.de.ico" title="tz.de" width="16" /> tz.de
+- <img src="https://icons.duckduckgo.com/ip3/ukr.net.ico" title="ukr.net" width="16" /> ukr.net
+- <img src="https://icons.duckduckgo.com/ip3/ummn.nu.ico" title="ummn.nu" width="16" /> ummn.nu
+- <img src="https://icons.duckduckgo.com/ip3/umrechnungeuro.com.ico" title="umrechnungeuro.com" width="16" /> umrechnungeuro.com
+- <img src="https://icons.duckduckgo.com/ip3/unsplash.com.ico" title="unsplash.com" width="16" /> unsplash.com
+- <img src="https://icons.duckduckgo.com/ip3/uptodown.com.ico" title="uptodown.com" width="16" /> uptodown.com
+- <img src="https://icons.duckduckgo.com/ip3/upwork.com.ico" title="upwork.com" width="16" /> upwork.com
+- <img src="https://icons.duckduckgo.com/ip3/usatoday.com.ico" title="usatoday.com" width="16" /> usatoday.com
+- <img src="https://icons.duckduckgo.com/ip3/utopia.de.ico" title="utopia.de" width="16" /> utopia.de
+- <img src="https://icons.duckduckgo.com/ip3/valenciasecreta.com.ico" title="valenciasecreta.com" width="16" /> valenciasecreta.com
+- <img src="https://icons.duckduckgo.com/ip3/vanityfair.com.ico" title="vanityfair.com" width="16" /> vanityfair.com
+- <img src="https://icons.duckduckgo.com/ip3/vice.com.ico" title="vice.com" width="16" /> vice.com
+- <img src="https://icons.duckduckgo.com/ip3/vital.de.ico" title="vital.de" width="16" /> vital.de
+- <img src="https://icons.duckduckgo.com/ip3/voip-catalog.com.ico" title="voip-catalog.com" width="16" /> voip-catalog.com
+- <img src="https://icons.duckduckgo.com/ip3/volksverpetzer.de.ico" title="volksverpetzer.de" width="16" /> volksverpetzer.de
+- <img src="https://icons.duckduckgo.com/ip3/w3schools.com.ico" title="w3schools.com" width="16" /> w3schools.com
+- <img src="https://icons.duckduckgo.com/ip3/wallapop.com.ico" title="wallapop.com" width="16" /> wallapop.com
+- <img src="https://icons.duckduckgo.com/ip3/washingtonexaminer.com.ico" title="washingtonexaminer.com" width="16" /> washingtonexaminer.com
+- <img src="https://icons.duckduckgo.com/ip3/washingtonpost.com.ico" title="washingtonpost.com" width="16" /> washingtonpost.com
+- <img src="https://icons.duckduckgo.com/ip3/watson.ch.ico" title="watson.ch" width="16" /> watson.ch
+- <img src="https://icons.duckduckgo.com/ip3/weather.com.ico" title="weather.com" width="16" /> weather.com
+- <img src="https://icons.duckduckgo.com/ip3/web.de.ico" title="web.de" width="16" /> web.de
+- <img src="https://icons.duckduckgo.com/ip3/welt.de.ico" title="welt.de" width="16" /> welt.de
+- <img src="https://icons.duckduckgo.com/ip3/weltwoche.ch.ico" title="weltwoche.ch" width="16" /> weltwoche.ch
+- <img src="https://icons.duckduckgo.com/ip3/wetter.com.ico" title="wetter.com" width="16" /> wetter.com
+- <img src="https://icons.duckduckgo.com/ip3/what-song.com.ico" title="what-song.com" width="16" /> what-song.com
+- <img src="https://icons.duckduckgo.com/ip3/wieistmeineip.de.ico" title="wieistmeineip.de" width="16" /> wieistmeineip.de
+- <img src="https://icons.duckduckgo.com/ip3/wikihow.com.ico" title="wikihow.com" width="16" /> wikihow.com
+- <img src="https://icons.duckduckgo.com/ip3/willhaben.at.ico" title="willhaben.at" width="16" /> willhaben.at
+- <img src="https://icons.duckduckgo.com/ip3/wired.co.uk.ico" title="wired.co.uk" width="16" /> wired.co.uk
+- <img src="https://icons.duckduckgo.com/ip3/wired.com.ico" title="wired.com" width="16" /> wired.com
+- <img src="https://icons.duckduckgo.com/ip3/wired.it.ico" title="wired.it" width="16" /> wired.it
+- <img src="https://icons.duckduckgo.com/ip3/wirelesshack.org.ico" title="wirelesshack.org" width="16" /> wirelesshack.org
+- wissenschaft.de
+- <img src="https://icons.duckduckgo.com/ip3/wiwo.de.ico" title="wiwo.de" width="16" /> wiwo.de
+- <img src="https://icons.duckduckgo.com/ip3/wizcase.com.ico" title="wizcase.com" width="16" /> wizcase.com
+- <img src="https://icons.duckduckgo.com/ip3/womenshealth.de.ico" title="womenshealth.de" width="16" /> womenshealth.de
+- <img src="https://icons.duckduckgo.com/ip3/wortbedeutung.info.ico" title="wortbedeutung.info" width="16" /> wortbedeutung.info
+- <img src="https://icons.duckduckgo.com/ip3/wowroms.com.ico" title="wowroms.com" width="16" /> wowroms.com
+- <img src="https://icons.duckduckgo.com/ip3/woz.ch.ico" title="woz.ch" width="16" /> woz.ch
+- <img src="https://icons.duckduckgo.com/ip3/wsj.com.ico" title="wsj.com" width="16" /> wsj.com
 - www-heise-de.translate.goog
-- ![](https://icons.duckduckgo.com/ip3/x.com.ico | width=16) x.com
-- ![](https://icons.duckduckgo.com/ip3/xda-developers.com.ico | width=16) xda-developers.com
-- ![](https://icons.duckduckgo.com/ip3/xing.com.ico | width=16) xing.com
-- ![](https://icons.duckduckgo.com/ip3/xn--strunglive-fcb.ch.ico | width=16) xn--strunglive-fcb.ch
-- ![](https://icons.duckduckgo.com/ip3/yahoo.com.ico | width=16) yahoo.com
-- ![](https://icons.duckduckgo.com/ip3/youtube.com.ico | width=16) youtube.com
-- ![](https://icons.duckduckgo.com/ip3/ytmp3.cc.ico | width=16) ytmp3.cc
-- ![](https://icons.duckduckgo.com/ip3/zdnet.com.ico | width=16) zdnet.com
-- ![](https://icons.duckduckgo.com/ip3/zeit.de.ico | width=16) zeit.de
-- ![](https://icons.duckduckgo.com/ip3/zentralplus.ch.ico | width=16) zentralplus.ch
-- ![](https://icons.duckduckgo.com/ip3/zsz.ch.ico | width=16) zsz.ch
-- ![](https://icons.duckduckgo.com/ip3/zueritoday.ch.ico | width=16) zueritoday.ch
+- <img src="https://icons.duckduckgo.com/ip3/x.com.ico" title="x.com" width="16" /> x.com
+- <img src="https://icons.duckduckgo.com/ip3/xda-developers.com.ico" title="xda-developers.com" width="16" /> xda-developers.com
+- <img src="https://icons.duckduckgo.com/ip3/xing.com.ico" title="xing.com" width="16" /> xing.com
+- <img src="https://icons.duckduckgo.com/ip3/xn--strunglive-fcb.ch.ico" title="xn--strunglive-fcb.ch" width="16" /> xn--strunglive-fcb.ch
+- <img src="https://icons.duckduckgo.com/ip3/yahoo.com.ico" title="yahoo.com" width="16" /> yahoo.com
+- <img src="https://icons.duckduckgo.com/ip3/youtube.com.ico" title="youtube.com" width="16" /> youtube.com
+- <img src="https://icons.duckduckgo.com/ip3/ytmp3.cc.ico" title="ytmp3.cc" width="16" /> ytmp3.cc
+- <img src="https://icons.duckduckgo.com/ip3/zdnet.com.ico" title="zdnet.com" width="16" /> zdnet.com
+- <img src="https://icons.duckduckgo.com/ip3/zeit.de.ico" title="zeit.de" width="16" /> zeit.de
+- <img src="https://icons.duckduckgo.com/ip3/zentralplus.ch.ico" title="zentralplus.ch" width="16" /> zentralplus.ch
+- zsz.ch
+- <img src="https://icons.duckduckgo.com/ip3/zueritoday.ch.ico" title="zueritoday.ch" width="16" /> zueritoday.ch
 - zugerzeitung.ch
