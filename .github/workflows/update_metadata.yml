@@ -43,8 +43,33 @@ jobs:
 
       - name: Extract affected hosts
         run: |
-          echo "# Affected hosts\n\n" > hosts.md
-          grep -oP '^[^#]+(?=##)' ${{ env.FILENAME }} | sort -u | sed 's/^/- /' >> hosts.md
+          echo -e "# Affected hosts\n\n" > hosts.md
+
+          # Download blocklists
+          blocklists=("torrent" "scam" "ransomware" "porn" "piracy" "phishing" "malware" "fraud")
+          for list in "${blocklists[@]}"; do
+            wget -q "https://blocklistproject.github.io/Lists/${list}.txt" -O "${list}.txt"
+          done
+
+          # Combine blocklists into one file, ignoring comments
+          grep -hv '^#' *.txt | awk '{print $2}' | sort -u > combined_blocklist.txt
+
+          # Extract affected hosts and filter against blocklist
+          grep -oP '^[^#]+(?=##)' ${{ env.FILENAME }} | sort -u | while read -r domain; do
+            if [[ "$domain" == *.* ]]; then
+              if ! grep -q "^${domain}$" combined_blocklist.txt; then
+                favicon_url="https://icons.duckduckgo.com/ip3/${domain}.ico"
+                if wget -q --spider "$favicon_url"; then
+                  echo "- ![favicon](${favicon_url}) ${domain}" >> hosts.md
+                else
+                  echo "- 🌐 ${domain}" >> hosts.md
+                fi
+              fi
+            fi
+          done
+
+          # Clean up blocklist files
+          rm -f *.txt combined_blocklist.txt
 
       - name: Commit and push if changed
         env:
