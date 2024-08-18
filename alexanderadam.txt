@@ -250,14 +250,27 @@ berliner-zeitung.de##.series-banner--color-watermelon-red.series-banner > .serie
 berliner-zeitung.de##.sidebar
 berliner-zeitung.de##.sidebar-section > .embed-container > .m-teasergroup:nth-ancestor(2)
 berliner-zeitung.de##.traffective-ad-Skyscraper__wrapper-blz
+berliner-zeitung.de##[class*=-ad_right]
+berliner-zeitung.de##[class*=top-divider] ~ [data-placeholder="- Anzeige -"]
+berliner-zeitung.de##[class*=top-divider]:has(+ [data-placeholder="- Anzeige -"])
+berliner-zeitung.de##[class^="article_free-html-container"]:has(.subscribe-form)
+berliner-zeitung.de##[class^="most-read_wrapper"]
+berliner-zeitung.de##[class^="teaser_teaserOne_"] > .article-preview:nth-ancestor(1)
 berliner-zeitung.de##[class^=ad-slot_wrapper]
 berliner-zeitung.de##[class^=article_teaser]
 berliner-zeitung.de##[class^=most-read-mobile-widget_wrapper]
 berliner-zeitung.de##[class^=outbrain_bottom]
 berliner-zeitung.de##[class^=outbrain_top]
+berliner-zeitung.de##[class^=teaser_teasers_] > [data-testid="article-preview"]:nth-ancestor(1)
 berliner-zeitung.de##[class^=ticket-and-abo-button_header] > div > a:has-text(Abonnieren)
 berliner-zeitung.de##[class^=wrappers_mobile-view] > a:has-text(Abo)
+berliner-zeitung.de##[data-component-type="ad-slot"]
+berliner-zeitung.de##[data-component-type="section-separator"]:has(+ [data-component-type="ad-slot"])
+berliner-zeitung.de##[data-component-type="single-featured-article"]:has([aria-label="subscription"]):style(opacity: 0.7 !important)
+berliner-zeitung.de##[data-placeholder="- Anzeige -"] ~ [class*=bottom-divider]
+berliner-zeitung.de##[data-testid="article-preview"]:has([aria-label="subscription"]):style(opacity: 0.7 !important)
 berliner-zeitung.de##[data-testid="outbrain-widget"]
+berliner-zeitung.de##[data-testid="thematic-section-games"]
 berliner-zeitung.de###outbrain-container
 berliner-zeitung.de###tags-iframe
 berliner-zeitung.de##li.m-meta-navigation__item > [href="https://berliner-zeitung.de/wochenendausgabe"] > .weekend-landing-page-link-left
@@ -965,6 +978,7 @@ focus.de##[href^="https://focus-abo.de/focus-zwischenseite-auswahl/"] > .svg-ico
 focus.de##[href^="https://www.focus.de/kaufberatung/"]
 focus.de##[id^="adsdh_"]
 focus.de##[id^=M_CONTENTAD]
+focus.de##[style] > iframe[src^="https://videoplayer.focus.de/p/recommendations/"]:nth-ancestor(1)
 focus.de##[style="min-height: 280px;"]
 focus.de###article div.articleContent:style(width: auto !important)
 focus.de###article-social > .fb
@@ -987,6 +1001,7 @@ focus.de##div.container-article-inline-teaser
 focus.de##div.socFbLikeShare
 focus.de##iframe[src^="https://cdn.pear.focus.de/clients/public/generated/deal_"]
 focus.de##iframe[src^="https://user-rating.burda-forward.de/"]
+focus.de##p > strong:has-text(Mehr zum Thema):nth-ancestor(1) ~ ul
 focus.de##section + #sidebar
 focus.de##ul:has(em:has-text(Mehr dazu:))
 forbes.com##.body-container:style(max-width: none !important; padding-right: 0 !important)
@@ -3218,6 +3233,8 @@ www-heise-de.translate.goog##.article-layout__header-wrbng
 www-heise-de.translate.goog##.inread-cls-reduc > .ad:nth-ancestor(1)
 www-heise-de.translate.goog##.perf-cls-reduc-leaderboard
 www-heise-de.translate.goog##[data-module-name="AdModule"]
+x.com##[aria-label="Trending"] > div > div:has([aria-label="Subscribe to Premium to write your own longer posts"])
+x.com##[data-testid="inlinePrompt"]:has-text(Go ad-free)
 xda-developers.com##.ad-zone-size-container
 xda-developers.com##.adsninja-ad-zone
 xda-developers.com##.article-card:has(.article-card-label:has-text(Related))
