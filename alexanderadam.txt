@@ -3108,6 +3108,7 @@ welt.de##.c-breaking__news
 welt.de##.c-inline-element > .c-inline-teaser:nth-ancestor(1)
 welt.de##.c-inline-element--has-commercials
 welt.de##.c-inline-teaser-list
+welt.de##.c-inline-teaser-list:has-text(Lesen Sie auch)
 welt.de##.c-page-container > .component > a[href="https://digital.welt.de/?cid=onsite.ca.performance.acquisition.welt_plus.noAbo.endbanner"]:nth-ancestor(2)
 welt.de##.c-page-container > [data-component="Outbrain"]:nth-ancestor(1)
 welt.de##.c-page-container > [data-qa="AttachedArticles"]:nth-ancestor(1)
@@ -3117,13 +3118,17 @@ welt.de##.c-teaser-marketing-fallback
 welt.de##.c-teaser:has(.is-premium):style(opacity: 0.7 !important)
 welt.de##.c-tool-element--is-abo
 welt.de##.is-commercial
+welt.de##.sp-message-open body:style(overflow: visible !important; position: static !important)
 welt.de##[data-component="AdStage"]
 welt.de##[data-component="AdTeaser"]
 welt.de##[data-component="Outbrain"]
+welt.de##[data-component="SocialBar"]
 welt.de##[data-external-content="Outbrain.MoreLikeThis"]
+welt.de##[data-info-ad-placement]
 welt.de##[data-qa="Commercial-Wrapper.Mobile.MediumRectangle"]
 welt.de##[data-qa="Commercial-Wrapper.Mobile.MediumRectangleBTFThree"]
 welt.de##[data-qa="InlineElement"] > [data-qa="InlineTeaserList"]:nth-ancestor(1)
+welt.de##[id^=sp_message_container] > iframe[src^="https://consent.up.welt.de/"]:nth-ancestor(1)
 weltwoche.ch##.headerIcons:has-text(Abonnieren)
 weltwoche.ch##.weeklyContentBodyHidden div:style(background: none !important;)
 weltwoche.ch##.werbungSmall
