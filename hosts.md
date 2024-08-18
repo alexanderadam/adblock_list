@@ -1,665 +1,655 @@
-# Affected hosts\n\n
-- *
-- 1337x.to
-- 1377x.to
-- 20min.ch
+# Affected hosts
+
+
+- ![favicon](https://icons.duckduckgo.com/ip3/1377x.to.ico) 1377x.to
+- ![favicon](https://icons.duckduckgo.com/ip3/20min.ch.ico) 20min.ch
 - 24hamburg.de
-- 404media.co
-- 4kfilme.de
-- 50gameslike.com
-- 9gag.com
-- 9monate.de
-- 9to5mac.com
+- ![favicon](https://icons.duckduckgo.com/ip3/404media.co.ico) 404media.co
+- ![favicon](https://icons.duckduckgo.com/ip3/4kfilme.de.ico) 4kfilme.de
+- ![favicon](https://icons.duckduckgo.com/ip3/50gameslike.com.ico) 50gameslike.com
+- ![favicon](https://icons.duckduckgo.com/ip3/9gag.com.ico) 9gag.com
+- ![favicon](https://icons.duckduckgo.com/ip3/9monate.de.ico) 9monate.de
+- ![favicon](https://icons.duckduckgo.com/ip3/9to5mac.com.ico) 9to5mac.com
 - aargauerzeitung.ch
-- abbreviations.com
-- abcnews.go.com
-- abendblatt.de
-- admin-magazin.de
+- ![favicon](https://icons.duckduckgo.com/ip3/abbreviations.com.ico) abbreviations.com
+- ![favicon](https://icons.duckduckgo.com/ip3/abcnews.go.com.ico) abcnews.go.com
+- ![favicon](https://icons.duckduckgo.com/ip3/abendblatt.de.ico) abendblatt.de
+- ![favicon](https://icons.duckduckgo.com/ip3/admin-magazin.de.ico) admin-magazin.de
 - agenzianova.com
-- aljazeera.com
-- allaboutvision.com
-- allegro.pl
-- analyticsinsight.net
+- ![favicon](https://icons.duckduckgo.com/ip3/aljazeera.com.ico) aljazeera.com
+- ![favicon](https://icons.duckduckgo.com/ip3/allaboutvision.com.ico) allaboutvision.com
+- ![favicon](https://icons.duckduckgo.com/ip3/allegro.pl.ico) allegro.pl
+- ![favicon](https://icons.duckduckgo.com/ip3/analyticsinsight.net.ico) analyticsinsight.net
 - andreagoulet.substack.com
-- android-hilfe.de
-- androidauthority.com
-- androidcentral.com
-- androidheadlines.com
-- androidpolice.com
+- ![favicon](https://icons.duckduckgo.com/ip3/android-hilfe.de.ico) android-hilfe.de
+- ![favicon](https://icons.duckduckgo.com/ip3/androidauthority.com.ico) androidauthority.com
+- ![favicon](https://icons.duckduckgo.com/ip3/androidcentral.com.ico) androidcentral.com
+- ![favicon](https://icons.duckduckgo.com/ip3/androidheadlines.com.ico) androidheadlines.com
+- ![favicon](https://icons.duckduckgo.com/ip3/androidpolice.com.ico) androidpolice.com
 - apfeltalk.de
-- apkcombo.com
-- apklinker.com
-- apkmirror.com
-- apkpure.com
-- apnews.com
-- apotheken-umschau.de
+- ![favicon](https://icons.duckduckgo.com/ip3/apkcombo.com.ico) apkcombo.com
+- ![favicon](https://icons.duckduckgo.com/ip3/apklinker.com.ico) apklinker.com
+- ![favicon](https://icons.duckduckgo.com/ip3/apkmirror.com.ico) apkmirror.com
+- ![favicon](https://icons.duckduckgo.com/ip3/apkpure.com.ico) apkpure.com
+- ![favicon](https://icons.duckduckgo.com/ip3/apnews.com.ico) apnews.com
+- ![favicon](https://icons.duckduckgo.com/ip3/apotheken-umschau.de.ico) apotheken-umschau.de
 - argoviatoday.ch
-- arstechnica.com
-- attackofthefanboy.com
-- augsburger-allgemeine.de
-- axios.com
-- azlyrics.com
-- baby-vornamen.de
-- baerntoday.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/arstechnica.com.ico) arstechnica.com
+- ![favicon](https://icons.duckduckgo.com/ip3/attackofthefanboy.com.ico) attackofthefanboy.com
+- ![favicon](https://icons.duckduckgo.com/ip3/augsburger-allgemeine.de.ico) augsburger-allgemeine.de
+- ![favicon](https://icons.duckduckgo.com/ip3/axios.com.ico) axios.com
+- ![favicon](https://icons.duckduckgo.com/ip3/azlyrics.com.ico) azlyrics.com
+- ![favicon](https://icons.duckduckgo.com/ip3/baby-vornamen.de.ico) baby-vornamen.de
+- ![favicon](https://icons.duckduckgo.com/ip3/baerntoday.ch.ico) baerntoday.ch
 - bazonline.ch
-- bbc.com
-- bbcgoodfood.com
-- bbqpit.de
-- befonts.com
-- beobachter.ch
-- berliner-kurier.de
-- berliner-zeitung.de
-- bernerzeitung.ch
-- best-of-twitter.com
-- betterprogramming.pub
+- ![favicon](https://icons.duckduckgo.com/ip3/bbc.com.ico) bbc.com
+- ![favicon](https://icons.duckduckgo.com/ip3/bbcgoodfood.com.ico) bbcgoodfood.com
+- ![favicon](https://icons.duckduckgo.com/ip3/bbqpit.de.ico) bbqpit.de
+- ![favicon](https://icons.duckduckgo.com/ip3/befonts.com.ico) befonts.com
+- ![favicon](https://icons.duckduckgo.com/ip3/beobachter.ch.ico) beobachter.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/berliner-kurier.de.ico) berliner-kurier.de
+- ![favicon](https://icons.duckduckgo.com/ip3/berliner-zeitung.de.ico) berliner-zeitung.de
+- ![favicon](https://icons.duckduckgo.com/ip3/bernerzeitung.ch.ico) bernerzeitung.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/best-of-twitter.com.ico) best-of-twitter.com
+- ![favicon](https://icons.duckduckgo.com/ip3/betterprogramming.pub.ico) betterprogramming.pub
 - betvisa.games
-- bhg.com
-- biblestudytools.com
-- bigthink.com
-- bild.de
-- billboard.com
-- bing.com
+- ![favicon](https://icons.duckduckgo.com/ip3/bhg.com.ico) bhg.com
+- ![favicon](https://icons.duckduckgo.com/ip3/biblestudytools.com.ico) biblestudytools.com
+- ![favicon](https://icons.duckduckgo.com/ip3/bigthink.com.ico) bigthink.com
+- ![favicon](https://icons.duckduckgo.com/ip3/bild.de.ico) bild.de
+- ![favicon](https://icons.duckduckgo.com/ip3/billboard.com.ico) billboard.com
+- ![favicon](https://icons.duckduckgo.com/ip3/bing.com.ico) bing.com
 - bionity.com
 - bitslovers.com
 - bizjournals.com
-- bjjee.com
-- bleepingcomputer.com
-- blick.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/bjjee.com.ico) bjjee.com
+- ![favicon](https://icons.duckduckgo.com/ip3/bleepingcomputer.com.ico) bleepingcomputer.com
+- ![favicon](https://icons.duckduckgo.com/ip3/blick.ch.ico) blick.ch
 - blog.appsignal.com
-- blog.hubspot.com
-- blog.packagecloud.io
-- blog.prepscholar.com
-- blog.tagesanzeiger.ch
-- bloomberg.com
-- bluewin.ch
-- bnn.network
-- bonedo.de
-- box.com
-- brides.com
-- bristolpost.co.uk
-- bulma.io
-- bunte.de
-- business-punk.com
-- businessinsider.com
-- businessinsider.de
-- businessinsider.in
-- bw24.de
-- bz-berlin.de
-- call.plus
-- candyfonts.com
-- careerkarma.com
-- cbsnews.com
-- chaptercheats.com
-- cheezburger.com
-- chefkoch.de
-- chicagotribune.com
-- chip.de
-- chordify.net
-- cineman.ch
-- cio.de
-- cjr.org
-- clavio.de
-- clockify.me
-- cnet.com
-- cnn.com
-- cofonts.com
-- collider.com
-- comicsands.com
+- ![favicon](https://icons.duckduckgo.com/ip3/blog.hubspot.com.ico) blog.hubspot.com
+- ![favicon](https://icons.duckduckgo.com/ip3/blog.packagecloud.io.ico) blog.packagecloud.io
+- ![favicon](https://icons.duckduckgo.com/ip3/blog.prepscholar.com.ico) blog.prepscholar.com
+- ![favicon](https://icons.duckduckgo.com/ip3/blog.tagesanzeiger.ch.ico) blog.tagesanzeiger.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/bloomberg.com.ico) bloomberg.com
+- ![favicon](https://icons.duckduckgo.com/ip3/bluewin.ch.ico) bluewin.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/bnn.network.ico) bnn.network
+- ![favicon](https://icons.duckduckgo.com/ip3/bonedo.de.ico) bonedo.de
+- ![favicon](https://icons.duckduckgo.com/ip3/box.com.ico) box.com
+- ![favicon](https://icons.duckduckgo.com/ip3/brides.com.ico) brides.com
+- ![favicon](https://icons.duckduckgo.com/ip3/bristolpost.co.uk.ico) bristolpost.co.uk
+- ![favicon](https://icons.duckduckgo.com/ip3/bulma.io.ico) bulma.io
+- ![favicon](https://icons.duckduckgo.com/ip3/bunte.de.ico) bunte.de
+- ![favicon](https://icons.duckduckgo.com/ip3/business-punk.com.ico) business-punk.com
+- ![favicon](https://icons.duckduckgo.com/ip3/businessinsider.com.ico) businessinsider.com
+- ![favicon](https://icons.duckduckgo.com/ip3/businessinsider.de.ico) businessinsider.de
+- ![favicon](https://icons.duckduckgo.com/ip3/businessinsider.in.ico) businessinsider.in
+- ![favicon](https://icons.duckduckgo.com/ip3/bw24.de.ico) bw24.de
+- ![favicon](https://icons.duckduckgo.com/ip3/bz-berlin.de.ico) bz-berlin.de
+- ![favicon](https://icons.duckduckgo.com/ip3/call.plus.ico) call.plus
+- ![favicon](https://icons.duckduckgo.com/ip3/candyfonts.com.ico) candyfonts.com
+- ![favicon](https://icons.duckduckgo.com/ip3/careerkarma.com.ico) careerkarma.com
+- ![favicon](https://icons.duckduckgo.com/ip3/cbsnews.com.ico) cbsnews.com
+- ![favicon](https://icons.duckduckgo.com/ip3/chaptercheats.com.ico) chaptercheats.com
+- ![favicon](https://icons.duckduckgo.com/ip3/cheezburger.com.ico) cheezburger.com
+- ![favicon](https://icons.duckduckgo.com/ip3/chefkoch.de.ico) chefkoch.de
+- ![favicon](https://icons.duckduckgo.com/ip3/chicagotribune.com.ico) chicagotribune.com
+- ![favicon](https://icons.duckduckgo.com/ip3/chip.de.ico) chip.de
+- ![favicon](https://icons.duckduckgo.com/ip3/chordify.net.ico) chordify.net
+- ![favicon](https://icons.duckduckgo.com/ip3/cineman.ch.ico) cineman.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/cio.de.ico) cio.de
+- ![favicon](https://icons.duckduckgo.com/ip3/cjr.org.ico) cjr.org
+- ![favicon](https://icons.duckduckgo.com/ip3/clavio.de.ico) clavio.de
+- ![favicon](https://icons.duckduckgo.com/ip3/clockify.me.ico) clockify.me
+- ![favicon](https://icons.duckduckgo.com/ip3/cnet.com.ico) cnet.com
+- ![favicon](https://icons.duckduckgo.com/ip3/cnn.com.ico) cnn.com
+- ![favicon](https://icons.duckduckgo.com/ip3/cofonts.com.ico) cofonts.com
+- ![favicon](https://icons.duckduckgo.com/ip3/collider.com.ico) collider.com
+- ![favicon](https://icons.duckduckgo.com/ip3/comicsands.com.ico) comicsands.com
 - comingsoon.net
-- computerbase.de
-- computerbild.de
-- computerwoche.de
-- computerworld.com
-- connect.de
-- content.techgig.com
-- cookidoo.ch
-- correctiv.org
-- couponbirds.com
-- cracked.com
+- ![favicon](https://icons.duckduckgo.com/ip3/computerbase.de.ico) computerbase.de
+- ![favicon](https://icons.duckduckgo.com/ip3/computerbild.de.ico) computerbild.de
+- ![favicon](https://icons.duckduckgo.com/ip3/computerwoche.de.ico) computerwoche.de
+- ![favicon](https://icons.duckduckgo.com/ip3/computerworld.com.ico) computerworld.com
+- ![favicon](https://icons.duckduckgo.com/ip3/connect.de.ico) connect.de
+- ![favicon](https://icons.duckduckgo.com/ip3/content.techgig.com.ico) content.techgig.com
+- ![favicon](https://icons.duckduckgo.com/ip3/cookidoo.ch.ico) cookidoo.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/correctiv.org.ico) correctiv.org
+- ![favicon](https://icons.duckduckgo.com/ip3/couponbirds.com.ico) couponbirds.com
+- ![favicon](https://icons.duckduckgo.com/ip3/cracked.com.ico) cracked.com
 - crast.net
-- cript.to
-- crn.com
-- csoonline.com
-- curved.de
-- custom-roms.com
-- customercontrolpanel.de
-- cyberciti.biz
-- cybernews.com
-- dailymail.co.uk
-- date.noii.ch
-- dba.stackexchange.com
-- dcrainmaker.com
-- de.minitool.com
-- de.ryte.com
-- de.sportshub.fan
-- de.wikipedia.org
-- de24live.de
-- dealdoktor.de
-- decider.com
-- dekudeals.com
+- ![favicon](https://icons.duckduckgo.com/ip3/cript.to.ico) cript.to
+- ![favicon](https://icons.duckduckgo.com/ip3/crn.com.ico) crn.com
+- ![favicon](https://icons.duckduckgo.com/ip3/csoonline.com.ico) csoonline.com
+- ![favicon](https://icons.duckduckgo.com/ip3/curved.de.ico) curved.de
+- ![favicon](https://icons.duckduckgo.com/ip3/custom-roms.com.ico) custom-roms.com
+- ![favicon](https://icons.duckduckgo.com/ip3/customercontrolpanel.de.ico) customercontrolpanel.de
+- ![favicon](https://icons.duckduckgo.com/ip3/cyberciti.biz.ico) cyberciti.biz
+- ![favicon](https://icons.duckduckgo.com/ip3/cybernews.com.ico) cybernews.com
+- ![favicon](https://icons.duckduckgo.com/ip3/dailymail.co.uk.ico) dailymail.co.uk
+- ![favicon](https://icons.duckduckgo.com/ip3/date.noii.ch.ico) date.noii.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/dba.stackexchange.com.ico) dba.stackexchange.com
+- ![favicon](https://icons.duckduckgo.com/ip3/dcrainmaker.com.ico) dcrainmaker.com
+- ![favicon](https://icons.duckduckgo.com/ip3/de.minitool.com.ico) de.minitool.com
+- ![favicon](https://icons.duckduckgo.com/ip3/de.ryte.com.ico) de.ryte.com
+- ![favicon](https://icons.duckduckgo.com/ip3/de.sportshub.fan.ico) de.sportshub.fan
+- ![favicon](https://icons.duckduckgo.com/ip3/de.wikipedia.org.ico) de.wikipedia.org
+- ![favicon](https://icons.duckduckgo.com/ip3/de24live.de.ico) de24live.de
+- ![favicon](https://icons.duckduckgo.com/ip3/dealdoktor.de.ico) dealdoktor.de
+- ![favicon](https://icons.duckduckgo.com/ip3/decider.com.ico) decider.com
+- ![favicon](https://icons.duckduckgo.com/ip3/dekudeals.com.ico) dekudeals.com
 - demonoid.is
-- der-postillon.com
-- derbund.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/der-postillon.com.ico) der-postillon.com
+- ![favicon](https://icons.duckduckgo.com/ip3/derbund.ch.ico) derbund.ch
 - derstandard.de
-- derwesten.de
-- designcise.com
-- devopsideas.com
-- dict.leo.org
-- dictionary.com
-- dietdoctor.com
-- digg.com
-- digitalcitizen.life
-- digitalspy.com
-- digitaltrends.com
-- disneydining.com
-- dnoid.pw
+- ![favicon](https://icons.duckduckgo.com/ip3/derwesten.de.ico) derwesten.de
+- ![favicon](https://icons.duckduckgo.com/ip3/designcise.com.ico) designcise.com
+- ![favicon](https://icons.duckduckgo.com/ip3/devopsideas.com.ico) devopsideas.com
+- ![favicon](https://icons.duckduckgo.com/ip3/dict.leo.org.ico) dict.leo.org
+- ![favicon](https://icons.duckduckgo.com/ip3/dictionary.com.ico) dictionary.com
+- ![favicon](https://icons.duckduckgo.com/ip3/dietdoctor.com.ico) dietdoctor.com
+- ![favicon](https://icons.duckduckgo.com/ip3/digg.com.ico) digg.com
+- ![favicon](https://icons.duckduckgo.com/ip3/digitalcitizen.life.ico) digitalcitizen.life
+- ![favicon](https://icons.duckduckgo.com/ip3/digitalspy.com.ico) digitalspy.com
+- ![favicon](https://icons.duckduckgo.com/ip3/digitaltrends.com.ico) digitaltrends.com
+- ![favicon](https://icons.duckduckgo.com/ip3/disneydining.com.ico) disneydining.com
+- ![favicon](https://icons.duckduckgo.com/ip3/dnoid.pw.ico) dnoid.pw
 - dnoid.to
-- docapp.ch
-- docs.ansible.com
-- dontwasteyourmoney.com
-- doodle.com
-- dr-dsgvo.de
-- dr-gumpert.de
-- duden.de
-- dutchnews.nl
-- dw.com
-- easyjet.com
-- eatbetter.de
-- eater.com
-- eatsmarter.de
-- ebaumsworld.com
-- ebay-kleinanzeigen.de
+- ![favicon](https://icons.duckduckgo.com/ip3/docapp.ch.ico) docapp.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/docs.ansible.com.ico) docs.ansible.com
+- ![favicon](https://icons.duckduckgo.com/ip3/dontwasteyourmoney.com.ico) dontwasteyourmoney.com
+- ![favicon](https://icons.duckduckgo.com/ip3/doodle.com.ico) doodle.com
+- ![favicon](https://icons.duckduckgo.com/ip3/dr-dsgvo.de.ico) dr-dsgvo.de
+- ![favicon](https://icons.duckduckgo.com/ip3/dr-gumpert.de.ico) dr-gumpert.de
+- ![favicon](https://icons.duckduckgo.com/ip3/duden.de.ico) duden.de
+- ![favicon](https://icons.duckduckgo.com/ip3/dutchnews.nl.ico) dutchnews.nl
+- ![favicon](https://icons.duckduckgo.com/ip3/dw.com.ico) dw.com
+- ![favicon](https://icons.duckduckgo.com/ip3/easyjet.com.ico) easyjet.com
+- ![favicon](https://icons.duckduckgo.com/ip3/eatbetter.de.ico) eatbetter.de
+- ![favicon](https://icons.duckduckgo.com/ip3/eater.com.ico) eater.com
+- ![favicon](https://icons.duckduckgo.com/ip3/eatsmarter.de.ico) eatsmarter.de
+- ![favicon](https://icons.duckduckgo.com/ip3/ebaumsworld.com.ico) ebaumsworld.com
+- ![favicon](https://icons.duckduckgo.com/ip3/ebay-kleinanzeigen.de.ico) ebay-kleinanzeigen.de
 - ebookee.com
-- ecomento.de
-- economictimes.indiatimes.com
-- economist.com
+- ![favicon](https://icons.duckduckgo.com/ip3/ecomento.de.ico) ecomento.de
+- ![favicon](https://icons.duckduckgo.com/ip3/economictimes.indiatimes.com.ico) economictimes.indiatimes.com
+- ![favicon](https://icons.duckduckgo.com/ip3/economist.com.ico) economist.com
 - ecos-online.de
-- edition.cnn.com
-- educationworld.com
-- edureka.co
+- ![favicon](https://icons.duckduckgo.com/ip3/edition.cnn.com.ico) edition.cnn.com
+- ![favicon](https://icons.duckduckgo.com/ip3/educationworld.com.ico) educationworld.com
+- ![favicon](https://icons.duckduckgo.com/ip3/edureka.co.ico) edureka.co
 - eftm.com
-- einfachbacken.de
-- elektrotanya.com
-- emojipedia.org
-- emuparadise.me
-- en-gb.smashrun.com
-- en.comparis.ch
-- en.cryptonomist.ch
-- en.wikipedia.org
-- englisch-hilfen.de
-- english.elpais.com
-- eshop-prices.com
-- esquire.de
+- ![favicon](https://icons.duckduckgo.com/ip3/einfachbacken.de.ico) einfachbacken.de
+- ![favicon](https://icons.duckduckgo.com/ip3/elektrotanya.com.ico) elektrotanya.com
+- ![favicon](https://icons.duckduckgo.com/ip3/emojipedia.org.ico) emojipedia.org
+- ![favicon](https://icons.duckduckgo.com/ip3/emuparadise.me.ico) emuparadise.me
+- ![favicon](https://icons.duckduckgo.com/ip3/en-gb.smashrun.com.ico) en-gb.smashrun.com
+- ![favicon](https://icons.duckduckgo.com/ip3/en.comparis.ch.ico) en.comparis.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/en.cryptonomist.ch.ico) en.cryptonomist.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico) en.wikipedia.org
+- ![favicon](https://icons.duckduckgo.com/ip3/englisch-hilfen.de.ico) englisch-hilfen.de
+- ![favicon](https://icons.duckduckgo.com/ip3/english.elpais.com.ico) english.elpais.com
+- ![favicon](https://icons.duckduckgo.com/ip3/eshop-prices.com.ico) eshop-prices.com
+- ![favicon](https://icons.duckduckgo.com/ip3/esquire.de.ico) esquire.de
 - eurailpress.de
-- eurogamer.de
-- eurogamer.net
-- evangelische-zeitung.de
+- ![favicon](https://icons.duckduckgo.com/ip3/eurogamer.de.ico) eurogamer.de
+- ![favicon](https://icons.duckduckgo.com/ip3/eurogamer.net.ico) eurogamer.net
+- ![favicon](https://icons.duckduckgo.com/ip3/evangelische-zeitung.de.ico) evangelische-zeitung.de
 - exali.ch
-- express.co.uk
-- eztv.re
-- facts.net
-- faktastisch.de
-- fastcompany.com
-- faz.net
-- feiertag.info
-- fictionhorizon.com
-- film.at
-- filmstarts.de
-- finance.yahoo.com
-- finanzen.ch
-- finanzen.net
+- ![favicon](https://icons.duckduckgo.com/ip3/express.co.uk.ico) express.co.uk
+- ![favicon](https://icons.duckduckgo.com/ip3/facts.net.ico) facts.net
+- ![favicon](https://icons.duckduckgo.com/ip3/faktastisch.de.ico) faktastisch.de
+- ![favicon](https://icons.duckduckgo.com/ip3/fastcompany.com.ico) fastcompany.com
+- ![favicon](https://icons.duckduckgo.com/ip3/faz.net.ico) faz.net
+- ![favicon](https://icons.duckduckgo.com/ip3/feiertag.info.ico) feiertag.info
+- ![favicon](https://icons.duckduckgo.com/ip3/fictionhorizon.com.ico) fictionhorizon.com
+- ![favicon](https://icons.duckduckgo.com/ip3/film.at.ico) film.at
+- ![favicon](https://icons.duckduckgo.com/ip3/filmstarts.de.ico) filmstarts.de
+- ![favicon](https://icons.duckduckgo.com/ip3/finance.yahoo.com.ico) finance.yahoo.com
+- ![favicon](https://icons.duckduckgo.com/ip3/finanzen.ch.ico) finanzen.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/finanzen.net.ico) finanzen.net
 - finews.ch
-- firstsportz.com
-- fitforfun.de
-- flyertalk.com
-- focus.de
-- forbes.com
-- fortune.com
-- forum.pianoworld.com
-- forum.xda-developers.com
-- fox29.com
-- fr.de
-- fragen.lifeline.de
-- freeadultcomix.com
-- freebies.indiegala.com
-- freecoursesonline.me
-- freefontsdownload.net
-- freetutsdownload.com
-- freitag.de
-- freundin.de
-- fstoppers.com
-- ft.com
-- ftd.de
-- futurezone.at
-- gamerant.com
-- games.ch
-- gamesradar.com
-- gamestar.de
-- gamulator.com
-- gartenjournal.net
-- gearrice.com
-- geekflare.com
-- geeksforgeeks.org
-- genius.com
-- geo.de
-- geocaching.com
+- ![favicon](https://icons.duckduckgo.com/ip3/firstsportz.com.ico) firstsportz.com
+- ![favicon](https://icons.duckduckgo.com/ip3/fitforfun.de.ico) fitforfun.de
+- ![favicon](https://icons.duckduckgo.com/ip3/flyertalk.com.ico) flyertalk.com
+- ![favicon](https://icons.duckduckgo.com/ip3/focus.de.ico) focus.de
+- ![favicon](https://icons.duckduckgo.com/ip3/forbes.com.ico) forbes.com
+- ![favicon](https://icons.duckduckgo.com/ip3/fortune.com.ico) fortune.com
+- ![favicon](https://icons.duckduckgo.com/ip3/forum.pianoworld.com.ico) forum.pianoworld.com
+- ![favicon](https://icons.duckduckgo.com/ip3/forum.xda-developers.com.ico) forum.xda-developers.com
+- ![favicon](https://icons.duckduckgo.com/ip3/fox29.com.ico) fox29.com
+- ![favicon](https://icons.duckduckgo.com/ip3/fr.de.ico) fr.de
+- ![favicon](https://icons.duckduckgo.com/ip3/fragen.lifeline.de.ico) fragen.lifeline.de
+- ![favicon](https://icons.duckduckgo.com/ip3/freebies.indiegala.com.ico) freebies.indiegala.com
+- ![favicon](https://icons.duckduckgo.com/ip3/freefontsdownload.net.ico) freefontsdownload.net
+- ![favicon](https://icons.duckduckgo.com/ip3/freetutsdownload.com.ico) freetutsdownload.com
+- ![favicon](https://icons.duckduckgo.com/ip3/freitag.de.ico) freitag.de
+- ![favicon](https://icons.duckduckgo.com/ip3/freundin.de.ico) freundin.de
+- ![favicon](https://icons.duckduckgo.com/ip3/fstoppers.com.ico) fstoppers.com
+- ![favicon](https://icons.duckduckgo.com/ip3/ft.com.ico) ft.com
+- ![favicon](https://icons.duckduckgo.com/ip3/ftd.de.ico) ftd.de
+- ![favicon](https://icons.duckduckgo.com/ip3/futurezone.at.ico) futurezone.at
+- ![favicon](https://icons.duckduckgo.com/ip3/gamerant.com.ico) gamerant.com
+- ![favicon](https://icons.duckduckgo.com/ip3/games.ch.ico) games.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/gamesradar.com.ico) gamesradar.com
+- ![favicon](https://icons.duckduckgo.com/ip3/gamestar.de.ico) gamestar.de
+- ![favicon](https://icons.duckduckgo.com/ip3/gamulator.com.ico) gamulator.com
+- ![favicon](https://icons.duckduckgo.com/ip3/gartenjournal.net.ico) gartenjournal.net
+- ![favicon](https://icons.duckduckgo.com/ip3/gearrice.com.ico) gearrice.com
+- ![favicon](https://icons.duckduckgo.com/ip3/geekflare.com.ico) geekflare.com
+- ![favicon](https://icons.duckduckgo.com/ip3/geeksforgeeks.org.ico) geeksforgeeks.org
+- ![favicon](https://icons.duckduckgo.com/ip3/genius.com.ico) genius.com
+- ![favicon](https://icons.duckduckgo.com/ip3/geo.de.ico) geo.de
+- ![favicon](https://icons.duckduckgo.com/ip3/geocaching.com.ico) geocaching.com
 - geschichtedergegenwart.ch
-- gesundheitsfrage.net
-- getdroidtips.com
-- getpocket.com
-- gettotext.com
+- ![favicon](https://icons.duckduckgo.com/ip3/gesundheitsfrage.net.ico) gesundheitsfrage.net
+- ![favicon](https://icons.duckduckgo.com/ip3/getdroidtips.com.ico) getdroidtips.com
+- ![favicon](https://icons.duckduckgo.com/ip3/getpocket.com.ico) getpocket.com
+- ![favicon](https://icons.duckduckgo.com/ip3/gettotext.com.ico) gettotext.com
 - ghacks.net
-- giga.de
-- github.com
-- gitlab.com
-- gizmodo.com
-- gizmodo.com.au
-- glamour.de
-- glassdoor.com
-- global.techradar.com
+- ![favicon](https://icons.duckduckgo.com/ip3/giga.de.ico) giga.de
+- ![favicon](https://icons.duckduckgo.com/ip3/github.com.ico) github.com
+- ![favicon](https://icons.duckduckgo.com/ip3/gitlab.com.ico) gitlab.com
+- ![favicon](https://icons.duckduckgo.com/ip3/gizmodo.com.ico) gizmodo.com
+- ![favicon](https://icons.duckduckgo.com/ip3/gizmodo.com.au.ico) gizmodo.com.au
+- ![favicon](https://icons.duckduckgo.com/ip3/glamour.de.ico) glamour.de
+- ![favicon](https://icons.duckduckgo.com/ip3/glassdoor.com.ico) glassdoor.com
+- ![favicon](https://icons.duckduckgo.com/ip3/global.techradar.com.ico) global.techradar.com
 - globifylanguages.com
 - gmx.at
 - gmx.ch
-- gmx.de
-- gmx.net
-- golem.de
-- google.com
-- googlewatchblog.de
-- gq-magazin.de
-- guidingtech.com
-- gutefrage.net
+- ![favicon](https://icons.duckduckgo.com/ip3/gmx.de.ico) gmx.de
+- ![favicon](https://icons.duckduckgo.com/ip3/gmx.net.ico) gmx.net
+- ![favicon](https://icons.duckduckgo.com/ip3/golem.de.ico) golem.de
+- ![favicon](https://icons.duckduckgo.com/ip3/google.com.ico) google.com
+- ![favicon](https://icons.duckduckgo.com/ip3/googlewatchblog.de.ico) googlewatchblog.de
+- ![favicon](https://icons.duckduckgo.com/ip3/gq-magazin.de.ico) gq-magazin.de
+- ![favicon](https://icons.duckduckgo.com/ip3/guidingtech.com.ico) guidingtech.com
+- ![favicon](https://icons.duckduckgo.com/ip3/gutefrage.net.ico) gutefrage.net
 - haaretz.com
-- hackster.io
+- ![favicon](https://icons.duckduckgo.com/ip3/hackster.io.ico) hackster.io
 - handelsblatt.com
 - handelszeitung.ch
-- handgepaeckguide.de
-- harpersbazaar.de
+- ![favicon](https://icons.duckduckgo.com/ip3/handgepaeckguide.de.ico) handgepaeckguide.de
+- ![favicon](https://icons.duckduckgo.com/ip3/harpersbazaar.de.ico) harpersbazaar.de
 - hausgeraete-test.de
-- haz.de
-- heise.de
-- hessenschau.de
-- heute.at
-- hifi.de
-- highscalability.com
-- hitc.com
+- ![favicon](https://icons.duckduckgo.com/ip3/haz.de.ico) haz.de
+- ![favicon](https://icons.duckduckgo.com/ip3/heise.de.ico) heise.de
+- ![favicon](https://icons.duckduckgo.com/ip3/hessenschau.de.ico) hessenschau.de
+- ![favicon](https://icons.duckduckgo.com/ip3/heute.at.ico) heute.at
+- ![favicon](https://icons.duckduckgo.com/ip3/hifi.de.ico) hifi.de
+- ![favicon](https://icons.duckduckgo.com/ip3/highscalability.com.ico) highscalability.com
+- ![favicon](https://icons.duckduckgo.com/ip3/hitc.com.ico) hitc.com
 - home.navigator.gmx.net
-- homegate.ch
-- homeoftravel.de
-- homesteady.com
-- howtogeek.com
-- howtoisolve.com
-- hub.docker.com
-- huffpost.com
-- ibooks.to
-- idropnews.com
-- ifixit.com
-- imgur.com
+- ![favicon](https://icons.duckduckgo.com/ip3/homegate.ch.ico) homegate.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/homeoftravel.de.ico) homeoftravel.de
+- ![favicon](https://icons.duckduckgo.com/ip3/homesteady.com.ico) homesteady.com
+- ![favicon](https://icons.duckduckgo.com/ip3/howtogeek.com.ico) howtogeek.com
+- ![favicon](https://icons.duckduckgo.com/ip3/howtoisolve.com.ico) howtoisolve.com
+- ![favicon](https://icons.duckduckgo.com/ip3/hub.docker.com.ico) hub.docker.com
+- ![favicon](https://icons.duckduckgo.com/ip3/huffpost.com.ico) huffpost.com
+- ![favicon](https://icons.duckduckgo.com/ip3/ibooks.to.ico) ibooks.to
+- ![favicon](https://icons.duckduckgo.com/ip3/idropnews.com.ico) idropnews.com
+- ![favicon](https://icons.duckduckgo.com/ip3/ifixit.com.ico) ifixit.com
+- ![favicon](https://icons.duckduckgo.com/ip3/imgur.com.ico) imgur.com
 - immoscout24.ch
-- imore.com
-- imtest.de
-- independent.co.uk
-- indianexpress.com
-- indiatimes.com
-- infiniteundo.com
-- infoq.com
+- ![favicon](https://icons.duckduckgo.com/ip3/imore.com.ico) imore.com
+- ![favicon](https://icons.duckduckgo.com/ip3/imtest.de.ico) imtest.de
+- ![favicon](https://icons.duckduckgo.com/ip3/independent.co.uk.ico) independent.co.uk
+- ![favicon](https://icons.duckduckgo.com/ip3/indianexpress.com.ico) indianexpress.com
+- ![favicon](https://icons.duckduckgo.com/ip3/indiatimes.com.ico) indiatimes.com
+- ![favicon](https://icons.duckduckgo.com/ip3/infiniteundo.com.ico) infiniteundo.com
+- ![favicon](https://icons.duckduckgo.com/ip3/infoq.com.ico) infoq.com
 - infranken.de
-- ingame.de
-- inquirer.com
-- inside-it.ch
-- insider.com
-- instagram.com
-- instagram.en.uptodown.com
-- interestingengineering.com
-- inverse.com
-- investopedia.com
-- ipswichstar.co.uk
+- ![favicon](https://icons.duckduckgo.com/ip3/ingame.de.ico) ingame.de
+- ![favicon](https://icons.duckduckgo.com/ip3/inquirer.com.ico) inquirer.com
+- ![favicon](https://icons.duckduckgo.com/ip3/inside-it.ch.ico) inside-it.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/insider.com.ico) insider.com
+- ![favicon](https://icons.duckduckgo.com/ip3/instagram.com.ico) instagram.com
+- ![favicon](https://icons.duckduckgo.com/ip3/instagram.en.uptodown.com.ico) instagram.en.uptodown.com
+- ![favicon](https://icons.duckduckgo.com/ip3/interestingengineering.com.ico) interestingengineering.com
+- ![favicon](https://icons.duckduckgo.com/ip3/inverse.com.ico) inverse.com
+- ![favicon](https://icons.duckduckgo.com/ip3/investopedia.com.ico) investopedia.com
+- ![favicon](https://icons.duckduckgo.com/ip3/ipswichstar.co.uk.ico) ipswichstar.co.uk
 - itmagazine.ch
-- itreseller.ch
-- jobleads.com
-- jofogas.hu
+- ![favicon](https://icons.duckduckgo.com/ip3/itreseller.ch.ico) itreseller.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/jobleads.com.ico) jobleads.com
+- ![favicon](https://icons.duckduckgo.com/ip3/jofogas.hu.ico) jofogas.hu
 - jsonformatter.curiousconcept.com
 - juedische-allgemeine.de
-- justetf.com
-- kayak.de
-- kino.de
-- kleinanzeigen.de
-- kleinezeitung.at
-- knovhov.com
-- knowyourmeme.com
-- kompass.com
-- krebsonsecurity.com
-- ladbible.com
+- ![favicon](https://icons.duckduckgo.com/ip3/justetf.com.ico) justetf.com
+- ![favicon](https://icons.duckduckgo.com/ip3/kayak.de.ico) kayak.de
+- ![favicon](https://icons.duckduckgo.com/ip3/kino.de.ico) kino.de
+- ![favicon](https://icons.duckduckgo.com/ip3/kleinanzeigen.de.ico) kleinanzeigen.de
+- ![favicon](https://icons.duckduckgo.com/ip3/kleinezeitung.at.ico) kleinezeitung.at
+- ![favicon](https://icons.duckduckgo.com/ip3/knovhov.com.ico) knovhov.com
+- ![favicon](https://icons.duckduckgo.com/ip3/knowyourmeme.com.ico) knowyourmeme.com
+- ![favicon](https://icons.duckduckgo.com/ip3/kompass.com.ico) kompass.com
+- ![favicon](https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico) krebsonsecurity.com
+- ![favicon](https://icons.duckduckgo.com/ip3/ladbible.com.ico) ladbible.com
 - laptrinhx.com
 - latex.org
-- lauterbacher-anzeiger.de
-- lemonde.fr
-- leo.org
-- letemps.ch
-- letterboxd.com
+- ![favicon](https://icons.duckduckgo.com/ip3/lauterbacher-anzeiger.de.ico) lauterbacher-anzeiger.de
+- ![favicon](https://icons.duckduckgo.com/ip3/lemonde.fr.ico) lemonde.fr
+- ![favicon](https://icons.duckduckgo.com/ip3/leo.org.ico) leo.org
+- ![favicon](https://icons.duckduckgo.com/ip3/letemps.ch.ico) letemps.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/letterboxd.com.ico) letterboxd.com
 - levels.fyi
 - libgen.rocks
-- lifewire.com
-- limetorrents.info
-- limetorrentx.cc
-- linkedin.com
-- linux-magazin.de
-- linuxconfig.org
-- linuxhint.com
-- linuxlinks.com
-- linuxnews.de
-- livescience.com
-- logosbynick.com
+- ![favicon](https://icons.duckduckgo.com/ip3/lifewire.com.ico) lifewire.com
+- ![favicon](https://icons.duckduckgo.com/ip3/limetorrentx.cc.ico) limetorrentx.cc
+- ![favicon](https://icons.duckduckgo.com/ip3/linkedin.com.ico) linkedin.com
+- ![favicon](https://icons.duckduckgo.com/ip3/linux-magazin.de.ico) linux-magazin.de
+- ![favicon](https://icons.duckduckgo.com/ip3/linuxconfig.org.ico) linuxconfig.org
+- ![favicon](https://icons.duckduckgo.com/ip3/linuxhint.com.ico) linuxhint.com
+- ![favicon](https://icons.duckduckgo.com/ip3/linuxlinks.com.ico) linuxlinks.com
+- ![favicon](https://icons.duckduckgo.com/ip3/linuxnews.de.ico) linuxnews.de
+- ![favicon](https://icons.duckduckgo.com/ip3/livescience.com.ico) livescience.com
+- ![favicon](https://icons.duckduckgo.com/ip3/logosbynick.com.ico) logosbynick.com
 - lowcarbrezepte.org
-- luzernerzeitung.ch
-- lyricsmode.com
-- m.bild.de
-- m.faz.net
-- m.focus.de
-- macstories.net
-- mactechnews.de
-- makandracards.com
-- maketecheasier.com
-- markets.businessinsider.com
+- ![favicon](https://icons.duckduckgo.com/ip3/luzernerzeitung.ch.ico) luzernerzeitung.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/lyricsmode.com.ico) lyricsmode.com
+- ![favicon](https://icons.duckduckgo.com/ip3/m.bild.de.ico) m.bild.de
+- ![favicon](https://icons.duckduckgo.com/ip3/m.faz.net.ico) m.faz.net
+- ![favicon](https://icons.duckduckgo.com/ip3/m.focus.de.ico) m.focus.de
+- ![favicon](https://icons.duckduckgo.com/ip3/macstories.net.ico) macstories.net
+- ![favicon](https://icons.duckduckgo.com/ip3/mactechnews.de.ico) mactechnews.de
+- ![favicon](https://icons.duckduckgo.com/ip3/makandracards.com.ico) makandracards.com
+- ![favicon](https://icons.duckduckgo.com/ip3/maketecheasier.com.ico) maketecheasier.com
+- ![favicon](https://icons.duckduckgo.com/ip3/markets.businessinsider.com.ico) markets.businessinsider.com
 - marktundmittelstand.de
-- marthastewart.com
-- mathepower.com
-- mdr.de
-- medicalnewstoday.com
-- medium.com
-- meetup.com
-- mein-schoener-garten.de
-- menshealth.de
-- mensjournal.com
-- merkur.de
-- metacritic.com
-- metro.co.uk
+- ![favicon](https://icons.duckduckgo.com/ip3/marthastewart.com.ico) marthastewart.com
+- ![favicon](https://icons.duckduckgo.com/ip3/mathepower.com.ico) mathepower.com
+- ![favicon](https://icons.duckduckgo.com/ip3/mdr.de.ico) mdr.de
+- ![favicon](https://icons.duckduckgo.com/ip3/medicalnewstoday.com.ico) medicalnewstoday.com
+- ![favicon](https://icons.duckduckgo.com/ip3/medium.com.ico) medium.com
+- ![favicon](https://icons.duckduckgo.com/ip3/meetup.com.ico) meetup.com
+- ![favicon](https://icons.duckduckgo.com/ip3/mein-schoener-garten.de.ico) mein-schoener-garten.de
+- ![favicon](https://icons.duckduckgo.com/ip3/menshealth.de.ico) menshealth.de
+- ![favicon](https://icons.duckduckgo.com/ip3/mensjournal.com.ico) mensjournal.com
+- ![favicon](https://icons.duckduckgo.com/ip3/merkur.de.ico) merkur.de
+- ![favicon](https://icons.duckduckgo.com/ip3/metacritic.com.ico) metacritic.com
+- ![favicon](https://icons.duckduckgo.com/ip3/metro.co.uk.ico) metro.co.uk
 - mimikama.org
 - minitool.com
 - moneyhouse.ch
 - moneyweek.com
-- mopo.de
-- moregameslike.com
-- morgenpost.de
-- motherjones.com
-- moviepilot.de
-- moz.de
-- msn.com
-- music.youtube.com
-- mydealz.de
-- n-joy.de
-- n-tv.de
-- nachhaltigleben.ch
-- nationalgeographic.com
-- nationalgeographic.de
+- ![favicon](https://icons.duckduckgo.com/ip3/mopo.de.ico) mopo.de
+- ![favicon](https://icons.duckduckgo.com/ip3/moregameslike.com.ico) moregameslike.com
+- ![favicon](https://icons.duckduckgo.com/ip3/morgenpost.de.ico) morgenpost.de
+- ![favicon](https://icons.duckduckgo.com/ip3/motherjones.com.ico) motherjones.com
+- ![favicon](https://icons.duckduckgo.com/ip3/moviepilot.de.ico) moviepilot.de
+- ![favicon](https://icons.duckduckgo.com/ip3/moz.de.ico) moz.de
+- ![favicon](https://icons.duckduckgo.com/ip3/msn.com.ico) msn.com
+- ![favicon](https://icons.duckduckgo.com/ip3/music.youtube.com.ico) music.youtube.com
+- ![favicon](https://icons.duckduckgo.com/ip3/mydealz.de.ico) mydealz.de
+- ![favicon](https://icons.duckduckgo.com/ip3/n-joy.de.ico) n-joy.de
+- ![favicon](https://icons.duckduckgo.com/ip3/n-tv.de.ico) n-tv.de
+- ![favicon](https://icons.duckduckgo.com/ip3/nachhaltigleben.ch.ico) nachhaltigleben.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/nationalgeographic.com.ico) nationalgeographic.com
+- ![favicon](https://icons.duckduckgo.com/ip3/nationalgeographic.de.ico) nationalgeographic.de
 - nature.com
-- nau.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/nau.ch.ico) nau.ch
 - navigator.gmx.net
-- nbcnews.com
-- nebelspalter.ch
-- netdoktor.ch
-- netmums.com
-- networkworld.com
-- netzpolitik.org
-- netzwelt.de
-- netzwoche.ch
-- newatlas.com
-- newhome.ch
-- news.yahoo.com
-- newscientist.com
-- newsweek.com
-- newyorker.com
-- next-episode.net
-- nintendo-connect.de
-- nintendolife.com
+- ![favicon](https://icons.duckduckgo.com/ip3/nbcnews.com.ico) nbcnews.com
+- ![favicon](https://icons.duckduckgo.com/ip3/nebelspalter.ch.ico) nebelspalter.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/netdoktor.ch.ico) netdoktor.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/netmums.com.ico) netmums.com
+- ![favicon](https://icons.duckduckgo.com/ip3/networkworld.com.ico) networkworld.com
+- ![favicon](https://icons.duckduckgo.com/ip3/netzpolitik.org.ico) netzpolitik.org
+- ![favicon](https://icons.duckduckgo.com/ip3/netzwelt.de.ico) netzwelt.de
+- ![favicon](https://icons.duckduckgo.com/ip3/netzwoche.ch.ico) netzwoche.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/newatlas.com.ico) newatlas.com
+- ![favicon](https://icons.duckduckgo.com/ip3/newhome.ch.ico) newhome.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/news.yahoo.com.ico) news.yahoo.com
+- ![favicon](https://icons.duckduckgo.com/ip3/newscientist.com.ico) newscientist.com
+- ![favicon](https://icons.duckduckgo.com/ip3/newsweek.com.ico) newsweek.com
+- ![favicon](https://icons.duckduckgo.com/ip3/newyorker.com.ico) newyorker.com
+- ![favicon](https://icons.duckduckgo.com/ip3/next-episode.net.ico) next-episode.net
+- ![favicon](https://icons.duckduckgo.com/ip3/nintendo-connect.de.ico) nintendo-connect.de
+- ![favicon](https://icons.duckduckgo.com/ip3/nintendolife.com.ico) nintendolife.com
 - nintendoworldreport.com
-- npr.org
-- nrwz.de
-- nu.nl
-- nydailynews.com
-- nymag.com
-- nypost.com
-- nytimes.com
-- nzz.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/npr.org.ico) npr.org
+- ![favicon](https://icons.duckduckgo.com/ip3/nrwz.de.ico) nrwz.de
+- ![favicon](https://icons.duckduckgo.com/ip3/nu.nl.ico) nu.nl
+- ![favicon](https://icons.duckduckgo.com/ip3/nydailynews.com.ico) nydailynews.com
+- ![favicon](https://icons.duckduckgo.com/ip3/nymag.com.ico) nymag.com
+- ![favicon](https://icons.duckduckgo.com/ip3/nypost.com.ico) nypost.com
+- ![favicon](https://icons.duckduckgo.com/ip3/nytimes.com.ico) nytimes.com
+- ![favicon](https://icons.duckduckgo.com/ip3/nzz.ch.ico) nzz.ch
 - occupydemocrats.com
-- oe24.at
-- okdiario.com
-- omglinux.com
-- onmeda.de
-- open.spotify.com
-- opensource.com
-- opensubtitles.org
-- orf.at
-- outsideonline.com
-- packtpub.com
-- pagesix.com
-- pastedownload.com
-- pc-magazin.de
-- pcgamer.com
-- pcgames.de
-- pcgameshardware.de
+- ![favicon](https://icons.duckduckgo.com/ip3/oe24.at.ico) oe24.at
+- ![favicon](https://icons.duckduckgo.com/ip3/okdiario.com.ico) okdiario.com
+- ![favicon](https://icons.duckduckgo.com/ip3/omglinux.com.ico) omglinux.com
+- ![favicon](https://icons.duckduckgo.com/ip3/onmeda.de.ico) onmeda.de
+- ![favicon](https://icons.duckduckgo.com/ip3/open.spotify.com.ico) open.spotify.com
+- ![favicon](https://icons.duckduckgo.com/ip3/opensource.com.ico) opensource.com
+- ![favicon](https://icons.duckduckgo.com/ip3/opensubtitles.org.ico) opensubtitles.org
+- ![favicon](https://icons.duckduckgo.com/ip3/orf.at.ico) orf.at
+- ![favicon](https://icons.duckduckgo.com/ip3/outsideonline.com.ico) outsideonline.com
+- ![favicon](https://icons.duckduckgo.com/ip3/packtpub.com.ico) packtpub.com
+- ![favicon](https://icons.duckduckgo.com/ip3/pagesix.com.ico) pagesix.com
+- ![favicon](https://icons.duckduckgo.com/ip3/pastedownload.com.ico) pastedownload.com
+- ![favicon](https://icons.duckduckgo.com/ip3/pc-magazin.de.ico) pc-magazin.de
+- ![favicon](https://icons.duckduckgo.com/ip3/pcgamer.com.ico) pcgamer.com
+- ![favicon](https://icons.duckduckgo.com/ip3/pcgames.de.ico) pcgames.de
+- ![favicon](https://icons.duckduckgo.com/ip3/pcgameshardware.de.ico) pcgameshardware.de
 - pcgameslike.com
-- pcmag.com
-- pctipp.ch
-- pcwelt.de
+- ![favicon](https://icons.duckduckgo.com/ip3/pcmag.com.ico) pcmag.com
+- ![favicon](https://icons.duckduckgo.com/ip3/pctipp.ch.ico) pctipp.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/pcwelt.de.ico) pcwelt.de
 - pdfen.com
-- people.com
-- persoenlich.com
-- petapixel.com
+- ![favicon](https://icons.duckduckgo.com/ip3/people.com.ico) people.com
+- ![favicon](https://icons.duckduckgo.com/ip3/persoenlich.com.ico) persoenlich.com
+- ![favicon](https://icons.duckduckgo.com/ip3/petapixel.com.ico) petapixel.com
 - phoenixnap.com
-- pilatustoday.ch
-- pirate-bays.net
-- plus.tagesspiegel.de
-- pnp.de
-- pocket-lint.com
-- politifact.com
-- polygon.com
-- pons.com
-- popularmechanics.com
-- pornhub.com
-- postgresqltutorial.com
-- poz.com
-- praxistipps.chip.de
-- praxistipps.focus.de
-- preispirat.ch
-- prepaid-wiki.de
-- pronto.es
-- prosieben.ch
-- psycatgames.com
-- psychologytoday.com
-- quantamagazine.org
-- quora.com
-- randomlists.com
-- rapidlydigital.com
-- raptastisch.net
-- ratgeber.bunte.de
-- rawstory.com
-- rd.com
-- reddit.com
+- ![favicon](https://icons.duckduckgo.com/ip3/pilatustoday.ch.ico) pilatustoday.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/pirate-bays.net.ico) pirate-bays.net
+- ![favicon](https://icons.duckduckgo.com/ip3/plus.tagesspiegel.de.ico) plus.tagesspiegel.de
+- ![favicon](https://icons.duckduckgo.com/ip3/pnp.de.ico) pnp.de
+- ![favicon](https://icons.duckduckgo.com/ip3/pocket-lint.com.ico) pocket-lint.com
+- ![favicon](https://icons.duckduckgo.com/ip3/politifact.com.ico) politifact.com
+- ![favicon](https://icons.duckduckgo.com/ip3/polygon.com.ico) polygon.com
+- ![favicon](https://icons.duckduckgo.com/ip3/pons.com.ico) pons.com
+- ![favicon](https://icons.duckduckgo.com/ip3/popularmechanics.com.ico) popularmechanics.com
+- ![favicon](https://icons.duckduckgo.com/ip3/postgresqltutorial.com.ico) postgresqltutorial.com
+- ![favicon](https://icons.duckduckgo.com/ip3/poz.com.ico) poz.com
+- ![favicon](https://icons.duckduckgo.com/ip3/praxistipps.chip.de.ico) praxistipps.chip.de
+- ![favicon](https://icons.duckduckgo.com/ip3/praxistipps.focus.de.ico) praxistipps.focus.de
+- ![favicon](https://icons.duckduckgo.com/ip3/preispirat.ch.ico) preispirat.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/prepaid-wiki.de.ico) prepaid-wiki.de
+- ![favicon](https://icons.duckduckgo.com/ip3/pronto.es.ico) pronto.es
+- ![favicon](https://icons.duckduckgo.com/ip3/prosieben.ch.ico) prosieben.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/psycatgames.com.ico) psycatgames.com
+- ![favicon](https://icons.duckduckgo.com/ip3/psychologytoday.com.ico) psychologytoday.com
+- ![favicon](https://icons.duckduckgo.com/ip3/quantamagazine.org.ico) quantamagazine.org
+- ![favicon](https://icons.duckduckgo.com/ip3/quora.com.ico) quora.com
+- ![favicon](https://icons.duckduckgo.com/ip3/randomlists.com.ico) randomlists.com
+- ![favicon](https://icons.duckduckgo.com/ip3/rapidlydigital.com.ico) rapidlydigital.com
+- ![favicon](https://icons.duckduckgo.com/ip3/raptastisch.net.ico) raptastisch.net
+- ![favicon](https://icons.duckduckgo.com/ip3/ratgeber.bunte.de.ico) ratgeber.bunte.de
+- ![favicon](https://icons.duckduckgo.com/ip3/rawstory.com.ico) rawstory.com
+- ![favicon](https://icons.duckduckgo.com/ip3/rd.com.ico) rd.com
+- ![favicon](https://icons.duckduckgo.com/ip3/reddit.com.ico) reddit.com
 - redensarten-index.de
-- republik.ch
-- restofworld.org
-- rezeptwelt.de
-- rintor.space
-- rnd.de
-- rollingstone.com
-- rome2rio.com
-- romhustler.org
-- romsfun.com
-- rp-online.de
-- rte.ie
-- rubyonrails.ba
-- runalyze.com
-- runnersworld.de
-- saarbruecker-zeitung.de
-- sammobile.com
-- sanet.lc
+- ![favicon](https://icons.duckduckgo.com/ip3/republik.ch.ico) republik.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/restofworld.org.ico) restofworld.org
+- ![favicon](https://icons.duckduckgo.com/ip3/rezeptwelt.de.ico) rezeptwelt.de
+- ![favicon](https://icons.duckduckgo.com/ip3/rintor.space.ico) rintor.space
+- ![favicon](https://icons.duckduckgo.com/ip3/rnd.de.ico) rnd.de
+- ![favicon](https://icons.duckduckgo.com/ip3/rollingstone.com.ico) rollingstone.com
+- ![favicon](https://icons.duckduckgo.com/ip3/rome2rio.com.ico) rome2rio.com
+- ![favicon](https://icons.duckduckgo.com/ip3/romhustler.org.ico) romhustler.org
+- ![favicon](https://icons.duckduckgo.com/ip3/romsfun.com.ico) romsfun.com
+- ![favicon](https://icons.duckduckgo.com/ip3/rp-online.de.ico) rp-online.de
+- ![favicon](https://icons.duckduckgo.com/ip3/rte.ie.ico) rte.ie
+- ![favicon](https://icons.duckduckgo.com/ip3/rubyonrails.ba.ico) rubyonrails.ba
+- ![favicon](https://icons.duckduckgo.com/ip3/runalyze.com.ico) runalyze.com
+- ![favicon](https://icons.duckduckgo.com/ip3/runnersworld.de.ico) runnersworld.de
+- ![favicon](https://icons.duckduckgo.com/ip3/saarbruecker-zeitung.de.ico) saarbruecker-zeitung.de
+- ![favicon](https://icons.duckduckgo.com/ip3/sammobile.com.ico) sammobile.com
+- ![favicon](https://icons.duckduckgo.com/ip3/sanet.lc.ico) sanet.lc
 - schweizer-illustrierte.ch
-- science.org
-- sciencenews.org
-- scientificamerican.com
-- scitechdaily.com
-- screenrant.com
-- sdtimes.com
-- secure.splitwise.com
-- securityinfowatch.com
+- ![favicon](https://icons.duckduckgo.com/ip3/science.org.ico) science.org
+- ![favicon](https://icons.duckduckgo.com/ip3/sciencenews.org.ico) sciencenews.org
+- ![favicon](https://icons.duckduckgo.com/ip3/scientificamerican.com.ico) scientificamerican.com
+- ![favicon](https://icons.duckduckgo.com/ip3/scitechdaily.com.ico) scitechdaily.com
+- ![favicon](https://icons.duckduckgo.com/ip3/screenrant.com.ico) screenrant.com
+- ![favicon](https://icons.duckduckgo.com/ip3/sdtimes.com.ico) sdtimes.com
+- ![favicon](https://icons.duckduckgo.com/ip3/secure.splitwise.com.ico) secure.splitwise.com
+- ![favicon](https://icons.duckduckgo.com/ip3/securityinfowatch.com.ico) securityinfowatch.com
 - seevetal-aktuell.de
-- serienjunkies.de
-- servethehome.com
+- ![favicon](https://icons.duckduckgo.com/ip3/serienjunkies.de.ico) serienjunkies.de
+- ![favicon](https://icons.duckduckgo.com/ip3/servethehome.com.ico) servethehome.com
 - servicemanuals.us
-- sitepoint.com
-- sky.com
+- ![favicon](https://icons.duckduckgo.com/ip3/sitepoint.com.ico) sitepoint.com
+- ![favicon](https://icons.duckduckgo.com/ip3/sky.com.ico) sky.com
 - smarthomeassistent.de
-- smithsonianmag.com
-- snopes.com
-- softonic.com
-- songfacts.com
-- songlyrics.com
+- ![favicon](https://icons.duckduckgo.com/ip3/smithsonianmag.com.ico) smithsonianmag.com
+- ![favicon](https://icons.duckduckgo.com/ip3/snopes.com.ico) snopes.com
+- ![favicon](https://icons.duckduckgo.com/ip3/softonic.com.ico) softonic.com
+- ![favicon](https://icons.duckduckgo.com/ip3/songfacts.com.ico) songfacts.com
+- ![favicon](https://icons.duckduckgo.com/ip3/songlyrics.com.ico) songlyrics.com
 - speedtorrent.com
-- spektrum.de
-- spiegel.de
-- spieleforum.de
-- spieletipps.de
+- ![favicon](https://icons.duckduckgo.com/ip3/spektrum.de.ico) spektrum.de
+- ![favicon](https://icons.duckduckgo.com/ip3/spiegel.de.ico) spiegel.de
+- ![favicon](https://icons.duckduckgo.com/ip3/spieleforum.de.ico) spieleforum.de
+- ![favicon](https://icons.duckduckgo.com/ip3/spieletipps.de.ico) spieletipps.de
 - spin.atomicobject.com
-- srf.ch
-- ssstwitter.com
-- stackoverflow.com
+- ![favicon](https://icons.duckduckgo.com/ip3/srf.ch.ico) srf.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/ssstwitter.com.ico) ssstwitter.com
+- ![favicon](https://icons.duckduckgo.com/ip3/stackoverflow.com.ico) stackoverflow.com
 - stadionwelt.de
-- stadt-bremerhaven.de
-- standard.co.uk
-- stern.de
-- strava.com
-- streaming.ch
-- stuttgarter-zeitung.de
-- sueddeutsche.de
-- swissinfo.ch
-- swrfernsehen.de
-- syfy.com
-- szenebox.org
-- t-online.de
-- t3n.de
-- tag24.de
-- tagblatt.ch
-- tagesanzeiger.ch
-- tagesspiegel.de
-- tampabay.com
+- ![favicon](https://icons.duckduckgo.com/ip3/stadt-bremerhaven.de.ico) stadt-bremerhaven.de
+- ![favicon](https://icons.duckduckgo.com/ip3/standard.co.uk.ico) standard.co.uk
+- ![favicon](https://icons.duckduckgo.com/ip3/stern.de.ico) stern.de
+- ![favicon](https://icons.duckduckgo.com/ip3/strava.com.ico) strava.com
+- ![favicon](https://icons.duckduckgo.com/ip3/streaming.ch.ico) streaming.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/stuttgarter-zeitung.de.ico) stuttgarter-zeitung.de
+- ![favicon](https://icons.duckduckgo.com/ip3/sueddeutsche.de.ico) sueddeutsche.de
+- ![favicon](https://icons.duckduckgo.com/ip3/swissinfo.ch.ico) swissinfo.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/swrfernsehen.de.ico) swrfernsehen.de
+- ![favicon](https://icons.duckduckgo.com/ip3/syfy.com.ico) syfy.com
+- ![favicon](https://icons.duckduckgo.com/ip3/szenebox.org.ico) szenebox.org
+- ![favicon](https://icons.duckduckgo.com/ip3/t-online.de.ico) t-online.de
+- ![favicon](https://icons.duckduckgo.com/ip3/t3n.de.ico) t3n.de
+- ![favicon](https://icons.duckduckgo.com/ip3/tag24.de.ico) tag24.de
+- ![favicon](https://icons.duckduckgo.com/ip3/tagblatt.ch.ico) tagblatt.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/tagesanzeiger.ch.ico) tagesanzeiger.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/tagesspiegel.de.ico) tagesspiegel.de
+- ![favicon](https://icons.duckduckgo.com/ip3/tampabay.com.ico) tampabay.com
 - target.com
 - tarnkappe.info
 - taxi-times.com
-- taz.de
-- techcrunch.com
-- technologyreview.com
-- techotopia.com
-- techradar.com
-- techspot.com
-- tecmint.com
-- telefon-kontakte.ch
-- telegraf.com.ua
-- telegraph.co.uk
-- telepolis.de
+- ![favicon](https://icons.duckduckgo.com/ip3/taz.de.ico) taz.de
+- ![favicon](https://icons.duckduckgo.com/ip3/techcrunch.com.ico) techcrunch.com
+- ![favicon](https://icons.duckduckgo.com/ip3/technologyreview.com.ico) technologyreview.com
+- ![favicon](https://icons.duckduckgo.com/ip3/techotopia.com.ico) techotopia.com
+- ![favicon](https://icons.duckduckgo.com/ip3/techradar.com.ico) techradar.com
+- ![favicon](https://icons.duckduckgo.com/ip3/techspot.com.ico) techspot.com
+- ![favicon](https://icons.duckduckgo.com/ip3/tecmint.com.ico) tecmint.com
+- ![favicon](https://icons.duckduckgo.com/ip3/telegraf.com.ua.ico) telegraf.com.ua
+- ![favicon](https://icons.duckduckgo.com/ip3/telegraph.co.uk.ico) telegraph.co.uk
+- ![favicon](https://icons.duckduckgo.com/ip3/telepolis.de.ico) telepolis.de
 - teltarif.de
-- tgx.rs
-- tgx.sb
-- the-sun.com
-- the5krunner.com
+- ![favicon](https://icons.duckduckgo.com/ip3/tgx.rs.ico) tgx.rs
+- ![favicon](https://icons.duckduckgo.com/ip3/tgx.sb.ico) tgx.sb
+- ![favicon](https://icons.duckduckgo.com/ip3/the-sun.com.ico) the-sun.com
+- ![favicon](https://icons.duckduckgo.com/ip3/the5krunner.com.ico) the5krunner.com
 - theadvocate.com
-- theatlantic.com
-- thebigmansworld.com
-- thecinemaholic.com
-- theconversation.com
-- thedeveloperspace.com
-- thedirect.com
-- thedodo.com
-- thegamer.com
-- theguardian.com
-- thehackernews.com
-- thehill.com
-- thelocal.de
-- themoscowtimes.com
-- thenationalnews.com
+- ![favicon](https://icons.duckduckgo.com/ip3/theatlantic.com.ico) theatlantic.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thebigmansworld.com.ico) thebigmansworld.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thecinemaholic.com.ico) thecinemaholic.com
+- ![favicon](https://icons.duckduckgo.com/ip3/theconversation.com.ico) theconversation.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thedeveloperspace.com.ico) thedeveloperspace.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thedirect.com.ico) thedirect.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thedodo.com.ico) thedodo.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thegamer.com.ico) thegamer.com
+- ![favicon](https://icons.duckduckgo.com/ip3/theguardian.com.ico) theguardian.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thehackernews.com.ico) thehackernews.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thehill.com.ico) thehill.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thelocal.de.ico) thelocal.de
+- ![favicon](https://icons.duckduckgo.com/ip3/themoscowtimes.com.ico) themoscowtimes.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thenationalnews.com.ico) thenationalnews.com
 - thenerdystudent.com
-- thepirate-bay.org
-- thepiratebay.cx
-- theregister.com
-- theserverside.com
-- thetimes.co.uk
-- theverge.com
-- thewearify.com
-- thewrap.com
-- time.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thepirate-bay.org.ico) thepirate-bay.org
+- ![favicon](https://icons.duckduckgo.com/ip3/theregister.com.ico) theregister.com
+- ![favicon](https://icons.duckduckgo.com/ip3/theserverside.com.ico) theserverside.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thetimes.co.uk.ico) thetimes.co.uk
+- ![favicon](https://icons.duckduckgo.com/ip3/theverge.com.ico) theverge.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thewearify.com.ico) thewearify.com
+- ![favicon](https://icons.duckduckgo.com/ip3/thewrap.com.ico) thewrap.com
+- ![favicon](https://icons.duckduckgo.com/ip3/time.com.ico) time.com
 - timeslive.co.za
-- tipseason.com
-- tomsguide.com
-- toplist.raidrush.ws
+- ![favicon](https://icons.duckduckgo.com/ip3/tipseason.com.ico) tipseason.com
+- ![favicon](https://icons.duckduckgo.com/ip3/tomsguide.com.ico) tomsguide.com
 - torrentgalaxy.mx
-- torrentgalaxy.to
-- torrenting.com
-- trakt.tv
-- trello.com
-- trustedreviews.com
-- tsri.ch
-- turkhacks.com
-- tutorialscan.com
-- tutorialspoint.com
+- ![favicon](https://icons.duckduckgo.com/ip3/torrenting.com.ico) torrenting.com
+- ![favicon](https://icons.duckduckgo.com/ip3/trakt.tv.ico) trakt.tv
+- ![favicon](https://icons.duckduckgo.com/ip3/trello.com.ico) trello.com
+- ![favicon](https://icons.duckduckgo.com/ip3/trustedreviews.com.ico) trustedreviews.com
+- ![favicon](https://icons.duckduckgo.com/ip3/tsri.ch.ico) tsri.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/turkhacks.com.ico) turkhacks.com
+- ![favicon](https://icons.duckduckgo.com/ip3/tutorialscan.com.ico) tutorialscan.com
+- ![favicon](https://icons.duckduckgo.com/ip3/tutorialspoint.com.ico) tutorialspoint.com
 - tutorialworks.com
-- tutti-ch.en.uptodown.com
-- tutti.ch
-- tvpartstoday.worthepenny.com
-- twitch.tv
-- twitter.com
-- twitterperlen.de
+- ![favicon](https://icons.duckduckgo.com/ip3/tutti-ch.en.uptodown.com.ico) tutti-ch.en.uptodown.com
+- ![favicon](https://icons.duckduckgo.com/ip3/tutti.ch.ico) tutti.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/tvpartstoday.worthepenny.com.ico) tvpartstoday.worthepenny.com
+- ![favicon](https://icons.duckduckgo.com/ip3/twitch.tv.ico) twitch.tv
+- ![favicon](https://icons.duckduckgo.com/ip3/twitter.com.ico) twitter.com
+- ![favicon](https://icons.duckduckgo.com/ip3/twitterperlen.de.ico) twitterperlen.de
 - tz.de
-- ukr.net
-- ummn.nu
-- umrechnungeuro.com
-- unsplash.com
-- uptodown.com
-- upwork.com
-- usatoday.com
-- utopia.de
-- valenciasecreta.com
-- vanityfair.com
-- vice.com
-- vital.de
+- ![favicon](https://icons.duckduckgo.com/ip3/ukr.net.ico) ukr.net
+- ![favicon](https://icons.duckduckgo.com/ip3/ummn.nu.ico) ummn.nu
+- ![favicon](https://icons.duckduckgo.com/ip3/umrechnungeuro.com.ico) umrechnungeuro.com
+- ![favicon](https://icons.duckduckgo.com/ip3/unsplash.com.ico) unsplash.com
+- ![favicon](https://icons.duckduckgo.com/ip3/uptodown.com.ico) uptodown.com
+- ![favicon](https://icons.duckduckgo.com/ip3/upwork.com.ico) upwork.com
+- ![favicon](https://icons.duckduckgo.com/ip3/usatoday.com.ico) usatoday.com
+- ![favicon](https://icons.duckduckgo.com/ip3/utopia.de.ico) utopia.de
+- ![favicon](https://icons.duckduckgo.com/ip3/valenciasecreta.com.ico) valenciasecreta.com
+- ![favicon](https://icons.duckduckgo.com/ip3/vanityfair.com.ico) vanityfair.com
+- ![favicon](https://icons.duckduckgo.com/ip3/vice.com.ico) vice.com
+- ![favicon](https://icons.duckduckgo.com/ip3/vital.de.ico) vital.de
 - voip-catalog.com
-- volksverpetzer.de
-- w3schools.com
-- wallapop.com
-- washingtonexaminer.com
-- washingtonpost.com
-- watson.ch
-- weather.com
-- web.de
-- welt.de
-- weltwoche.ch
-- wetter.com
-- what-song.com
-- wieistmeineip.de
-- wikihow.com
-- willhaben.at
-- wired.co.uk
-- wired.com
-- wired.it
-- wirelesshack.org
-- wissenschaft.de
-- wiwo.de
-- wizcase.com
-- womenshealth.de
-- wortbedeutung.info
-- wowroms.com
-- woz.ch
-- wsj.com
+- ![favicon](https://icons.duckduckgo.com/ip3/volksverpetzer.de.ico) volksverpetzer.de
+- ![favicon](https://icons.duckduckgo.com/ip3/w3schools.com.ico) w3schools.com
+- ![favicon](https://icons.duckduckgo.com/ip3/wallapop.com.ico) wallapop.com
+- ![favicon](https://icons.duckduckgo.com/ip3/washingtonexaminer.com.ico) washingtonexaminer.com
+- ![favicon](https://icons.duckduckgo.com/ip3/washingtonpost.com.ico) washingtonpost.com
+- ![favicon](https://icons.duckduckgo.com/ip3/watson.ch.ico) watson.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/weather.com.ico) weather.com
+- ![favicon](https://icons.duckduckgo.com/ip3/web.de.ico) web.de
+- ![favicon](https://icons.duckduckgo.com/ip3/welt.de.ico) welt.de
+- ![favicon](https://icons.duckduckgo.com/ip3/weltwoche.ch.ico) weltwoche.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/wetter.com.ico) wetter.com
+- ![favicon](https://icons.duckduckgo.com/ip3/what-song.com.ico) what-song.com
+- ![favicon](https://icons.duckduckgo.com/ip3/wieistmeineip.de.ico) wieistmeineip.de
+- ![favicon](https://icons.duckduckgo.com/ip3/wikihow.com.ico) wikihow.com
+- ![favicon](https://icons.duckduckgo.com/ip3/willhaben.at.ico) willhaben.at
+- ![favicon](https://icons.duckduckgo.com/ip3/wired.co.uk.ico) wired.co.uk
+- ![favicon](https://icons.duckduckgo.com/ip3/wired.com.ico) wired.com
+- ![favicon](https://icons.duckduckgo.com/ip3/wired.it.ico) wired.it
+- ![favicon](https://icons.duckduckgo.com/ip3/wirelesshack.org.ico) wirelesshack.org
+- ![favicon](https://icons.duckduckgo.com/ip3/wissenschaft.de.ico) wissenschaft.de
+- ![favicon](https://icons.duckduckgo.com/ip3/wiwo.de.ico) wiwo.de
+- ![favicon](https://icons.duckduckgo.com/ip3/wizcase.com.ico) wizcase.com
+- ![favicon](https://icons.duckduckgo.com/ip3/womenshealth.de.ico) womenshealth.de
+- ![favicon](https://icons.duckduckgo.com/ip3/wortbedeutung.info.ico) wortbedeutung.info
+- ![favicon](https://icons.duckduckgo.com/ip3/wowroms.com.ico) wowroms.com
+- ![favicon](https://icons.duckduckgo.com/ip3/woz.ch.ico) woz.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/wsj.com.ico) wsj.com
 - www-heise-de.translate.goog
-- x.com
-- xda-developers.com
+- ![favicon](https://icons.duckduckgo.com/ip3/x.com.ico) x.com
+- ![favicon](https://icons.duckduckgo.com/ip3/xda-developers.com.ico) xda-developers.com
 - xing.com
-- xn--strunglive-fcb.ch
-- yahoo.com
-- youtube.com
-- ytmp3.cc
-- yts.mx
-- zdnet.com
-- zeit.de
-- zentralplus.ch
-- zsz.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/xn--strunglive-fcb.ch.ico) xn--strunglive-fcb.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/yahoo.com.ico) yahoo.com
+- ![favicon](https://icons.duckduckgo.com/ip3/youtube.com.ico) youtube.com
+- ![favicon](https://icons.duckduckgo.com/ip3/ytmp3.cc.ico) ytmp3.cc
+- ![favicon](https://icons.duckduckgo.com/ip3/zdnet.com.ico) zdnet.com
+- ![favicon](https://icons.duckduckgo.com/ip3/zeit.de.ico) zeit.de
+- ![favicon](https://icons.duckduckgo.com/ip3/zentralplus.ch.ico) zentralplus.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/zsz.ch.ico) zsz.ch
 - zueritoday.ch
-- zugerzeitung.ch
+- ![favicon](https://icons.duckduckgo.com/ip3/zugerzeitung.ch.ico) zugerzeitung.ch
