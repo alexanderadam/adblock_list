@@ -1,35 +1,50 @@
-name: Update Adblock List Metadata
+name: Update AdBlock List Metadata
 
 on:
   push:
     branches:
       - main
-
 permissions:
   contents: write
+
+env:
+  FILENAME: alexanderadam.txt
 
 jobs:
   update-metadata:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4.1.7
 
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4.0.3
         with:
           node-version: '18'
 
       - name: Install dependencies
         run: yarn install
-
       # https://github.com/AdguardTeam/AGLint?tab=readme-ov-file#introduction
+
       - name: Run linting
-        run: yarn aglint alexanderadam.txt
+        run: yarn aglint ${{ env.FILENAME }}
 
       - name: Update metadata
         run: |
-          sed -i 's/! Last modified: .*/! Last modified: $(date +%Y-%m-%d)/' alexanderadam.txt
+          sed -i "s/! Last modified: .*/! Last modified: $(date +%Y-%m-%d)/" ${{ env.FILENAME }}
+
+      - name: Remove duplicated rules
+        run: |
+          awk '!seen[$0]++' ${{ env.FILENAME }} > temp && mv temp ${{ env.FILENAME }}
+
+      - name: Sort rules
+        run: |
+          awk 'BEGIN { header = 1 } /^[[:space:]]*$/ { header = 0 } header { print; next } /^[\[!]/ { print; next } { lines[NR] = $0 } END { n = asort(lines); for (i = 1; i <= n; i++) print lines[i] }' ${{ env.FILENAME }} > temp && mv temp ${{ env.FILENAME }}
+
+      - name: Extract affected hosts
+        run: |
+          echo "# Affected hosts\n\n" > hosts.md
+          grep -oP '^[^#]+(?=##)' ${{ env.FILENAME }} | sort -u | sed 's/^/- /' >> hosts.md
 
       - name: Commit and push if changed
         env:
@@ -37,6 +52,7 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git add alexanderadam.txt
-          git commit -m "Update metadata" || exit 0 # Exit gracefully if no changes
+          git add ${{ env.FILENAME }}
+          git add hosts.md
+          git commit -m "✏️ Update metadata" || exit 0 # Exit gracefully if no changes
           git push https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/alexanderadam/adblock_list.git
