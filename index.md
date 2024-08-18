@@ -2,7 +2,7 @@
 
 This is a curated list of adblock rules designed to enhance your browsing experience by blocking ads, trackers, and other unwanted web content.
 
-This will also intentionally block newsletter forms, popups, "also read" sections, and other annoying elements on websites.
+This will also intentionally block newsletter forms, popups, "also read" sections, and other annoying elements [on websites](hosts.md).
 This list aims to provide a cleaner, faster, and more enjoyable browsing experience.
 
 ## Features
@@ -37,4 +37,9 @@ https://raw.githubusercontent.com/alexanderadam/adblock_list/main/alexanderadam.
 
 Enjoy a cleaner, faster, and more enjoyable browsing experience!
 
-You can also check out the [source code](https://github.com/alexanderadam/adblock_list) for this project.
+## Disclaimer
+
+The rules might change the display of websites significantly. Things might not work as expected, and some websites might not work at all. If you encounter any issues, please [open an issue](https://github.com/alexanderadam/adblock_list/issues/new) with a detailed description of the problem, including the URL of the website and screenshots if possible.
+You will find the affected hosts [here](hosts.md).
+
+**PS:** You can also check out the [source code](https://github.com/alexanderadam/adblock_list) for this project.
