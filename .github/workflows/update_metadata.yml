@@ -64,7 +64,7 @@ jobs:
  if! grep -q "^${domain}$" combined_blocklist.txt; then
  favicon_url="https://icons.duckduckgo.com/ip3/${domain}.ico"
  if wget -q --spider "$favicon_url"; then
- echo "- ![](${favicon_url} | width=16) ${domain}" >> hosts.md
+ echo "- <img src=\"${favicon_url}\" title=\"${domain}\" width=\"16\" /> ${domain}" >> hosts.md
  else
  echo "- ${domain}" >> hosts.md
  fi
