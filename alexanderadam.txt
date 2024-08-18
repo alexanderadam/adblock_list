@@ -2,7 +2,7 @@
 ! Title: Alex's Adblock List
 ! Description: curated list of adblock rules designed to enhance your browsing experience by blocking ads, trackers, and other unwanted web content.
 ! Version: 1.0
-! Last modified: 2024-06-01
+! Last modified: $(date +%Y-%m-%d)
 
 *##.adthrive
 *##.adthrive-ad
