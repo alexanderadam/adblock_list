@@ -3,6 +3,6 @@ repos:
     hooks:
       - id: sort-rules
         name: Sort rules
-        entry: sort_rules.sh
+        entry: scripts/sort_rules.sh
         language: script
         files: alexanderadam.txt
