@@ -54,7 +54,7 @@ jobs:
  # Combine blocklists into one file, ignoring comments
  grep -hv '^#' *.txt | awk '{print $2}' | sort -u > combined_blocklist.txt
 
- blocked=("1337x.to" "1377x.to" "4kfilme.de")
+ blocked=("1337x.to" "1377x.to" "4kfilme.de" "limetorrentx.cc" "speedtorrent.com" "torrentgalaxy.mx" "torrenting.com")
  printf "%s\n" "${blocked[@]}" >> combined_blocklist.txt
  sort -u combined_blocklist.txt -o combined_blocklist.txt
 
@@ -64,7 +64,7 @@ jobs:
  if! grep -q "^${domain}$" combined_blocklist.txt; then
  favicon_url="https://icons.duckduckgo.com/ip3/${domain}.ico"
  if wget -q --spider "$favicon_url"; then
- echo "- <img src=\"${favicon_url}\" title=\"${domain}\" width=\"16\" /> ${domain}" >> hosts.md
+ echo "- <img src=\"${favicon_url}\" width=\"16\" /> ${domain}" >> hosts.md
  else
  echo "- ${domain}" >> hosts.md
  fi
