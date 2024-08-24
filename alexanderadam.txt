@@ -3,6 +3,11 @@
 ! Description: curated list of adblock rules designed to enhance your browsing experience by blocking ads, trackers, and other unwanted web content.
 ! Version: 1.0
 ! Last modified: 2024-08-18
+! Homepage: https://alexanderadam.github.io/adblock_list/
+! GitHub issues: https://github.com/alexanderadam/adblock_list/issues
+! GitHub pull requests: https://github.com/alexanderadam/adblock_list/pulls
+! Remove the bottom-sheet promoting the "See Reddit on mobile"
+! Display all the comments at once, instead of having to click "View more comments" button
 
 ##.adsbygoogle
 *##.adthrive
@@ -41,6 +46,10 @@
 9gag.com##[style="position: relative; z-index: 3; width: 640px; min-height: 202px; margin: 0px auto;"]
 9monate.de##native-player
 9to5mac.com##.post-social-mobile
+aachener-zeitung.de##.paywalled-article::after
+aachener-zeitung.de##[class*=ad-element]
+aachener-zeitung.de##body.noscroll:style(overflow: visible !important; position: static !important)
+aachener-zeitung.de##html.noscroll:style(overflow: visible !important)
 aargauerzeitung.ch##.regwall__wrapper::before
 aargauerzeitung.ch##.regwall__wrapper:style(margin-top: 0 !important)
 abbreviations.com##.ad-slot
@@ -156,8 +165,18 @@ arstechnica.com##.share-links
 arstechnica.com##.story-sidebar > div > .recommendation-further-reading:nth-ancestor(2)
 arstechnica.com##.xrail
 attackofthefanboy.com##.gamurs-inf-scroll-post ~ .gamurs-inf-scroll-post
+augsburger-allgemeine.de###pur_layer
 augsburger-allgemeine.de##.aa-three-recommendations-space
 augsburger-allgemeine.de##.piano-article
+augsburger-allgemeine.de##.piano-index-offer
+augsburger-allgemeine.de##.print\:hidden.lg\:min-w-mainWide.mx-auto.max-w-mainWide
+augsburger-allgemeine.de##[data-ad-slot-native-desktop]
+augsburger-allgemeine.de##[data-ad-slot-native-mobile]
+augsburger-allgemeine.de##[data-ad-slot-native-tablet]
+augsburger-allgemeine.de##[data-slot-name="banner2"]
+augsburger-allgemeine.de##[data-template="teaser"]:has(.before\:content-plusplus):style(opacity: 0.7 !important)
+augsburger-allgemeine.de##[data-template=teaser]:has(.before\:content-plus):style(opacity: 0.7 !important)
+augsburger-allgemeine.de##body.pgwl_showPurGatewayLayer:style(overflow: visible !important)
 axios.com##.apexAd
 axios.com##.shortFormNativeAd
 axios.com##h5:has-text(Go deeper)
@@ -355,6 +374,7 @@ bloomberg.com##[class^=bottom-left-rail]
 bloomberg.com##[class^=left-rail__]
 bloomberg.com##[class^=news-wallet-inline-tout]
 bloomberg.com##[class^=styles_articleBlur_]:style(mask-image: none !important)
+bloomberg.com##[data-component="recirc"]:has([class^=styles_moreFromBloomberg])
 bluewin.ch##.m-social-bar
 bnn.network###smartmag-block-newsletter-6
 bnn.network##.a-wrap > .elementor:nth-ancestor(1)
@@ -500,6 +520,7 @@ cnn.com##.ad-slot-rail
 cnn.com##.ad-wrapper
 cnn.com##.bizdev-outbrain
 cnn.com##.container__ads
+cnn.com##.layout__end.layout-with-rail__end
 cnn.com##.stack__ads
 cnn.com##.zone__ads
 cnn.com##[type="outbrain"]
@@ -603,13 +624,13 @@ date.noii.ch##.swiper-wrapper:style(display: block !important)
 dba.stackexchange.com##.tt-uppercase.flex--item.site-header--sponsored
 dcrainmaker.com##.nc_wrapper > .swp_social_panel:nth-ancestor(1)
 dcrainmaker.com##li.widget_sp_image > a[href="https://www.dcrainmaker.com/support"]:nth-ancestor(1)
-de.minitool.com##.article-recommend-wrap
-de.ryte.com##.sideboxsocials
-de.sportshub.fan##.agm
-de.sportshub.fan##.col-xs-12 > .agm:nth-ancestor(1)
-de.wikipedia.org###frb-inline
-de.wikipedia.org##.cn-fundraising
-de.wikipedia.org##.frb-country-CH.frb
+minitool.com##.article-recommend-wrap
+ryte.com##.sideboxsocials
+sportshub.fan##.agm
+sportshub.fan##.col-xs-12 > .agm:nth-ancestor(1)
+wikipedia.org###frb-inline
+wikipedia.org##.cn-fundraising
+wikipedia.org##.frb-country-CH.frb
 de24live.de##.articleAppendix
 de24live.de##aside.articleTeaser
 dealdoktor.de##.box > .adsense-wrapper:nth-ancestor(1)
@@ -683,6 +704,7 @@ dict.leo.org##[href="https://www.advertising.de/leistungen/display/leo-org-displ
 dict.leo.org##[id^=adv-]
 dict.leo.org##div > span:has-text(Werbung) ~ [id^=adv-]:nth-ancestor(1)
 dict.leo.org##div:nth-of-type(4)
+dict.leo.org##ion-modal
 dictionary.com##.ad
 dictionary.com##.atw-socials
 dictionary.com##.widget_ad
@@ -725,7 +747,9 @@ duden.de##.tabloid__insert
 duden.de##.tuple ~ div > .tile__wrapper:has-text(Anzeige)
 duden.de##.vignette ~ .vignette ~ .tile__wrapper:remove()
 duden.de##[href^="https://lp.duden.de/plus/"]
+duden.de##[id^=sp_message_container]
 duden.de##article > .gizmo
+duden.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 duden.de#$#body{ overflow: visible !important; }
 dutchnews.nl##.ad-container
 dw.com###sharing-bar
@@ -1543,6 +1567,9 @@ kompass.com##.adsense
 kompass.com##.colPub > .containerWhite > .adsense:nth-ancestor(2)
 kompass.com##.megaBanner
 krebsonsecurity.com##[class*=themonic-ad]
+kristv.com###MAD_INLINE
+kristv.com##.newsletter-opt
+kristv.com##.sal--wrapper
 ladbible.com##[class^=advert-]
 laptrinhx.com###iXqcY1XLSjwJadVu8cEf9ySIKfGVOw
 latex.org###post_ads
@@ -1747,6 +1774,7 @@ metro.co.uk##p > .mor-link:nth-ancestor(1)
 mimikama.org###scroll_to_steady_paywall
 mimikama.org###steady_paywall
 mimikama.org##.cleanslate > .test-paywall-overlay:nth-ancestor(1)
+minitool.com##.article-recommend-wrap
 minitool.com##.page-bottom-fixed
 moneyhouse.ch##.text-invisible:style(filter: none !important; webkit-filter: none !important;)
 moneyweek.com###blueconic-article-moneyweek
@@ -2006,6 +2034,7 @@ nzz.ch###adnz_bta_1
 nzz.ch###adnz_bta_2
 nzz.ch###adnz_maxiboard_1
 nzz.ch##.adnz-bta-fixed-placeholder
+nzz.ch##.articlecomponent.nzzinteraction:style(opacity: 1 !important)
 nzz.ch##.articlepromobox
 nzz.ch##.footer__link--button > .footer__button:has-text(NZZ abonnieren):nth-ancestor(1)
 nzz.ch##.games-widget
@@ -2022,6 +2051,7 @@ nzz.ch##.sharebox__item--twitter
 nzz.ch##.sharebox__item--xing
 nzz.ch##.teaser--article:has(.teaser__flag > svg):style(opacity: 0.7 !important)
 nzz.ch##[componenttype="advertisement"]
+nzz.ch##[componenttype="barrier"] > #paywall_container:nth-ancestor(1)
 nzz.ch##[componenttype="barrier"]:style(margin-top: 95px !important)
 nzz.ch##[data-test-variant="companion-standard"]
 nzz.ch##[data-test-variant="more-and-newest-standard"]
@@ -2301,12 +2331,17 @@ republik.ch##article ~ div:has-text(Ihre E-Mail-Adresse)
 restofworld.org##article.post ~ article.post
 rezeptwelt.de###mso-dplusc-banner_1
 rintor.space##canvas
+rnd.de###piano-rightrail-newsletter-anmeldung-rnd
 rnd.de###piano-sticky-template-article-rnd
 rnd.de##[class^="ArticleDetailsstyled__ArticleDetailsShareOverlayPeek"] > [class^="Buttonstyled__ButtonLink-"]:nth-ancestor(1)
 rnd.de##[class^="MoreItemsBlockstyled__MoreItemsBlock"]
 rnd.de##[class^="Spacingstyled__SpacingContainer"] > [class^="CallToActionBasestyled__Container"]:nth-ancestor(1)
 rnd.de##[class^="base__BaseCell-sc"] > [class^="ChainContainerstyled__ChainContainer"] > div > [href="/spiele/"]:nth-ancestor(2)
 rnd.de##[class^="recommendationstyled__RecommendationContainer"]
+rnd.de##[data-testid="chain-container"]:has([href="/spiele/"])
+rnd.de##[data-testid="chain-container"]:has(h4:has-text(Mehr aus))
+rnd.de##[data-testid="chain-container"][data-vars-event-label*="chainHeader:spiele"]
+rnd.de##[id^=sp_message_container]
 rnd.de##div > [class^="ChainContainerstyled__ChainContainer"] > div > [class^="BlockTitlestyled__BlockTitle"] > span > [class^="Headlinestyled__Headline"]:has-text(Mehr aus):nth-ancestor(4)
 rnd.de##p[class^="Textstyled__Text-sc"] > a > i > b:has-text(für Android und iOS herunter):nth-ancestor(3)
 rollingstone.com##.brands-most-popular
@@ -2322,7 +2357,19 @@ rp-online.de##.park-header-v2__pluslink
 rp-online.de##.park-header-v2__sales-cta
 rp-online.de##.park-section-portal-right__content > .park-social-buttons
 rp-online.de##.park-social-buttons
+rp-online.de##.swiper-slide article:has(.park-label > span > [viewBox="0 0 232.95 128"]):style(opacity: 0.7 !important)
+rp-online.de##[data-article-content] > div > .swiper:nth-ancestor(2)
+rp-online.de##[data-article-content] > div > aside.print\:hidden > glomex-integration:nth-ancestor(3)
+rp-online.de##[data-article-content] > div > aside.print\:hidden:nth-ancestor(2)
+rp-online.de##[data-cy="article-content"] > div > [data-cy="inline-teaser-list"]:nth-ancestor(2)
+rp-online.de##[data-cy="article-recommendation"]
+rp-online.de##[data-cy="park-teaser-half"]:has(.park-label > span > [viewBox="0 0 232.95 128"]):style(opacity: 0.7 !important)
+rp-online.de##[data-cy="portal-top"]
+rp-online.de##[data-cy="ressort-header"]
+rp-online.de##[data-cy="shortlist-grid"] article:has(.park-label > span > [viewBox="0 0 232.95 128"]):style(opacity: 0.7 !important)
+rp-online.de##[data-cy="ticker-item"]:has(.park-label > span > [viewBox="0 0 232.95 128"]):style(opacity: 0.7 !important)
 rp-online.de##div.park-section > article ~ .park-section
+rp-online.de##html.overflow-hidden:style(overflow: visible !important)
 rte.ie##.ad-container
 rte.ie##.floating-advertising-panel
 rubyonrails.ba##.center > a > .ads-img:nth-ancestor(2)
@@ -2345,6 +2392,7 @@ runnersworld.de##[is-ad-target-scrolling]
 runnersworld.de##div > p > strong:has-text(Kennenlern-Angebot):nth-ancestor(2)
 runnersworld.de##div > p:empty ~ .highlight-link:nth-ancestor(1)
 runnersworld.de##div[class^="lg:[&_.va-teaser-list]"]
+ryte.com##.sideboxsocials
 saarbruecker-zeitung.de##.blur-sm:style(filter: none !important)
 saarbruecker-zeitung.de##.park-article-reduced-overlay::after
 saarbruecker-zeitung.de##.portal-top
@@ -2452,8 +2500,10 @@ spektrum.de##.kiosk__inline.hide-for-print
 spiegel.de###spPlusBanner
 spiegel.de##.OffsetContainer > div > amp-ad
 spiegel.de##[data-area="body"] > [data-advertisement]
+spiegel.de##[data-area^=article_teaser]:has([data-contains-flags="plus-paid"]):style(opacity: 0.7 !important)
 spiegel.de##[data-block-el="articleTeaser"]:has([data-contains-flags="Spplus-paid"]):style(opacity:0.7 !important)
 spiegel.de##[data-sara-click-el="body_element"] > div > h3:has-text(Lesetipps) ~ ul:nth-ancestor(2)
+spiegel.de##[id^="sp_message_container_"]
 spiegel.de##a > .border-b:has-text(Abonnement):nth-ancestor(1)
 spiegel.de##article section [data-area="body"] > aside > div > div > div > div > span:has-text(Anzeige):nth-ancestor(5)
 spiegel.de##article section [data-area="body"] > aside > div > div > span:has-text(Mehr zum Thema):nth-ancestor(3)
@@ -2461,6 +2511,7 @@ spiegel.de##article section [data-area="body"] > div > div > [data-advertisement
 spiegel.de##footer > div >  div > div > div > div:has-text(Serviceangebote von SPIEGEL-Partnern):nth-ancestor(2)
 spiegel.de##footer > div > div > div > span > a[title="Spiele"]:nth-ancestor(3)
 spiegel.de##footer [data-app-article-issue-context-hidden]:has-text(Kostenlose Online-Spiele)
+spiegel.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 spiegel.de##nav > ul > li > a > span > span:has-text(Abonnement):nth-ancestor(3)
 spiegel.de##section > [data-area="contentbox"] > div > section > span:has-text(Das könnte Sie auch interessieren):nth-ancestor(4)
 spiegel.de##section > [data-area="html-embed"] > div > div > div > div[data-settings*='{"src":"https://spiegel-online-neu-profil.newsletter2go.com']:nth-ancestor(5)
@@ -2478,6 +2529,8 @@ spieletipps.de##.alice-root-topmobile2-container
 spieletipps.de##.stiRightColBx
 spieletipps.de##[data-role="taboola-abbindertext"]
 spin.atomicobject.com##.subscribe-section
+sportshub.fan##.agm
+sportshub.fan##.col-xs-12 > .agm:nth-ancestor(1)
 srf.ch##.sharing-bar
 ssstwitter.com##.adcontainer_big
 stackoverflow.com##.js-sidebar-zone > div > .js-report-ad-button-container:nth-ancestor(2)
@@ -2508,10 +2561,12 @@ stern.de##.group-teaserlist--newsticker
 stern.de##.header__meta-item > .header__meta-link > .header__meta-icon--stern-plus:nth-ancestor(2)
 stern.de##.links.article__tags
 stern.de##.sidebar
+stern.de##.sp-message-open body:style(overflow: visible !important; position: static !important)
 stern.de##.teaser > .teaser__text-content > .ad-labels > .ad-labels__item:has-text(Anzeige):nth-ancestor(3)
 stern.de##.text-element--context-article >  em > a:has-text(Lesen Sie auch):nth-ancestor(2)
 stern.de##.widget-element > .sis-HeaderBanner > .bannerSternPlusLink:nth-ancestor(2)
 stern.de##.widget-element > a[href^="/stiftung/stiftung-stern"]:nth-ancestor(1)
+stern.de##[id^=sp_message_container]
 stern.de##li > .menu__list-icon--stern-plus:nth-ancestor(1)
 strava.com##.PaywallModal--overlay--3AZEy
 strava.com##.upgrade.nav-item
@@ -2616,6 +2671,7 @@ tagesspiegel.de###paywal::before
 tagesspiegel.de###paywal:style(margin-top: 30px !important)
 tagesspiegel.de##.APay
 tagesspiegel.de##.ad
+tagesspiegel.de###story-elements > aside > [data-gtm-class="article-mzt-link"]:nth-ancestor(1)
 tagesspiegel.de##.hcf-marginal-col > .hcf-mcol-box > [href^="https://abo.tagesspiegel.de/kampagne"]:nth-ancestor(1)
 tagesspiegel.de##.hcf-mcol-box > div > div > h2:has-text(Verlagsangebot: ):nth-ancestor(3)
 tagesspiegel.de##.hcf-mcol-box > div > div > h2:has-text(Verlagsangebot: Jetzt Kfz-Versicherung wechseln):nth-ancestor(3)
@@ -2834,6 +2890,14 @@ thenationalnews.com##.layout-section.wrap-bottom.print_hide
 thenationalnews.com##.rightrail-container
 thenationalnews.com##[class^=default__StyledReadMore]
 thenerdystudent.com##.td-banner-bg
+theonion.com##.adp-popup
+theonion.com##.adp-popup-overlay
+theonion.com##.has-background > p:has-text(Advertising):nth-ancestor(1)
+theonion.com##.single-post-next-story
+theonion.com##.single-post-related-content
+theonion.com##.wp-block-gridible-grid-column.gridible-col.gridible-col__12.gridible-col__md-8.gridible-col__lg-7.pat-news-package-list ~ .wp-block-gridible-grid-column.gridible-col.gridible-col__12.gridible-col__md-4.gridible-col__lg-3.gridible-offset__lg-1
+theonion.com##.wp-block-gridible-grid-column.gridible-col.gridible-hidden--sm.gridible-hidden--md > aside > p:has-text(Share) ~ .is-position-sticky:nth-ancestor(2)
+theonion.com##.wp-block-gridible-responsive-spacer:has(+ .has-background > p:has-text(Advertising):nth-ancestor(1))
 thepirate-bay.org##.message-wrap
 thepirate-bay.org##[href^="https://go.nordvpn.net/aff_c"]
 thepiratebay.cx##.message-wrap
@@ -3078,9 +3142,11 @@ washingtonpost.com##wp-ad
 watson.ch###nps-watson-adblocker
 watson.ch##.commercial
 watson.ch##.insert > .better_newsletter:nth-ancestor(1)
+watson.ch##.insert > .watson-contextTeaser:nth-ancestor(1)
 watson.ch##.insert > .watson-snippet__contextBoxList:nth-ancestor(1)
 watson.ch##.insert > .watson-snippet__newsletter:nth-ancestor(1)
 watson.ch##.insert > div > div > .watson-teaser-app-campaign__background:nth-ancestor(3)
+watson.ch##.region > .leading-snug:nth-ancestor(1)
 watson.ch##.story-recommendations
 watson.ch##.watson-autocontext
 watson.ch##.watson-next-story
@@ -3135,6 +3201,9 @@ wetter.com##[data-template="startpageWidget"]:has(.title:has-text(Empfehlungen d
 what-song.com##div > div >  p:has-text(REMOVE ADS):nth-ancestor(2)
 wieistmeineip.de##[data-cmp-id="adsense"]
 wikihow.com###article_courses_banner
+wikipedia.org###frb-inline
+wikipedia.org##.cn-fundraising
+wikipedia.org##.frb-country-CH.frb
 willhaben.at##div > div > div > [class^=LeaderboardLargeRenderSlot]:nth-ancestor(3)
 wired.co.uk##.ad
 wired.co.uk##.ad--footer
