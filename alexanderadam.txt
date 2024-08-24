@@ -2,7 +2,7 @@
 ! Title: Alex's Adblock List
 ! Description: curated list of adblock rules designed to enhance your browsing experience by blocking ads, trackers, and other unwanted web content.
 ! Version: 1.0
-! Last modified: 2024-08-18
+! Last modified: 2024-08-24
 ! Homepage: https://alexanderadam.github.io/adblock_list/
 ! GitHub issues: https://github.com/alexanderadam/adblock_list/issues
 ! GitHub pull requests: https://github.com/alexanderadam/adblock_list/pulls
@@ -624,13 +624,6 @@ date.noii.ch##.swiper-wrapper:style(display: block !important)
 dba.stackexchange.com##.tt-uppercase.flex--item.site-header--sponsored
 dcrainmaker.com##.nc_wrapper > .swp_social_panel:nth-ancestor(1)
 dcrainmaker.com##li.widget_sp_image > a[href="https://www.dcrainmaker.com/support"]:nth-ancestor(1)
-minitool.com##.article-recommend-wrap
-ryte.com##.sideboxsocials
-sportshub.fan##.agm
-sportshub.fan##.col-xs-12 > .agm:nth-ancestor(1)
-wikipedia.org###frb-inline
-wikipedia.org##.cn-fundraising
-wikipedia.org##.frb-country-CH.frb
 de24live.de##.articleAppendix
 de24live.de##aside.articleTeaser
 dealdoktor.de##.box > .adsense-wrapper:nth-ancestor(1)
@@ -2669,9 +2662,9 @@ tagesspiegel.de###ig-code-promo-widget
 tagesspiegel.de###mainMenuPanel > ul > li > a[href="/plus/"]:nth-ancestor(1)
 tagesspiegel.de###paywal::before
 tagesspiegel.de###paywal:style(margin-top: 30px !important)
+tagesspiegel.de###story-elements > aside > [data-gtm-class="article-mzt-link"]:nth-ancestor(1)
 tagesspiegel.de##.APay
 tagesspiegel.de##.ad
-tagesspiegel.de###story-elements > aside > [data-gtm-class="article-mzt-link"]:nth-ancestor(1)
 tagesspiegel.de##.hcf-marginal-col > .hcf-mcol-box > [href^="https://abo.tagesspiegel.de/kampagne"]:nth-ancestor(1)
 tagesspiegel.de##.hcf-mcol-box > div > div > h2:has-text(Verlagsangebot: ):nth-ancestor(3)
 tagesspiegel.de##.hcf-mcol-box > div > div > h2:has-text(Verlagsangebot: Jetzt Kfz-Versicherung wechseln):nth-ancestor(3)
