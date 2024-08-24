@@ -19,6 +19,13 @@ Contributions to improve the adblock list are welcome! If you have suggestions o
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a new Pull Request.
 
+You might want to setup the pre-commit hook:
+
+```bash
+pip install pre-commit
+pre-commit install
+```
+
 ## Acknowledgments
 
 - Thanks to everyone who has contributed to this project!
