@@ -1,12 +1,11 @@
 ! Description: curated list of adblock rules designed to enhance your browsing experience by blocking ads, trackers, and other unwanted web content.
-! Display all the comments at once, instead of having to click "View more comments" button
+! Title: Alex's Adblock List
+! Version: 1.0
 ! GitHub issues: https://github.com/alexanderadam/adblock_list/issues
 ! GitHub pull requests: https://github.com/alexanderadam/adblock_list/pulls
 ! Homepage: https://alexanderadam.github.io/adblock_list/
 ! Last modified: 2024-10-01
 ! Remove the bottom-sheet promoting the "See Reddit on mobile"
-! Title: Alex's Adblock List
-! Version: 1.0
 
 ##.adsbygoogle
 *##.adthrive
