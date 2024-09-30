@@ -2,7 +2,8 @@
 
 This is a curated list of rules designed to enhance your browsing experience by blocking cluttering and other unwanted web content. 🌐🚫
 
-This means that it will intentionally block popups, "also read" sections, newsletter forms, and other annoying elements [on websites](hosts.md). 📰❌
+This means that it will intentionally block popups, "also read" sections, newsletter forms, recommended articles within article texts, annoying requests to use paid subscriptions and other elements that might distract reading [on websites](hosts.md). 📰❌
+Furthermore it will lower the opacity of paid articles and remove the blur effect of paywalled excerpts. 📰🔓
 This list aims to provide a cleaner, faster, and more enjoyable browsing experience. 🚀✨
 
 ## 🌟 Features 🌟
