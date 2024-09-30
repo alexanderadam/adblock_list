@@ -4,8 +4,9 @@
 ! GitHub issues: https://github.com/alexanderadam/adblock_list/issues
 ! GitHub pull requests: https://github.com/alexanderadam/adblock_list/pulls
 ! Homepage: https://alexanderadam.github.io/adblock_list/
-! Last modified: 2024-10-01
+! Last modified: 2024-09-30
 ! Remove the bottom-sheet promoting the "See Reddit on mobile"
+[Adblock Plus 2.0]
 
 ##.adsbygoogle
 *##.adthrive
@@ -44,7 +45,6 @@
 9gag.com##[style="position: relative; z-index: 3; width: 640px; min-height: 202px; margin: 0px auto;"]
 9monate.de##native-player
 9to5mac.com##.post-social-mobile
-[Adblock Plus 2.0]
 aargauerzeitung.ch##.regwall__wrapper::before
 aargauerzeitung.ch##.regwall__wrapper:style(margin-top: 0 !important)
 abbreviations.com##.ad-slot
