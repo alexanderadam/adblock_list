@@ -1,13 +1,14 @@
 #!/bin/sh
 
 FILENAME="alexanderadam.txt"
+SCRIPTNAME="$0"
 
-if git diff --cached --name-only | grep -q "$FILENAME"; then
+if git diff --cached --name-only | grep -qE "$FILENAME|$SCRIPTNAME"; then
   awk 'BEGIN { header = 1 }
        /^[[:space:]]*$/ { next }
        header && /^[\[!]/ { print; next }
        header { header = 0; print; next }
-       { lines[$0] }
+       !seen[$0]++ { lines[$0] }
        END {
          n = asort(lines, sorted_lines);
          for (i = 1; i <= n; i++) print sorted_lines[i]
