@@ -6,7 +6,6 @@
 ! Homepage: https://alexanderadam.github.io/adblock_list/
 ! Last modified: 2024-09-30
 ! Remove the bottom-sheet promoting the "See Reddit on mobile"
-[Adblock Plus 2.0]
 
 ##.adsbygoogle
 *##.adthrive
@@ -47,6 +46,7 @@
 9gag.com##[style="position: relative; z-index: 3; width: 640px; min-height: 202px; margin: 0px auto;"]
 9monate.de##native-player
 9to5mac.com##.post-social-mobile
+[Adblock Plus 2.0]
 aargauerzeitung.ch##.regwall__wrapper::before
 aargauerzeitung.ch##.regwall__wrapper:style(margin-top: 0 !important)
 abbreviations.com##.ad-slot
@@ -699,7 +699,6 @@ dict.leo.org##[id^=adv-]
 dict.leo.org##div > span:has-text(Werbung) ~ [id^=adv-]:nth-ancestor(1)
 dict.leo.org##div:nth-of-type(4)
 dictionary.cambridge.org###page-content ~ .lmt-10 > #rightcol-above-sticky:nth-ancestor(1)
-dictionary.cambridge.org###page-content:matches-media((min-width: 763px)):has(+ .lmt-10 > #rightcol-above-sticky):style(width: 100% !important; padding-right: 0)
 dictionary.cambridge.org##div > .i-facebook:nth-ancestor(1)
 dictionary.com##.ad
 dictionary.com##.atw-socials
@@ -1225,7 +1224,6 @@ gmx.ch##.article-body > .teaser-list-vertical
 gmx.ch##.article-body > p[data-speakable] ~ [style^="min-height"]:has(+ p[data-speakable])
 gmx.ch##.article-page .main > .content-wrapper ~ .coc-sky
 gmx.ch##.article-page > .left-col[data-teasers]
-gmx.ch##.article-page > .left-col[data-teasers]:nth-ancestor(1) > main:matches-media((min-width: 64em)) > .main > .content-wrapper > .content:style(width: 100% !important)
 gmx.ch##.article-page > .left-col[data-teasers]:nth-ancestor(1) > main:matches-media((min-width: 64em)):style(padding-left: 0 !important; max-width: none !important)
 gmx.ch##.article-page > main > .coc-top
 gmx.ch##.content__share

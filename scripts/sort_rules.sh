@@ -4,6 +4,11 @@ FILENAME="alexanderadam.txt"
 SCRIPTNAME="$0"
 
 if git diff --cached --name-only | grep -qE "$FILENAME|$SCRIPTNAME"; then
+  if ! yarn aglint "$FILENAME"; then
+    echo "Linting failed. Aborting."
+    exit 1
+  fi
+
   awk 'BEGIN { header = 1 }
        /^[[:space:]]*$/ { next }
        header && /^[!]/ { print; next }
