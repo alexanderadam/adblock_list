@@ -330,19 +330,24 @@ blick.ch##.is-client.placement-teaser2
 blick.ch##.is-client.placement-textRecommendation
 blick.ch##.is-client.placement-videoRecommendation
 blick.ch##.paywallContent
+blick.ch##.swiper-items-container > div:has([class*=gallery_ad]):remove()
 blick.ch##.tp-backdrop
 blick.ch##.tp-modal
 blick.ch##.tp-modal-open:style(overflow: visible !important; height: auto !important)
 blick.ch##.unblurred > div > button[direction="next"]:nth-ancestor(2)
 blick.ch##[rel*="sponsored"]
 blick.ch##[style="height: 477px;"] > iframe[src*="tagesdeal"]:nth-ancestor(1)
+blick.ch##[style] > iframe[src^="https://php.blick.ch/static/newsroom/whatsApp"]:nth-ancestor(1)
 blick.ch##a:has(.plusLogoPlaceholder):style(opacity: 0.7)
+blick.ch##a:has(div svg > use[href$=blick-plus-logo]):style(opacity: 0.7 !important)
 blick.ch##a:has-text(Präsentiert von):style(opacity: 0.7)
 blick.ch##article > div > div a[href^="https://ad.doubleclick.net"]:nth-ancestor(2)
 blick.ch##article > div > iframe[src*="https://link.blick.ch/join/"]:nth-ancestor(1)
+blick.ch##article > div:has(div:has-text(Mehr zu):nth-ancestor(2):has(.swiper-items-container))
+blick.ch##article ~ div:has-text(Für dich ausgewählt)
+blick.ch##article ~ div:has-text(Mehr entdecken)
 blick.ch##div > .container-title:has-text(Das könnte dich auch interessieren):nth-ancestor(1)
 blick.ch##div > div > button[aria-label="facebook"]:nth-ancestor(2)
-blick.ch##div > div > div:has-text(Meistgelesen) ~ ol:nth-ancestor(2)
 blick.ch##div:has-text(Alle Kommentare) ~ div > [type="comment"] ~ div:has-text(Werbung)
 blick.ch##main > div > div > div > div:has-text(Externe Inhalte):nth-ancestor(3)
 blick.ch##next-route-announcer
