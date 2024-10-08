@@ -86,8 +86,11 @@ aljazeera.com##.container--ads-vertical-stretch
 aljazeera.com##.container__inner > .l-col.l-col--8 ~ .container--ads-vertical-stretch:nth-ancestor(1) > .l-col.l-col--8:style(width: 100% !important; grid-column-end: span 12 !important)
 aljazeera.com##.dianomi-container
 aljazeera.com##.more-on
+aljazeera.com##.social-share-button
 aljazeera.com##.social-share-buttons
 aljazeera.com##.sticky-ads
+aljazeera.com##[aria-label="Newsletter signup Widget"]
+aljazeera.com##main ~ #disco-widget
 allaboutvision.com##.article__aside
 allaboutvision.com##.article__bottom
 allegro.pl##[data-analytics-tags*=advertising]
