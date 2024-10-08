@@ -3,7 +3,8 @@
 FILENAME="alexanderadam.txt"
 SCRIPTNAME="$0"
 
-if git diff --cached --name-only | grep -qE "$FILENAME|$SCRIPTNAME"; then
+# if git diff --cached --name-only | grep -qE "$FILENAME|$SCRIPTNAME"; then
+if true; then
   awk 'BEGIN { header = 1 }
        /^[[:space:]]*$/ { next }
        header && /^[!]/ { print; next }
@@ -16,6 +17,7 @@ if git diff --cached --name-only | grep -qE "$FILENAME|$SCRIPTNAME"; then
 
   if [ -s temp ]; then
     if grep -q "##.adsbygoogle" temp; then
+      echo "Sorting rules in $FILENAME"
       mv temp "$FILENAME"
       git add "$FILENAME"
     else
