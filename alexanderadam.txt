@@ -6,7 +6,6 @@
 ! Homepage: https://alexanderadam.github.io/adblock_list/
 ! Last modified: 2024-10-08
 ! Remove the bottom-sheet promoting the "See Reddit on mobile"
-[Adblock Plus 2.0]
 
 ##.adsbygoogle
 *##.adthrive
@@ -47,6 +46,7 @@
 9gag.com##[style="position: relative; z-index: 3; width: 640px; min-height: 202px; margin: 0px auto;"]
 9monate.de##native-player
 9to5mac.com##.post-social-mobile
+[Adblock Plus 2.0]
 aargauerzeitung.ch##.regwall__wrapper::before
 aargauerzeitung.ch##.regwall__wrapper:style(margin-top: 0 !important)
 abbreviations.com##.ad-slot
@@ -848,6 +848,9 @@ eurogamer.net##.advert_container
 eurogamer.net##.desktop_mpu
 eurogamer.net##.mypop-tags
 euronews.com###adb-article-you-might-also-like
+euronews.com##.c-ad-wallpaper-top
+euronews.com##.c-article-you-might-also-like
+euronews.com##.c-widget-related
 euronews.com##.js-c-article-partage-commentaire-share
 euronews.com##.o-article-newsy .c-widget-related
 euronews.com##.o-article-newsy__aside
@@ -981,6 +984,8 @@ fitforfun.de##[id*=_nativead_]
 flyertalk.com##.adblock-section
 focus.de###M_CONTENTAD3
 focus.de###article div.articleContent:style(width: auto !important)
+focus.de###article-social .fb
+focus.de###article-social .mail
 focus.de###article-social > .fb
 focus.de###center-banner
 focus.de###content > .block.grid_8:style(width: auto !important)
@@ -994,6 +999,9 @@ focus.de###tv\ spielfilm
 focus.de###video_fb > .anzeige:nth-ancestor(1)
 focus.de###wpBreakingNewsBanner
 focus.de##.Ad
+focus.de##.Article-ArticlesBox:has(.Related_Article_Headline)
+focus.de##.Social-Sharing-Container
+focus.de##.cls_hor_prnt_am
 focus.de##.cls_hor_prnt_am > .cls_slot_hor:nth-ancestor(1)
 focus.de##.cls_hor_prnt_xs > #tfm_admanagerTeaser:nth-ancestor(1)
 focus.de##.cls_slot_xxoutstreamxx
@@ -1016,19 +1024,28 @@ focus.de##.teaserBlock > .clearfix.title > h3:has-text(Kostenlose online Spiele 
 focus.de##.teaserBlock > .clearfix.title > h3:has-text(Top-Empfehlungen von Fachfirmen):nth-ancestor(2)
 focus.de##.teaserList2x2
 focus.de##.teaserList3x1
+focus.de##[class^=Ad-Slot]
+focus.de##[class^=teaserList]:has-text(Lesen Sie auch)
+focus.de##[class^=teaserList]:has-text(Zum Thema)
 focus.de##[data-fbk="FocusHOP2"]
 focus.de##[data-teaser-type="carousel_onlinespiele"]
 focus.de##[data-teaser-type="otbr_SF_1_group"]
 focus.de##[href^="https://focus-abo.de/focus-zwischenseite-auswahl/"] > .svg-icon:nth-ancestor(2)
 focus.de##[href^="https://www.focus.de/kaufberatung/"]
 focus.de##[id^="adsdh_"]
+focus.de##[id^="sp_message_container"]
 focus.de##[id^=M_CONTENTAD]
+focus.de##[id^=adsdh]
 focus.de##[style="min-height: 280px;"]
 focus.de##article.promo >.branding:has-text(Anzeige):nth-ancestor(1)
 focus.de##article.promo >.branding:has-text(Anzeige):nth-ancestor(1) ~ .block-line.clearfix
+focus.de##aside .re_textteaserlist
+focus.de##aside .teaserBlock
+focus.de##aside > .teaserBlock
 focus.de##aside.nocontent
 focus.de##div.container-article-inline-teaser
 focus.de##div.socFbLikeShare
+focus.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 focus.de##iframe[src^="https://cdn.pear.focus.de/clients/public/generated/deal_"]
 focus.de##iframe[src^="https://user-rating.burda-forward.de/"]
 focus.de##section + #sidebar
@@ -3193,6 +3210,7 @@ vimeo.com###global-nav .upgrade-cta
 vital.de###infiniteScrollContent
 voip-catalog.com##.adblock
 volksverpetzer.de##.et_pb_post_content > p > .adsbygoogle:nth-ancestor(1)
+vuukle.com##div > h4:has-text(Trending Stories):nth-ancestor(1)
 w3schools.com###right
 w3schools.com##.sidesection > .sn_ad_label:nth-ancestor(1)
 wallapop.com##.pub-wall-3-wrapper
@@ -3501,15 +3519,7 @@ zugerzeitung.ch##[id^=adnz_maxiboard]
 zugerzeitung.ch##article.teaser--article:has(.icon--premium):style(opacity: 0.65 !important)
 ||abload.de/img/raidrushubjvn.jpg$image
 ||accounts.google.com$subdocument
-||cdn.tutti.ch/212736023/2NIS8.svg$image
-||ibooks.to/wp-content/uploads/2017/09/fallback.png$image
-||ibooks.to/wp-content/uploads/2019/03/ls-ban.gif$image
-||ibooks.to/wp-content/uploads/2019/11/anonym.png$image
-||ibooks.to/wp-content/uploads/2021/11/banner_728-904ab3b763520686ab.png$image
 ||smartlock.google.com^
-||static-lvlt.xhcdn.com/xh-mobile/images/components/recomm-promo/banner/banner-girl.png$image
-||static.immobilienpool.de/common/images/devepo/devepo-vermieten.gif$image
-||www.chefkoch.de/images/fit-260x96/magazin/sites/default/files/media/image/2021-07/20200427-Navigation-490x180.jpg$image
 ||www.demonoid.is/images/stara.gif$image
 ||www.finanzen.ch/Images/b_partner/CR1_Home.jpg$image
 ||www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
