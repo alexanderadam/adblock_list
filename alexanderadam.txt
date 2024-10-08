@@ -1264,9 +1264,11 @@ golem.de###job-market
 golem.de###seminars
 golem.de###tusplit1 > .g6 > .teaser-widget:nth-ancestor(1)
 golem.de##.OUTBRAIN
+golem.de##.adsbygoogle
 golem.de##.amp-analytics-container
 golem.de##.animate__bounceInUp.animate__animated.nl-banner
 golem.de##.career-widget
+golem.de##.full #grandwrapper::after
 golem.de##.gbox_affiliate
 golem.de##.li-hb-pc.li-reset
 golem.de##.promos
@@ -1274,7 +1276,10 @@ golem.de##.section-gpure
 golem.de##.social-sticky
 golem.de##.subscribe-newsletter
 golem.de##[class*=grcol]:style(min-height: 0 !important)
+golem.de##[id^="iqad"]
 golem.de##[style*="margin: 20px 0; clear: both; min-height: 640px"]
+golem.de##[style="margin:16px 0;"] > [id^="iqad"]:nth-ancestor(1)
+golem.de##aside > span:has-text(Reklame):nth-ancestor(1)
 golem.de##li > .highlight-box:matches-css-before(content: /Verlagsangebot/):nth-ancestor(1)
 golem.de##section > aside
 golem.de#$#.wraptusplit { min-height: 0 !important; }
@@ -1860,8 +1865,11 @@ moz.de##.paywall .row.article-text::before:style(background: none !important)
 msn.com##.ad-slot-placeholder
 msn.com##.article-cont-read-button-container-on-app:style(background: none !important)
 msn.com##.articlePage_riverContainer-DS-EntryPoint1-1
+msn.com##.consumption-feed-content ~ .consumption-feed-content
+msn.com##.consumption-page-structure ~ .consumption-page-feed-wrapper
 msn.com##.display-ad-container
 msn.com##.intra-article-relatedcontent
+msn.com##.me-stripe-tile-content:has(.me-stripe-title-subtitle:has-text(Anzeige))
 msn.com##.modernRightRail_modulesContainer-DS-EntryPoint1-1
 msn.com##[class*="NativeAd"]
 msn.com##[class^="articlePage_infiniteReading"]
