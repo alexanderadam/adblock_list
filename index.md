@@ -1,4 +1,4 @@
-# Alex's Adblock List
+# Alex's uBlock List (it probably works with other AdBlockers too)
 
 This is a curated list of rules designed to enhance your browsing experience by blocking cluttering and other unwanted web content.
 
