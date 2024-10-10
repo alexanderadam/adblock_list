@@ -1,4 +1,4 @@
-# Alex's Adblock List
+# Alex's uBlock List (it probably works with other AdBlockers too)
 
 This repository hosts [a curated list of adblock rules](alexanderadam.txt) designed to enhance your browsing experience by blocking ads, trackers, and other unwanted web content.
 
