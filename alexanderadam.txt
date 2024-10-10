@@ -539,6 +539,7 @@ comicsands.com##[id^=sSide_Bar]:empty
 comingsoon.net##.evolve-ad-slot__leaderboard
 comingsoon.net##.evolve_ad
 comingsoon.net##.wp-block-xwp-newsletter-subscription
+comparis.ch##div > div > div > div > p:has-text(Interest costs starting from):nth-ancestor(3)
 computerbase.de##.postbit-ad
 computerbild.de###newsletter-teaser-widget
 computerbild.de###share
@@ -594,6 +595,8 @@ crn.com###bottom-ad-fragment-container
 crn.com###top-ad-fragment-container
 crn.com##.ad-wrapper
 crn.com##.bottom-section
+cryptonomist.ch###share-to-any
+cryptonomist.ch##.more-stories
 csoonline.com##.show\@md:has(.advert)
 curved.de##.product-teasers--ptic.product-teasers
 curved.de##.tracking-related-products.product-teasers
@@ -756,6 +759,8 @@ duden.de##html.sp-message-open > body:style(overflow: visible !important; positi
 duden.de#$#body{ overflow: visible !important; }
 dutchnews.nl##.ad-container
 dw.com###sharing-bar
+dw.com##.alternating-zone:has(#more-on-topic)
+dw.com##[data-tracking-name="sharing-icons-inline"]
 easyjet.com###checkinAncillary
 easyjet.com###viewBookingUpsellIframe
 eatbetter.de###block-socialsharelinks
@@ -814,21 +819,15 @@ einfachbacken.de##.self-promotion-block
 einfachbacken.de##.social-share-links__link--facebook
 einfachbacken.de##.social-share-links__link--pinterest
 elektrotanya.com##.ad_kontener
+elpais.com###hamburger_container > [data-ctn-subscription]
+elpais.com##.ad
+elpais.com##.ifr-lot
+elpais.com##.outbrain
+elpais.com##[data-dtm-region="footer_suscripcion"]
+elpais.com##[data-dtm-region="header_areausuario"] > a[data-ctn-subscription]
 emojipedia.org##.h-\[312px\]
 emuparadise.me##.box > span:has-text(Sponsor Message):nth-ancestor(1)
-en-gb.smashrun.com###headerInfoArea > .member-type
-en-gb.smashrun.com###upgradeNavItemLoggedIn
-en.comparis.ch##div > div > div > div > p:has-text(Interest costs starting from):nth-ancestor(3)
-en.cryptonomist.ch###share-to-any
-en.cryptonomist.ch##.more-stories
-en.wikipedia.org##.frb
 englisch-hilfen.de##.ad-mobile-explanations
-english.elpais.com###hamburger_container > [data-ctn-subscription]
-english.elpais.com##.ad
-english.elpais.com##.ifr-lot
-english.elpais.com##.outbrain
-english.elpais.com##[data-dtm-region="footer_suscripcion"]
-english.elpais.com##[data-dtm-region="header_areausuario"] > a[data-ctn-subscription]
 eshop-prices.com##.ads
 esquire.de###__next nav ~ div > .placeholdercontainer:has(atf-ad-slot):nth-ancestor(1)
 esquire.de##.ab-ad_placement-evergreen
@@ -859,6 +858,7 @@ evangelische-zeitung.de##[class^="traffective_top-divider"]
 evangelische-zeitung.de##[data-component-type="ad-slot"]
 evangelische-zeitung.de##[data-testid="article-billboard-advertisement"]
 evangelische-zeitung.de##[id^="traffective-ad-Content"]
+evernote.design##.column > article:has(.ad-via):nth-ancestor(1)
 exali.ch###modalWarning
 exali.ch##.in.fade.modal-backdrop
 express.co.uk###ad-vip-article
@@ -883,9 +883,14 @@ facts.net##.responsive-thin-ad-wrapper
 faktastisch.de##.cca > .cca-label:has-text(Anzeige):nth-ancestor(1)
 faktastisch.de##.main-menu ~ [id^="npm_"]
 fastcompany.com##[class*=ad-wrapper]
+faz.net###article_social_bottom
 faz.net###cna-N1
 faz.net###cna-P2
+faz.net###jobofferwidgetslider
+faz.net###recommendations
 faz.net##.Artikel > article ~ .o-ModuleWrapper
+faz.net##.art > .socialmedia
+faz.net##.article_morelinks_list
 faz.net##.aside-slot .job-recommendations
 faz.net##.aside-slot .marketplace
 faz.net##.aside-slot .publisher-offers__section
@@ -902,6 +907,7 @@ faz.net##.gh-TopNav_Link[track-label="Newsletter"]:nth-ancestor(1)
 faz.net##.iq-al-sty.event-faz-net-stellenmarkt-artikel-wrapper
 faz.net##.iqdcontainer
 faz.net##.js-NewsletterBox-withP6.withP6:nth-ancestor(5)
+faz.net##.link_list
 faz.net##.mm-adbox
 faz.net##.o-ModuleWrapper:has(.text:has-text(Services))
 faz.net##.paywall.wall::before
@@ -910,9 +916,14 @@ faz.net##.related-articles
 faz.net##.teaser-object:has([data-tb-premium]):style(opacity: 0.7 !important)
 faz.net##.upper-toolbar > button:has-text(Teilen)
 faz.net##.wall::before:style(margin-top:0 !important; height: auto !important)
+faz.net##[data-fsw="market"]
 faz.net##[id^=sp_message_container]
+faz.net##[style="opacity: 1; min-height: 300px;"]
+faz.net##[track-element="Abo"]
+faz.net##amp-carousel
 faz.net##article > .tsr-Base_TextWrapper:has(a[data-is-premium=true]):nth-ancestor(1):style(opacity: 0.7 !important)
 faz.net##aside.atc-ContainerMore
+faz.net##div[class$=headline]:has-text(Verlagsangebot)
 faz.net##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 faz.net##html.sp-message-open:style(height: auto !important)
 feiertag.info##.ezoic-ad
@@ -990,8 +1001,10 @@ focus.de###article-social > .fb
 focus.de###center-banner
 focus.de###content > .block.grid_8:style(width: auto !important)
 focus.de###content.grid_8:style(width: auto !important)
+focus.de###focus-pp-widget
 focus.de###singlepostSlideInBoxHoch
 focus.de###skyscraper
+focus.de###tfm_admanagerTeaser
 focus.de###tfm_bdslider-banner
 focus.de###thankyou
 focus.de###top-banner
@@ -1001,11 +1014,15 @@ focus.de###wpBreakingNewsBanner
 focus.de##.Ad
 focus.de##.Article-ArticlesBox:has(.Related_Article_Headline)
 focus.de##.Social-Sharing-Container
+focus.de##.card > div > [class^="cls_hor_prnt"] > [id^="CT_SMARTPHONE_NATIVE_HOR_ANY"]:nth-ancestor(3)
+focus.de##.card > div > [class^="cls_hor_prnt"] > [id^="M_CONTENTAD"]:nth-ancestor(1)
+focus.de##.card > div > [class^="cls_hor_prnt"] > [id^="M_TRSCT_hor"]:nth-ancestor(3)
 focus.de##.cls_hor_prnt_am
 focus.de##.cls_hor_prnt_am > .cls_slot_hor:nth-ancestor(1)
 focus.de##.cls_hor_prnt_xs > #tfm_admanagerTeaser:nth-ancestor(1)
 focus.de##.cls_slot_xxoutstreamxx
 focus.de##.ct_ampad
+focus.de##.da > .aside-arrow > .adinfo_name:nth-ancestor(2)
 focus.de##.fol_mew-flying-carpet-wrapper
 focus.de##.groupon-list-container
 focus.de##.i-amphtml-fx-flying-carpet-clip
@@ -1017,6 +1034,7 @@ focus.de##.m-conclusion-box.ps-tracking-position.ps-trackingposition_Fazitkasten
 focus.de##.nl_subscription_form
 focus.de##.ps-tracking-comlinks
 focus.de##.re_textteaserlist
+focus.de##.sticky.social
 focus.de##.teaserBlock > .clearfix.title > h3:has-text(Die besten Handy-, DSL- & Datentarife):nth-ancestor(2)
 focus.de##.teaserBlock > .clearfix.title > h3:has-text(FOCUS Online Kündigungsservice):nth-ancestor(2)
 focus.de##.teaserBlock > .clearfix.title > h3:has-text(FOCUS Online Rechnerportal):nth-ancestor(2)
@@ -1024,12 +1042,19 @@ focus.de##.teaserBlock > .clearfix.title > h3:has-text(Kostenlose online Spiele 
 focus.de##.teaserBlock > .clearfix.title > h3:has-text(Top-Empfehlungen von Fachfirmen):nth-ancestor(2)
 focus.de##.teaserList2x2
 focus.de##.teaserList3x1
+focus.de##.textBlock > ul > li:has-text(Lesen Sie auch):nth-ancestor(1)
+focus.de##[class^="cls_hor_prnt"] > #M_CONTENTAD1:nth-ancestor(1)
+focus.de##[class^="cls_hor_prnt"] > #tfm_admanagerTeaser:nth-ancestor(1)
+focus.de##[class^="cls_hor_prnt"] > [id^="CT_SMARTPHONE_NATIVE_HOR_ANY"]:nth-ancestor(1)
+focus.de##[class^="cls_hor_prnt"] > [id^="M_TRSCT_hor"]:nth-ancestor(1)
 focus.de##[class^=Ad-Slot]
 focus.de##[class^=teaserList]:has-text(Lesen Sie auch)
 focus.de##[class^=teaserList]:has-text(Zum Thema)
 focus.de##[data-fbk="FocusHOP2"]
 focus.de##[data-teaser-type="carousel_onlinespiele"]
 focus.de##[data-teaser-type="otbr_SF_1_group"]
+focus.de##[data-teaser-type="seolinkbox"]
+focus.de##[data-teaser-type="teaser_news"]
 focus.de##[href^="https://focus-abo.de/focus-zwischenseite-auswahl/"] > .svg-icon:nth-ancestor(2)
 focus.de##[href^="https://www.focus.de/kaufberatung/"]
 focus.de##[id^="adsdh_"]
@@ -1037,6 +1062,7 @@ focus.de##[id^="sp_message_container"]
 focus.de##[id^=M_CONTENTAD]
 focus.de##[id^=adsdh]
 focus.de##[style="min-height: 280px;"]
+focus.de##article.card[data-teaser-type="teaser_video"]
 focus.de##article.promo >.branding:has-text(Anzeige):nth-ancestor(1)
 focus.de##article.promo >.branding:has-text(Anzeige):nth-ancestor(1) ~ .block-line.clearfix
 focus.de##aside .re_textteaserlist
@@ -1045,6 +1071,7 @@ focus.de##aside > .teaserBlock
 focus.de##aside.nocontent
 focus.de##div.container-article-inline-teaser
 focus.de##div.socFbLikeShare
+focus.de##em > [class^="cls_hor_prnt"] > #M_TRSCT_hor6:nth-ancestor(2)
 focus.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 focus.de##iframe[src^="https://cdn.pear.focus.de/clients/public/generated/deal_"]
 focus.de##iframe[src^="https://user-rating.burda-forward.de/"]
@@ -1164,6 +1191,7 @@ gearrice.com##.a-wrap > .ad-hm-slot:nth-ancestor(1)
 gearrice.com##.post-share-float
 geekflare.com##.x-article-body-right
 geeksforgeeks.org##.whats-new-section-gblog
+genius.com##.LyricsHighlightTooltipContainer:has-text(Sign Up to Start Annotating)
 genius.com##[class^="InreadContainer__Container"]
 genius.com##[class^="RightSidebar__Container"]
 geo.de##.ad-element
@@ -1577,7 +1605,13 @@ jofogas.hu###page-content:style(margin-top: 0 !important)
 jsonformatter.curiousconcept.com##.is-active.blocker
 juedische-allgemeine.de##.social-box-wrapper
 juedische-allgemeine.de##.teaserbox-wrapper
+justetf.com###brokerAd
+justetf.com###shadow-cb
+justetf.com###shadow-etfsearch-ad
+justetf.com##.lineAd
 justetf.com##.wAd
+justetf.com##div > .Ad_disclaimer:nth-ancestor(1)
+justetf.com##tr:has([onmousedown*="searchTableAd"])
 kayak.de##.Ui-Kn-Display-InlineResultsDisplayAdSlot-container
 kayak.de##[aria-label^="Anzeige von"]
 kino.de##.alice-adslot
@@ -1718,38 +1752,6 @@ luzernerzeitung.ch##article.teaser--article:has(.icon--premium):style(opacity: 0
 luzernerzeitung.ch##div > span:has-text(AUCH INTERESSANT):nth-ancestor(1)
 lyricsmode.com##.al-c-banner
 lyricsmode.com##.personal-social-btns
-m.bild.de##.sharingbar
-m.faz.net###article_social_bottom
-m.faz.net###jobofferwidgetslider
-m.faz.net###recommendations
-m.faz.net##.art > .socialmedia
-m.faz.net##.article_morelinks_list
-m.faz.net##.link_list
-m.faz.net##[data-fsw="market"]
-m.faz.net##[style="opacity: 1; min-height: 300px;"]
-m.faz.net##[track-element="Abo"]
-m.faz.net##amp-carousel
-m.faz.net##div[class$=headline]:has-text(Verlagsangebot)
-m.focus.de###focus-pp-widget
-m.focus.de###tfm_admanagerTeaser
-m.focus.de###thankyou
-m.focus.de###tv\ spielfilm
-m.focus.de##.card > div > [class^="cls_hor_prnt"] > [id^="CT_SMARTPHONE_NATIVE_HOR_ANY"]:nth-ancestor(3)
-m.focus.de##.card > div > [class^="cls_hor_prnt"] > [id^="M_CONTENTAD"]:nth-ancestor(1)
-m.focus.de##.card > div > [class^="cls_hor_prnt"] > [id^="M_TRSCT_hor"]:nth-ancestor(3)
-m.focus.de##.cls_slot_xxoutstreamxx
-m.focus.de##.da > .aside-arrow > .adinfo_name:nth-ancestor(2)
-m.focus.de##.sticky.social
-m.focus.de##.textBlock > ul > li:has-text(Lesen Sie auch):nth-ancestor(1)
-m.focus.de##[class^="cls_hor_prnt"] > #M_CONTENTAD1:nth-ancestor(1)
-m.focus.de##[class^="cls_hor_prnt"] > #tfm_admanagerTeaser:nth-ancestor(1)
-m.focus.de##[class^="cls_hor_prnt"] > [id^="CT_SMARTPHONE_NATIVE_HOR_ANY"]:nth-ancestor(1)
-m.focus.de##[class^="cls_hor_prnt"] > [id^="M_TRSCT_hor"]:nth-ancestor(1)
-m.focus.de##[data-teaser-type="seolinkbox"]
-m.focus.de##[data-teaser-type="teaser_news"]
-m.focus.de##article.card[data-teaser-type="teaser_video"]
-m.focus.de##em > [class^="cls_hor_prnt"] > #M_TRSCT_hor6:nth-ancestor(2)
-m.focus.de##iframe[src^="https://cdn.pear.focus.de/clients/public/generated/deal_"]
 macstories.net##.club-after-content
 macstories.net##.fan-of-the-week
 macstories.net##.featured-posts
@@ -1980,6 +1982,7 @@ nbcnews.com##[data-testid="recommended-wrapper"]
 nebelspalter.ch##.ad-container
 nebelspalter.ch##.primeaccess-banner
 nebelspalter.ch##.primeaccess-banner-wrapper
+nebelspalter.ch##.sponsored_content
 netdoktor.ch##nd-advertisement
 netmums.com##.placeholder-masthead_haut
 netmums.com##.placeholder-mpu_haut
@@ -2538,6 +2541,8 @@ sky.com##.sdc-site-outbrain
 sky.com##[data-ad-format]
 smarthomeassistent.de##.aawp
 smarthomeassistent.de##.adslot_header
+smashrun.com###headerInfoArea > .member-type
+smashrun.com###upgradeNavItemLoggedIn
 smithsonianmag.com##.ad-sidebar-wrapper
 smithsonianmag.com##.ad-slot
 smithsonianmag.com##.ad-wrapper
@@ -2823,11 +2828,13 @@ taz.de###tzi-paywahl-fg
 taz.de##.product > .sect_seealso.style_seealso:nth-ancestor(1)
 taz.de##.product.leaded
 taz.de##.tziBottom
+techcrunch.com##.article-sidebar
 techcrunch.com##.article__content-outer > .newsletter-signup-block
 techcrunch.com##.article__social-share > a:not([data-ga-event-label="copy"])
 techcrunch.com##.article__social-vertical-share
 techcrunch.com##.content-wrap > .content > .feature-island__posts > article:nth-ancestor(3) ~ .content-wrap > .content > .river:nth-ancestor(2)
 techcrunch.com##.feature-island__posts > article:nth-ancestor(1) ~ .feature-island
+techcrunch.com##.wp-block-techcrunch-social-share
 techcrunch.com##[class^="ad-slot-"]
 technologyreview.com##[class^="userGreeting__subscribeWrapper"]
 techotopia.com###ezmobfooter
@@ -2981,6 +2988,7 @@ thehackernews.com##.deal-gap
 thehackernews.com##.float-share
 thehackernews.com##.sharebelow
 thehill.com##.ad-unit
+thehustle.co###hs_cos_wrapper_blog_post_simple_sticky_cta
 thelocal.de##.ml-manual-widget-container > div > [id^=offer]:nth-ancestor(2)
 thelocal.de##.tl-ad-container
 them.us##.consumer-marketing-unit
@@ -3310,6 +3318,7 @@ wieistmeineip.de##[data-cmp-id="adsense"]
 wikihow.com###article_courses_banner
 wikipedia.org###frb-inline
 wikipedia.org##.cn-fundraising
+wikipedia.org##.frb
 wikipedia.org##.frb-country-CH.frb
 willhaben.at##div > div > div > [class^=LeaderboardLargeRenderSlot]:nth-ancestor(3)
 wired.co.uk##.ad
@@ -3397,12 +3406,9 @@ wsj.com##[aria-label="What to Read Next"]
 wsj.com##[data-testid="ad-container"]
 wsj.com##article ~ .aside-container
 wsj.com##nav-hat
-www-heise-de.translate.goog##.ad-ldb-container
-www-heise-de.translate.goog##.article-layout__header-wrbng
-www-heise-de.translate.goog##.inread-cls-reduc > .ad:nth-ancestor(1)
-www-heise-de.translate.goog##.perf-cls-reduc-leaderboard
-www-heise-de.translate.goog##[data-module-name="AdModule"]
 x.com##[aria-label="Subscribe to Premium"]
+x.com##[data-testid="cellInnerDiv"]:has-text(5 days left - save up to 40% on X Premium)
+x.com##[data-testid="cellInnerDiv"]:has-text(Go ad-free with Premium+)
 x.com##nav[role="navigation"] > a[data-testid="premium-signup-tab"]
 x.com##nav[role="navigation"] > a[data-testid="vo-signup-tab"]
 xda-developers.com###article-waypoint
