@@ -433,6 +433,7 @@ call.plus##[style] > [style] > [style] > .adsbygoogle:nth-ancestor(2)
 candyfonts.com##.shareButton
 careerkarma.com##.ad7
 careerkarma.com##.testimonial_section
+catholic.com##.related-content
 cbsnews.com##.ad-wrapper
 cbsnews.com##.top-ad-container
 cbsnews.com##aside > div > h3:has-text(Trending News):nth-ancestor(2)
@@ -570,6 +571,7 @@ consoleroms.com##.sharing
 content.techgig.com##.cg-banner
 content.techgig.com##.gutter-banner
 cookidoo.ch###core-share
+cookidoo.de###core-share
 correctiv.org##.corre-popup-and-layer-ads_9
 correctiv.org##.header__navigation--desktop.header__navigation > .navigation--header.navigation > .navigation__list > .is--donate.navigation__item
 correctiv.org##.is-sticky.advads-close.corre-layer-half.corre-layer.corre-target.corre-popup-and-layer-ads
@@ -859,6 +861,14 @@ evangelische-zeitung.de##[data-component-type="ad-slot"]
 evangelische-zeitung.de##[data-testid="article-billboard-advertisement"]
 evangelische-zeitung.de##[id^="traffective-ad-Content"]
 evernote.design##.column > article:has(.ad-via):nth-ancestor(1)
+everydayhealth.com##.article-template__main ~ .article-template__right-rail
+everydayhealth.com##.eh-widget--latest-feed
+everydayhealth.com##.sticky-share-bar-container
+everydayhealth.com##[class*="video-anyclip--playlist"]
+everydayhealth.com##[class="video-anyclip video-anyclip--playlist"]
+everydayhealth.com##[class^="video-anyclip"]
+everydayhealth.com##[data-anyclip-id]
+everydayhealth.com##[data-hypernova-key="evdyconsumercomponentreactvideoanyclip"]
 exali.ch###modalWarning
 exali.ch##.in.fade.modal-backdrop
 express.co.uk###ad-vip-article
@@ -1334,6 +1344,7 @@ golem.de##[style*="margin: 20px 0; clear: both; min-height: 640px"]
 golem.de##[style="margin:16px 0;"] > [id^="iqad"]:nth-ancestor(1)
 golem.de##aside > span:has-text(Reklame):nth-ancestor(1)
 golem.de##li > .highlight-box:matches-css-before(content: /Verlagsangebot/):nth-ancestor(1)
+golem.de##li.golemplus:style(opacity: 0.7 !important)
 golem.de##section > aside
 golem.de#$#.wraptusplit { min-height: 0 !important; }
 golem.de#$#article { padding-left: 0 !important; padding-right: 0 !important; width: auto !important; }
@@ -1425,6 +1436,7 @@ heise.de##.curtain--gradient::before:style(background: none !important)
 heise.de##.header-logo__plus-group
 heise.de##.newsletter-subscription
 heise.de##.newsletter-subscription-form
+heise.de##.perf-cls-reduc-leaderboard
 heise.de##.pvg-widget
 heise.de##.reco-box > a-collapse > div > ul > li > article > a.a-article-teaser__link:nth-ancestor(6)
 heise.de##.recommendations
@@ -1482,6 +1494,7 @@ hub.docker.com##div > .MuiButton-root:has-text(Upgrade)
 huffpost.com###most-shared
 huffpost.com###newsletter-right-rail
 huffpost.com###related
+huffpost.com###rightRailTrending
 huffpost.com###zone-more-in
 huffpost.com###zone-more-in-life
 huffpost.com##.ad-fetching
@@ -1494,7 +1507,10 @@ huffpost.com##.cli-related-articles
 huffpost.com##.newsletter
 huffpost.com##.openweb-container
 huffpost.com##.right-rail-sticky__native-ad-container
+huffpost.com##.social-buttons__icons__item--email
+huffpost.com##.social-buttons__icons__item--facebook
 huffpost.com##.sticky-ad-container
+huffpost.com##.sticky-ad-container--small
 huffpost.com##.top-ad-recirc
 ibooks.to##.btn:has-text("Premium Download mit Multihoster Account für alle Hoster (immer Online)")
 ibooks.to##.code-block
@@ -1515,8 +1531,11 @@ ibooks.to##form[action^="https://linksnappy.com/"]
 ibooks.to##p:has-text(1 Jahr Premium)
 ibooks.to##p:has-text(neben Rapidgator.net auch DDownload.com)
 ibooks.to##p:nth-of-type(5) > [href^="http://ibooks.to/dl/"]
+icr.org###block-jonah-the-latest
+icr.org##.block-related-topics
 idropnews.com###social-share
 ifixit.com##.component-WPCampaignBanner
+imdb.com###logged_out_upsell_wrapper
 imgur.com##.ProfileNavbar .Button.EmeraldButton
 immoscout24.ch##[class*="AdContainer"]
 immoscout24.ch##[class*="AdSlotContainer"]
@@ -1587,6 +1606,9 @@ inverse.com##.adWrapper
 inverse.com##article[class*="page-"] ~ div ~ article[class*="page-"]
 investopedia.com##.mntl-sc-block-adslot
 ipswichstar.co.uk##[id^=inArticleAd-]
+isteshaltbar.de##.inner:has(.r89-desktop-hpa-atf)
+isteshaltbar.de##[style]:has([class^=r89-desktop-rectangle])
+isteshaltbar.de##header ~ div:has(.r89-desktop-billboard-atf)
 itmagazine.ch##.news_related
 itmagazine.ch##.social_row
 itmagazine.ch##.teaser_rectangle > amp-ad[type="doubleclick"]:nth-ancestor(1)
@@ -1713,6 +1735,7 @@ linux-magazin.de###Ads_BA_VID
 linuxconfig.org##.incontent_ads ~ hr
 linuxconfig.org##br ~ hr
 linuxconfig.org##p:empty ~ hr
+linuxhandbook.com##.content > a[href*=utm_campaign]:has(> img)
 linuxhint.com##[data-config="in-content-DCM"]
 linuxlinks.com##[id*="adsense"]
 linuxnews.de##.shariff
@@ -1859,6 +1882,8 @@ mimikama.org###steady_paywall
 mimikama.org##.cleanslate > .test-paywall-overlay:nth-ancestor(1)
 minitool.com##.article-recommend-wrap
 minitool.com##.page-bottom-fixed
+mix-dich-gluecklich.de##.j-facebook
+mix-dich-gluecklich.de##.j-sharebuttons
 moneyhouse.ch##.text-invisible:style(filter: none !important; webkit-filter: none !important;)
 moneyweek.com###blueconic-article-moneyweek
 moneyweek.com##.ad-unit
@@ -2425,6 +2450,12 @@ republik.ch##[data-theme] > div > div[data-can-breakout]:has-text(Ihre E-Mail-Ad
 republik.ch##article ~ div:has-text(Ihre E-Mail-Adresse)
 restofworld.org##article.post ~ article.post
 rezeptwelt.de###mso-dplusc-banner_1
+rezeptwelt.de##.d-none:has(> .static-banner-blocks)
+rezeptwelt.de##.recipe-cooking-today
+rezeptwelt.de##.static-banner-blocks
+rezeptwelt.de##.symplr-ad-holder
+rezeptwelt.de##[class^=ads-]
+rezeptwelt.de##[id^="mso-dplusc-banner"]
 rferl.org###article-content [data-owner-ct="Feature"]
 rintor.space##canvas
 rnd.de###piano-sticky-template-article-rnd
@@ -2478,6 +2509,7 @@ saarbruecker-zeitung.de##.portal-top
 sammobile.com###ajax-load-more
 sanet.lc##.feature-usnt
 sanet.lc##[href^="https://thebestusenet.online/get/"]
+scamadviser.com##.container--banner:has(h2:has-text(Advertorials))
 schwaebische.de##.article_body > .tw-items-center:has-text(Empfohlene Artikel)
 schwaebische.de##.paragraph:has-text(+++ ):has-text( +++)
 schwaebische.de##[doc-style="alternativeHeader"] > .tw-items-center:has-text(Artikel teilen:)
@@ -2925,7 +2957,10 @@ the5krunner.com##.widget-area
 theadvocate.com##.marketing
 theadvocate.com##.marketing-breakout
 theadvocate.com##.tnt-ads-container
+theatlantic.com##[aria-label="Subscribe to The Atlantic"]
+theatlantic.com##[class^="ArticleInjector_"]
 theatlantic.com##[class^=InjectedGate_root]::before:style(background: none !important)
+theatlantic.com##article ~ div > [data-event-module="most popular"]
 thebigmansworld.com##.block-area-before-recipe
 thecinemaholic.com##.cinemaholic-share-wrapper
 thecinemaholic.com##.code-block > [data-freestar-ad]:nth-ancestor(1)
@@ -3269,6 +3304,9 @@ watson.ch##.watson-snippet__shareBubbles
 watson.ch##.watson-story__content .md\:w-3\/5:style(width: auto !important;)
 watson.ch##[class^=watson-sharebuttons__]
 weather.com##[id^="Outbrain-main-"]
+web.de##.dialog-app__blocker
+web.de##.navigator__item[aria-label="Premium"]:style(opacity: 0.7)
+web.de##[data-service-slot^="recobox_"]
 web.de##[href^="https://lotto.web.de/"]
 web.de##[href^="https://vorteile.web.de"]
 web.de##ui-social
@@ -3453,6 +3491,7 @@ zdnet.com##[id^="newsletter-widget"]
 zeit.de###iqd_mainAd
 zeit.de###overscrolling
 zeit.de###paywall:style(margin-top: 3.5rem !important)
+zeit.de##.content-area ~ #colophon > #secondary:has(.widget-title:has-text(Neueste Beiträge))
 zeit.de##.navigation__subscription-link
 zeit.de##.newsletter-signup
 zeit.de##.paragraph--faded::before:style(background: none !important)
@@ -3461,6 +3500,7 @@ zeit.de##.paywall-footer
 zeit.de##.paywall-footer--narrow.paywall-footer--expandable.paywall-footer
 zeit.de##.sharing-menu
 zeit.de##.sp-message-open body:style(overflow: visible !important ; position: static !important)
+zeit.de##.tb-newShareBox
 zeit.de##.topicbox
 zeit.de##[data-zplus="zplus"]:style(opacity: 0.7 !important)
 zeit.de##[id^=sp_message_container_][style="display: block;"]:style(display: none !important)
@@ -3514,6 +3554,7 @@ zueritoday.ch##.social-bar-mobile
 zueritoday.ch##img[src^="/__stats/"]
 zugerzeitung.ch##.article > .articlepromobox ~ .container--bta
 zugerzeitung.ch##.articlepromobox
+zugerzeitung.ch##.container--article > div:last-child[style*=linear-gradient]
 zugerzeitung.ch##.pageelement--advertisement
 zugerzeitung.ch##.recommendation-list
 zugerzeitung.ch##.regwall__wrapper::before:style(display: none !important)
