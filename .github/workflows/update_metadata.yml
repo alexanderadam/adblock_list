@@ -41,6 +41,9 @@ jobs:
         run: |
           awk 'BEGIN { header = 1 } /^[[:space:]]*$/ { header = 0 } header { print; next } /^[\[!]/ { print; next } { lines[NR] = $0 } END { n = asort(lines); for (i = 1; i <= n; i++) print lines[i] }' ${{ env.FILENAME }} > temp && mv temp ${{ env.FILENAME }}
 
+      - name: Install idn
+        run: sudo apt-get install -y idn
+
       - name: Extract affected hosts
         run: |
           scripts/update_hosts.sh ${{ env.FILENAME }}
