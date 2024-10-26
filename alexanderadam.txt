@@ -100,6 +100,10 @@ android-hilfe.de##[class^=billboard-ad]
 android-hilfe.de##[class^=content-ad-]
 androidauthority.com##aside:has-text(Deals)
 androidauthority.com##div > div > form> div:has-text(Google Weekly):nth-ancestor(3)
+androidauthority.com##main > div > div > div > div:has([href="https://www.androidauthority.com/deals"])
+androidauthority.com##main > div > div > div > div:has-text(You might like)
+androidauthority.com##main > div > div > div > div:has-text(re reading an):has-text(Authority)
+androidauthority.com##main div ~ aside
 androidcentral.com##.newsletter-signup.box
 androidcentral.com##.socialite-widget
 androidcentral.com##.widget-popular-data
@@ -167,8 +171,11 @@ arstechnica.com##.article-single > .column-wrapper > .left-column:style(width: c
 arstechnica.com##.header-highlight-link:has-text(Subscribe)
 arstechnica.com##.instream-wrap
 arstechnica.com##.share-links
+arstechnica.com##.single-most-read
 arstechnica.com##.story-sidebar > div > .recommendation-further-reading:nth-ancestor(2)
 arstechnica.com##.xrail
+arstechnica.com##article > div > .lg\:col-span-2 ~ .hidden
+arstechnica.com##article > div > .lg\:col-span-2:has(+ .hidden):style(grid-column: 4 !important)
 attackofthefanboy.com##.gamurs-inf-scroll-post ~ .gamurs-inf-scroll-post
 augsburger-allgemeine.de##.aa-three-recommendations-space
 augsburger-allgemeine.de##.piano-article
@@ -388,6 +395,8 @@ bunte.de##.mb-6 > #share-buttons:nth-ancestor(1)
 bunte.de##aside
 business-punk.com##.OUTBRAIN
 business-punk.com##.post-item > .gujAd:nth-ancestor(1)
+businessinsider.com###l-content:has(+ #l-rightrail) .post-content:style(width: auto !important)
+businessinsider.com###l-content:has(+ #l-rightrail):style(width: 100% !important; padding-right: 0 !important; max-width: none !important)
 businessinsider.com###l-rightrail
 businessinsider.com##.content-recommendation-engine
 businessinsider.com##.content-recommendations-component
@@ -395,6 +404,9 @@ businessinsider.com##.inline-newsletter-signup
 businessinsider.com##.l-ad
 businessinsider.com##.notification-prompt-wrapper
 businessinsider.com##.post-content-more
+businessinsider.com##.related-posts
+businessinsider.com##.share-button-dropdown-wrapper
+businessinsider.com##.share-button-dropdown-wrapper ~ .vertical-divider
 businessinsider.com##.sticky-rail-ad-container
 businessinsider.com##.subnav-ad-layout
 businessinsider.com##.subscribe-and-login-links
@@ -434,8 +446,12 @@ candyfonts.com##.shareButton
 careerkarma.com##.ad7
 careerkarma.com##.testimonial_section
 catholic.com##.related-content
+cbsnews.com###component-queryly-right-rail-article-recirc
 cbsnews.com##.ad-wrapper
+cbsnews.com##.recirculation
+cbsnews.com##.sharebar
 cbsnews.com##.top-ad-container
+cbsnews.com##.type--content-article .col-8 ~ .col-4.nocontent
 cbsnews.com##aside > div > h3:has-text(Trending News):nth-ancestor(2)
 chaptercheats.com##.ad_wrp
 chaptercheats.com##.adright2
@@ -636,6 +652,7 @@ date.noii.ch##.swiper-wrapper > .swiper-slide:style(float: left)
 date.noii.ch##.swiper-wrapper:style(display: block !important)
 dba.stackexchange.com##.tt-uppercase.flex--item.site-header--sponsored
 dcrainmaker.com##.nc_wrapper > .swp_social_panel:nth-ancestor(1)
+dcrainmaker.com##[data-buy-now-links]
 dcrainmaker.com##li.widget_sp_image > a[href="https://www.dcrainmaker.com/support"]:nth-ancestor(1)
 de24live.de##.articleAppendix
 de24live.de##aside.articleTeaser
@@ -747,16 +764,21 @@ dr-dsgvo.de###vgzinfo
 dr-dsgvo.de##.mashsb-container:has-text(Newsletter)
 dr-gumpert.de###ad_height
 duden.de###aab-overlay
+duden.de###block-numero-leaderboard2ndslot
+duden.de###block-numero-lexemleaderboardunten
+duden.de###block-numero-taboolaads
 duden.de###block-teasercontent-right > .internal-banner-ad
 duden.de##.aad-box
 duden.de##.internal-banner-ad
 duden.de##.namilililinalala
 duden.de##.nanamililinalala
 duden.de##.tabloid__insert
+duden.de##.tabloid__marquee
 duden.de##.vignette ~ .vignette ~ .tile__wrapper:remove()
 duden.de##[href^="https://lp.duden.de/plus/"]
 duden.de##[id^=sp_message_container]
 duden.de##article > .gizmo
+duden.de##article > div > div:has(img[alt="Werbefreiheit aktivieren"])
 duden.de##html.sp-message-open > body:style(overflow: visible !important; position: static !important)
 duden.de#$#body{ overflow: visible !important; }
 dutchnews.nl##.ad-container
@@ -1131,8 +1153,6 @@ fr.de##html.cmp-modal-open:style(overflow:visible !important)
 fragen.lifeline.de###toast-container
 freeadultcomix.com##.adguru
 freeadultcomix.com##.adguru-zone-wrap
-freebies.indiegala.com###developer-product-more-carousel
-freebies.indiegala.com##.developer-product-more
 freecoursesonline.me##.adsbygoogle
 freefontsdownload.net###fb-root
 freefontsdownload.net##.adsbygoogle
@@ -1179,7 +1199,11 @@ futurezone.at##.fuzoBox--newsletter
 futurezone.at##.outbrain
 futurezone.at##.relatedArticles
 gamerant.com##p > .related-single:nth-ancestor(1)
+games.ch###latestArticle
 games.ch###wallpaper
+games.ch##article ~ .rect:has(script)
+games.ch##article[data-article]:has(> .col8) ~ aside
+games.ch##article[data-article]:has(> .col8):has(+ aside) > .col8:style(width: 100% !important)
 gamespot.com##.has-rhythm
 gamespot.com##.has-rhythm--max
 gamespot.com##.stub-leader
@@ -1257,10 +1281,17 @@ gizmodo.com###secondScroll
 gizmodo.com##.ad-mobile-dynamic
 gizmodo.com##.instream-native-video
 gizmodo.com##.js_curation-block-list > section > div > .ad-container:nth-ancestor(1)
+gizmodo.com##.mt-10:has-text(Daily Newsletter)
+gizmodo.com##.not-prose:has(.video-outside)
+gizmodo.com##.post-bottom
+gizmodo.com##.print\:hidden:has(> .share-twitter)
 gizmodo.com##.share-tools-buttons-top
 gizmodo.com##.sidebar-sticky-children > div > div > .ad-container:nth-ancestor(2)
 gizmodo.com##.sidebar-sticky-children > div:first-child:style(padding-top: 0 !important)
+gizmodo.com##[data-openweb-ad]
 gizmodo.com##[style="height: 373px;"]
+gizmodo.com##article > .mb-6 > .w-full ~ aside
+gizmodo.com##article > .mb-6 > .w-full:has(+ aside) > .max-w-\[800px\]:style(max-width: none !important)
 gizmodo.com.au##.entry-share-icons
 gizmodo.com.au##.gmg-subscribe-widget
 glamour.de###link-banner
@@ -1418,6 +1449,7 @@ haz.de##[data-testid="share-toggle-button"]
 haz.de##[data-testid^="share-overlay-"]
 heise.de###article-page-upscore ~ .a-layout:has-text(Spiele)
 heise.de###meldung ~ aside.recommendations.wide
+heise.de###upscore-paywall-placeholder::before
 heise.de###wtma_teaser_ho_vertrieb_inline_branding
 heise.de##.a-ad
 heise.de##.a-ad--content
@@ -1461,6 +1493,8 @@ heise.de##a-collapse:has(header:has-text(Newsletter))
 heise.de##a-paid-content-teaser > .curtain-module
 heise.de##a-paid-content-teaser:style(margin-top: 60px !important)
 heise.de##a-sticky-footer
+heise.de##article ~ div:has(+ article):has-text(Anzeige)
+heise.de##article:has(h3 > span > svg):style(opacity:0.6)
 heise.de##figure.a-inline-image > div > a[href="https://www.instagram.com/technologyreview_de/"]:nth-ancestor(2)
 heise.de#$#.a-article-header { max-width: none !important }
 heise.de#$#.article-layout__content { max-width: none !important }
@@ -1568,6 +1602,8 @@ indianexpress.com##.o-taboola-story
 indianexpress.com##.rhs-banner-wrapn
 indianexpress.com##.subscriber_hide
 indiatimes.com###budgetAd
+indiegala.com###developer-product-more-carousel
+indiegala.com##.developer-product-more
 infiniteundo.com###description p > a[href*="tag=noahsussman-20"]:nth-ancestor(1)
 infiniteundo.com##.adsbygoogle
 infoq.com##.article__explore > .f_article_rightbar[data-col="2/6"]:nth-ancestor(1) > [data-col="4/6"] > .article__content:style(max-width: none !important)
@@ -1687,7 +1723,6 @@ kompass.com##.colPub > .containerWhite > .adsense:nth-ancestor(2)
 kompass.com##.megaBanner
 krebsonsecurity.com##[class*=themonic-ad]
 ladbible.com##[class^=advert-]
-laptrinhx.com###iXqcY1XLSjwJadVu8cEf9ySIKfGVOw
 latex.org###post_ads
 latex.org##.forabg
 lauterbacher-anzeiger.de##.id-Recommendation
@@ -1732,6 +1767,15 @@ linkedin.com##.mn-sales-navigator-upsell
 linkedin.com##.pv-text-details__verification-non-self-promo
 linkedin.com##[class*=premium-upsell]
 linux-magazin.de###Ads_BA_VID
+linux-magazine.com###ContentLeft.span8:has(.full.news .attribute-date) ~ #ContentRight.span4
+linux-magazine.com###ContentLeft.span8:has(.full.news .attribute-date):has(+ #ContentRight.span4):style(width: 96% !important)
+linux-magazine.com###Skyscraper
+linux-magazine.com###Stage:style(margin-top: 0 !important)
+linux-magazine.com###zerkbanner_masthead
+linux-magazine.com###zerkbanner_tracking
+linux-magazine.com##.ads
+linux-magazine.com##.attribute-relatedcontent
+linux-magazine.com##.social_bookmarks
 linuxconfig.org##.incontent_ads ~ hr
 linuxconfig.org##br ~ hr
 linuxconfig.org##p:empty ~ hr
@@ -1803,7 +1847,16 @@ medicalnewstoday.com##[data-testid="qualtrics-container"]
 medicalnewstoday.com##div > aside > div > div > [data-adbridg-ad-class]:nth-ancestor(4):style(min-height: 0 !important; width: auto !important; margin-top: 0 !important)
 medicalnewstoday.com##div > div > [data-article-body="0"]:nth-ancestor(2) ~ aside
 medium.com##[style="bottom: 0px;"]
+medium.com##article ~ div > div > div:style(background: none !important; margin-top: 0 !important)
 medium.com##article.meteredContent ~ div > div > div:first-child:style(background: none !important)
+medjournaldaily.com###tie-popup-adblock
+medjournaldaily.com##.post-components
+medjournaldaily.com##.share-buttons
+medjournaldaily.com##.stream-item-below-post:has(script)
+medjournaldaily.com##.stream-item:has(.ads-label)
+medjournaldaily.com##.tie-popup-is-opend #tie-wrapper:style(filter: none !important; transitio: none !important;)
+medjournaldaily.com##.widget_custom_html:has(script)
+medjournaldaily.com##html:style(overflow: visible !important)
 meetup.com###try-pro-links
 meetup.com##.hidden > .items-center > .ml-auto > [data-event-label="profile_try_member_plus_click"]:nth-ancestor(3)
 meetup.com##.navItem > a[href^="/lp/meetup-pro"]:nth-ancestor(1)
@@ -1813,6 +1866,9 @@ meetup.com##[data-event-label="upcoming-events"] ~ .overflow-hidden > div > div 
 mein-schoener-garten.de###gen_top_wrapper
 mein-schoener-garten.de##.chakra-skeleton
 mein-schoener-garten.de##.outbrain-wrapper-container
+mein-schoener-garten.de##.related-articles
+mein-schoener-garten.de##[data-testid="ParagraphChameleonShop"]
+mein-schoener-garten.de##[data-testid="ParagraphTeaser"]:has-text(Anzeige)
 menshealth.de###div-gpt-ad-rectangle
 menshealth.de##.grid > div > .va-list-item > div > div > div > .va-teaser-badges:has-text(Anzeige):nth-ancestor(5)
 menshealth.de##.v-A_-abo
@@ -1842,13 +1898,18 @@ mensjournal.com##[id^=ad-]
 mensjournal.com##[phx-track-id="BelowContent"]
 mensjournal.com##figure > phoenix-iframe:nth-ancestor(1)
 mensjournal.com##phoenix-hub
+merkur.de##.cmp-root-container
 merkur.de##.id-Article-content-item-gallery--inline
 merkur.de##.id-Article-mainMedia-video
+merkur.de##.id-StoryElement-embed
 merkur.de##.id-StoryElement-embed--glomexContextual
 merkur.de##.id-StoryElement-intestitialLink
 merkur.de##.id-TBeepSlot
 merkur.de##[data-id-advertdfpconf]
 merkur.de##[data-testid="ecr-teaser-list-swipable"]
+merkur.de##[data-testid="ecr-ticker"]
+merkur.de##div.id-TBeepSlot--content--scrollable
+merkur.de##html.cmp-modal-open:style(overflow: visible !important)
 merriam-webster.com###definition-right-rail
 merriam-webster.com###main-banner-ad-container
 merriam-webster.com###social-links
@@ -1884,6 +1945,20 @@ minitool.com##.article-recommend-wrap
 minitool.com##.page-bottom-fixed
 mix-dich-gluecklich.de##.j-facebook
 mix-dich-gluecklich.de##.j-sharebuttons
+mixed.de###aside-right
+mixed.de###content ~ aside#sidebar
+mixed.de###content:has(+ aside#sidebar):style(width: 100% !important)
+mixed.de###feed-bottom-x-plus
+mixed.de###mixed-popular
+mixed.de###single-bottom-x-plus
+mixed.de###sitebar-ad
+mixed.de###steadyAdblockContainer
+mixed.de##.ad-container
+mixed.de##.widget_mailpoet_form
+mixed.de##[id^="sp_message_container"]
+mixed.de##article .x-plus-content
+mixed.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
+moneyexchangerate.org##.row:has(> .col-12 > .card > .card-block > .adsbygoogle)
 moneyhouse.ch##.text-invisible:style(filter: none !important; webkit-filter: none !important;)
 moneyweek.com###blueconic-article-moneyweek
 moneyweek.com##.ad-unit
@@ -1925,6 +2000,7 @@ msn.com##.me-stripe-tile-content:has(.me-stripe-title-subtitle:has-text(Anzeige)
 msn.com##.modernRightRail_modulesContainer-DS-EntryPoint1-1
 msn.com##[class*="NativeAd"]
 msn.com##[class^="articlePage_infiniteReading"]
+music.apple.com##.upsell-banner
 music.youtube.com##[tab-id="SPunlimited"]:has-text(Upgrade)
 music.youtube.com##ytmusic-mealbar-promo-renderer
 mydealz.de##.idealo-cept
@@ -2169,6 +2245,7 @@ nzz.ch##.teaser--article:has(.icon--pro-nzz):style(opacity: 0.7 !important)
 nzz.ch##.teaser--article:has(.teaser__flag > svg):style(opacity: 0.7 !important)
 nzz.ch##.widget--article > article > .teaser--sponsored:nth-ancestor(2)
 nzz.ch##[componenttype="advertisement"]
+nzz.ch##[componenttype="barrier"]:has(+ [componenttype="advertisement"])
 nzz.ch##[componenttype="barrier"]:style(margin-top: 95px !important)
 nzz.ch##[componenttype="moreToSubject"]
 nzz.ch##[data-test-variant="companion-standard"]
@@ -2284,6 +2361,10 @@ petapixel.com###fixed-ad-container
 petapixel.com##.post-sharing
 petapixel.com##.related-posts
 phoenixnap.com##a[href*="utm_medium=banner"]
+phys.org###js-popup-donate
+phys.org###js-soc-panel
+phys.org##.d-print-none:has(#news-more)
+phys.org##.news-related
 pilatustoday.ch##.adnz_billboard_1-container
 pilatustoday.ch##.adnz_billboard_2-container
 pilatustoday.ch##.adnz_billboard_3-container
@@ -2324,10 +2405,12 @@ pocket-lint.com##main.w-content ~ .w-content  ~ .w-content  #embed-scripts ~ art
 politifact.com##.m-supporter
 politifact.com##.o-disruptor
 politifact.com##.o-header__donate
+polygon.com##.duet--layout--article-recirc
 polygon.com##.m-ad
 polygon.com##.m-game--overview__social
 polygon.com##.m-share-buttons
 polygon.com##[data-cb-ad-id]
+polygon.com##[data-concert="outbrain_post_tablet_and_desktop"]
 pons.com##[id^=ad-]
 pons.com##[id^=ad_]
 pons.com##[id^=pons-ad-]
@@ -2365,6 +2448,7 @@ praxistipps.focus.de##.fb-direction-row-mu > .fb-col-md-4 > .ArticleRecommendati
 praxistipps.focus.de##hr:has(+ .Article__Ad)
 praxistipps.focus.de##section.ArticleRecommendation
 preispirat.ch###responsiveAd
+preispirat.ch###tp-price-compare
 preispirat.ch##.clearfix ~ .vc_row-fluid:has(#ad)
 prepaid-wiki.de###image-banner
 pronto.es##.board-module-ads
@@ -2389,6 +2473,7 @@ psychologytoday.com##.pt-ad
 psychologytoday.com##.pt-social-media
 psychologytoday.com##aside.layout-content-right-rail
 quantamagazine.org###newsletter
+quarks.de##.sticky_social
 quora.com##.content-monetization-wall div:style(mask-image: none !important)
 quora.com##[style="box-sizing: border-box; display: flex; position: fixed; inset: 0px; background-color: rgba(68, 68, 68, 0.85);"]:style(background: none !important)
 quora.com##[style="box-sizing: border-box; filter: blur(3px);"]:style(filter: none !important)
@@ -2413,8 +2498,11 @@ rawstory.com##.survey_post_promo
 rawstory.com##.widget__shares
 rawstory.com##[id^=sFooter_]
 rd.com###ads-container-single
+rd.com###gch-social-share-container
+rd.com###recirc-strip
 rd.com###right-sidebar-container
 rd.com##.ad-container-wrapper
+rd.com##.feature-image-sponsored-ad-wrapper
 rd.com##.pure-u-xl-14-24 > .post-content:nth-ancestor(1):style(width: 100% !important)
 rd.com##.social-share
 rd.com##.sticky-utility-bar
@@ -2540,10 +2628,21 @@ scitechdaily.com##.ezoic-adpicker-ad
 scitechdaily.com##.ezoic-autoinsert-ad
 scitechdaily.com##.mh-share-buttons
 scitechdaily.com##.mh-sidebar
+scitechdaily.com##.post-share-b
+scitechdaily.com##.post-share-bot
+scitechdaily.com##.post-share-float
+scitechdaily.com##.related-posts
+scitechdaily.com##.s-post-contain ~ aside.col-4.main-sidebar
+scitechdaily.com##.s-post-contain:has(+ aside.col-4.main-sidebar):style(width: 100% !important)
+scitechdaily.com##.widget-social-b
 scitechdaily.com##.yarpp-related
+screenrant.com###article-body > div > [data-include-community-rating]:has-text(Related)
 screenrant.com###article-body > p > .related-single:nth-ancestor(1)
 screenrant.com##.adsninja-ad-zone
+screenrant.com##.adsninja-rail-container
 screenrant.com##.bottom.sharing
+screenrant.com##.footer-popular-feed
+screenrant.com##.footer-recommended-feed
 screenrant.com##.next-single
 screenrant.com##.related-single
 screenrant.com##.sentinel-article-nextArticle
@@ -2566,6 +2665,7 @@ servethehome.com##.td_block_related_posts
 servethehome.com##aside:has([data-revive-zoneid])
 servicemanuals.us##.ads-fileinfo
 servicemanuals.us##.randomlink
+sifa-sibe.de##.asm_async_creative
 sitepoint.com##.custom-content
 sitepoint.com##.inline-content
 sky.com##.sdc-article-related-stories
@@ -2620,6 +2720,7 @@ spiegel.de##.relative > [data-sticky-ad-offset]:nth-ancestor(1)
 spiegel.de##[data-advertisement]
 spiegel.de##[data-area="body"] > [data-advertisement]
 spiegel.de##[data-area="body"] > [data-area="related_articles"]
+spiegel.de##[data-area="body"] > div:has(> section span:has-text(Mehr zum Thema))
 spiegel.de##[data-area=body] > aside[data-area="related_articles"]
 spiegel.de##[data-block-el="articleTeaser"]:has([data-contains-flags="Spplus-paid"]):style(opacity:0.7 !important)
 spiegel.de##[data-block-el="articleTeaser"]:has([data-flag-name="plus-paid"]):style(opacity: 0.7 !important)
@@ -2978,6 +3079,8 @@ thedodo.com##aside[class^="RecommendedVideostyles"]
 thedodo.com##div[class^="Headerstyles__HeaderRightSection"]
 thegamer.com##.ad-odd
 thegamer.com##.adsninja-ad-zone
+thegamer.com##.adsninja-rail-container
+thegamer.com##.footer-recommended-feed
 thegamer.com##.related-single
 theguardian.com###reader-revenue-links-footer
 theguardian.com###reader-revenue-links-header
@@ -3050,6 +3153,11 @@ theregister.com###sharing_widget_overlay_2
 theregister.com###story-bot-col
 theregister.com##.adun
 theregister.com##.sharing_block
+thesaurus.com##div:has( > p:has-text(Advertisement))
+thesaurus.com##div:has( > p:has-text(Advertisement)) ~ hr
+thesaurus.com##div:has(> div > [data-type="games-module"]):has(> div:has-text(Advertisement))
+thesaurus.com##div:has(> script)
+thesaurus.com##div:has(> script) ~ hr
 theserverside.com###DigDeeperSplash
 theserverside.com###next-steps
 theserverside.com###sponsored-news
@@ -3076,6 +3184,11 @@ thewrap.com##.post:has(span:has-text(Pro)):style(opacity: 0.7 !important)
 thewrap.com##.wp-block-the-wrap-ad
 thewrap.com##.wp-block-the-wrap-read-more
 thewrap.com##[style*=linear-gradient]
+thoughtco.com##.article-right-rail:has(> .mm-ads-right-rail)
+thoughtco.com##.mm-ads-leaderboard-spacer
+thoughtco.com##.post-header-social-block
+thoughtco.com##.prefooter--outbrain
+thoughtco.com##.spotlight-billboard:has(> div> .mm-ads-sc-sticky-square)
 ticketmaster.com###pageInfo:nth-ancestor(1) ~ div:has([aria-hidden="true"] > [id^=ad-])
 ticketmaster.com##[aria-hidden] > [id^=ad-]:nth-ancestor(1)
 time.com###article-body p > i > b:has-text(Read more:):nth-ancestor(2)
@@ -3183,16 +3296,26 @@ tutti.ch##div > a > button:has-text(Schneller verkaufen):nth-ancestor(1)
 tutti.ch##div > div > div > div > div > div > dl > dt > span:has-text(Preis CHF):nth-ancestor(8) ~ .MuiBox-root > div > div > div > #smg-ad-content-ad-pos1:nth-ancestor(4)
 tutti.ch##div > table > tbody > tr > td > a > button:has-text(Schneller verkaufen):nth-ancestor(2)
 tutti.ch##div[role=group] > div > div:has-text(Gesponserte Links):nth-ancestor(2)
+tvmovie.de##.col-b
+tvmovie.de##.sharingbox
+tvmovie.de##.taboolaWrapper
+tvmovie.de##.top-stories
+tvmovie.de##body header.mainHeader > nav:style(margin-top: 0 !important)
 tvpartstoday.worthepenny.com##[id^="afscontainer"]
 twitch.tv##.prime-offer
 twitch.tv##.prime-offers-upsell
 twitch.tv##.prime-upsell__logo-container
 twitch.tv##[data-a-target="top-nav-get-bits-button"]:nth-ancestor(4)
 twitch.tv##[data-test-selector="subscribe-button__dropdown"]:nth-ancestor(4)
+twitter.com##[aria-label="Trending"] > div > div:has(aside[aria-label="Expiring soon!"])
 twitter.com##[data-testid="UserName"] > div:has([href="/i/premium_sign_up"])
+twitter.com##[data-testid="cellInnerDiv"]:has([href="/i/premium_sign_up?tier=premium"])
+twitter.com##[data-testid="cellInnerDiv"]:has-text(Become a Premium Creator)
 twitter.com##[data-testid="cellInnerDiv"]:has-text(Go Ad Free in For You with Premium+)
 twitter.com##[data-testid="cellInnerDiv"]:has-text(Go ad free)
 twitter.com##[role="navigation"] > [href="/i/twitter_blue_sign_up"]
+twitter.com##a[href="/i/premium_sign_up"]
+twitter.com##a[href="/i/verified-orgs-signup"]
 twitter.com##aside[aria-label="Subscribe to Premium"]
 twitter.com##div > aside[aria-label="Get Verified"]:nth-ancestor(1)
 twitter.com##nav > a[href="/i/verified-choose"]
@@ -3301,7 +3424,9 @@ watson.ch##.story-recommendations
 watson.ch##.watson-autocontext
 watson.ch##.watson-next-story
 watson.ch##.watson-snippet__shareBubbles
+watson.ch##.watson-story__content .md\:w-3\/5 ~ .insert:style(width: 100% !important)
 watson.ch##.watson-story__content .md\:w-3\/5:style(width: auto !important;)
+watson.ch##.watson-story__content .watson-chronicles
 watson.ch##[class^=watson-sharebuttons__]
 weather.com##[id^="Outbrain-main-"]
 web.de##.dialog-app__blocker
@@ -3445,8 +3570,13 @@ wsj.com##[data-testid="ad-container"]
 wsj.com##article ~ .aside-container
 wsj.com##nav-hat
 x.com##[aria-label="Subscribe to Premium"]
+x.com##[aria-label="Trending"] aside:has-text(Get up to 50% off X Premium)
+x.com##[data-testid="cellInnerDiv"]:has([data-testid="eventHero"] [data-testid="image"])
+x.com##[data-testid="cellInnerDiv"]:has([data-testid="inlinePrompt-primaryAction"]:has-text(Subscribe))
 x.com##[data-testid="cellInnerDiv"]:has-text(5 days left - save up to 40% on X Premium)
+x.com##[data-testid="cellInnerDiv"]:has-text(Get up to 50% off X Premium)
 x.com##[data-testid="cellInnerDiv"]:has-text(Go ad-free with Premium+)
+x.com##aside[aria-label="Expiring soon!"]
 x.com##nav[role="navigation"] > a[data-testid="premium-signup-tab"]
 x.com##nav[role="navigation"] > a[data-testid="vo-signup-tab"]
 xda-developers.com###article-waypoint
