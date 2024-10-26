@@ -19,11 +19,11 @@ Contributions to improve the adblock list are welcome! If you have suggestions o
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a new Pull Request.
 
-You might want to setup the [pre-commit hook for git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks):
+To set up the pre-commit hook, run the following commands:
 
-```bash
-pip install pre-commit
-pre-commit install
+```sh
+cp scripts/pre-commit.sh .git/hooks/pre-commit
+chmod +x .git/hooks/pre-commit
 ```
 
 ## Acknowledgments
