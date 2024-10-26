@@ -33,13 +33,14 @@ save_domain_entry() {
   local rule_count=$2
   local count=$3
   local total_domains=$4
+  local unicode_domain=$(idn --idna-to-unicode "$domain")
   local favicon_url="https://icons.duckduckgo.com/ip3/${domain}.ico"
   if wget -q --spider "$favicon_url"; then
-    echo "- <img src=\"${favicon_url}\" width=\"16\" />&nbsp;${domain} (${rule_count})" >> "$HOSTS_FILE"
+    echo "- <img src=\"${favicon_url}\" width=\"16\" />&nbsp;${unicode_domain} (${rule_count})" >> "$HOSTS_FILE"
   else
-    echo "- 🌐&nbsp;${domain} (${rule_count})" >> "$HOSTS_FILE"
+    echo "- 🌐&nbsp;${unicode_domain} (${rule_count})" >> "$HOSTS_FILE"
   fi
-  echo -e "🔍 \e[35m[\e[90m$(current_time)\e[35m] $count / $total_domains - \e[34m\e[4m${domain}\e[0m\e[0m"
+  echo -e "🔍 \e[35m[\e[90m$(current_time)\e[35m] $count / $total_domains - \e[34m\e[4m${unicode_domain}\e[0m\e[0m"
 }
 
 # Extract affected hosts and filter against blocklist
