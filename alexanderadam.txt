@@ -6,7 +6,6 @@
 ! Homepage: https://alexanderadam.github.io/adblock_list/
 ! Last modified: 2024-10-26
 ! Remove the bottom-sheet promoting the "See Reddit on mobile"
-[Adblock Plus 2.0]
 
 ##.adsbygoogle
 *##.adthrive
@@ -47,6 +46,7 @@
 9gag.com##[style="position: relative; z-index: 3; width: 640px; min-height: 202px; margin: 0px auto;"]
 9monate.de##native-player
 9to5mac.com##.post-social-mobile
+[Adblock Plus 2.0]
 aargauerzeitung.ch##.regwall__wrapper::before
 aargauerzeitung.ch##.regwall__wrapper:style(margin-top: 0 !important)
 abbreviations.com##.ad-slot
@@ -94,7 +94,6 @@ allaboutvision.com##.article__aside
 allaboutvision.com##.article__bottom
 allegro.pl##[data-analytics-tags*=advertising]
 analyticsinsight.net##.head-banner
-andreagoulet.substack.com##.subscription-widget-wrap
 android-hilfe.de##[class^=billboard-ad]
 android-hilfe.de##[class^=content-ad-]
 androidauthority.com##aside:has-text(Deals)
@@ -1150,8 +1149,6 @@ fr.de##article > .id-StoryElement-intestitialLink
 fr.de##html.cmp-modal-open:style(overflow: visible !important)
 fr.de##html.cmp-modal-open:style(overflow:visible !important)
 fragen.lifeline.de###toast-container
-
-
 freecoursesonline.me##.adsbygoogle
 freefontsdownload.net###fb-root
 freefontsdownload.net##.adsbygoogle
@@ -2643,6 +2640,16 @@ screenrant.com##.next-single
 screenrant.com##.related-single
 screenrant.com##.sentinel-article-nextArticle
 screenrant.com##main.w-content ~ div.w-content
+scribd.com###sidebar > div:has([data-e2e="dismissible-ad-header-scribd_rightrail_adhesion"])
+scribd.com##.between_page_portal_root:has(span:has-text(Download to read ad-free))
+scribd.com##.blurred_page .image_layer .absimg:style(opacity: 1 !important)
+scribd.com##.blurred_page .promo_div
+scribd.com##.blurred_page .text_layer[style*="color: transparent"] [unselectable][style*="color: transparent"]:style(color: inherit !important; text-shadow: none !important)
+scribd.com##.blurred_page .text_layer[style*="color: transparent"]:style(color: inherit !important)
+scribd.com##.promo_div > div:style(backdrop-filter: none !important)
+scribd.com##[data-testid="bottom-right-mrec"]
+scribd.com##[data-testid="sticky-wrapper"]:has(span:has-text(Download to read ad-free))
+scribd.com##section:has(> .share_document_title)
 sdtimes.com##.col-md-4.dmbs-right
 sdtimes.com##.col-md-8.dmbs-main:style(width: 100% !important)
 sdtimes.com##.postsubscribe
@@ -2812,6 +2819,7 @@ stuttgarter-zeitung.de##[data-layout="desktop"] [data-layout-desktop*="w8-"]:sty
 stuttgarter-zeitung.de##[data-lt="Abonnieren_pos_header"]
 stuttgarter-zeitung.de##p:has-text(Lesen Sie auch:)
 stuttgarter-zeitung.de##p:has-text(Lesen Sie jetzt weiter:)
+substack.com##.subscription-widget-wrap
 sueddeutsche.de##.ad
 sueddeutsche.de##.ad-container
 sueddeutsche.de##.ad_iqadtile1
@@ -3012,7 +3020,6 @@ tgx.rs##[position="relative"][align="center"][style="margin-bottom:10px;"]
 tgx.rs##[position="relative"][style="margin-top:10px;"][align="center"]
 tgx.rs##[style="margin-bottom:10px;"]:has(> center > a)
 tgx.rs##[style="margin:5px;"]:has([href^="/hub.php"])
-tgx.rs##[style="margin:5px;"]:has([href^="/hub.php?"])
 tgx.rs##[style="padding-left:7px;padding-right:7px;max-width:445px;"] > center
 tgx.rs##a[href^="/hub.php?a=h0tdeal"]
 tgx.rs##center:has(> div > a[href^="/hub.php?a="])
@@ -3031,7 +3038,6 @@ tgx.sb##[position="relative"][align="center"][style="margin-bottom:10px;"]
 tgx.sb##[position="relative"][style="margin-top:10px;"][align="center"]
 tgx.sb##[style="margin-bottom:10px;"]:has(> center > a)
 tgx.sb##[style="margin:5px;"]:has([href^="/hub.php"])
-tgx.sb##[style="margin:5px;"]:has([href^="/hub.php?"])
 tgx.sb##[style="padding-left:7px;padding-right:7px;max-width:445px;"] > center
 tgx.sb##a[href^="/hub.php?a=h0tdeal"]
 tgx.sb##center:has(> div > a[href^="/hub.php?a="])
