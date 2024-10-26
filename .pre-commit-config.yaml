@@ -1,8 +1,0 @@
-repos:
-  - repo: local
-    hooks:
-      - id: sort-rules
-        name: Sort rules
-        entry: scripts/sort_rules.sh
-        language: script
-        files: alexanderadam.txt
