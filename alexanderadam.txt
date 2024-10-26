@@ -1150,8 +1150,6 @@ fr.de##article > .id-StoryElement-intestitialLink
 fr.de##html.cmp-modal-open:style(overflow: visible !important)
 fr.de##html.cmp-modal-open:style(overflow:visible !important)
 fragen.lifeline.de###toast-container
-
-
 freecoursesonline.me##.adsbygoogle
 freefontsdownload.net###fb-root
 freefontsdownload.net##.adsbygoogle
