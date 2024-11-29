@@ -1438,6 +1438,8 @@ gq-magazin.de##.grid-layout__aside
 gq-magazin.de##[class*="ContentFooterRelated-"]
 gq-magazin.de##[data-testid="GenericCallout"]
 gq-magazin.de##section > p > a:has-text(Lesen Sie auch: )
+grabify.link##.fa-exclamation-circle ~ a[href="https://grabify.link/hide"]
+grabify.link##.fa-exclamation-circle:has(+ a[href="https://grabify.link/hide"])
 guidingtech.com##.content:has(> div > .adsbygoogle)
 gutefrage.net###cmpbox
 gutefrage.net###cmpbox2
@@ -2069,6 +2071,7 @@ music.youtube.com##[tab-id="SPunlimited"]:has-text(Upgrade)
 music.youtube.com##ytmusic-mealbar-promo-renderer
 mydealz.de##.ad--aboveComments-wrapper
 mydealz.de##.ad--productIncontent-wrapper
+mydealz.de##.ad-publift
 mydealz.de##.idealo-cept
 mydealz.de##[data-t="sharingOptions"]
 n-joy.de##.contentbox:has(> .boxhead:has-text(Weitere Informationen))
@@ -2458,7 +2461,6 @@ pilatustoday.ch##.adnz_wideboard_4-container
 pilatustoday.ch##.asset:has(#appstore-button-apple)
 pilatustoday.ch##.grid__item > [class*=adnz]
 pirate-bays.net##.modal.in.nordvpn-popup--v12.nordvpn-popup.fade
-plus.tagesspiegel.de###site-header .ABep:has-text(Abo)
 pnp.de###traffective-ad-Billboard
 pnp.de##.bb-fixheight
 pnp.de##[class^="SITE-content-ad-"]
@@ -2527,9 +2529,12 @@ praxistipps.focus.de##.fb-col-md-10:has(> .Article__Ad)
 praxistipps.focus.de##.fb-direction-row-mu:has(> .fb-col-md-4 > .ArticleRecommendation ~ .fb-col-md-4 > .ArticleRecommendation ~ .fb-col-md-4 > .ArticleRecommendation)
 praxistipps.focus.de##hr:has(+ .Article__Ad)
 praxistipps.focus.de##section.ArticleRecommendation
+preispirat.ch###ad
 preispirat.ch###responsiveAd
 preispirat.ch###tp-price-compare
 preispirat.ch##.clearfix ~ .vc_row-fluid:has(#ad)
+preispirat.ch##.wpb_content_element:has(+ div:has(> div > .vc_column-inner > .wpb_wrapper > .post > .wpb_wrapper> #responsiveAd)):style(margin-bottom: 0 !important)
+preispirat.ch##div:has(> div > .vc_column-inner > .wpb_wrapper > .post > .wpb_wrapper> #responsiveAd)
 prepaid-wiki.de###image-banner
 pronto.es##.board-module-ads
 pronto.es##.cont-ads
@@ -2684,6 +2689,12 @@ scamadviser.com##.container--banner:has(h2:has-text(Advertorials))
 schwaebische.de##.article_body > .tw-items-center:has-text(Empfohlene Artikel)
 schwaebische.de##.paragraph:has-text(+++ ):has-text( +++)
 schwaebische.de##[doc-style="alternativeHeader"] > .tw-items-center:has-text(Artikel teilen:)
+schwarzwaelder-bote.de###traffective-ad-Billboard
+schwarzwaelder-bote.de###traffective-ad-Billboard_OMS
+schwarzwaelder-bote.de##.ad
+schwarzwaelder-bote.de##.ad-content-container
+schwarzwaelder-bote.de##.mod-paywall:style(margin-top: 0 !important)
+schwarzwaelder-bote.de##.pwBlur
 schweizer-illustrierte.ch##.bounce-in-bottom
 schweizer-illustrierte.ch##.content-recommendations
 schweizer-illustrierte.ch##[class^=recommendation-slot]
@@ -2827,7 +2838,6 @@ spiegel.de##a:has(> .border-b:has-text(Abonnement))
 spiegel.de##a:has([data-contains-flags="plus-paid"]):style(opacity: 0.7 !important)
 spiegel.de##article section [data-area="body"]:has(> aside > div > div > div > div > span:has-text(Anzeige))
 spiegel.de##article section [data-area="body"]:has(> aside > div > div > span:has-text(Mehr zum Thema))
-spiegel.de##article section [data-area="body"]:has(> div > div > [data-advertisement])
 spiegel.de##footer [data-app-article-issue-context-hidden]:has-text(Kostenlose Online-Spiele)
 spiegel.de##footer:has(> div >  div > div > div > div:has-text(Serviceangebote von SPIEGEL-Partnern))
 spiegel.de##footer:has(> div > div > div > span > a[title="Spiele"])
@@ -3000,6 +3010,7 @@ tagesspiegel.de###ig-code-promo-widget
 tagesspiegel.de###mainMenuPanel:has(> ul > li > a[href="/plus/"])
 tagesspiegel.de###paywal::before
 tagesspiegel.de###paywal:style(margin-top: 30px !important)
+tagesspiegel.de###site-header .ABep:has-text(Abo)
 tagesspiegel.de###story-elements aside:has-text(Weekly Newsletter)
 tagesspiegel.de###story-elements:has(> aside > [data-gtm-class="article-mzt-link"])
 tagesspiegel.de##.APay
@@ -3382,12 +3393,15 @@ tutti.ch##.MuiBox-root:has(> [data-testid="relevant-ad-slot-container-srp-inside
 tutti.ch##.MuiBox-root:has(> [data-testid^="relevant-ad-slot"])
 tutti.ch##.MuiBox-root:has(> [id^=smg-ad-])
 tutti.ch##.MuiBox-root:has(> div > div > [data-testid="relevant-ad-slot-container-pdp-content-ad-pos1"])
+tutti.ch##[data-private-srp-listing-item-id] ~ div:not([data-private-srp-listing-item-id]):has([data-testid*="ad-slot"])
 tutti.ch##[data-testid="adUnit"]
 tutti.ch##[data-testid="listing-list"] ~ .MuiBox-root:has([data-testid^="smg-ad-container-inside-full"])
 tutti.ch##[data-testid="listings-container"] > .MuiBox-root:has([data-testid="smg-ad-container-inside-full-pos1"])
 tutti.ch##[data-testid^="carousel-image-"]:has(> [data-testid="carousel-advertisement"]):remove()
 tutti.ch##div:has(> a > button:has-text(Schneller verkaufen))
 tutti.ch##div:has(> div > div > div > div > div > div > dl > dt > span:has-text(Preis CHF)) ~ .MuiBox-root:has(> div > div > div > #smg-ad-content-ad-pos1)
+tutti.ch##div:has(> div:has(> [data-ad-unit-id]):first-child:last-child)
+tutti.ch##div:has(> div:has(> div:has(> [data-ad-unit-id]):first-child:last-child):first-child:last-child)
 tutti.ch##div:has(> table > tbody > tr > td > a > button:has-text(Schneller verkaufen))
 tutti.ch##div[role=group]:has(> div > div:has-text(Gesponserte Links))
 tvmovie.de##.col-b
@@ -3767,6 +3781,8 @@ zentralplus.ch##[class^=Zen_TeaserList_container]
 zentralplus.ch##[href="https://www.zentralplus.ch/information/app/"]:has(> img)
 zentralplus.ch##a[href="https://www.zentralplus.ch/moeglichmacherin/"]:has(> img)
 zentralplus.ch##article ~ aside[class^=EntryWrap_aside]
+zentralplus.ch##article:has(+ aside[class^=EntryWrap_aside]):style(width: 100% !important)
+zentralplus.ch##p[class*=Core_Paragraph_paywall]:style(font:var(--font-entry-paragraph) !important; color: inherit !important; user-select: auto !important)
 zsz.ch##.site-header [class^=AboButton_root]
 zueritoday.ch##.adnz_button_1-container
 zueritoday.ch##.adnz_button_1-placeholder
@@ -3795,6 +3811,7 @@ zueritoday.ch##img[src^="/__stats/"]
 zugerzeitung.ch##.article > .articlepromobox ~ .container--bta
 zugerzeitung.ch##.articlepromobox
 zugerzeitung.ch##.container--article > div:last-child[style*=linear-gradient]
+zugerzeitung.ch##.container--article ~ .container > .pageelement--top-articles
 zugerzeitung.ch##.pageelement--advertisement
 zugerzeitung.ch##.recommendation-list
 zugerzeitung.ch##.regwall__wrapper::before:style(display: none !important)
