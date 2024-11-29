@@ -1911,7 +1911,7 @@ medjournaldaily.com##.post-components
 medjournaldaily.com##.share-buttons
 medjournaldaily.com##.stream-item-below-post:has(script)
 medjournaldaily.com##.stream-item:has(.ads-label)
-medjournaldaily.com##.tie-popup-is-opend #tie-wrapper:style(filter: none !important; transitio: none !important;)
+medjournaldaily.com##.tie-popup-is-opend #tie-wrapper:style(filter: none !important; transition: none !important;)
 medjournaldaily.com##.widget_custom_html:has(script)
 medjournaldaily.com##html:style(overflow: visible !important)
 meetup.com###try-pro-links
@@ -2025,7 +2025,7 @@ mixed.de##[id^="sp_message_container"]
 mixed.de##article .x-plus-content
 mixed.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 moneyexchangerate.org##.row:has(> .col-12 > .card > .card-block > .adsbygoogle)
-moneyhouse.ch##.text-invisible:style(filter: none !important; webkit-filter: none !important;)
+moneyhouse.ch##.text-invisible:style(filter: none !important;)
 moneyweek.com###blueconic-article-moneyweek
 moneyweek.com##.ad-unit
 moneyweek.com##.social
@@ -3520,8 +3520,8 @@ washingtonpost.com##[data-testid="interstitial-ad"]
 washingtonpost.com##[data-testid="mostRead"]
 washingtonpost.com##[role=alert]:has(title:has-text(Close))
 washingtonpost.com##article + .grid-rail
-washingtonpost.com##body:style(height: default !important; width: default !important; overflow: visible !important; position: static !important)
-washingtonpost.com##html:style(height: default !important; width: default !important; overflow: visible !important)
+washingtonpost.com##body:style(height: auto !important; width: auto !important; overflow: visible !important; position: static !important)
+washingtonpost.com##html:style(height: auto !important; width: auto !important; overflow: visible !important)
 washingtonpost.com##nav:has(> div > a:has-text(Try four weeks free))
 washingtonpost.com##nav:has(> div > div > [data-qa="subs-offer"])
 washingtonpost.com##p:has(> .interstitial.hide-for-print)
@@ -3709,7 +3709,7 @@ xda-developers.com##.ad-zone-size-container
 xda-developers.com##.adsninja-ad-zone
 xda-developers.com##.article-card:has(.article-card-label:has-text(Related))
 xda-developers.com##main.w-content ~ .w-content
-xing.com##[data-qa="signup-layer"]:style(backdrop-filter: none !important; -webkit-backdrop-filter: !important)
+xing.com##[data-qa="signup-layer"]:style(backdrop-filter: none !important; -webkit-backdrop-filter: none!important)
 xn--strunglive-fcb.ch##[style="min-height:300px;"]
 yahoo.com###custom-social
 yahoo.com###module-moreStories
