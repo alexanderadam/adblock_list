@@ -1144,23 +1144,29 @@ focus.de##section + #sidebar
 focus.de##ul:has(em:has-text(Mehr dazu:))
 forbes.com###article-stream-1
 forbes.com##.body-container:style(max-width: none !important; padding-right: 0 !important)
+forbes.com##.fbs-ad--progressive
 forbes.com##.fs-article:style(max-width: none !important)
 forbes.com##.login__menu > .show.subscribe
 forbes.com##.newsletter-inline-flex
 forbes.com##.recirc-module
 forbes.com##.right-rail
+forbes.com##[data-testid="ad-container"]
 fortune.com###__next > [class]:first-child:has(+ #drawer-toggle)
 fortune.com###article-content div > div:has(> [id^=InStream])
 fortune.com###article-content:style(width: auto !important)
 fortune.com###content > div > div > div > div:has(> #RightRailFlex0)
 fortune.com###content[role="article"] > div:style(width: auto !important)
 fortune.com###navigation-mobile-left ul > li:has(> a:has-text(Subscribe Now))
+fortune.com###queryly_resultscontainer .queryly_item_container:has([id^="InstantSearch_InStream"]:empty:first-child:last-child)
 fortune.com##.article:has(> #text1_wrapper:has-text(Subscribe))
 fortune.com##.homepage-block ~ :not(.homepage-block):has(> [data-cy^="hp-in-stream"])
 fortune.com##.paywall-selector
 fortune.com##.paywall:style(filter: none !important)
+fortune.com##.product-card-inline-wrapper:has-text(SPONSORED PARTNER)
 fortune.com##.related-articles-rr
 fortune.com##[aria-label="nav-bar"] .subscribeLink
+fortune.com##[class]:has(> [data-cy^="hp-in-stream"]:first-child:last-child:empty)
+fortune.com##[data-adtag]
 fortune.com##[id^="SimpleInStream"]:has(> [id^="google_ads"])
 fortune.com##[role="article"] > div > div > div:has(> .most-popular-rr)
 fortune.com##[role=article] .latest-popular-module
@@ -2105,6 +2111,7 @@ nachhaltigleben.ch##.content-article-social
 nanoreview.net###gtfloats-sb-right
 nanoreview.net##.wisinad_only_desktop
 nationalgeographic.com##.Article__Header__Share
+nationalgeographic.com##.FITT_Article_end [data-testid="prism-card-grid"]
 nationalgeographic.com##.InlineImagePromo
 nationalgeographic.com##.InsertedAd
 nationalgeographic.com##.NavBar__List--item:has(> [data-track-nav_item="newsletters"])
@@ -2112,6 +2119,8 @@ nationalgeographic.com##.ReadThisNext__Wrapper
 nationalgeographic.com##.Share__Item
 nationalgeographic.com##.TileStackCarousel:has(> div > div > :has-text(Subscriber Exclusive Content))
 nationalgeographic.com##.ad-wrapper
+nationalgeographic.com##[data-testid="prism-divider"] ~ div:has([data-testid="prism-collection"] h2:has-text(You May Also Like))
+nationalgeographic.com##div:has(> .natgeo-ad:first-child:last-child)
 nationalgeographic.com##li > [data-track-nav_item="subscribe"]
 nationalgeographic.de##.layout-cntr > #visibility ~ [class^="css"]:has([id^="gpt--header-"])
 nationalgeographic.de##.module--type-ParagraphInlinePromos
@@ -2154,6 +2163,8 @@ nebelspalter.ch##.ad-container
 nebelspalter.ch##.primeaccess-banner
 nebelspalter.ch##.primeaccess-banner-wrapper
 nebelspalter.ch##.sponsored_content
+nerdburglars.net##.footer_related
+nerdburglars.net##.td-post-sharing
 netdoktor.ch##nd-advertisement
 netmums.com##.placeholder-masthead_haut
 netmums.com##.placeholder-mpu_haut
@@ -2470,15 +2481,19 @@ pocket-lint.com###article > #extras_div
 pocket-lint.com###extras_div > .popular
 pocket-lint.com###hub > .content > .article
 pocket-lint.com###hub:has(> .blocks > .block > .streamamp-block)
+pocket-lint.com###overflow-hide:style(overflow: visible !important; max-height: none !important)
 pocket-lint.com###secondary
 pocket-lint.com##.ad-zone
 pocket-lint.com##.ad-zone-size-container
 pocket-lint.com##.adsninja-ad-zone
+pocket-lint.com##.adsninja-rail-container
 pocket-lint.com##.article-footer-newsletter
 pocket-lint.com##.articles:has(> div.blocks > .block > .streamamp-block)
 pocket-lint.com##.container:has(> .social)
 pocket-lint.com##.content_infinite:has(> .articles_infinite)
+pocket-lint.com##.footer-recommended-feed
 pocket-lint.com##.sharing
+pocket-lint.com##.sidebar-sticky
 pocket-lint.com##main ~ .w-content
 pocket-lint.com##main.w-content ~ .w-content  ~ .w-content:has(> #embed-scripts ~ article.infinite-scroll)
 pokemon-go-forum.de##.message--post:has(.username:has-text(Anzeige))
@@ -2811,6 +2826,9 @@ songfacts.com##[id^="amplified_"]
 songlyrics.com###ad-absolute-160
 songlyrics.com###adblock-jango
 songlyrics.com##.lyrics-inner-ad-wrap
+songsterr.com###showroom:has([alt="Get Plus"])
+songsterr.com###showroom_panel:has([alt="Get Plus"])
+songsterr.com##[class]:has(> #text-showroom[href="/a/wa/plus?from=header_link"]:first-child ~ span:last-child)
 speedtorrent.com##[href="https://c.vu/download"]
 spektrum.de###page-wrap:has(> div.hide-for-print.row > .columns > .teaser-category > a:has-text(Partnerinhalte))
 spektrum.de##.content__share
