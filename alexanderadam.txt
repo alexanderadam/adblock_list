@@ -735,6 +735,7 @@ devopsideas.com##.mctb-position-bottom.mctb-sticky.mctb
 dict.leo.org###adv-native
 dict.leo.org###adv-skyscraper
 dict.leo.org###taboola-mid-article-thumbnails
+dict.leo.org###topBranding
 dict.leo.org###topBranding > .ta-r > h5:has(> span:has-text(Advertising))
 dict.leo.org###topBranding > .ta-r > h5:has(> span:has-text(Werbung))
 dict.leo.org###topBranding > div:has-text(Werbung)
@@ -746,6 +747,8 @@ dict.leo.org##.icon_facebook
 dict.leo.org##.m-bottom-large:has(> .darkgray:has-text(Advertising))
 dict.leo.org##.ta-c.m-bottom-large.p-top-large
 dict.leo.org##.ta-c.m-bottom-large.p-top-large > .button-blue.button-flat.button
+dict.leo.org##[data-dz-ui="adv-drectangle1"]
+dict.leo.org##[data-dz-ui="adv-drectangle2"]
 dict.leo.org##[data-dz-ui="adv-halfpage"]
 dict.leo.org##[data-dz-ui="adv-sitebar"]
 dict.leo.org##[href="https://www.advertising.de/leistungen/display/leo-org-display-advertising.html"]
@@ -1172,6 +1175,8 @@ fortune.com##[role="article"] > div > div > div:has(> .most-popular-rr)
 fortune.com##[role=article] .latest-popular-module
 fortune.com##div:has(> [aria-label="go to facebook"]) ~ div:has(> [aria-label="go to twitter"])
 fortune.com##div:has(> [id^="RightRailFlex"] > [id^="google_ads_"])
+forum.digitalfernsehen.de###hm_sb
+forum.digitalfernsehen.de##div:has(> span:first-child:last-child > a[href*="pages/premium"]:first-child:last-child)
 forum.pianoworld.com##.desktopLeaderboardWrapper
 forum.xda-developers.com##[data-freestar-ad]
 fox29.com##.ad
@@ -2967,17 +2972,16 @@ t-online.de###T-shoppingbox
 t-online.de###TsocBar-bottom
 t-online.de###TsocBar-top
 t-online.de##.TConsentEmbed--datawrapper.TConsentEmbed
+t-online.de##[data-commercial-breakpoint]
 t-online.de##[data-external-sdi-mark="banner-placeholder"]
 t-online.de##[data-testid="ArticleBottomDivMarker"]
 t-online.de##[data-testid="ArticleSharingBar.List"]
-t-online.de##[data-testid="PageMain"]:has(> div > div > [data-commercial-format="banner"])
 t-online.de##[data-testid="StageLayout.CompanionItem"]
 t-online.de##[data-testid="StageLayout.StreamItem"]:has(> [data-commercial-breakpoint])
 t-online.de##[data-testid="StageLayout.StreamItem"]:has(> [data-testid="nativendo-container"])
 t-online.de##[data-testid="StageLayout.StreamItem"]:has(> div > .afl-widget-root)
 t-online.de##[data-testid="StageLayout.StreamItem"]:has(> div > [data-testid="RelatedArticles.List"])
 t-online.de##[data-testid="StageLayout.StreamItem"]:has(> span > [data-testid="nativendo-container"])
-t-online.de##[data-testid="Stages.Container"]:has(> div > span > [data-testid="nativendo-container"])
 t-online.de##[data-testid="StreamLayout.Companion"]
 t-online.de##[id^="sp_message_container"]
 t-online.de##div[data-testid="StageLayout.StreamItem"] > [data-testid="ArticleSharingBar.List"]
