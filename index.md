@@ -24,8 +24,8 @@ or you can follow these steps:
 To use this adblock list with [uBlock Origin](https://ublockorigin.com/) or a compatible adblocker, [follow these steps](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#adding-manually):
 
 1. Open your adblocker's dashboard (i.e. [like this](https://github.com/gorhill/uBlock/wiki/Dashboard#you-can-access-ublock-origin-ubos-dashboard-by-)).
-2. Navigate to the "Filter lists" tab.
-3. At the bottom, find the "Import..." option and click it.
+2. Navigate to [the "_Filter lists_" tab](https://github.com/gorhill/ublock/wiki/Dashboard:-Filter-lists).
+3. [At the bottom, find the "_Import..._" option and click it](https://github.com/gorhill/ublock/wiki/Dashboard:-Filter-lists#adding-manually).
 4. Paste [the following URL](https://raw.githubusercontent.com/alexanderadam/adblock_list/main/alexanderadam.txt) into the text box and apply changes:
 
 ```
@@ -35,18 +35,19 @@ https://raw.githubusercontent.com/alexanderadam/adblock_list/main/alexanderadam.
 ## Why?
 
 Visual clutter can significantly affect how the brain processes information.
-It can increase mental fatigue, as our brains struggle to process multiple objects at once.
-The brain has limited capacity for visual processing, meaning it can't effectively see all items in a cluttered environment simultaneously.
+It can increase _mental fatigue_, as our brains struggle to process multiple objects at once.
+The brain has _limited capacity_ for visual processing, meaning it can't effectively see all items in a cluttered environment simultaneously.
 Objects compete for attention in the visual system, with more prominent or relevant items gaining priority, while less noticeable items are harder to focus on.
-Many researchers studied this field and all sources that I found agree that visual clutter can have a significant impact on cognitive processing.
-Studies show that when objects are organized into clear groups, it reduces competition, making them easier to process, while disorganized objects demand more mental effort and attention.
+
+Many researchers studied this field and all sources that I found agree that _visual clutter can have a significant impact on cognitive processing_.
+Studies show that when objects are organized into _clear groups_, it _reduces_ competition, making them _easier_ to process, while _disorganized_ objects demand _more mental effort_ and attention.
 This excess mental effort from clutter can lead to irritability, decreased focus, and a drain on cognitive resources.
 
-Thus, with these blocking and style rules, I'm trying to declutter various websites to improve our focus and mental efficiency when consuming information online.
+Thus, with these blocking and style rules, I'm trying to declutter various websites to _improve our focus and mental efficiency_ when consuming information online.
 
 **TL;DR:** Ad-blocking rules that remove distracting elements could enhance cognitive processing by reducing visual clutter, allowing for clearer focus on essential information.
 
-sources:
+**Sources:**
 - [researchgate.net](https://www.researchgate.net/publication/378530572_Spatial_context_non-uniformly_modulates_inter-laminar_communication_in_the_primary_visual_cortex)
 - [news.yale.edu](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
 - [researchgate.net](https://www.researchgate.net/publication/246929018_Neural_mechanisms_of_attentional_selection) / [annualreviews.org](https://www.annualreviews.org/content/journals/10.1146/annurev.ne.18.030195.001205)
