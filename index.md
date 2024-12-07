@@ -55,6 +55,6 @@ sources:
 ## ⚠️ Disclaimer ⚠️
 
 The rules might change the display of websites significantly. Things might not work as expected, and some websites might not work at all. If you encounter any issues, please [open an issue](https://github.com/alexanderadam/adblock_list/issues/new) with a detailed description of the problem, including the URL of the website and screenshots if possible. 📝📸
-You will find the affected hosts here. 🌐
+You will find the affected hosts [here](hosts.md). 🌐
 
 **PS:** You can also check out the [source code](https://github.com/alexanderadam/adblock_list) for this project. 💻
