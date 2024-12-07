@@ -3940,7 +3940,6 @@ zugerzeitung.ch##[componenttype^="advertisement"]
 zugerzeitung.ch##[data-nzz-mainmenuitem="/aboplus"]
 zugerzeitung.ch##[id^=adnz_maxiboard]
 zugerzeitung.ch##article.teaser--article:has(.icon--premium):style(opacity: 0.65 !important)
-||abload.de/img/raidrushubjvn.jpg$image
 ||accounts.google.com$subdocument
 ||smartlock.google.com^
 ||www.demonoid.is/images/stara.gif$image
