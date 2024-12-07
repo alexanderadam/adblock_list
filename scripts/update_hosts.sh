@@ -23,7 +23,7 @@ echo -e " \e[32m[\e[90m$(current_time)\e[32m] Blocklists downloaded\e[0m"
 # Combine blocklists into one file
 echo -e " \e[34m[\e[90m$(current_time)\e[34m] Combining blocklists\e[0m"
 grep -hv '^#' *.txt | awk '{print $2}' | sort -u > combined_blocklist.txt
-blocked=("romhustler.org" "romsfun.com" "custom-roms.com" "tarnkappe.info" "pirate-bays.net" "1337x.to" "1377x.to" "4kfilme.de" "limetorrentx.cc" "speedtorrent.com" "torrentgalaxy.mx" "ebookee.com" "dnoid.pw" "dnoid.to" "torrenting.com" "turkhacks.com" "tgx.rs" "tgx.sb" "ummn.nu" "cript.to" "gamulator.com")
+blocked=("romhustler.org" "romsfun.com" "custom-roms.com" "tarnkappe.info" "pirate-bays.net" "1337x.to" "1377x.to" "4kfilme.de" "limetorrentx.cc" "speedtorrent.com" "torrentgalaxy.mx" "ebookee.com" "dnoid.pw" "dnoid.to" "torrenting.com" "turkhacks.com" "tgx.rs" "tgx.sb" "ummn.nu" "cript.to" "gamulator.com" "ibooks.to" "emuparadise.me" "thepirate-bay.org" "wowroms.com" "consoleroms.com" "sanet.lc" "softarchive.is" "uptodown.com" "freetutsdownload.com" "demonoid.is" "apkpure.com" "apkmirror.com" "apklinker.com" "apkcombo.com")
 printf "%s\n" "${blocked[@]}" >> combined_blocklist.txt
 sort -u combined_blocklist.txt -o combined_blocklist.txt
 echo -e " \e[32m[\e[90m$(current_time)\e[32m] Blocklists combined\e[0m"
