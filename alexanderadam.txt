@@ -1018,9 +1018,13 @@ faz.net##aside.atc-ContainerMore
 faz.net##div[class$=headline]:has-text(Verlagsangebot)
 faz.net##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 faz.net##html.sp-message-open:style(height: auto !important)
+feiertag.info##.card:has(.card-text:has-text(WEITERE FEIERTAGE))
 feiertag.info##.ezoic-ad
 feiertag.info##.ezoic-autoinsert-video
+feiertag.info##.mt-4:has(> section > .h2:has-text(Meistgesuchte Feiertage))
 feiertag.info##[id^=ezoic-pub-ad-placeholder]
+feiertag.info##section:has(> .h4:has-text(Diese Seite empfehlen))
+feiertag.info##section:has(h2:has-text(Meistgesuchte Bundesländer))
 fictionhorizon.com##.fabc-in-post-related-post
 film.at##channelrelateds
 film.at##newslettersignup
@@ -2060,11 +2064,22 @@ metro.co.uk###share-buttons-bottom > .share-button
 metro.co.uk###share-buttons-top > .share-button
 metro.co.uk###sidebar
 metro.co.uk###widget-area-home-2
+metro.co.uk##.after-article-layout .portrait-video-carousel
 metro.co.uk##.article-body:style(width: 100% !important;)
+metro.co.uk##.article-card:has(.metro-signpost-ad-feature)
+metro.co.uk##.article-card:has(.metro-signpost-advertisement)
 metro.co.uk##.col-ab:style(width: 100% !important;)
 metro.co.uk##.metro-email-signup
+metro.co.uk##.metro-more-from:has(.metro-signpost-ad-feature)
 metro.co.uk##.more-posts
+metro.co.uk##.post-grid__item:has(.metro-signpost-ad-feature)
+metro.co.uk##.related-posts
+metro.co.uk##.share-more
+metro.co.uk##.trending-now
 metro.co.uk##.trending-post-strip
+metro.co.uk##.type-post .sidebar-layout__content ~ .sidebar-layout__sidebar
+metro.co.uk##.type-post .sidebar-layout__content:has(+ .sidebar-layout__sidebar):style(max-width: none !important)
+metro.co.uk##[class^=editors-picks]:has(> .ad-slot:first-child ~ .ad-slot:last-child)
 metro.co.uk##p:has(> .mor-link)
 mimikama.org###scroll_to_steady_paywall
 mimikama.org###steady_paywall
@@ -2331,12 +2346,17 @@ nymag.com##.secondary
 nymag.com##[data-uri="nymag.com/intelligencer/_components/sticky-list/instances/article@published"] .spacer.multi-children .pinboard:style(height: auto !important)
 nypost.com##.ad
 nypost.com##.ad--container
+nypost.com##.article-footer__read-next
 nypost.com##.content > .trending-now__feature
 nypost.com##.featured-image
 nypost.com##.floating-share-wrap
 nypost.com##.in-line-column:has(> .inline-module > .inline-module__inner > .inline-module__heading:has-text(More On:))
+nypost.com##.inline-module--more
+nypost.com##.inline-module--newsletter
 nypost.com##.more-stories
 nypost.com##.recirc--outbrain
+nypost.com##.single--article .layout__item--main ~ .layout__item--sidebar
+nypost.com##.single--article .layout__item--main:has(+ .layout__item--sidebar):style(--wp--custom--width--container: 99.9 rem !important)
 nypost.com##.single__outbrain
 nypost.com##.single__sidebar > .widget_sports_podcasts
 nypost.com##.social-icons [class^="share-"]
@@ -3371,8 +3391,6 @@ theregister.com##.sharing_block
 thesaurus.com##div:has( > p:has-text(Advertisement))
 thesaurus.com##div:has( > p:has-text(Advertisement)) ~ hr
 thesaurus.com##div:has(> div > [data-type="games-module"]):has(> div:has-text(Advertisement))
-thesaurus.com##div:has(> script)
-thesaurus.com##div:has(> script) ~ hr
 theserverside.com###DigDeeperSplash
 theserverside.com###next-steps
 theserverside.com###sponsored-news
@@ -3411,6 +3429,11 @@ time.com###article-content-main ~ #article-content-sidebar
 time.com##.h-sidebar-sticky-container:has(> .sticky > .ad)
 time.com##.taboola-bottom-recirc
 timeslive.co.za##.ad-gutter
+timesnownews.com##.tnn__details-user-profile ~ div:has([rel="noreferrer nofollow"] ~ [rel="noreferrer nofollow"])
+timesofindia.indiatimes.com##[data-bottomsocialshare] ~ div .photosslider
+timesofindia.indiatimes.com##[data-bottomsocialshare] ~ div .visualstoriesas_wrapper
+timesofindia.indiatimes.com##[data-type="in_view"]:has(> div > a:has-text(go ad free now))
+timesofindia.indiatimes.com##[id^="toi-article-container-"] ~ [id^="toi-article-container-"]
 tipseason.com##.ezoic-ad
 tipseason.com##.ezoic-adpicker-ad
 tomsguide.com###slice-container-popularBox
@@ -3467,7 +3490,9 @@ torrentgalaxy.to##div:has(> center > a[href^="/hub.php?a="])
 torrentgalaxy.to##div[style="margin-bottom:5px;"]:has(> center > div > a)
 torrentgalaxy.to##div[style="margin-top:10px;"]:has(> center > div > a)
 torrenting.com##body > div > [href="/donate.php"]
+trakt.tv###streaming-scrobbler-wrapper
 trakt.tv##.grid-item:has(> [href="/vip"] > div > .inner > .text > h2:has-text(Hide ads, help pay for))
+trakt.tv##.hero-wrapper ~ [class]:has(> div > a[href="/vip/advertising"])
 trakt.tv##.multi-select:has(> h4 > .label-vip)
 trakt.tv##a[href="/vip/csv"]
 trakt.tv##div:has(> a:has-text(Hide ads with))
@@ -3483,6 +3508,7 @@ trustedreviews.com##.ad-container
 trustedreviews.com##.ad-holder
 trustedreviews.com##.ad-sticky
 trustedreviews.com##.post_detail_right_advert
+ts3index.com##.ad
 tsri.ch##.article__main__contents > div.row > .ad--inline.small-12.columns
 tsri.ch##.article__main__member-ad
 tsri.ch##.medium-8.small-12.columns > .row > .ad--inline.small-12.columns
@@ -3592,7 +3618,11 @@ vanityfair.com##.ad-stickyhero
 vanityfair.com##.consumer-marketing-unit
 vanityfair.com##.consumer-marketing-unit--article-mid-content
 vanityfair.com##.newsletter-subscribe-form
+vanityfair.com##.persistent-bottom
+vanityfair.com##.recirc-list-wrapper
 vanityfair.com##.related-content
+vanityfair.com##[class*=StickyHeroAdWrapper-]
+vanityfair.com##[data-testid="ArticlePageChunks"] .grid-layout__aside
 vanityfair.com##[data-testid="cne-interlude-container"]
 verivox.de##.result-item:has(.advertising-label)
 vice.com##.OUTBRAIN
