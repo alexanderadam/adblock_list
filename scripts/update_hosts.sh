@@ -36,7 +36,7 @@ save_domain_entry() {
   local unicode_domain=$(idn --idna-to-unicode "$domain")
   local favicon_url="https://icons.duckduckgo.com/ip3/${domain}.ico"
   if wget -q --spider "$favicon_url"; then
-    echo "- <img src=\"${favicon_url}\" width=\"16\" />&nbsp;${unicode_domain} (${rule_count})" >> "$HOSTS_FILE"
+    echo "- <img src=\"${favicon_url}\" width=\"16\" loading=\"lazy\" />&nbsp;${unicode_domain} (${rule_count})" >> "$HOSTS_FILE"
   else
     echo "- 🌐&nbsp;${unicode_domain} (${rule_count})" >> "$HOSTS_FILE"
   fi

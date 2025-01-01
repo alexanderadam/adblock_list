@@ -92,6 +92,10 @@ aljazeera.com##[aria-label="Newsletter signup Widget"]
 aljazeera.com##main ~ #disco-widget
 allaboutvision.com##.article__aside
 allaboutvision.com##.article__bottom
+alleantworten.de##.inner:has(> .title-holder:has-text(Anzeige))
+alleantworten.de##[style]:has([class*=-desktop-billboard-])
+alleantworten.de##[style]:has([class*=-mobile-billboard-])
+alleantworten.de##[style]:has([class*=-mobile-rectangle])
 allegro.pl##[data-analytics-tags*=advertising]
 allround-pc.com##.informationWrap
 analyticsinsight.net##.head-banner
@@ -363,14 +367,19 @@ blick.ch##[style]:has(> iframe[src^="https://php.blick.ch/static/newsroom/whatsA
 blick.ch##a:has(.plusLogoPlaceholder):style(opacity: 0.7)
 blick.ch##a:has(div svg > use[href$=blick-plus-logo]):style(opacity: 0.7 !important)
 blick.ch##a:has-text(Präsentiert von):style(opacity: 0.7)
+blick.ch##a[class]:has-text(Präsentiert von)
 blick.ch##article > div:has(> div a[href^="https://ad.doubleclick.net"])
 blick.ch##article > div:has(> iframe[src*="https://link.blick.ch/join/"])
+blick.ch##article > div[class]:has(> div[class]:has(> span:first-child:has-text(Mehr)) ~ div:has(> .swiper-items-container))
 blick.ch##article ~ div:has-text(Für dich ausgewählt)
 blick.ch##article ~ div:has-text(Mehr entdecken)
 blick.ch##article:has(> div:has(div:has-text(Mehr zu):has(.swiper-items-container)))
 blick.ch##div > div:has(> button[aria-label="facebook"])
 blick.ch##div:has(> .container-title:has-text(Das könnte dich auch interessieren))
+blick.ch##div:has(> div:has-text(Heiss diskutiert) ~ ol)
+blick.ch##div:has(> div:has-text(Meistgelesen) ~ ol)
 blick.ch##div:has-text(Alle Kommentare) ~ div > [type="comment"] ~ div:has-text(Werbung)
+blick.ch##div[class]:has(> div[class]:first-child:last-child > .slot-code-desktop-right_ad_1:first-child:last-child)
 blick.ch##main > div > div > div:has(> div:has-text(Externe Inhalte))
 blick.ch##next-route-announcer
 blog.appsignal.com##aside.not-prose
@@ -742,6 +751,10 @@ derbund.ch##[class*=ArticleContainer_pianopremium]::before:style(top: 0 !importa
 derbund.ch##[class*=ArticleContainer_pianopremium]:style(top: 0 !important)
 derbund.ch##[class^=EndOfArticleSectionList_root]
 derstandard.de###piano-supporter-inline-container
+derstandard.de##.story ~ .site-sitebar
+derstandard.de##.story-tool-socialshare-menu
+derstandard.de##body:style(overflow: visible !important;)
+derstandard.de##main .privacywall-story .story .article-text::before
 derwesten.de##.ad
 derwesten.de##.contentAd--skyl
 derwesten.de##.wp-block-column[style="flex-basis:33%"] > .wp-block-group:only-child > .wp-block-group__inner-container:only-child > article.entry:only-child:has(> .ad)
@@ -891,6 +904,10 @@ edureka.co##.slideup.newsletter_section
 eftm.com##.ad-aligncenter
 eftm.com##.post-nav
 eftm.com##.related-posts
+egamersworld.com###CatFish
+egamersworld.com##[class^="styles_bigimage__"]
+egamersworld.com##[class^="styles_tb__"]
+egamersworld.com##[class^=styles_sideBarItem__]
 einfachbacken.de##.newsletter-teaser-block
 einfachbacken.de##.paragraph-suggestionbox
 einfachbacken.de##.self-promotion-block
@@ -903,6 +920,10 @@ elpais.com##.ifr-lot
 elpais.com##.outbrain
 elpais.com##[data-dtm-region="footer_suscripcion"]
 elpais.com##[data-dtm-region="header_areausuario"] > a[data-ctn-subscription]
+emedicinehealth.com###ad
+emedicinehealth.com###relatedArt_fmt
+emedicinehealth.com##.article-extra ~ #pageContainer
+emedicinehealth.com##.pageWrapper
 emojipedia.org##.h-\[312px\]
 emuparadise.me##.box:has(> span:has-text(Sponsor Message))
 englisch-hilfen.de##.ad-mobile-explanations
@@ -969,6 +990,7 @@ express.co.uk##.two-related-articles
 express.co.uk##[data-link-partner="AdServed"]
 express.co.uk##aside.right-column
 eztv.re##td > div > div:has(> a:has-text(WARNING! Use a V))
+eztvx.to##img[alt="Anonymous Download"]
 facts.net##.responsive-thin-ad-wrapper
 fahrradmagazin.ch##.mh-social-top
 faktastisch.de##.cca:has(> .cca-label:has-text(Anzeige))
@@ -1113,6 +1135,7 @@ focus.de###wpBreakingNewsBanner
 focus.de##.Ad
 focus.de##.Article-ArticlesBox:has(.Related_Article_Headline)
 focus.de##.Social-Sharing-Container
+focus.de##.article-social-border .tw.more
 focus.de##.card > div:has(> [class^="cls_hor_prnt"] > [id^="CT_SMARTPHONE_NATIVE_HOR_ANY"])
 focus.de##.card > div:has(> [class^="cls_hor_prnt"] > [id^="M_CONTENTAD"])
 focus.de##.card > div:has(> [class^="cls_hor_prnt"] > [id^="M_TRSCT_hor"])
@@ -1780,6 +1803,7 @@ kayak.de##[aria-label^="Anzeige von"]
 kino.de##.alice-adslot
 kino.de##.alice-layout-article-ad
 kino.de##[data-init="module/advert"]
+kino.de##[id^="sp_message_container"]
 kino.de##aside:has(> section > h2:has-text(News und Stories))
 kino.de##div.alice-oembed:has(> .alice-oembed-quiz)
 kino.de##div.alice-oembed:has(> .smb-quiz-container)
@@ -1830,6 +1854,8 @@ krebsonsecurity.com##[class*=themonic-ad]
 ladbible.com##[class^=advert-]
 latex.org###post_ads
 latex.org##.forabg
+latintimes.com##.page-content > .block-trending
+latintimes.com##.page-content ~ .page-sidebar
 lauterbacher-anzeiger.de##.id-Recommendation
 lauterbacher-anzeiger.de##.wv_story_el_cleverPushWidget
 lauterbacher-anzeiger.de##.wv_story_el_glomex
@@ -1871,7 +1897,9 @@ linkedin.com##.artdeco-card:has(.card-upsell-v2__headline)
 linkedin.com##.mn-sales-navigator-upsell
 linkedin.com##.pv-text-details__verification-non-self-promo
 linkedin.com##[class*=premium-upsell]
+linkedin.com##[componentkey="MynetworkDesktopNav_mynetwork_desktop_nav_ad"]
 linkedin.com##label[for="custom-message"] ~ div:has(> a[href*="upsellOrderOrigin"])
+linkedin.com##section:has(> div:first-child:last-child > [componentkey="MynetworkDesktopNav_mynetwork_desktop_nav_ad"]:first-child)
 linux-magazin.de###Ads_BA_VID
 linux-magazine.com###ContentLeft.span8:has(.full.news .attribute-date) ~ #ContentRight.span4
 linux-magazine.com###ContentLeft.span8:has(.full.news .attribute-date):has(+ #ContentRight.span4):style(width: 96% !important)
@@ -1956,6 +1984,23 @@ mactechnews.de##aside:has(#traffective-ad-Content_1)
 mactechnews.de##aside:has(#traffective-ad-Mobile_Pos2)
 makandracards.com##.note-ad
 maketecheasier.com##.ad-slot
+manager-magazin.de##.sp-message-open body:style(overflow: visible !important; position: static !important)
+manager-magazin.de##.sp-message-open:style(height: auto !important; width: auto !important)
+manager-magazin.de##[class]:has(> [data-sticky-ad-offset]:first-child:last-child)
+manager-magazin.de##[data-advertisement]
+manager-magazin.de##[data-area="article_teaser>sponsored"]
+manager-magazin.de##[data-area="block>topreads"] li:has([data-contains-flags="plus-paid"]):style(opacity: 0.65 !important)
+manager-magazin.de##[data-area="related_articles"] li:has([data-contains-flags="plus-paid"]):style(opacity: 0.65 !important)
+manager-magazin.de##[data-area="vouchers"]
+manager-magazin.de##[data-block-el="articleTeaser"]:has([data-flag-name="plus-paid"]):style(opacity: 0.65 !important)
+manager-magazin.de##[data-target-teaser="m-sponsored"]
+manager-magazin.de##[id^=sp_message_container]
+manager-magazin.de##[x-show="!$store.User.hasNoAdsAccess"]
+manager-magazin.de##ul:has([data-sara-cta="sharing:LinkedIn"])
+marketrealist.com###Track\.End ~ p[class]
+marketrealist.com###more_from
+marketrealist.com##article > [class]:has(> .lngtd-dynamic-inarticle)
+marketrealist.com##main > [class]:has(> [class]:has-text(Advertisement):first-child)
 markets.businessinsider.com##.htl-ad
 markets.businessinsider.com##.htl-ad-placeholder
 marktundmittelstand.de##.adtile1mobile
@@ -1965,6 +2010,13 @@ marthastewart.com##.mntl-sc-block-adslot
 marthastewart.com##.recirc-section
 marthastewart.com##.related-link
 marthastewart.com##[id^=marthastewart-leaderboard]
+mashable.com##[data-ga-module="content_body"] ~ aside[data-ga-module="content_rail"]
+mashable.com##[data-ga-module="incontent_nl_signup"]
+mashable.com##[data-pogo="nativespotlight"]
+mashable.com##article > .leading-normal:has(> span:has-text(SEE ALSO))
+mashable.com##main ~ [data-ga-category="newsletters"]
+mashable.com##main ~ div section:has(> [data-ga-module="chartbeat-recirc"])
+mashable.com##main ~ div section:has(> [data-ga-module="recommendation-recirc"])
 mathepower.com###obenbanner
 mathepower.com##.content-area-ads-row-column
 mathepower.com##.content-area-ads-row-column-p
@@ -1985,12 +2037,16 @@ medjournaldaily.com##.stream-item:has(.ads-label)
 medjournaldaily.com##.tie-popup-is-opend #tie-wrapper:style(filter: none !important; transition: none !important;)
 medjournaldaily.com##.widget_custom_html:has(script)
 medjournaldaily.com##html:style(overflow: visible !important)
+meetup.com###__next [inert]:remove-attr(inert)
+meetup.com###modal:has(button.text-ds-magenta:has-text(Continue with free plan))
 meetup.com###try-pro-links
+meetup.com##.blur-sm:style(filter: none !important)
 meetup.com##.hidden:has(> .items-center > .ml-auto > [data-event-label="profile_try_member_plus_click"])
 meetup.com##.navItem:has(> a[href^="/lp/meetup-pro"])
 meetup.com##.overflow-hidden:has(> div > h3 ~ div > [data-event-label="detailed-attendee-upsell-click"])
 meetup.com##[data-event-label="Group discount"]
 meetup.com##[data-event-label="upcoming-events"] ~ .overflow-hidden:has(> div > div > [data-event-label="member_plus_home_upsell"])
+meetup.com##body:style(overflow: visible !important)
 mein-mmo.de##.gp-related-wrapper
 mein-mmo.de##.wp-block-mmo-recirculation-box
 mein-schoener-garten.de###gen_top_wrapper
@@ -2108,6 +2164,8 @@ mixed.de##.widget_mailpoet_form
 mixed.de##[id^="sp_message_container"]
 mixed.de##article .x-plus-content
 mixed.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
+mobimag.ch##.mh-social-bottom
+mobimag.ch##.mh-social-top
 moneyexchangerate.org##.row:has(> .col-12 > .card > .card-block > .adsbygoogle)
 moneyhouse.ch##.text-invisible:style(filter: none !important;)
 moneyweek.com###blueconic-article-moneyweek
@@ -2153,8 +2211,12 @@ msn.com##[class^="articlePage_infiniteReading"]
 music.apple.com##.upsell-banner
 music.youtube.com##[tab-id="SPunlimited"]:has-text(Upgrade)
 music.youtube.com##ytmusic-mealbar-promo-renderer
+mydealz.de###belowDetailsFuseZonePortal
 mydealz.de##.ad--aboveComments-wrapper
+mydealz.de##.ad--belowThreadItemComments-wrapper
+mydealz.de##.ad--belowThreadItemDetails-wrapper
 mydealz.de##.ad--productIncontent-wrapper
+mydealz.de##.ad--sideSquare-wrapper
 mydealz.de##.ad-publift
 mydealz.de##.idealo-cept
 mydealz.de##[data-t="sharingOptions"]
@@ -2162,6 +2224,7 @@ n-joy.de##.contentbox:has(> .boxhead:has-text(Weitere Informationen))
 n-joy.de##.sharinglinks
 n-tv.de##.article__aside:has(> .teaser)
 n-tv.de##.article__share
+n-tv.de##.article__share-wrapper
 n-tv.de##.extcontent--amazon
 n-tv.de##.footer > .social
 n-tv.de##.hidden-sm:has(> .sidebar)
@@ -2177,6 +2240,7 @@ n-tv.de##[class^="ad-wrapper-"]
 n-tv.de##amp-ad
 n-tv.de##amp-embed
 n-tv.de##amp-fx-flying-carpet:has(> .i-amphtml-fx-flying-carpet-clip > .i-amphtml-fx-flying-carpet-container > [type="doubleclick"])
+n-tv.de##div:has(> .gujAd--teaser:first-child:last-child)
 n-tv.de##span > .teaser
 nachhaltigleben.ch###article-newsletter-teaser
 nachhaltigleben.ch###content-article:style(max-width: none !important)
@@ -2302,12 +2366,17 @@ newscientist.com##.ReadMore
 newscientist.com##.SubjectModule
 newscientist.com##.TopNav__ButtonWrapper:has(> #TopNavPromotionalButton)
 newscientist.com##.ad
+newsweek.com###block-nw-content-recirc
 newsweek.com###block-nw-nw-footer-subscription
 newsweek.com###recommended
+newsweek.com##.article-content-wrapper .disco-widget
+newsweek.com##.article-content-wrapper .top-stories
 newsweek.com##.block:has(> .content > div > .related2)
 newsweek.com##.container-fluid > .row > #latest
 newsweek.com##.header-top > div > .subscribe_url
 newsweek.com##.newsletter-signup
+newsweek.com##.page-content ~ .page-sidebar
+newsweek.com##.page-content:has(+ .page-sidebar):style(width: 100% !important)
 newsweek.com##.pelcro-buttons > .pelcro-subscribe-button
 newsweek.com##.promo-box
 newsweek.com##.social-share
@@ -3434,6 +3503,8 @@ timesofindia.indiatimes.com##[data-bottomsocialshare] ~ div .photosslider
 timesofindia.indiatimes.com##[data-bottomsocialshare] ~ div .visualstoriesas_wrapper
 timesofindia.indiatimes.com##[data-type="in_view"]:has(> div > a:has-text(go ad free now))
 timesofindia.indiatimes.com##[id^="toi-article-container-"] ~ [id^="toi-article-container-"]
+timesofmalta.com###mc_embed_shell
+timesofmalta.com###ne-Neighbours
 tipseason.com##.ezoic-ad
 tipseason.com##.ezoic-adpicker-ad
 tomsguide.com###slice-container-popularBox
@@ -3556,6 +3627,7 @@ twitch.tv##.prime-offer
 twitch.tv##.prime-offers-upsell
 twitch.tv##.prime-upsell__logo-container
 twitch.tv##[data-a-target="top-nav-get-bits-button"]:has(> [data-test-selector="subscribe-button__dropdown"])
+twitter.com##[aria-label="Trending"] > div > div:has([aria-label="Subscribe to Premium to write your own longer posts"])
 twitter.com##[aria-label="Trending"] > div > div:has(aside[aria-label="Expiring soon!"])
 twitter.com##[data-testid="UserName"] > div:has([href="/i/premium_sign_up"])
 twitter.com##[data-testid="cellInnerDiv"]:has([href="/i/premium_sign_up?tier=premium"])
@@ -3726,6 +3798,13 @@ weltwoche.ch##.headerIcons:has-text(Abonnieren)
 weltwoche.ch##.weeklyContentBodyHidden div:style(background: none !important;)
 weltwoche.ch##.werbungSmall
 weltwoche.ch##.werbungWide
+werstreamt.es###cmpbox
+werstreamt.es###cmpbox2
+werstreamt.es##.content-description-right:has(.advLabel)
+werstreamt.es##.provider ~ .row:has(+ .provider):has(.advLabel)
+werstreamt.es##.text-center:has(.advLabel)
+werstreamt.es##[style]:has(> .advLabel)
+werstreamt.es##body[style="overflow: hidden;"]:style(overflow: visible !important)
 wetter.com##.app-layout.city-weather-grid
 wetter.com##.app-layout:has(.title:has-text(Bestes Reisewetter beliebter Urlaubsziele))
 wetter.com##.pv\+:has-text(wetter.com gibt es auch für)
