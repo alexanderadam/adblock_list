@@ -164,8 +164,12 @@ apnews.com##.RightRail
 apnews.com##.persistent-ad
 apotheken-umschau.de##.ad--dynamic
 apotheken-umschau.de##.inline-element
+apotheken-umschau.de##.sp-message-open:style(height: auto !important; width: auto !important)
 apotheken-umschau.de##.standard-teaser:has(h3:has-text(Zum Weiterlesen))
+apotheken-umschau.de##[id^="sp_message_container"]
 apotheken-umschau.de##h3:has-text(Zum Weiterlesen)
+apotheken-umschau.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
+aptoide.com##[aria-label="main navigation"] [class^="aptoide-installer__InstallerContainer"]
 argoviatoday.ch###newsletterSignUpForm
 argoviatoday.ch##.adnz_wideboard_2-container
 argoviatoday.ch##.adnz_wideboard_2-placeholder
@@ -581,6 +585,10 @@ cnet.com##amp-analytics
 cnet.com##amp-next-page
 cnet.com##amp-sticky-ad
 cnet.com##p:has(> strong:has-text(Read more))
+cnetfrance.fr###megabanner_bottom
+cnetfrance.fr###megabanner_top
+cnetfrance.fr##.placeholder-mpu_haut
+cnetfrance.fr##.placeholder-pub_dfp
 cnn.com##.ad-slot
 cnn.com##.ad-slot-rail
 cnn.com##.ad-wrapper
@@ -1259,6 +1267,10 @@ fragen.lifeline.de###toast-container
 freecoursesonline.me##.adsbygoogle
 freefontsdownload.net###fb-root
 freefontsdownload.net##.adsbygoogle
+freepik.com##[data-cy="resource-thumbnail"] ~ [data-ssm]:has([title="Freepik Pinterest"])
+freepik.com##[data-cy="resource-thumbnail"]:has(.\$text-yellowPremium):style(opacity: 0.5 !important)
+freepik.com##[data-testid="sponsor-banner"]
+freepik.com##figure ~ [data-ssm]:has(a:has-text(Sign up))
 freethink.com##.f-block:has-text(newsletter)
 freethink.com##.f-up-next
 freitag.de##.c-aside-support
@@ -1577,8 +1589,11 @@ heise.de##.a-ad
 heise.de##.a-ad--content
 heise.de##.a-article-teaser:has(.a-article-meta__heiseplus-logo):style(opacity:0.6)
 heise.de##.abo-link
+heise.de##.ad-desktop-group-2
 heise.de##.ad-label ~ .inread-cls-reduc
 heise.de##.ad-ldb-container
+heise.de##.ad-mobile-group-1
+heise.de##.ad-mobile-group-3
 heise.de##.article-footer__sharing
 heise.de##.article-layout__header-wrbng
 heise.de##.article-newsletter-subscription
@@ -1609,6 +1624,8 @@ heise.de##[data-component="StickyFooter"]
 heise.de##[data-component="TeaserContainer"]:has(h3 > span > svg):style(opacity:0.6)
 heise.de##[data-component="TeaserList"]:has(> div > div:has-text(Anzeige))
 heise.de##[data-module-name="AdModule"]
+heise.de##[data-module-name="NewsletterModule"]
+heise.de##[data-module-name="SocialMediaModule"]
 heise.de##[data-module-name="TopNaviModule"] ~ [data-component="ModulesContainer"]:has(> [style] > .perf-cls-reduc-leaderboard)
 heise.de##[id^=sp_message_container_]
 heise.de##a-ad
@@ -1616,9 +1633,9 @@ heise.de##a-collapse.perl-articlebox
 heise.de##a-collapse:has(header:has-text(Newsletter))
 heise.de##a-paid-content-teaser > .curtain-module
 heise.de##a-paid-content-teaser:style(margin-top: 60px !important)
+heise.de##a-paternoster
 heise.de##a-sticky-footer
 heise.de##article ~ div:has(+ article):has-text(Anzeige)
-heise.de##article:has(h3 > span > svg):style(opacity:0.6)
 heise.de##figure.a-inline-image:has(> div > a[href="https://www.instagram.com/technologyreview_de/"])
 heise.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 heise.de#$#.a-article-header { max-width: none !important }
@@ -1850,6 +1867,7 @@ knowyourmeme.com##article:has(> #entry_body) ~ #spp-gallery
 kompass.com##.adsense
 kompass.com##.colPub:has(> .containerWhite > .adsense)
 kompass.com##.megaBanner
+kpopping.com##.go-plus
 krebsonsecurity.com##[class*=themonic-ad]
 ladbible.com##[class^=advert-]
 latex.org###post_ads
@@ -2038,6 +2056,7 @@ medjournaldaily.com##.tie-popup-is-opend #tie-wrapper:style(filter: none !import
 medjournaldaily.com##.widget_custom_html:has(script)
 medjournaldaily.com##html:style(overflow: visible !important)
 meetup.com###__next [inert]:remove-attr(inert)
+meetup.com###modal:has([data-testid="MobileAppPrompt"])
 meetup.com###modal:has(button.text-ds-magenta:has-text(Continue with free plan))
 meetup.com###try-pro-links
 meetup.com##.blur-sm:style(filter: none !important)
@@ -2723,6 +2742,12 @@ psychologytoday.com##.pt-social-media
 psychologytoday.com##aside.layout-content-right-rail
 quantamagazine.org###newsletter
 quarks.de##.sticky_social
+queer.de###banneroben
+queer.de###bannerrechts
+queer.de###kommentare ~ .tzweispaltencontainer.noprint
+queer.de##.leistenbanner
+queer.de##.megabuttonsstart ~ .megabuttons
+queer.de##.sleiste .noprint.toplinks
 quora.com##.content-monetization-wall div:style(mask-image: none !important)
 quora.com##[style="box-sizing: border-box; display: flex; position: fixed; inset: 0px; background-color: rgba(68, 68, 68, 0.85);"]:style(background: none !important)
 quora.com##[style="box-sizing: border-box; filter: blur(3px);"]:style(filter: none !important)
@@ -2953,12 +2978,17 @@ servethehome.com##.td_block_related_posts
 servethehome.com##aside:has([data-revive-zoneid])
 servicemanuals.us##.ads-fileinfo
 servicemanuals.us##.randomlink
+shecodes.io##a[href^="/ads/"]
 sifa-sibe.de##.asm_async_creative
 sitepoint.com##.custom-content
 sitepoint.com##.inline-content
 sky.com##.sdc-article-related-stories
 sky.com##.sdc-site-outbrain
 sky.com##[data-ad-format]
+slashgear.com##.infinite[data-post-type="articles"]:remove-class(infinite)
+slashgear.com##.nextup-heading
+slashgear.com##.nextup-heading ~ article
+slashgear.com##article ~ .under-art[data-post-url]
 smartdroid.de##.advorp1
 smarthomeassistent.de##.aawp
 smarthomeassistent.de##.adslot_header
@@ -3294,6 +3324,11 @@ techtimes.com##.subscribe-block
 tecmint.com##.hide-on-mobile > center
 tecmint.com##.tecmint-float-social-wrapper
 tecmint.com##center:has(> #tecmint_incontent)
+telecomtalk.info##.above-social-icons-ad
+telecomtalk.info##.default-artl-ad-blk
+telecomtalk.info##.hbp
+telecomtalk.info##.related-posts
+telecomtalk.info##.social-icons
 telefon-kontakte.ch##.ezoic-ad
 telegraf.com.ua##.tgr-ads
 telegraph.co.uk##.advert
@@ -3305,8 +3340,16 @@ telegraph.co.uk##.tpl-article__end-meta
 telegraph.co.uk##[aria-label="More stories"]
 telegraph.co.uk##[aria-label="Onward journey"]
 telepolis.de##.a-paternoster-ad
+telepolis.de##.ad-ldb-container
 telepolis.de##.article-sharing
+telepolis.de##.incontent3-cls-reduc
+telepolis.de##.inread-cls-reduc
+telepolis.de##.perf-cls-reduc-rectangle:has(.ad-label)
+telepolis.de##.sp-message-open:style(height: auto !important; width: auto !important)
+telepolis.de##[data-module-name="AdModule"]
+telepolis.de##[id^="sp_message_container"]
 telepolis.de##aside:has(> .a-ad)
+telepolis.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 telguarder.com##.ai-top-ad-container
 teltarif.de##.ttmaincol:style(width: 100% !important)
 teltarif.de##.ttsidecol
@@ -3505,6 +3548,8 @@ timesofindia.indiatimes.com##[data-type="in_view"]:has(> div > a:has-text(go ad 
 timesofindia.indiatimes.com##[id^="toi-article-container-"] ~ [id^="toi-article-container-"]
 timesofmalta.com###mc_embed_shell
 timesofmalta.com###ne-Neighbours
+tiplanet.org##.panel:has(> .archive_block:has-text(Partner and ad))
+tiplanet.org##[style="text-align:center;"]:has-text(Partenaire:)
 tipseason.com##.ezoic-ad
 tipseason.com##.ezoic-adpicker-ad
 tomsguide.com###slice-container-popularBox
@@ -3828,6 +3873,11 @@ wikipedia.org##.cn-fundraising
 wikipedia.org##.frb
 wikipedia.org##.frb-country-CH.frb
 willhaben.at##div:has(> div > div > [class^=LeaderboardLargeRenderSlot])
+windows-faq.de###wp-engage-feed
+windows-faq.de##.adsense-responsive-ad
+windows-faq.de##.related-posts
+windows-faq.de##.symplr-ad-holder
+windows-faq.de##.widget_block:has(> .symplr-ad-holder:first-child:last-child)
 winfuture.de##.primis_widget
 wired.co.uk##.ad
 wired.co.uk##.ad--footer
@@ -3924,6 +3974,7 @@ wsj.com##article ~ .aside-container
 wsj.com##nav-hat
 x.com##[aria-label="Subscribe to Premium"]
 x.com##[aria-label="Trending"] aside:has-text(Get up to 50% off X Premium)
+x.com##[aria-label="Trending"] div:has(> [aria-label="Try Premium for free today"])
 x.com##[data-testid="cellInnerDiv"]:has([data-testid="eventHero"] [data-testid="image"])
 x.com##[data-testid="cellInnerDiv"]:has([data-testid="inlinePrompt-primaryAction"]:has-text(Subscribe))
 x.com##[data-testid="cellInnerDiv"]:has-text(5 days left - save up to 40% on X Premium)
