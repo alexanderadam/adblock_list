@@ -97,6 +97,9 @@ alleantworten.de##[style]:has([class*=-desktop-billboard-])
 alleantworten.de##[style]:has([class*=-mobile-billboard-])
 alleantworten.de##[style]:has([class*=-mobile-rectangle])
 allegro.pl##[data-analytics-tags*=advertising]
+allgemeine-zeitung.de##.cmpboxBG:style(backdrop-filter: none !important; -webkit-filter: none !important; -moz-filter: none !important)
+allgemeine-zeitung.de##.storyElementWrapper__blurredContent:style(filter: none !important)
+allgemeine-zeitung.de##body[style="overflow: hidden;"]:style(overflow: auto !important)
 allround-pc.com##.informationWrap
 analyticsinsight.net##.head-banner
 android-hilfe.de##.skyscraper-units
@@ -522,6 +525,7 @@ chip.de##.Ad-hor-height
 chip.de##.ArticleRecommendation
 chip.de##.Article__Ad ~ hr
 chip.de##.BC-Content
+chip.de##.Informationbox--General:has-text(Mit einem Adblocker)
 chip.de##.Navigation__Submenu > li:has(> a > em:has-text(Gesponsert))
 chip.de##.Navigation__Submenu > li:has(> a > em:has-text(anzeige))
 chip.de##.ad
@@ -922,6 +926,10 @@ einfachbacken.de##.self-promotion-block
 einfachbacken.de##.social-share-links__link--facebook
 einfachbacken.de##.social-share-links__link--pinterest
 elektrotanya.com##.ad_kontener
+elotrolado.net###dfp_billboard-extra
+elotrolado.net##.ad-lg
+elotrolado.net##[itemprop="comment"] ~ [class]:has(.ad-lg)
+elotrolado.net##[itemprop=comment] ~ [class]:has([data-revenuemaker-ads])
 elpais.com###hamburger_container > [data-ctn-subscription]
 elpais.com##.ad
 elpais.com##.ifr-lot
@@ -934,6 +942,8 @@ emedicinehealth.com##.article-extra ~ #pageContainer
 emedicinehealth.com##.pageWrapper
 emojipedia.org##.h-\[312px\]
 emuparadise.me##.box:has(> span:has-text(Sponsor Message))
+engadget.com###related-content-wrapper
+engadget.com##.wafer-fetch-container
 englisch-hilfen.de##.ad-mobile-explanations
 eshop-prices.com##.ads
 esquire.de###__next nav ~ div:has(> .placeholdercontainer:has(atf-ad-slot))
@@ -1641,6 +1651,7 @@ heise.de##html.sp-message-open body:style(overflow: visible !important; position
 heise.de#$#.a-article-header { max-width: none !important }
 heise.de#$#.article-layout__content { max-width: none !important }
 heise.de#$#body { padding-bottom: 0 !important; }
+hellozurich.ch##.ad--backdrop
 hessenschau.de##aside.c-posterTeaser
 heute.at###story_context:has-text(Weiterlesen)
 heute.at##.advertisement
@@ -2230,7 +2241,12 @@ msn.com##[class^="articlePage_infiniteReading"]
 music.apple.com##.upsell-banner
 music.youtube.com##[tab-id="SPunlimited"]:has-text(Upgrade)
 music.youtube.com##ytmusic-mealbar-promo-renderer
+mydealz.de###belowCommentsAdSlotPortal
+mydealz.de###belowDetailsAdSlotPortal
 mydealz.de###belowDetailsFuseZonePortal
+mydealz.de###sidebarBottomAdSlotPortal
+mydealz.de###sidebarMiddleAdSlotPortal
+mydealz.de###sidebarTopAdSlotPortal
 mydealz.de##.ad--aboveComments-wrapper
 mydealz.de##.ad--belowThreadItemComments-wrapper
 mydealz.de##.ad--belowThreadItemDetails-wrapper
@@ -3032,6 +3048,7 @@ songsterr.com##[class]:has(> #text-showroom[href="/a/wa/plus?from=header_link"]:
 songtell.com##.justify-center:has(> #incontent_top:empty:first-child:last-child)
 songtell.com##[class]:has(> #incontent_auto:first-child:last-child:empty)
 songtell.com##[class]:has(> [class]:first-child:last-child > [id^="amplified_"])
+speedguide.net###top ~ div[style]:has(> [id^=div-gpt-ad-]:first-child:last-child)
 speedtorrent.com##[href="https://c.vu/download"]
 spektrum.de###page-wrap:has(> div.hide-for-print.row > .columns > .teaser-category > a:has-text(Partnerinhalte))
 spektrum.de##.content__share
@@ -3164,6 +3181,16 @@ sueddeutsche.de##[fragment='[data-fragment="meinesz-homepage"]']
 sueddeutsche.de##div:has(> div > div > div > p > i > b:has-text(Newsletter))
 sueddeutsche.de##main:has(> div:first-child > [data-asm-cdn="cdn.adspirit.de"]:only-child)
 sueddeutsche.de##section:has([aria-label="Anzeige"])
+suedkurier.de###piano-taboola
+suedkurier.de##.advert
+suedkurier.de##.handshake-box.handshake-footer.spacer-box
+suedkurier.de##.is-article-more-app
+suedkurier.de##.piano-rollins
+suedkurier.de##.socialnav-facebook
+suedkurier.de##.socialnav-mail
+suedkurier.de##.socialnav-whatsapp
+suedkurier.de##body.showFirstLayer:style(overflow: auto !important)
+suedkurier.de##body:remove-class(no-pur-user)
 swissinfo.ch##.si-teaser
 swrfernsehen.de##.sharing
 syfy.com##.tv-show__sidebar-ad
@@ -3233,9 +3260,9 @@ tagesspiegel.de###ig-code-promo-widget
 tagesspiegel.de###mainMenuPanel:has(> ul > li > a[href="/plus/"])
 tagesspiegel.de###paywal::before
 tagesspiegel.de###paywal:style(margin-top: 30px !important)
+tagesspiegel.de###paywall::before
 tagesspiegel.de###site-header .ABep:has-text(Abo)
 tagesspiegel.de###story-elements aside:has-text(Weekly Newsletter)
-tagesspiegel.de###story-elements:has(> aside > [data-gtm-class="article-mzt-link"])
 tagesspiegel.de##.APay
 tagesspiegel.de##.ad
 tagesspiegel.de##.hcf-marginal-col:has(> .hcf-mcol-box > [href^="https://abo.tagesspiegel.de/kampagne"])
@@ -3244,6 +3271,7 @@ tagesspiegel.de##.hcf-mcol-box:has(> div > div > h2:has-text(Verlagsangebot: Jet
 tagesspiegel.de##.hcf-mcol-box:has(> div > h2:has-text(DIE TOP-ADRESSEN DER REGION))
 tagesspiegel.de##.hcf-mcol-box:has(> div > h5:has-text(Verlagsangebot: ))
 tagesspiegel.de##.hcf-ressort:has(> .hcf-mini-navi > .hcf-header > em:has-text(Tagesspiegel Plus))
+tagesspiegel.de##.iqdcontainer
 tagesspiegel.de##.paywall::before
 tagesspiegel.de##.shariff
 tagesspiegel.de##.text--drop-caps.text > .ts-cta-btn
@@ -3259,8 +3287,10 @@ tagesspiegel.de##.ts-opinary:has(> amp-iframe)
 tagesspiegel.de##.ts-paid-offers-links:has(> .ts-service-links-items > li > .ts-link:has-text(Abo))
 tagesspiegel.de##.ts-recommendation
 tagesspiegel.de##[class^=widgets]:has(> h4:has-text(Produktvergleiche))
+tagesspiegel.de##[data-bi-hook="teaser"]:has(.visually-hidden:has-text(Tagesspiegel Plus)):style(opacity: 0.7 !important)
 tagesspiegel.de##[data-bi-stage-type="stage-embed"]:has(.weekli-widget-adlabel)
 tagesspiegel.de##[data-gtm-class="article-mzt-link"]
+tagesspiegel.de##[data-qa-hook="story-related-content-list"]
 tagesspiegel.de##[element="[object Object]"]:has(#opinary-automation-placeholder)
 tagesspiegel.de##article ~ div:has(> .OUTBRAIN)
 tagesspiegel.de##aside > ul > li:has([title$=" teilen"])
@@ -3629,6 +3659,7 @@ tsri.ch##.article__main__contents > div.row > .ad--inline.small-12.columns
 tsri.ch##.article__main__member-ad
 tsri.ch##.medium-8.small-12.columns > .row > .ad--inline.small-12.columns
 tsri.ch##.member-signup-banner
+tsri.ch##[data-sentry-source-file="bildwurf-ad-block.tsx"]
 turkhacks.com##.ths-head-ad
 turkhacks.com##.ths-quickreply-ad
 tutorialscan.com##.jp-relatedposts
@@ -3743,6 +3774,7 @@ vanityfair.com##[data-testid="ArticlePageChunks"] .grid-layout__aside
 vanityfair.com##[data-testid="cne-interlude-container"]
 verivox.de##.result-item:has(.advertising-label)
 vice.com##.OUTBRAIN
+vice.com##.ai-viewport-1
 vice.com##.inbody-article
 vice.com##[aria-label="More from VICE"]
 vimeo.com###global-nav .upgrade-cta
@@ -3934,9 +3966,17 @@ wiwo.de##.o-layout__sidebar:has(> div > .u-uppercase > p:has-text(Partner))
 wiwo.de##.o-teaser-list.o-artbox
 wiwo.de##.o-teaser-list:has(> .o-layout__sidebar--themefavorite-header > .u-uppercase:has-text(Partnerangebote))
 wiwo.de##.piano_app_install_footer
+wiwo.de##.top-ad-container
 wiwo.de##[href="/newsletter/"]
 wiwo.de##[href="https://www.wiwo.de/angebot/"]
 wiwo.de##a[href="https://abo.wiwo.de/"]
+wiwo.de##app-commercial-teaser-group
+wiwo.de##app-content-advertisement
+wiwo.de##app-default-teaser:has(app-paid-marker):style(opacity: 0.7 !important)
+wiwo.de##app-hero-element:has(app-paid-marker):style(opacity: 0.7 !important)
+wiwo.de##app-outbrain
+wiwo.de##app-storyline-element:has(> app-storyline-related-content)
+wiwo.de##app-storyline-element:has(> app-storyline-teaser)
 wiwo.de##div > div > .c-teasergallery--content-hub
 wiwo.de##h2:has-text(Serviceangebote unserer Partner)
 wiwo.de##iframe[src^="https://cloud.redaktion.wiwo.de/editors_pick_newsletter_signup"]
@@ -3967,6 +4007,7 @@ woz.ch##.donate-box
 woz.ch##aside[data-wozwall-expanded]
 wsj.com###cx-customer-nav-subscribe-btn
 wsj.com##.ad-portal
+wsj.com##.crawler section::after:style(background: none !important)
 wsj.com##.uds-ad-container
 wsj.com##[aria-label="What to Read Next"]
 wsj.com##[data-testid="ad-container"]
@@ -3980,6 +4021,7 @@ x.com##[data-testid="cellInnerDiv"]:has([data-testid="inlinePrompt-primaryAction
 x.com##[data-testid="cellInnerDiv"]:has-text(5 days left - save up to 40% on X Premium)
 x.com##[data-testid="cellInnerDiv"]:has-text(Get up to 50% off X Premium)
 x.com##[data-testid="cellInnerDiv"]:has-text(Go ad-free with Premium+)
+x.com##[data-testid="reply-boost-upsell"]
 x.com##aside[aria-label="Expiring soon!"]
 x.com##nav[role="navigation"] > a[data-testid="premium-signup-tab"]
 x.com##nav[role="navigation"] > a[data-testid="vo-signup-tab"]
