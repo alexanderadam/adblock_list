@@ -4,7 +4,7 @@
 ! GitHub issues: https://github.com/alexanderadam/adblock_list/issues
 ! GitHub pull requests: https://github.com/alexanderadam/adblock_list/pulls
 ! Homepage: https://alexanderadam.github.io/adblock_list/
-! Last modified: 2025-01-11
+! Last modified: 2025-01-21
 ! Remove the bottom-sheet promoting the "See Reddit on mobile"
 !news.ycombinator.com##body:matches-media((prefers-color-scheme: dark)) input[type="submit"]:style(color: #dfe6ff !important; background: #314578 !important)
 
