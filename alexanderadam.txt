@@ -16,8 +16,11 @@
 1337x.to##.bitcoin
 1377x.to##.box-info div div ul > li:has(> a[href="/freevpn/"])
 1377x.to##.vpn-info-wrap.torrent-detail-page.box-info > div > div:has(> a[href="/freevpn/"])
+20min.ch###commentSection ~ [class]:has(> [class] > [class]:has(> a[href^="https://spiele.20min.ch"]))
+20min.ch###commentSection ~ div:has(> section > [class^="teaserLayoutRelatedContent_titleHeader"])
 20min.ch###prime__inside-pos1
 20min.ch###prime__inside-top
+20min.ch###ratingSection ~ [class]:has(a[href^="https://spiele.20min.ch"])
 20min.ch##.myshop-iframe
 20min.ch##.shopping-ads-iframe
 20min.ch##[class*="TeaserSection_siteAreaNews"]
@@ -28,8 +31,12 @@
 20min.ch##[class^=Article_element]:has-text(Aktivier jetzt den):has-text(Push)
 20min.ch##[class^=ContentPage_insideFullTopPlaceholder]
 20min.ch##[class^=ContentPage_insideFullTopPlaceholder]:has([class^=ad_adContainer__])
+20min.ch##[data-ad-unit-id]
 20min.ch##[id^="prime__"]
 20min.ch##[type="typeInfoboxSummary"]:has(h3:has-text(Folgst du schon 20 Minuten auf Whatsapp?))
+20min.ch##article [type="typeInfoboxSummary"]:has(a[href="https://www.20min.ch/subscribe-newsletter"])
+20min.ch##article ~ article ~ aside:has(+ article):has([data-ad-unit-id])
+20min.ch##article ~ section:has([class^="teaserLayoutRelatedContent_titleHeader"])
 20min.ch##article:has(span:has-text(Paid Post))
 20min.ch##aside:has(> span:has-text(Werbung))
 20min.ch##div > aside:has(> span:has-text(Werbung))
@@ -1333,6 +1340,7 @@ futurezone.at##.article-social
 futurezone.at##.fuzoBox--newsletter
 futurezone.at##.outbrain
 futurezone.at##.relatedArticles
+game8.co##.c-share
 gamerant.com##p:has(> .related-single)
 games.ch###latestArticle
 games.ch###wallpaper
@@ -1742,6 +1750,8 @@ icr.org###block-jonah-the-latest
 icr.org##.block-related-topics
 idropnews.com###social-share
 ifixit.com##.component-WPCampaignBanner
+ign.com##.article-content ~ .right-rail
+ign.com##.plus-promo
 imdb.com###logged_out_upsell_wrapper
 imdb.com##[data-test-id="right-rail-content-block"]
 imdb.com##section:has(> .imdb-editorial-single)
@@ -3214,11 +3224,16 @@ stuttgarter-zeitung.de##[data-lt="Abonnieren_pos_header"]
 stuttgarter-zeitung.de##p:has-text(Lesen Sie auch: )
 stuttgarter-zeitung.de##p:has-text(Lesen Sie jetzt weiter: )
 substack.com##.subscription-widget-wrap
+sueddeutsche.de###ma-bo-container:has([allow="payment"])
 sueddeutsche.de##.ad
 sueddeutsche.de##.ad-container
 sueddeutsche.de##.ad_iqadtile1
+sueddeutsche.de##.article-content p:has(+ #sz-paywall)::before
+sueddeutsche.de##.article-content p:has(+ #sz-paywall):style(height: auto !important)
 sueddeutsche.de##.endofarticle__modules
+sueddeutsche.de##.iqdcontainer
 sueddeutsche.de##.pay-furtherreading
+sueddeutsche.de##.sp-message-open:style(height: auto !important)
 sueddeutsche.de##.sz-banner-with-ad-marker
 sueddeutsche.de##.sz-pilot-wrapper--three.sz-pilot-wrapper
 sueddeutsche.de##.sz-teaserlist-element:has(svg:has-text(SZ Plus)):style(opacity:0.65 !important)
@@ -3230,9 +3245,12 @@ sueddeutsche.de##[data-deals-container]
 sueddeutsche.de##[data-hydration-component-name="FinalAssetEditorialTeaserToken"]
 sueddeutsche.de##[data-hydration-component-name="JobOffers"]
 sueddeutsche.de##[data-hydration-component-name="SZPlusGroup"]:style(opacity:0.65 !important)
+sueddeutsche.de##[data-testid="IframelyEmbed"]:has(> [data-newsletter-id])
+sueddeutsche.de##[data-testid="closing-line"] ~ [class]:has(> [data-manual="teaser-s"])
 sueddeutsche.de##[fragment='[data-fragment="meinesz-homepage"]']
+sueddeutsche.de##[id^=sp_message_container]
 sueddeutsche.de##div:has(> div > div > div > p > i > b:has-text(Newsletter))
-sueddeutsche.de##main:has(> div:first-child > [data-asm-cdn="cdn.adspirit.de"]:only-child)
+sueddeutsche.de##html.sp-message-open body:style(height: auto !important; overflow: auto !important; position: static !important; margin-top: 0 !important)
 sueddeutsche.de##section:has([aria-label="Anzeige"])
 suedkurier.de###piano-taboola
 suedkurier.de##.advert
@@ -3901,6 +3919,15 @@ watson.ch##.watson-story__content .md\:w-3\/5 ~ .insert:style(width: 100% !impor
 watson.ch##.watson-story__content .md\:w-3\/5:style(width: auto !important;)
 watson.ch##.watson-story__content .watson-chronicles
 watson.ch##[class^=watson-sharebuttons__]
+watson.de##.article-end ~ .region:has(.watson-little-box__title:has-text(Meistgelesen))
+watson.de##.article-end ~ .watson-next-story
+watson.de##.insert:has(strong:has-text(Auch interessant))
+watson.de##.region:has(.watson-little-box__title:has-text(Meistgelesen))
+watson.de##.watson-next-story
+watson.de##.watson-sharebuttons
+watson.de##.watson-snippet__shareBubbles
+watson.de##.watson-story__content .watson-autocontext
+watson.de##[id^="sp_message_container"]
 wbir.com##.article__section_type_ad
 wbir.com##.article__sharing
 wbir.com##.grid__section_theme_below-article
