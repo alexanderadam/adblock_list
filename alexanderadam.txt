@@ -82,6 +82,10 @@ agenzianova.com##[data-partner]
 agenzianova.com##[id^=ad_]
 agenzianova.com##[id^=adnative]
 agenzianova.com##aside.widget:has(> [id^=ad])
+airliners.de##.page__section:has(.adl__box)
+airliners.de##[id^=sp_message_container]
+airliners.de##aside:has(.recommend)
+airliners.de##html.sp-message-open > body:style(overflow: auto !important; position: absolute !important)
 aljazeera.com###article-more-from-topic
 aljazeera.com###article-most-read
 aljazeera.com###article-newsletter-slot
@@ -181,6 +185,8 @@ apotheken-umschau.de##[id^="sp_message_container"]
 apotheken-umschau.de##h3:has-text(Zum Weiterlesen)
 apotheken-umschau.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 aptoide.com##[aria-label="main navigation"] [class^="aptoide-installer__InstallerContainer"]
+aptoide.com##div[class^="appcoins-"]
+aptoide.com##div[class^="promote-"]
 argoviatoday.ch###newsletterSignUpForm
 argoviatoday.ch##.adnz_wideboard_2-container
 argoviatoday.ch##.adnz_wideboard_2-placeholder
@@ -201,7 +207,23 @@ arstechnica.com##article > div > .lg\:col-span-2 ~ .hidden
 arstechnica.com##article > div > .lg\:col-span-2:has(+ .hidden):style(grid-column: 4 !important)
 attackofthefanboy.com##.gamurs-inf-scroll-post ~ .gamurs-inf-scroll-post
 augsburger-allgemeine.de##.aa-three-recommendations-space
+augsburger-allgemeine.de##.ad-list_small-native-container
+augsburger-allgemeine.de##.ad-third-native-container
 augsburger-allgemeine.de##.piano-article
+augsburger-allgemeine.de##.piano-sticky-top-right
+augsburger-allgemeine.de##[data-slot-name="banner"]
+augsburger-allgemeine.de##[data-slot-name="banner2"]
+augsburger-allgemeine.de##article[data-template="teaser"]:has(.before\:content-plusplus):style(opacity: 0.6 !important)
+augsburger-allgemeine.de##div[data-slot-name="banner3"]
+augsburger-allgemeine.de##div[data-slot-name="posterad"]
+auto-motor-und-sport.de##.va-commercial-container
+auto-motor-und-sport.de##.va-inline-related-container
+auto-motor-und-sport.de##.va-stroer-billboard
+auto-motor-und-sport.de##[data-mps_adname]
+auto-motor-und-sport.de##[id^=sp_message_container]
+auto-motor-und-sport.de##article ~ [class*=teaserTopFive]
+auto-motor-und-sport.de##div.mb-9:has(> div:only-child > [data-mps_adname]:only-child)
+auto-motor-und-sport.de##html.sp-message-open body:style(overflow: auto !important; position: absolute !important)
 axios.com##.apexAd
 axios.com##.shortFormNativeAd
 axios.com##h5:has-text(Go deeper)
@@ -424,6 +446,9 @@ bnn.network##.post-share-bot
 bnn.network##.post-share-float
 bnn.network##.related-posts
 bnn.network##p:has(> strong:has-text(Also Read:))
+boingboing.net##.boing-end-of-article-container-on-single-post-pages
+boingboing.net##.next-post-list-container
+boingboing.net##.stickyAdBlock
 bonedo.de##.fnetbr
 bonedo.de##.fnetbr__mr
 box.com##.UpgradePlanButton
@@ -447,6 +472,7 @@ businessinsider.com##.inline-newsletter-signup
 businessinsider.com##.l-ad
 businessinsider.com##.notification-prompt-wrapper
 businessinsider.com##.post-content-more
+businessinsider.com##.pw-modal-backdrop.pw-active
 businessinsider.com##.related-posts
 businessinsider.com##.share-button-dropdown-wrapper
 businessinsider.com##.share-button-dropdown-wrapper ~ .vertical-divider
@@ -454,6 +480,7 @@ businessinsider.com##.sticky-rail-ad-container
 businessinsider.com##.subnav-ad-layout
 businessinsider.com##.subscribe-and-login-links
 businessinsider.com##.taboola-feed
+businessinsider.com##html > body.pw-modal-open:style(overflow: auto !important)
 businessinsider.de##.bi-banner
 businessinsider.de##.bi-inpage
 businessinsider.de##.header-nav__subscribe-button
@@ -632,7 +659,14 @@ comingsoon.net##.evolve_ad
 comingsoon.net##.wp-block-xwp-newsletter-subscription
 comparis.ch###root > div > div > div:has-text(ANZEIGE)
 comparis.ch##div > div > div:has(> div > p:has-text(Interest costs starting from))
+computerbase.de##.adbox
+computerbase.de##.article-view__more
+computerbase.de##.article-view__share-button
+computerbase.de##.block1--banner
+computerbase.de##.block1--pro-box2
 computerbase.de##.postbit-ad
+computerbase.de##.promobar
+computerbase.de##dialog.consent.js-consent
 computerbild.de###newsletter-teaser-widget
 computerbild.de###share
 computerbild.de##.affiliateLinkList
@@ -1246,6 +1280,7 @@ forbes.com##.newsletter-inline-flex
 forbes.com##.recirc-module
 forbes.com##.right-rail
 forbes.com##[data-testid="ad-container"]
+fortune.com###__next > [class] > [class]:has(+ #drawer-toggle)
 fortune.com###__next > [class]:first-child:has(+ #drawer-toggle)
 fortune.com###article-content div > div:has(> [id^=InStream])
 fortune.com###article-content:style(width: auto !important)
@@ -1267,6 +1302,7 @@ fortune.com##[role="article"] > div > div > div:has(> .most-popular-rr)
 fortune.com##[role=article] .latest-popular-module
 fortune.com##div:has(> [aria-label="go to facebook"]) ~ div:has(> [aria-label="go to twitter"])
 fortune.com##div:has(> [id^="RightRailFlex"] > [id^="google_ads_"])
+fortune.com##div[class]:has(> div[class]:only-child:empty)
 forum.digitalfernsehen.de###hm_sb
 forum.digitalfernsehen.de##div:has(> span:first-child:last-child > a[href*="pages/premium"]:first-child:last-child)
 forum.pianoworld.com##.desktopLeaderboardWrapper
@@ -1330,6 +1366,9 @@ ft.com##.share-nav
 ft.com##[data-o-ads-formats]
 ft.com##[data-o-ads-name]
 ft.com##[data-trackable="Subscribe"]
+ft.com##[id^=sp_message_container_]
+ft.com##html.sp-message-open > body:style(overflow: auto !important; position: absolute !important; margin-top: 0 !important)
+ft.com##html:style(overflow: auto !important; )
 ft.com##pg-slot
 ftd.de###mvp-post-soc-wrap
 ftd.de###nativendo-intext
@@ -1341,6 +1380,10 @@ futurezone.at##.fuzoBox--newsletter
 futurezone.at##.outbrain
 futurezone.at##.relatedArticles
 game8.co##.c-share
+gamepro.de###cmp-modal
+gamepro.de###content.modal-cmp:style(pointer-events: auto !important; filter: none !important)
+gamepro.de##.modal-backdrop
+gamepro.de##html > body.modal-open:style(overflow: auto !important)
 gamerant.com##p:has(> .related-single)
 games.ch###latestArticle
 games.ch###wallpaper
@@ -1611,11 +1654,14 @@ harpersbazaar.de##.placeholdercontainer
 hausgeraete-test.de##.aycrmi.moreInformation
 haz.de###piano-lightbox-article-haz
 haz.de###piano-lightbox-article-haz:style(box-shadow: none !important)
+haz.de##.cmp-pur-abo .message-overlay:style(background: none !important)
+haz.de##.paywalledContent > p:style(height: auto !important)
 haz.de##.paywalledContent:style(height: auto !important)
 haz.de##[class^=Adstyled_]
 haz.de##[class^=TagListstyled]
 haz.de##[data-testid="share-toggle-button"]
 haz.de##[data-testid^="share-overlay-"]
+haz.de##div[class^=ArticleContentLoaderstyled__Gradient]:style(background: none !important; margin-top: 0 !important)
 heise.de###article-page-upscore ~ .a-layout:has-text(Spiele)
 heise.de###meldung ~ aside.recommendations.wide
 heise.de###upscore-paywall-placeholder::before
@@ -1658,7 +1704,6 @@ heise.de##[data-component="PreisvergleichModule"]
 heise.de##[data-component="RecommendationBox"]
 heise.de##[data-component="StickyFooter"]
 heise.de##[data-component="TeaserContainer"]:has(h3 > span > svg):style(opacity:0.6)
-heise.de##[data-component="TeaserList"]:has(> div > div:has-text(Anzeige))
 heise.de##[data-module-name="AdModule"]
 heise.de##[data-module-name="NewsletterModule"]
 heise.de##[data-module-name="SocialMediaModule"]
@@ -1667,6 +1712,7 @@ heise.de##[id^=sp_message_container_]
 heise.de##a-ad
 heise.de##a-collapse.perl-articlebox
 heise.de##a-collapse:has(header:has-text(Newsletter))
+heise.de##a-menu div.relative:has(span:has-text(Anzeige))
 heise.de##a-paid-content-teaser > .curtain-module
 heise.de##a-paid-content-teaser:style(margin-top: 60px !important)
 heise.de##a-paternoster
@@ -1750,6 +1796,7 @@ icr.org###block-jonah-the-latest
 icr.org##.block-related-topics
 idropnews.com###social-share
 ifixit.com##.component-WPCampaignBanner
+ign.com###pit-below-all-content:has(> .tp-container-inner > [id^="offer"])
 ign.com##.article-content ~ .right-rail
 ign.com##.plus-promo
 imdb.com###logged_out_upsell_wrapper
@@ -1795,6 +1842,9 @@ indianexpress.com##.subscriber_hide
 indiatimes.com###budgetAd
 indiegala.com###developer-product-more-carousel
 indiegala.com##.developer-product-more
+inews.co.uk##.tp-backdrop
+inews.co.uk##.tp-modal
+inews.co.uk##.tp-modal-open:style(overflow: visible !important; height: auto !important)
 infiniteundo.com###description p:has(> a[href*="tag=noahsussman-20"])
 infiniteundo.com##.adsbygoogle
 infoq.com##.f_article_rightbar
@@ -1830,6 +1880,8 @@ interestingengineering.com##p:has(> a > strong:has-text(SEE ALSO: ))
 inverse.com##.adWrapper
 inverse.com##article[class*="page-"] ~ div ~ article[class*="page-"]
 investopedia.com##.mntl-sc-block-adslot
+iplocation.net##.col.ip-buttons
+iplocation.net##.widget:has(.widget_title:has-text(Advertisement))
 ipswichstar.co.uk##[id^=inArticleAd-]
 isteshaltbar.de##.inner:has(.r89-desktop-hpa-atf)
 isteshaltbar.de##[style]:has([class^=r89-desktop-rectangle])
@@ -1913,6 +1965,7 @@ kompass.com##.colPub:has(> .containerWhite > .adsense)
 kompass.com##.megaBanner
 kpopping.com##.go-plus
 krebsonsecurity.com##[class*=themonic-ad]
+ksta.de##.dm-slot
 ladbible.com##[class^=advert-]
 latex.org###post_ads
 latex.org##.forabg
@@ -1925,6 +1978,7 @@ lemonde.fr##.article__siblings
 lemonde.fr##.article__wrapper ~ aside.aside__iso
 lemonde.fr##.catcher
 lemonde.fr##.dfp__container
+lemonde.fr##.js-services-inread:has(> a[href^="https://lemonde.onelink.me/"])
 lemonde.fr##.lazy-bizdev
 lemonde.fr##.main--free .article--restricted:style(overflow: auto !important)
 leo.org###adv-native
@@ -2052,6 +2106,7 @@ manager-magazin.de##[class]:has(> [data-sticky-ad-offset]:first-child:last-child
 manager-magazin.de##[data-advertisement]
 manager-magazin.de##[data-area="article_teaser>sponsored"]
 manager-magazin.de##[data-area="block>topreads"] li:has([data-contains-flags="plus-paid"]):style(opacity: 0.65 !important)
+manager-magazin.de##[data-area="related_articles"]
 manager-magazin.de##[data-area="related_articles"] li:has([data-contains-flags="plus-paid"]):style(opacity: 0.65 !important)
 manager-magazin.de##[data-area="vouchers"]
 manager-magazin.de##[data-block-el="articleTeaser"]:has([data-flag-name="plus-paid"]):style(opacity: 0.65 !important)
@@ -2358,7 +2413,12 @@ nau.ch##.ng-star-inserted.footer
 nau.ch##.related-header
 nau.ch##.related-header ~ .related
 nau.ch##.social-links
+nau.ch##.w-max-content:has(> div > div > h2:has-text(Weiterlesen))
+nau.ch##.w-max-content:has(> div > div > h2:has-text(Weiterlesen)) ~ .w-max-content:has(> div > div > a[title^=Mehr])
 nau.ch##a[aria-label^="Promotion"]:style(opacity: 0.7 !important)
+nau.ch##div[class]:has(> div[class]:only-child:empty)
+nau.ch##div[type="v1/article-card"]:has(a[href^="/blog/paid_post"])
+nau.ch##div[type="v1/article-card"]:has(a[href^="/blog/promotion"])
 nau.ch##nau-article-card-with-ad:has(.ad)
 nau.ch##nau-article-card-with-ad:has(.dateline:has-text(Paid)):style(opacity: 0.7 !important)
 nau.ch##nau-article-card-with-ad:has(.dateline:has-text(Sponsored)):style(opacity: 0.7 !important)
@@ -2370,6 +2430,9 @@ nau.ch##nau-keyword-carousel-card:has(.dateline:has-text(Partner)):style(opacity
 nau.ch##nau-keyword-carousel-card:has(.dateline:has-text(Sponsored)):style(opacity: 0.7 !important)
 navigator.gmx.net##.housemeista
 navigator.gmx.net##[data-item-name="premium_product"]
+nbcnews.com###taboolaReadMoreBelow
+nbcnews.com##.article-social-share-top
+nbcnews.com##.summary-box:has(.summary-box__headline:has-text(The latest))
 nbcnews.com##[data-testid="recommended-wrapper"]
 nebelspalter.ch##.ad-container
 nebelspalter.ch##.sponsored_content
@@ -2421,6 +2484,7 @@ newhome.ch##app-property-detail-financing
 newhome.ch##app-property-detail-financing-mortgage-link.ng-star-inserted
 news.yahoo.com###module-moreStories
 news.yahoo.com###related-content-wrapper
+news.ycombinator.com##.toptext:style(color: #e3e2e9 !important)
 news.ycombinator.com##body:matches-media((prefers-color-scheme: dark)) #hnmain:style(background-color: #1a1b21 !important; color: #e3e2e9 !important)
 news.ycombinator.com##body:matches-media((prefers-color-scheme: dark)) .c00 a:style(color: #e3e2e9 !important)
 news.ycombinator.com##body:matches-media((prefers-color-scheme: dark)) .c00:style(color: #e3e2e9 !important)
@@ -2480,6 +2544,15 @@ nintendolife.com##.with-sidebar .is-desktop > #content:style(width: auto !import
 nintendolife.com##[style]:has(> span:has-text(Disable Adblock) ~ iframe)
 nintendolife.com##aside.object-related
 nintendoworldreport.com###bonus
+noz.de##.article__teaser:has(.paid-content):style(opacity: 0.6 !important)
+noz.de##.container-ob
+noz.de##.msn-ads-frame_outer
+noz.de##.outer-wrapper:has(> .inner-wrapper:only-child > .ad_label:only-child)
+noz.de##.paywall:not(.paywalled-content)::after
+noz.de##.social-share
+noz.de##[id^="sp_message_container"]
+noz.de##html.sp-message-open body:style(overflow: auto !important; position: absolute !important)
+noz.de##p:has(> i:has-text(Weiterlesen:):only-child > a)
 npr.org###ad-backstage-wrap
 npr.org###callout-end-of-story-mount-piano-wrap
 npr.org###navigation__station-donate-mount
@@ -2543,8 +2616,10 @@ nytimes.com##[data-testid="onsite-messaging-unit-dock"]
 nytimes.com##[data-testid="region"]:has([data-testid="signup-button"])
 nytimes.com##[data-testid="vi-gateway-container"] > :last-child:style(background: none !important)
 nytimes.com##[id$="-wrapper"]:has-text(Continue reading the main story)
+nytimes.com##div:has(+div > .NYTAppHideMasthead):has(.ad)
 nytimes.com##header > section > div > a[data-testid="subscribe-button"]
 nytimes.com##header a[aria-label="Subscribe"]
+nytimes.com##html > body:style(overflow: auto !important; position: absolute !important)
 nytimes.com##span:has(> [data-testid="subscribe-button"])
 nytimes.com#$##app > div > div:first-child{ position: static !important; }
 nzz.ch###adnz_bta_1
@@ -2552,8 +2627,11 @@ nzz.ch###adnz_bta_2
 nzz.ch###adnz_maxiboard_1
 nzz.ch##.adnz-bta-fixed-placeholder
 nzz.ch##.articlepromobox
+nzz.ch##.disabled-overlay--show::before
 nzz.ch##.footer__link--button:has(> .footer__button:has-text(NZZ abonnieren))
 nzz.ch##.games-widget
+nzz.ch##.infobox__body::after
+nzz.ch##.infobox__body:style(overflow: auto !important)
 nzz.ch##.messagebox-pleaseregister:style(margin-top: 0 !important)
 nzz.ch##.ml-subscribe-form
 nzz.ch##.nzzinteraction:style(opacity: 1 !important)
@@ -2732,6 +2810,9 @@ pocket-lint.com##.sharing
 pocket-lint.com##.sidebar-sticky
 pocket-lint.com##main ~ .w-content
 pocket-lint.com##main.w-content ~ .w-content  ~ .w-content:has(> #embed-scripts ~ article.infinite-scroll)
+pocketpc.ch###ads_w
+pocketpc.ch##.menu-social-bar
+pocketpc.ch##.widget_aawp_widget_bestseller
 podcastaddict.com##.ad-container
 podcastaddict.com##.verticalalign:has(> .ad-container:first-child:last-child)
 podtail.com##.advert
@@ -2739,6 +2820,7 @@ podtail.com##aside:has(> a[rel="nofollow noopener"]:first-child:last-child)
 pokemon-go-forum.de##.message--post:has(.username:has-text(Anzeige))
 pokemon-go-forum.de##.message-signature:has(i:has-text(Anzeige))
 politico.com##div:has(> .int-style-Ad__placeholder)
+politico.eu##.sidebar-grid__sidebar:has(> .ad:only-child)
 politifact.com##.m-supporter
 politifact.com##.o-disruptor
 politifact.com##.o-header__donate
@@ -2909,9 +2991,15 @@ rnd.de##[class^="recommendationstyled__RecommendationContainer"]
 rnd.de##[id^="sp_message_container_"]
 rnd.de##div:has(> [class^="ChainContainerstyled__ChainContainer"] > div > [class^="BlockTitlestyled__BlockTitle"] > span > [class^="Headlinestyled__Headline"]:has-text(Mehr aus))
 rnd.de##p[class^="Textstyled__Text-sc"]:has(> a > i > b:has-text(für Android und iOS herunter))
+rollingstone.com###piano-paywall:style(margin-top: 0 !important)
+rollingstone.com##.above-header-ad
 rollingstone.com##.brands-most-popular
+rollingstone.com##.piano-truncate-content:has(+ #piano-paywall):style(overflow: auto !important; display: block !important)
 rollingstone.com##.recirculation-modules
+rollingstone.com##.sticky-leaderboard-ad
 rollingstone.com##.trending-in-article
+rollingstone.com##article .a-article-nl-fade *:style(color: black !important; text-shadow: none !important)
+rollingstone.com##article ~ div[class] > div[class]:has(.heading-outer)
 rollingstone.com##section.newswire
 rome2rio.com##.ad-container
 romhustler.org##.go-premium
@@ -3058,6 +3146,7 @@ servethehome.com##aside:has([data-revive-zoneid])
 servicemanuals.us##.ads-fileinfo
 servicemanuals.us##.randomlink
 shecodes.io##a[href^="/ads/"]
+shouldianswer.net###stickyAdContainer
 sifa-sibe.de##.asm_async_creative
 sitepoint.com##.custom-content
 sitepoint.com##.inline-content
@@ -3199,6 +3288,8 @@ stern.de##.teaser:has(> .teaser__text-content > .ad-labels > .ad-labels__item:ha
 stern.de##.text-element--context-article:has(> em > a:has-text(Lesen Sie auch))
 stern.de##.widget-element:has(> .sis-HeaderBanner > .bannerSternPlusLink)
 stern.de##.widget-element:has(> a[href^="/stiftung/stiftung-stern"])
+stern.de##[id^=sp_message_container_]
+stern.de##html.sp-message-open body:style(overflow: auto !important; position: absolute !important;)
 stern.de##li:has(> .menu__list-icon--stern-plus)
 strava.com##.PaywallModal--overlay--3AZEy
 strava.com##.upgrade.nav-item
@@ -3300,6 +3391,7 @@ t3n.de##.tg-crosslinks:has(.h3:has-text(Empfehlungen))
 t3n.de##.tg-social-bottom
 t3n.de##[data-article-identifier] #article ~ .o-grid > #main-content ~ aside.tg-sidebar
 t3n.de##[data-article-identifier] #article ~ .o-grid > #main-content:has(+ aside.tg-sidebar):style(width: auto !important)
+table.media##.u-paywall::before
 tag24.de##.article__ads
 tag24.de##.article__related
 tag24.de##.inread-article
@@ -3364,6 +3456,7 @@ tagesspiegel.de##[data-bi-stage-type="stage-embed"]:has(.weekli-widget-adlabel)
 tagesspiegel.de##[data-gtm-class="article-mzt-link"]
 tagesspiegel.de##[data-qa-hook="story-related-content-list"]
 tagesspiegel.de##[element="[object Object]"]:has(#opinary-automation-placeholder)
+tagesspiegel.de##[id^="sp_message_container"]
 tagesspiegel.de##article ~ div:has(> .OUTBRAIN)
 tagesspiegel.de##aside > ul > li:has([title$=" teilen"])
 tagesspiegel.de##aside.newsletter
@@ -3377,6 +3470,7 @@ tagesspiegel.de##figure.ts-opinary.ts-magicbox
 tagesspiegel.de##h3:has-text(Aktuell beliebt auf Tagesspiegel Plus:)
 tagesspiegel.de##h3:has-text(Aktuell beliebt auf Tagesspiegel Plus:) + ul
 tagesspiegel.de##header a[href^="https://abo.tagesspiegel.de"]
+tagesspiegel.de##html.sp-message-open body:style(overflow: auto !important; position: absolute !important;)
 tagesspiegel.de##p > em:has-text(Wenn Sie die wichtigsten News aus Berlin, Deutschland und der Welt live auf Ihr Handy haben wollen, empfehlen wir)
 tagesspiegel.de##p:has(> em:has-text(Android-Geräte) > a)
 tagesspiegel.de##p:has(> em:has-text(Newsletter) > a)
@@ -3384,7 +3478,19 @@ tagesspiegel.de##p:has(> strong > em > [href^="https://app.adjust.com/"]:has-tex
 tagesspiegel.de##p:has-text(Leserinnen und Leser informieren sich zweimal täglich mit unseren kompakten überregionalen Newslettern.)
 tampabay.com##.html-advertisement
 target.com##div:has(> [data-test="sponsored-text"])
+tarnkappe.info###traffective-ad-Billboard
+tarnkappe.info###traffective-ad-Skyscraper
+tarnkappe.info##.cmp-root-container
+tarnkappe.info##.columns div.column[style]:has(> [id^=traffective-ad-])
 tarnkappe.info##.desktop-only:has(> .around-desktop-ad)
+tarnkappe.info##.mobile-only:has(#traffective-ad-Mobile_Pos2)
+tarnkappe.info##.mobile-only:has(> .interscroller-wrapper .interscroller-ad-wrapper)
+tarnkappe.info##.related-underpost
+tarnkappe.info##.single-post .is-10 ~ .sidebar-sticky
+tarnkappe.info##.single-post:matches-media((min-width: 769px)) .is-10:has(+ .sidebar-sticky):style(width: 100% !important)
+tarnkappe.info##.sonderwerbemittel:remove-class(sonderwerbemittel)
+tarnkappe.info##aside .custom-html-widget
+tarnkappe.info##html.cmp-modal-open:style(overflow: auto !important)
 taxi-times.com###adni_widgets-4
 taz.de###adzone_wall
 taz.de###tzi-paywahl-fg
@@ -3453,6 +3559,8 @@ telepolis.de##[id^="sp_message_container"]
 telepolis.de##aside:has(> .a-ad)
 telepolis.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 telguarder.com##.ai-top-ad-container
+tellows.ch###lb_header:has(#div-gpt-ad-Leaderboard)
+tellows.ch##.ad
 teltarif.de##.ttmaincol:style(width: 100% !important)
 teltarif.de##.ttsidecol
 tgx.rs###blockalert.smallhide
@@ -3581,6 +3689,8 @@ thehackernews.com##.float-share
 thehackernews.com##.sharebelow
 thehill.com##.ad-unit
 thehustle.co###hs_cos_wrapper_blog_post_simple_sticky_cta
+theintercept.com##.entry-content.meter-expired:style(overflow: auto !important; max-height: none !important)
+theintercept.com##.inline-wall
 thelocal.de##.ml-manual-widget-container:has(> div > [id^=offer])
 thelocal.de##.tl-ad-container
 them.us##.consumer-marketing-unit
@@ -3631,6 +3741,7 @@ theverge.com##.duet--article--more-stories
 theverge.com##.duet--layout--rail
 theverge.com##.m-ad
 theverge.com##[data-concert-ads-name]
+theverge.com##div[class]:has(> [data-concert="outbrain_post_tablet_and_desktop"]:only-child)
 thewearify.com##[class^=ezoic-]
 thewrap.com##.article-header-full__social-shares
 thewrap.com##.post:has(span:has-text(Pro)):style(opacity: 0.7 !important)
@@ -3845,6 +3956,8 @@ vanityfair.com##.ad-height-hold
 vanityfair.com##.ad-stickyhero
 vanityfair.com##.consumer-marketing-unit
 vanityfair.com##.consumer-marketing-unit--article-mid-content
+vanityfair.com##.journey-unit__container:has(> a[href^="https://www.vanityfair.com/v2/offers/"])
+vanityfair.com##.linkstack:has(h2:has-text(More Great Stories))
 vanityfair.com##.newsletter-subscribe-form
 vanityfair.com##.persistent-bottom
 vanityfair.com##.recirc-list-wrapper
@@ -3856,7 +3969,9 @@ verivox.de##.result-item:has(.advertising-label)
 vice.com##.OUTBRAIN
 vice.com##.ai-viewport-1
 vice.com##.inbody-article
+vice.com##.wp-block-jetpack-sharing-buttons-wrapper
 vice.com##[aria-label="More from VICE"]
+vice.com##[id^="htlad-post-article-"]
 vimeo.com###global-nav .upgrade-cta
 vital.de###infiniteScrollContent
 voip-catalog.com##.adblock
@@ -3963,6 +4078,8 @@ welt.de##[data-external-content="Outbrain.MoreLikeThis"]
 welt.de##[data-qa="Commercial-Wrapper.Mobile.MediumRectangle"]
 welt.de##[data-qa="Commercial-Wrapper.Mobile.MediumRectangleBTFThree"]
 welt.de##[data-qa="InlineElement"]:has(> [data-qa="InlineTeaserList"])
+welt.de##[id^=sp_message_container]
+welt.de##html.sp-message-open > body:style(overflow: auto !important; margin-top: 0 !important; position: absolute !important)
 weltwoche.ch###nlFormCH
 weltwoche.ch###werbungTop
 weltwoche.ch##.headerIcons:has-text(Abonnieren)
@@ -3991,6 +4108,7 @@ what-song.com##.md\:min-h-\[100px\].min-h-\[50px\].bg-slate-100
 what-song.com##.min-h-\[280px\].bg-slate-100
 what-song.com##div:has(> div > p:has-text(REMOVE ADS))
 what-song.com##div:has(> span:has-text(Powered by))
+whatismyipaddress.com##.call-to-action:has-text(Hide My IP Address Now)
 wieistmeineip.de##.location ~ .vpn
 wieistmeineip.de##[data-cmp-id="adsense"]
 wikihow.com###article_courses_banner
@@ -4147,7 +4265,9 @@ yahoo.com##.native-ad-item
 yahoo.com##.social-bar-fixed
 yahoo.com##.stream-sm-ad
 yahoo.com##.wafer-fetch ~ div:has(h4:has-text(Als nächstes))
+yahoo.com##article ~ .flex:has(> .font-bold:has-text(Up next))
 yahoo.com##aside.caas-aside-section
+yahoo.com##div:has(> article ~ .flex > .font-bold:has-text(Up next)) ~ div:has(> article)
 yahoo.com##p:has-text(Read more)
 yahoo.com##p:has-text(Read more) ~ ul.caas-list
 youtube.com##ytd-engagement-panel-section-list-renderer
@@ -4172,6 +4292,7 @@ zeit.de###iqd_mainAd
 zeit.de###overscrolling
 zeit.de###paywall:style(margin-top: 3.5rem !important)
 zeit.de##.content-area ~ #colophon > #secondary:has(.widget-title:has-text(Neueste Beiträge))
+zeit.de##.iqdcontainer
 zeit.de##.navigation__subscription-link
 zeit.de##.newsletter-signup
 zeit.de##.paragraph--faded::before:style(background: none !important)
