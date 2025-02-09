@@ -1,4 +1,4 @@
-# 🛑✨ Alex's uBlock List (it probably works with other AdBlockers too) ✨🛑
+# 🛑✨ Alex’s uBlock List (also works with other Blockers) ✨🛑
 
 This is a curated list of rules designed to enhance your browsing experience by blocking cluttering and other unwanted web content. 🌐🚫
 
