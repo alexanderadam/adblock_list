@@ -184,6 +184,8 @@ apotheken-umschau.de##.standard-teaser:has(h3:has-text(Zum Weiterlesen))
 apotheken-umschau.de##[id^="sp_message_container"]
 apotheken-umschau.de##h3:has-text(Zum Weiterlesen)
 apotheken-umschau.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
+app.asana.com##div.StaticCard:has(.CurrentUserProfileGoalsWidgetContent-upsellButton):style(opacity: 0.6 !important)
+appleinsider.com###article-social
 aptoide.com##[aria-label="main navigation"] [class^="aptoide-installer__InstallerContainer"]
 aptoide.com##div[class^="appcoins-"]
 aptoide.com##div[class^="promote-"]
@@ -446,6 +448,10 @@ bnn.network##.post-share-bot
 bnn.network##.post-share-float
 bnn.network##.related-posts
 bnn.network##p:has(> strong:has-text(Also Read:))
+boerse.de##[class^=Ads_]
+boerse.de##[id^="sp_message_container"]
+boerse.de##html.sp-message-open > body:style(overflow: visible !important; position: absolute !important)
+boerse.de##html.sp-message-open:style(height: auto !important; width: auto !important)
 boingboing.net##.boing-end-of-article-container-on-single-post-pages
 boingboing.net##.next-post-list-container
 boingboing.net##.stickyAdBlock
@@ -516,6 +522,7 @@ call.plus##.labeling:has-text(sponsored links) ~ [style]:has(> .adsbygoogle)
 call.plus##[style="width:100%; text-align:center;"]:has(> [style] > .adsbygoogle)
 call.plus##[style] > [style]:has(> [style] > .adsbygoogle)
 call.plus##[style]:has(> .adsbygoogle)
+callfilter.app##.rightArea:has(> #AdContainer)
 candyfonts.com##.shareButton
 careerkarma.com##.ad7
 careerkarma.com##.testimonial_section
@@ -591,6 +598,7 @@ cjr.org###mc_embed_signup_box
 cjr.org##.code-block > center:has(> [id^=div-gpt-ad])
 cjr.org##p:has(> strong:has-text(ICYMI:))
 clavio.de###abAside
+cleverdialer.de##.ad-container
 clockify.me###topbar-menu > div > div > div > div:has(> a:has-text(Request demo))
 clockify.me###topbar-menu > div > div:has(> div > a:has-text(Upgrade))
 cnbc.com###social-buttons-transporter
@@ -638,7 +646,19 @@ cnn.com##.zone__ads
 cnn.com##[type="outbrain"]
 cnn.com##amp-ad
 cofonts.com##.adsbygoogle
+coindesk.com###strategy-rules-player-wrapper:has(.ad-placement)
+coindesk.com##.document-body > div.flex:has-text(Story continues)
+coindesk.com##.document-body [data-module-name="newsletter-article-sign-up-module"]
+coindesk.com##.min-h-\[228px\]:empty
+coindesk.com##.min-h-\[228px\]:has(#nativehp_desktop)
+coindesk.com##.min-h-full.min-w-full > .ah250px.aw970px
 coindesk.com##.styles\.adContainer
+coindesk.com##[data-module-name="high-impact"]
+coindesk.com##[data-submodule-name="social-share"]
+coindesk.com##div.h-\[272px\]:has(#nativehp_mobile)
+coindesk.com##div.h-\[272px\]:has(div > div[style] > #nativehp_mobile:first-child ~ div:last-child > svg)
+coindesk.com##div[style]:has(> #nativehp_mobile:only-child)
+coindesk.com##div[style]:has(> [data-freestar-ad]:only-child)
 collider.com##.related-single
 collider.com##main.w-content ~ div.w-content
 comicsands.com##.ai_recirculation_unit__wrapper
@@ -766,6 +786,7 @@ date.noii.ch##.swiper-wrapper:style(display: block !important)
 dcrainmaker.com##.nc_wrapper:has(> .swp_social_panel)
 dcrainmaker.com##[data-buy-now-links]
 dcrainmaker.com##li.widget_sp_image:has(> a[href="https://www.dcrainmaker.com/support"])
+de.cointelegraph.com##.post__content-shares
 de24live.de##.articleAppendix
 de24live.de##aside.articleTeaser
 dealdoktor.de##.box:has(> .adsense-wrapper)
@@ -1206,11 +1227,11 @@ focus.de###video_fb:has(> .anzeige)
 focus.de###wpBreakingNewsBanner
 focus.de##.Ad
 focus.de##.Article-ArticlesBox:has(.Related_Article_Headline)
+focus.de##.Article-CTAButton:has(.CTAButton_Link--Commercial)
+focus.de##.Article-Content-Ad-Carousel
 focus.de##.Social-Sharing-Container
 focus.de##.article-social-border .tw.more
-focus.de##.card > div:has(> [class^="cls_hor_prnt"] > [id^="CT_SMARTPHONE_NATIVE_HOR_ANY"])
-focus.de##.card > div:has(> [class^="cls_hor_prnt"] > [id^="M_CONTENTAD"])
-focus.de##.card > div:has(> [class^="cls_hor_prnt"] > [id^="M_TRSCT_hor"])
+focus.de##.cls_hor_prnt:has(script)
 focus.de##.cls_hor_prnt_am
 focus.de##.cls_hor_prnt_am:has(> .cls_slot_hor)
 focus.de##.cls_hor_prnt_xs:has(> #tfm_admanagerTeaser)
@@ -1226,6 +1247,7 @@ focus.de##.m-conclusion-box.ps-tracking-position.ps-trackingposition_Fazitkasten
 focus.de##.m-conclusion-box.ps-tracking-position.ps-trackingposition_Fazitkasten:has(> h2:has-text(Nachrichten aus aller Welt))
 focus.de##.m-conclusion-box:has(> h2:has-text(Weitere aktuelle Nachrichten))
 focus.de##.nl_subscription_form
+focus.de##.promo:has(.branding)
 focus.de##.ps-tracking-comlinks
 focus.de##.re_textteaserlist
 focus.de##.sticky.social
@@ -1251,11 +1273,16 @@ focus.de##[data-teaser-type="seolinkbox"]
 focus.de##[data-teaser-type="teaser_news"]
 focus.de##[href^="https://focus-abo.de/focus-zwischenseite-auswahl/"]:has(> .svg-icon)
 focus.de##[href^="https://www.focus.de/kaufberatung/"]
+focus.de##[id$="-AdSlotOop"]
+focus.de##[id$="-Outbrain"] ~ .Article-LinkBox
 focus.de##[id^="adsdh_"]
 focus.de##[id^="sp_message_container"]
 focus.de##[id^=M_CONTENTAD]
 focus.de##[id^=adsdh]
 focus.de##[style="min-height: 280px;"]
+focus.de##article.card > div:only-child:has(> [class^="cls_hor_prnt"]:only-child > [id^="CT_SMARTPHONE_NATIVE_HOR_ANY"])
+focus.de##article.card > div:only-child:has(> [class^="cls_hor_prnt"]:only-child > [id^="M_CONTENTAD"])
+focus.de##article.card > div:only-child:has(> [class^="cls_hor_prnt"]:only-child > [id^="M_TRSCT_hor"])
 focus.de##article.card[data-teaser-type="teaser_video"]
 focus.de##article.promo:has(>.branding:has-text(Anzeige))
 focus.de##article.promo:has(>.branding:has-text(Anzeige)) ~ .block-line.clearfix
@@ -1598,6 +1625,8 @@ gq-magazin.de##section > p > a:has-text(Lesen Sie auch:)
 grabify.link##.fa-exclamation-circle ~ a[href="https://grabify.link/hide"]
 grabify.link##.fa-exclamation-circle:has(+ a[href="https://grabify.link/hide"])
 guidingtech.com##.content:has(> div > .adsbygoogle)
+guinnessworldrecords.com##.page-controls-share
+guinnessworldrecords.com##.page-controls-share-record
 gutefrage.net###cmpbox
 gutefrage.net###cmpbox2
 gutefrage.net##.Ad
@@ -1967,8 +1996,16 @@ kpopping.com##.go-plus
 krebsonsecurity.com##[class*=themonic-ad]
 ksta.de##.dm-slot
 ladbible.com##[class^=advert-]
+last.fm##.mpu-subscription-upsell
+last.fm##[data-ad]
 latex.org###post_ads
 latex.org##.forabg
+latimes.com##.page-above-header:has(> .google-dfp-ad-wrapper:only-child)
+latimes.com##[name="metering-modal"]
+latimes.com##article ~ ps-newsletter-module
+latimes.com##html > body:style(overflow: auto !important)
+latimes.com##main:has(> article.story) ~ aside.rail
+latimes.com##ps-comments ~ .page-content-footer .list
 latintimes.com##.page-content > .block-trending
 latintimes.com##.page-content ~ .page-sidebar
 lauterbacher-anzeiger.de##.id-Recommendation
@@ -2345,6 +2382,7 @@ mydealz.de##.ad--sideSquare-wrapper
 mydealz.de##.ad-publift
 mydealz.de##.idealo-cept
 mydealz.de##[data-t="sharingOptions"]
+myiq.com##main > div.text-center:first-child:has(> #person-info)
 n-joy.de##.contentbox:has(> .boxhead:has-text(Weitere Informationen))
 n-joy.de##.sharinglinks
 n-tv.de##.article__aside:has(> .teaser)
@@ -2361,6 +2399,7 @@ n-tv.de##.sitemap__col:has(> .sitemap__group > .sitemap__newsletter)
 n-tv.de##.space--showheroes.space
 n-tv.de##.space.phide:has(> .space__strech)
 n-tv.de##.teaser--newsletter
+n-tv.de##.topbanner-mobile
 n-tv.de##[class^="ad-wrapper-"]
 n-tv.de##amp-ad
 n-tv.de##amp-embed
@@ -2666,6 +2705,11 @@ okdiario.com##.ad-block
 okdiario.com##.ad-slot-ph
 okdiario.com##.container-logo-auditado
 okdiario.com##.postContent ~ .postContent
+okmagazine.com##.instiengage-trending-now
+okmagazine.com##article > div:has(> #mainline-form):has(#subscribe)
+okmagazine.com##article > section:has(> ul):has-text(MORE ON)
+okmagazine.com##p:has-text(More From) ~ #more_from
+okmagazine.com##p:has-text(More From):has(+ #more_from)
 omglinux.com##.social-icons
 onmeda.de###toast-container
 onmeda.de##.box--ad
@@ -2742,12 +2786,17 @@ pcwelt.de##amp-ad
 pcwelt.de##amp-embed[type="outbrain"]
 pdfen.com##.goolgleadsencebelow
 pdfen.com##.goolgleadsencetop
+pennwatch.org##.td-post-sharing-bottom
+pennwatch.org##.td-post-sharing-top
 people.com###outbrain_1-0
 people.com###recirc-section_1-0
 people.com###social-share-block_1-0
 people.com##.article-right-rail
 people.com##.article__broad-video-jw:has(.trending-icon)
+people.com##.mm-ads-leaderboard-header
+people.com##.mm-ads-leaderboard-spacer
 people.com##.mntl-header-drawer
+people.com##.mntl-sc-block-html:has(> strong > a[href*=newsletter])
 people.com##.mntl-sc-block-universal-featured-link--related
 people.com##.related-link
 people.com##.share
@@ -2856,6 +2905,7 @@ praxistipps.chip.de###R1C3
 praxistipps.chip.de###video-widget:has-text(Unsere Video Empfehlung)
 praxistipps.chip.de##.Article__Ad
 praxistipps.chip.de##.Article__Promo
+praxistipps.chip.de##.Article__PromoBanner
 praxistipps.focus.de##.Article__Ad ~ hr
 praxistipps.focus.de##.Article__Intro ~ .fb-col-lg-8:has(.Ad)
 praxistipps.focus.de##.Article__Outbrain
@@ -3153,6 +3203,9 @@ sitepoint.com##.inline-content
 sky.com##.sdc-article-related-stories
 sky.com##.sdc-site-outbrain
 sky.com##[data-ad-format]
+slack.com##.c-message_kit__hidden_message_blur div:style(user-select: auto !important; pointer-events: auto !important; -webkit-user-select: auto !important)
+slack.com##.c-message_kit__hidden_message_blur span:style(user-select: auto !important; pointer-events: auto !important; -webkit-user-select: auto !important)
+slack.com##.c-message_kit__hidden_message_blur:style(filter: none !important; backface-visibility: visible !important; opacity: 0.9 !important)
 slashgear.com##.infinite[data-post-type="articles"]:remove-class(infinite)
 slashgear.com##.nextup-heading
 slashgear.com##.nextup-heading ~ article
@@ -3497,6 +3550,9 @@ taz.de###tzi-paywahl-fg
 taz.de##.product.leaded
 taz.de##.product:has(> .sect_seealso.style_seealso)
 taz.de##.tziBottom
+techcrawlr.com##.fabc-ad-live-primis-tech
+techcrawlr.com##.kt_simple_share_container
+techcrawlr.com##.slick-dcm[style]
 techcrunch.com##.article-sidebar
 techcrunch.com##.article__content-outer > .newsletter-signup-block
 techcrunch.com##.article__social-share > a:not([data-ga-event-label="copy"])
@@ -3561,6 +3617,11 @@ telepolis.de##html.sp-message-open body:style(overflow: visible !important; posi
 telguarder.com##.ai-top-ad-container
 tellows.ch###lb_header:has(#div-gpt-ad-Leaderboard)
 tellows.ch##.ad
+tellows.de###cmpscreen
+tellows.de###lb_header
+tellows.de###topskypos
+tellows.de##.ad
+tellows.de##body:style(overflow: auto !important)
 teltarif.de##.ttmaincol:style(width: 100% !important)
 teltarif.de##.ttsidecol
 tgx.rs###blockalert.smallhide
@@ -3835,6 +3896,7 @@ trakt.tv##a[href="/vip/csv"]
 trakt.tv##div:has(> a:has-text(Hide ads with))
 trakt.tv##div:has(> div:has-text(Advertisement) ~ [id^=adngin])
 trakt.tv##div:has(> div:has-text(Advertisement) ~ a[href="/vip/ads"])
+trakt.tv##section[id^="yir-"][id$=-wrapper]:has-text(Upgrade to VIP)
 trello.com##.board-menu-navigation-item.disabled:has-text(Upgrade to add Custom Fields)
 trello.com##.js-card-back-custom-fields-prompt:has(> div > div > .card-back-card-back-upgrade-prompt-section)
 trello.com##.js-react-root:has(> div > [data-testid="team-members-page-upgrade-prompt"])
@@ -3936,6 +3998,9 @@ uptodown.com###uptodown-turbo-promo
 uptodown.com##.comments ~ section.item-row:has(.more)
 uptodown.com##.detail ~ .button-group ~ section.item-row
 upwork.com##[data-test="UpgradeToPremium"]
+usacrime.com##.single-post #primary ~ #secondary
+usacrime.com##.single-post #primary:has(+ #secondary) p:style(max-width: none !important)
+usacrime.com##.single-post #primary:has(+ #secondary):style(width: 100% !important)
 usatoday.com##.partner-placement
 utopia.de##.ShariffSC
 utopia.de##[id^="native_ad"]
@@ -4025,6 +4090,7 @@ watson.ch##.insert:has(> .watson-snippet__contextBoxList)
 watson.ch##.insert:has(> .watson-snippet__newsletter)
 watson.ch##.insert:has(> div > div > .watson-teaser-app-campaign__background)
 watson.ch##.leading-snug
+watson.ch##.nospacing:has(> .commercial:only-child)
 watson.ch##.story-recommendations
 watson.ch##.watson-autocontext
 watson.ch##.watson-next-story
@@ -4034,6 +4100,7 @@ watson.ch##.watson-story__content .md\:w-3\/5 ~ .insert:style(width: 100% !impor
 watson.ch##.watson-story__content .md\:w-3\/5:style(width: auto !important;)
 watson.ch##.watson-story__content .watson-chronicles
 watson.ch##[class^=watson-sharebuttons__]
+watson.ch##[data-type="app-download"]
 watson.de##.article-end ~ .region:has(.watson-little-box__title:has-text(Meistgelesen))
 watson.de##.article-end ~ .watson-next-story
 watson.de##.insert:has(strong:has-text(Auch interessant))
@@ -4216,6 +4283,8 @@ womenshealth.de##.v-A_-abo
 womenshealth.de##.v-A_-article__teaser__booklet
 womenshealth.de##.v-A_-newsletter
 womenshealth.de##div#paid
+worldstar.com##div[style]:has(> [id^=desktop_slot_][style]:only-child)
+worldstarhiphop.com##div[style]:has(> [id^=desktop_slot_][style]:only-child)
 wortbedeutung.info###bannerad
 worthepenny.com##[id^="afscontainer"]
 wowroms.com###product > .footer_social_icons
@@ -4245,6 +4314,7 @@ x.com##[data-testid="cellInnerDiv"]:has-text(Get up to 50% off X Premium)
 x.com##[data-testid="cellInnerDiv"]:has-text(Go ad-free with Premium+)
 x.com##[data-testid="reply-boost-upsell"]
 x.com##aside[aria-label="Expiring soon!"]
+x.com##div[role="status"]:has(a > span):has-text(Upgrade to Premium)
 x.com##nav[role="navigation"] > a[data-testid="premium-signup-tab"]
 x.com##nav[role="navigation"] > a[data-testid="vo-signup-tab"]
 xda-developers.com###article-waypoint
@@ -4252,6 +4322,7 @@ xda-developers.com##.ad-zone-size-container
 xda-developers.com##.adsninja-ad-zone
 xda-developers.com##.article-card:has(.article-card-label:has-text(Related))
 xda-developers.com##main.w-content ~ .w-content
+xhamster.com##aside[data-role$="promo"]
 xing.com##[data-qa="signup-layer"]:style(backdrop-filter: none !important; -webkit-backdrop-filter: none!important)
 xn--strunglive-fcb.ch##[style="min-height:300px;"]
 yahoo.com###custom-social
@@ -4318,6 +4389,7 @@ zentralplus.ch##.grid-box-notification_info__notifications
 zentralplus.ch##[class*="Zen_TeaserList_vertical__"]
 zentralplus.ch##[class^="Advertisement_container___"]
 zentralplus.ch##[class^="EntryHeader_share__"]
+zentralplus.ch##[class^="Grid_container"] > [class^="GridArea_container"]:has([class^="Advertisement_container"])
 zentralplus.ch##[class^="ShareBar_container__"]
 zentralplus.ch##[class^=Advertisement_]
 zentralplus.ch##[class^=Core_HTML_container]:has([href="https://www.zentralplus.ch/newsletters/"])
@@ -4365,12 +4437,12 @@ zugerzeitung.ch##.regwall__wrapper::before:style(display: none !important)
 zugerzeitung.ch##.regwall__wrapper:style(margin-top: 0 !important)
 zugerzeitung.ch##.resor
 zugerzeitung.ch##[componenttype^="advertisement"]
+zugerzeitung.ch##[componenttype^="advertisement"][class*=widget-] + [class*=widget-]::before:style(border-top: none !important)
 zugerzeitung.ch##[data-nzz-mainmenuitem="/aboplus"]
 zugerzeitung.ch##[id^=adnz_maxiboard]
 zugerzeitung.ch##article.teaser--article:has(.icon--premium):style(opacity: 0.65 !important)
 ||accounts.google.com$subdocument
 ||smartlock.google.com^
-||www.demonoid.is/images/stara.gif$image
 ||www.finanzen.ch/Images/b_partner/CR1_Home.jpg$image
 ||www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
 ||www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
