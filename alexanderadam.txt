@@ -427,6 +427,7 @@ blick.ch##div:has(> .container-title:has-text(Das könnte dich auch interessiere
 blick.ch##div:has(> div:has-text(Heiss diskutiert) ~ ol)
 blick.ch##div:has(> div:has-text(Meistgelesen) ~ ol)
 blick.ch##div:has-text(Alle Kommentare) ~ div > [type="comment"] ~ div:has-text(Werbung)
+blick.ch##div[class]:has(> div[class] ~ div[class] > .swiper-items-container):has(> div[class] > span:has-text(Das könnte Sie auch interessieren))
 blick.ch##div[class]:has(> div[class]:first-child:last-child > .slot-code-desktop-right_ad_1:first-child:last-child)
 blick.ch##main > div > div > div:has(> div:has-text(Externe Inhalte))
 blick.ch##next-route-announcer
@@ -906,6 +907,14 @@ digitalspy.com##.body-text:has(> strong:has-text(Related: ))
 digitalspy.com##.gallery-module > .gallery-list:has(> [aria-label=product])
 digitaltrends.com##.b-adhesion
 disneydining.com##[style="min-height:125px;"]
+dnn.de##.paywalledContent p:style(overflow: visible !important; height: auto !important)
+dnn.de##[data-element-selector="recommendations"]
+dnn.de##[data-testid="more-items-block"]
+dnn.de##[data-testid="share-overlay-peek"]
+dnn.de##[data-testid="share-toggle-button"]
+dnn.de##[id^="mad_m_incontent-"]
+dnn.de##[id^=sp_message_container]
+dnn.de##a:has([data-testid="paid-icon-container"]):style(opacity: 0.6 !important)
 dnoid.pw##ha159b2
 dnoid.to##ha159b2
 dnschecker.org##.ads_block_container
@@ -1310,14 +1319,20 @@ focus.de##iframe[src^="https://user-rating.burda-forward.de/"]
 focus.de##section + #sidebar
 focus.de##ul:has(em:has-text(Mehr dazu:))
 forbes.com###article-stream-1
+forbes.com##.ad-unit
+forbes.com##.article-body-container div[class]:has(> div[class]:has-text(MORE FROM) > span):has([data-ga-track*="Recirc"])
 forbes.com##.body-container:style(max-width: none !important; padding-right: 0 !important)
 forbes.com##.fbs-ad--progressive
 forbes.com##.fs-article:style(max-width: none !important)
+forbes.com##.inline-ad-container
 forbes.com##.login__menu > .show.subscribe
 forbes.com##.newsletter-inline-flex
 forbes.com##.recirc-module
 forbes.com##.right-rail
+forbes.com##.xl-recirc-container
+forbes.com##[class^="halfway_hardwall_"]:remove()
 forbes.com##[data-testid="ad-container"]
+forbes.com##[data-testid="fbs-ad - rightRail"]
 fortune.com###__next > [class] > [class]:has(+ #drawer-toggle)
 fortune.com###__next > [class]:first-child:has(+ #drawer-toggle)
 fortune.com###article-content div > div:has(> [id^=InStream])
@@ -2366,9 +2381,11 @@ morgenpost.de###piano-banner-kampagne
 morgenpost.de###piano-reco-widget
 morgenpost.de###plus-banner--sticky
 morgenpost.de##.ad
+morgenpost.de##.ad-slot-wrapper
 morgenpost.de##.cmpstyleroot
 morgenpost.de##.teaser:has(.icon--plus-top-right):style(opacity: 0.6 !important)
 morgenpost.de##.teaser:has(.ispayedcontent):style(opacity: 0.6 !important)
+morgenpost.de##[data-hide-ad-text]
 morgenpost.de##[id^=taboola]
 morgenpost.de##article ~ .content-wide:has(> .content-wide__column > .content-double > .content-double__column > .content--teaser--container)
 morgenpost.de##body:style(overflow: auto !important; position: static !important)
@@ -3952,6 +3969,7 @@ torrentgalaxy.to##div:has(> center > a[href^="/hub.php?a="])
 torrentgalaxy.to##div[style="margin-bottom:5px;"]:has(> center > div > a)
 torrentgalaxy.to##div[style="margin-top:10px;"]:has(> center > div > a)
 torrenting.com##body > div > [href="/donate.php"]
+traderepublic.community##.message--post:has(.username:has-text(Anzeige))
 trakt.tv###streaming-scrobbler-wrapper
 trakt.tv##.grid-item:has(> [href="/vip"] > div > .inner > .text > h2:has-text(Hide ads, help pay for))
 trakt.tv##.hero-wrapper ~ [class]:has(> div > a[href="/vip/advertising"])
@@ -4116,6 +4134,10 @@ wahlen.info##.elementor-shortcode:has(> .adsbygoogle)
 wahlen.info##.widget_Werbung
 walfordweb.com##.infiniteads_placeholder
 wallapop.com##.pub-wall-3-wrapper
+wareable.com##.block-mobile-ad
+wareable.com##.post-share
+wareable.com##.post-share-float
+wareable.com##.related-posts
 washingtonblade.com###mvp-article-cont #mvp-side-wrap
 washingtonblade.com##.mvp-post-soc-wrap
 washingtonexaminer.com##.ArticlePage-actions
@@ -4125,6 +4147,10 @@ washingtonpost.com###wall-bottom-drawer:style(display: none !important)
 washingtonpost.com##.article-body:has(> .flex > span > span > strong:has-text(Follow))
 washingtonpost.com##.article-body:has(> .hide-for-print > [data-qa="inline-magnet"])
 washingtonpost.com##.article-body:has(> [data-qa="subscribe-promo"])
+washingtonpost.com##.article-footer > [class]:has(> [class]:only-child > [data-qa="more-from-the-post"]:only-child)
+washingtonpost.com##.article-footer > [class]:has(> [data-qa="newsletter"]:only-child)
+washingtonpost.com##.article-footer > [class]:has(> [data-qa="outbrain"]:only-child)
+washingtonpost.com##.article-footer [data-testid="collections-main"]
 washingtonpost.com##.hide-for-print:has(> #more-from-author)
 washingtonpost.com##.hide-for-print:has(> [data-qa="interstitial-link"])
 washingtonpost.com##.hide-for-print:has(> [data-qa="newsletter"])
@@ -4518,7 +4544,6 @@ zugerzeitung.ch##article.teaser--article:has(.icon--premium):style(opacity: 0.65
 ||smartlock.google.com^
 ||www.finanzen.ch/Images/b_partner/CR1_Home.jpg$image
 ||www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
-||www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
 ||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
 ||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
 ||www.wiwo.de/contentexport/static/images/hp.png$image
