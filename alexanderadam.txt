@@ -212,6 +212,7 @@ arstechnica.com##.xrail
 arstechnica.com##article > div > .lg\:col-span-2 ~ .hidden
 arstechnica.com##article > div > .lg\:col-span-2:has(+ .hidden):style(grid-column: 4 !important)
 attackofthefanboy.com##.gamurs-inf-scroll-post ~ .gamurs-inf-scroll-post
+attackofthefanboy.com##article .is-two-columns > .wp-block-gamurs-column ~ .wp-block-gamurs-column:last-child
 augsburger-allgemeine.de##.aa-three-recommendations-space
 augsburger-allgemeine.de##.ad-list_small-native-container
 augsburger-allgemeine.de##.ad-third-native-container
@@ -472,6 +473,7 @@ brides.com##[id^=social-share]
 bristolpost.co.uk##.html-embed:has(> .html-content[data-amp-url^="https://www.inyourarea.co.uk"])
 bristolpost.co.uk##.sharebar
 bristolpost.co.uk##section.related-articles-bg
+bsky.app##[data-testid="userAvatarImage"] > div:style(filter: none !imporant)
 bulma.io###carboncontainer
 bunte.de##.mb-6:has(> #share-buttons)
 bunte.de##aside
@@ -593,7 +595,10 @@ chip.de##hr:has(+ .Article__Ad)
 chip.de##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 chordify.net##[height="90"]:has-text(Advertisement)
 chordify.net##[style*=--ad-fallback-bottom-space]
+chordify.net##div:has(>[style*=--ad-fallback-bottom-space]:first-child ~ [height]:last-child)
+chordify.net##div[height]:has(> [class]:has-text(Werbung))
 chordify.net##main section [height="250"]
+chordu.com##[class*=ads_ad]
 cineman.ch##.box-sidebar:has(> h3:has-text(Promotion))
 cineman.ch##.cm-ad-container-wrapper
 cineman.ch##.social-recommend
@@ -843,6 +848,7 @@ der-postillon.com##p:has-text(Mehr zum Thema:) ~ .embedly-card
 derbund.ch##[class*=ArticleContainer_pianopremium]::before:style(top: 0 !important)
 derbund.ch##[class*=ArticleContainer_pianopremium]:style(top: 0 !important)
 derbund.ch##[class^=EndOfArticleSectionList_root]
+derstandard.at##.story-tool-socialshare-menu
 derstandard.de###piano-supporter-inline-container
 derstandard.de##.story ~ .site-sitebar
 derstandard.de##.story-tool-socialshare-menu
@@ -876,8 +882,10 @@ dict.leo.org##.bg-facebook
 dict.leo.org##.bg-whatsapp
 dict.leo.org##.icon_facebook
 dict.leo.org##.m-bottom-large:has(> .darkgray:has-text(Advertising))
+dict.leo.org##.ta-c
 dict.leo.org##.ta-c.m-bottom-large.p-top-large
 dict.leo.org##.ta-c.m-bottom-large.p-top-large > .button-blue.button-flat.button
+dict.leo.org##[data-dz-adv-slot]
 dict.leo.org##[data-dz-ui="adv-drectangle1"]
 dict.leo.org##[data-dz-ui="adv-drectangle2"]
 dict.leo.org##[data-dz-ui="adv-halfpage"]
@@ -895,6 +903,10 @@ dictionary.com##div > div:has(> p:has-text(Advertisement)) ~ hr
 dictionary.com##div > section[data-type$="-dictionary-entries-module"]:has(> ~ div:has-text(Advertisement))
 dictionary.com##div hr:last-child:has(> ~ div > div > script) ~ hr
 dictionary.com##section[data-type$="-module"] div > div:last-child > hr ~ div:has(> script) ~ hr
+dietagespresse.com##.adinsert-code-block
+dietagespresse.com##.recommended-posts
+dietagespresse.com##.s-post-main.has-paywall .s-post-content::after
+dietagespresse.com##.share-buttons
 dietdoctor.com##.social-share-wrap
 digg.com###header-banner:has-text(newsletter)
 digg.com##.widget-namespace-popular
@@ -1100,6 +1112,7 @@ express.co.uk##[data-link-partner="AdServed"]
 express.co.uk##aside.right-column
 eztv.re##td > div > div:has(> a:has-text(WARNING! Use a V))
 eztvx.to##img[alt="Anonymous Download"]
+facebook.com###scrollview ~ div:has(> div:only-child > div:only-child > div > div:only-child > div > .__fb-light-mode:only-child #login_popup_cta_form)
 facts.net##.responsive-thin-ad-wrapper
 fahrradmagazin.ch##.mh-social-top
 faktastisch.de##.cca:has(> .cca-label:has-text(Anzeige))
@@ -1320,6 +1333,9 @@ focus.de##section + #sidebar
 focus.de##ul:has(em:has-text(Mehr dazu:))
 forbes.com###article-stream-1
 forbes.com##.ad-unit
+forbes.com##.article-body > a.embed-base:has(> .link-embed__thumbnail-wrapper)
+forbes.com##.article-body > div[class]:has(> div[class] ~ div[class] h3 > a[data-ga-track="Most Popular - Automated Recirc - Link 1"])
+forbes.com##.article-body > p:has(> a:only-child > strong:only-child)
 forbes.com##.article-body-container div[class]:has(> div[class]:has-text(MORE FROM) > span):has([data-ga-track*="Recirc"])
 forbes.com##.body-container:style(max-width: none !important; padding-right: 0 !important)
 forbes.com##.fbs-ad--progressive
@@ -1333,6 +1349,7 @@ forbes.com##.xl-recirc-container
 forbes.com##[class^="halfway_hardwall_"]:remove()
 forbes.com##[data-testid="ad-container"]
 forbes.com##[data-testid="fbs-ad - rightRail"]
+forbes.com##[style]:has(> span:last-child:has-text(FORBES’ FEATURED Video))
 fortune.com###__next > [class] > [class]:has(+ #drawer-toggle)
 fortune.com###__next > [class]:first-child:has(+ #drawer-toggle)
 fortune.com###article-content div > div:has(> [id^=InStream])
@@ -1437,6 +1454,9 @@ futurezone.at##.relatedArticles
 futurezone.at##html > body.didomi-popup-open:style(overflow: visible !important; )
 futurezone.at##p:has(> strong:has-text(➤ Mehr lesen:))
 game8.co##.c-share
+game8.co##.c-sideContainer
+game8.co##.l-container > .a-announce
+game8.co##.p-archiveContent__main > .a-announce
 gamepro.de###cmp-modal
 gamepro.de###content.modal-cmp:style(pointer-events: auto !important; filter: none !important)
 gamepro.de##.modal-backdrop
@@ -1642,6 +1662,7 @@ golem.de##li:has(> .highlight-box:matches-css-before(content: /Verlagsangebot/))
 golem.de##section > aside
 golem.de#$#.wraptusplit { min-height: 0 !important; }
 golem.de#$#article { padding-left: 0 !important; padding-right: 0 !important; width: auto !important; }
+gonintendo.com##body > header ~ .sm\:mx-auto.sm\:max-w-6\.5xl
 google.com##[data-ad-container]
 google.com##[data-num-ads]
 googlewatchblog.de##aside:has(> .widget-title:has-text(Abonniere unseren Newsletter))
@@ -1676,6 +1697,7 @@ handelsblatt.com##.hb-sharemenu
 handelsblatt.com##.hcf-detail-header-ad
 handelsblatt.com##.hcf-sponsoring
 handelsblatt.com##.sp-message-open body:style(overflow: auto !important; position: static !important;)
+handelsblatt.com##.top-ad-container
 handelsblatt.com##.vhb-box-wrapper
 handelsblatt.com##.vhb-c-action-link
 handelsblatt.com##.vhb-cls-1
@@ -1688,8 +1710,10 @@ handelsblatt.com##[class^=hcf-ad-]
 handelsblatt.com##[class^=vhb-cls]:has(> [id^=iqad])
 handelsblatt.com##[id^="iqad"]
 handelsblatt.com##[id^=sp_message_container_]
+handelsblatt.com##app-advertisement
 handelsblatt.com##app-commercial-teaser-group
 handelsblatt.com##app-outbrain
+handelsblatt.com##app-related-content-teaser-group
 handelsblatt.com##app-storyline-advertisement
 handelsblatt.com##app-storyline-element:has(> app-storyline-advertisement)
 handelsblatt.com##li:has(> .vhb-c-link--special:has-text(Abo))
@@ -1710,6 +1734,10 @@ handgepaeckguide.de##.werbung-sidebar
 handgepaeckguide.de##p:empty
 harpersbazaar.de##.ab-ad_placement-article
 harpersbazaar.de##.placeholdercontainer
+haus.de##.paragraph-wrapper--ParagraphContentAd
+haus.de##[data-testid="FurtherArticles"]
+haus.de##[id^="adtech_"]
+haus.de##[style]:has(> .OUTBRAIN:only-child)
 hausgeraete-test.de##.aycrmi.moreInformation
 haz.de###piano-lightbox-article-haz
 haz.de###piano-lightbox-article-haz:style(box-shadow: none !important)
@@ -1939,6 +1967,7 @@ insider.com##.sticky-rail-exclude-ad
 insider.com##.subnav-ad-layout
 insider.com##.subscribe-btn
 insider.com##vendor-taboola
+instagram.com##+js(set-attr.js, controls, controls, video)
 instagram.com##body:style(overflow-y: auto !important)
 interestingengineering.com###foryou-dataid
 interestingengineering.com###recommended-video
@@ -2029,6 +2058,8 @@ knowyourmeme.com##.beehiiv-newsletter-signup-container
 knowyourmeme.com##.fb-page-like-box
 knowyourmeme.com##.floating-share-bar
 knowyourmeme.com##article:has(> #entry_body) ~ #spp-gallery
+knpr.org##.Page-above:has(> .AdModule:only-child)
+knpr.org##.RSEP-main ~ .RSEP-aside:has(.AdModule)
 kompass.com##.adsense
 kompass.com##.colPub:has(> .containerWhite > .adsense)
 kompass.com##.megaBanner
@@ -2238,12 +2269,14 @@ meetup.com###modal:has([data-testid="MobileAppPrompt"])
 meetup.com###modal:has(button.text-ds-magenta:has-text(Continue with free plan))
 meetup.com###try-pro-links
 meetup.com##.blur-sm:style(filter: none !important)
+meetup.com##.flex:has(> .rounded-lg > button[data-event-label="profile_try_member_plus_click"])
 meetup.com##.hidden:has(> .items-center > .ml-auto > [data-event-label="profile_try_member_plus_click"])
 meetup.com##.navItem:has(> a[href^="/lp/meetup-pro"])
 meetup.com##.overflow-hidden:has(> div > h3 ~ div > [data-event-label="detailed-attendee-upsell-click"])
 meetup.com##[data-event-label="Group discount"]
 meetup.com##[data-event-label="upcoming-events"] ~ .overflow-hidden:has(> div > div > [data-event-label="member_plus_home_upsell"])
 meetup.com##body:style(overflow: visible !important)
+meetup.com##html > body:style(overflow: visible !important; position: absolute !important;)
 mein-mmo.de##.gp-related-wrapper
 mein-mmo.de##.wp-block-mmo-recirculation-box
 mein-schoener-garten.de###gen_top_wrapper
@@ -2334,6 +2367,15 @@ metro.co.uk##.type-post .sidebar-layout__content ~ .sidebar-layout__sidebar
 metro.co.uk##.type-post .sidebar-layout__content:has(+ .sidebar-layout__sidebar):style(max-width: none !important)
 metro.co.uk##[class^=editors-picks]:has(> .ad-slot:first-child ~ .ad-slot:last-child)
 metro.co.uk##p:has(> .mor-link)
+mexicodailypost.com###pos-sticky-ad
+mexicodailypost.com##.monsterinsights-inline-popular-posts
+mexicodailypost.com##.sharedaddy
+mexicodailypost.com##.td-a-rec
+mexicodailypost.com##.td-post-next-prev
+mexicodailypost.com##.td-post-sharing-bottom
+mexicodailypost.com##.td-post-sharing-top
+mexicodailypost.com##[data-ad-slot]
+mexicodailypost.com##article ~ div:has(> .td-related-title)
 mimikama.org###scroll_to_steady_paywall
 mimikama.org###steady_paywall
 mimikama.org##.cleanslate:has(> .test-paywall-overlay)
@@ -2522,6 +2564,8 @@ nbcnews.com##.summary-box:has(.summary-box__headline:has-text(The latest))
 nbcnews.com##[data-testid="recommended-wrapper"]
 nebelspalter.ch##.ad-container
 nebelspalter.ch##.sponsored_content
+neho.ch##.js-addressShow:style(filter: none !important)
+neho.ch##.property-address > .blur:style(filter: none !important)
 nerdburglars.net##.footer_related
 nerdburglars.net##.td-post-sharing
 netdoktor.ch##nd-advertisement
@@ -2612,6 +2656,7 @@ newsweek.com##.page-content ~ .page-sidebar
 newsweek.com##.page-content:has(+ .page-sidebar):style(width: 100% !important)
 newsweek.com##.pelcro-buttons > .pelcro-subscribe-button
 newsweek.com##.promo-box
+newsweek.com##.read-more-topics
 newsweek.com##.social-share
 newsweek.com##div.promo-link > .promo-link
 newyorker.com##.persistent-bottom:has(> .paywall-bar)
@@ -2976,6 +3021,7 @@ preispirat.ch##.clearfix ~ .vc_row-fluid:has(#ad)
 preispirat.ch##.wpb_content_element:has(+ div:has(> div > .vc_column-inner > .wpb_wrapper > .post > .wpb_wrapper> #responsiveAd)):style(margin-bottom: 0 !important)
 preispirat.ch##div:has(> div > .vc_column-inner > .wpb_wrapper > .post > .wpb_wrapper> #responsiveAd)
 prepaid-wiki.de###image-banner
+programmingresources.fandom.com##p:has(> br:only-child)
 promiflash.de##.adColumnTop
 promiflash.de##.adContainer
 promiflash.de##.hidden:has(.text-center:only-child:has-text(Anzeige))
@@ -3057,6 +3103,8 @@ reddit.com##[data-testid="post-container"] ~ div:has(> div > div > .promotedlink
 reddit.com##[style*="blur"]:style(filter:none!important;)
 reddit.com##a[href="/premium"]:has-text(Premium)
 reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-events: auto !important;)
+reddit.com##body[style] > div[style]:style(backdrop-filter: none !important)
+reddit.com##body[style]:style(overflow: auto !important; pointer-events: all !important)
 reddit.com##div[data-redditstyle]:has(> div > div > div > i.icon-premium_fill + div > div:has-text(Reddit Premium) + div:has-text(The best Reddit experience, with monthly Coins))
 reddit.com##div[slot=truncated]:remove-attr(slot)
 reddit.com##faceplate-hovercard > [slot="content"]
@@ -3092,6 +3140,8 @@ rezeptwelt.de##.symplr-ad-holder
 rezeptwelt.de##[class^=ads-]
 rezeptwelt.de##[id^="mso-dplusc-banner"]
 rferl.org###article-content [data-owner-ct="Feature"]
+rhymezone.com###right-rail-placeholder
+rhymezone.com##.incontent-ad-container
 rintor.space##canvas
 rnd.de###piano-sticky-template-article-rnd
 rnd.de##[class^="ArticleDetailsstyled__ArticleDetailsShareOverlayPeek"]:has(> [class^="Buttonstyled__ButtonLink-"])
@@ -3674,6 +3724,7 @@ telecomtalk.info##.related-posts
 telecomtalk.info##.social-icons
 telefon-kontakte.ch##.ezoic-ad
 telegraf.com.ua##.tgr-ads
+telegrafi.com##.on-top-ads
 telegraph.co.uk##.advert
 telegraph.co.uk##.advert-container
 telegraph.co.uk##.e-site-header-button--subscribe
@@ -3833,8 +3884,17 @@ thehill.com##.ad-unit
 thehustle.co###hs_cos_wrapper_blog_post_simple_sticky_cta
 theintercept.com##.entry-content.meter-expired:style(overflow: auto !important; max-height: none !important)
 theintercept.com##.inline-wall
+thelocal.de###articleBody > p:has(> strong > a):has-text(READ ALSO)
+thelocal.de##.article-single__worth:has(> .read-also-recs)
+thelocal.de##.col-xl-8 ~ .col-xl-4:has(.tl-ad-container)
+thelocal.de##.hp-new__block:has(> [data-hasbanner="yes"])
 thelocal.de##.ml-manual-widget-container:has(> div > [id^=offer])
+thelocal.de##.smartbanner
 thelocal.de##.tl-ad-container
+thelocal.de##.tp-modal:has([id^="offer-"])
+thelocal.de##.tp-modal:has([id^="offer-"]) ~ .tp-backdrop
+thelocal.de##body.tp-modal-open:style(overflow: auto !important; height: auto !important; touch-action: auto !important)
+thelocal.de##html.tp-scroll-prevented:style(overflow: auto !important; height: auto !important; touch-action: auto !important)
 them.us##.consumer-marketing-unit
 them.us##.social-icons--share
 them.us##[data-in-view='{"pattern":"CNEInterludeEmbed"}']
@@ -3865,6 +3925,7 @@ thesaurus.com##div:has(> div > [data-type="games-module"]):has(> div:has-text(Ad
 theserverside.com###DigDeeperSplash
 theserverside.com###next-steps
 theserverside.com###sponsored-news
+thethaiger.com##.acode-block
 thetimes.co.uk###article-main:has(> div > div > #ad-header)
 thetimes.co.uk###paywall-portal-before-article
 thetimes.co.uk###paywall-portal-page-footer
@@ -3927,6 +3988,7 @@ tomshardware.com##.newsletter-form__wrapper
 tomshardware.com##.related-articles-block
 tomshardware.com##.socialite-widget-ul
 toplist.raidrush.ws##[href="https://amateure.sexei.net/news/238593.html"]
+toppreise.ch##.Plugin_Offer ~ [id^=Plugin_FilterRecommendation_]
 torrentgalaxy.mx##.mainmenu:has(> [href="/vpn.php"] > span)
 torrentgalaxy.mx##.panel-body:has(> [style="margin-bottom:10px;"] > center > div > a)
 torrentgalaxy.mx##[align="center"]:has(> a[href^="/hub.php?a="])
@@ -4061,6 +4123,7 @@ tz.de##.wv_story_el_glomex
 tz.de##.wv_story_el_glomex_contextual_player
 tz.de##glomex-integration
 ukr.net##.placeholder:has(> [alt="Advertisement"])
+ultimate-guitar.com##bidding-wrapper
 ummn.nu##span:has-text(Advertisement)
 umrechnungeuro.com##[style]:has(> .adsbygoogle)
 uncoveroracle.co.uk###qlwapp
