@@ -26,6 +26,8 @@
 20min.ch##[class="smartocto-article"] ~ div:has-text(Gratis Online-Spiele)
 20min.ch##[class^="Article_element"] > [type="typeInfoboxSummary"] > div > div:has(> a:has-text(Jetzt Newsletter abonnieren))
 20min.ch##[class^="Article_elementAd"]
+20min.ch##[class^="ContentPage_insideFullContentEnd"]:has(> [data-ad-unit-id]:only-child)
+20min.ch##[class^="ContentPage_insideFullContentEnd__"] ~ div[class]:has(> div[class]:first-child > a:has-text(Gratis Online-Spiele))
 20min.ch##[class^="ad_adContainer__"]
 20min.ch##[class^=Article_element]:has-text(Aktivier jetzt den):has-text(Push)
 20min.ch##[class^=ContentPage_insideFullTopPlaceholder]
@@ -113,6 +115,12 @@ allgemeine-zeitung.de##.cmpboxBG:style(backdrop-filter: none !important; -webkit
 allgemeine-zeitung.de##.storyElementWrapper__blurredContent:style(filter: none !important)
 allgemeine-zeitung.de##body[style="overflow: hidden;"]:style(overflow: auto !important)
 allround-pc.com##.informationWrap
+allure.com##.ad-height-hold
+allure.com##[class^=StickyHeroAdWrapper]
+americansongwriter.com##.comments-logged-out ~ .also-like
+americansongwriter.com##.comments-logged-out ~ .more-from
+americansongwriter.com##.entry-content .has-text-align-center:has(> strong:only-child > a:only-child)
+americansongwriter.com##.wp-block-group:has(> .article-pagination-wrapper:only-child > .nav-links-wrapper > .wp-block-post-navigation-link)
 analyticsinsight.net##.head-banner
 android-hilfe.de##.skyscraper-units
 android-hilfe.de##.symplr-ad-holder
@@ -336,6 +344,8 @@ bernerzeitung.ch##.abo-button
 best-of-twitter.com##.code-block
 best-of-twitter.com##[class^="ai-"]
 betterprogramming.pub##article.meteredContent ~ div > div > div:style(background: none !important)
+bettybossi.ch##[class^="Header_ribbon__"]
+bettybossi.ch##[class^="RecipeStage_ad__"]
 betvisa.games##*
 bhg.com###recirc-section_1-0
 bhg.com##.mm-ads-leaderboard-spacer
@@ -352,6 +362,11 @@ bigthink.com##.wrapper-connatixElements
 bigthink.com##.wrapper-connatixPlayspace
 bigthink.com##[data-ga-id="related-content"]
 bigthink.com##[data-ga-id="up-next"]
+bike-magazin.de###ape-paywall-overlay
+bike-magazin.de##.bg-body-light > div > .is_teaser
+bike-magazin.de##.block-site-width:has-text(Abo-Bedingungen):has(> div:only-child)
+bike-x.de##.va-sponsored
+bike-x.de##.va-stroer-billboard
 bild.de###share
 bild.de##.VueCarousel-slide > .box > div:has(> [data-content="Anzeige"])
 bild.de##.ad-info
@@ -363,6 +378,8 @@ bild.de##.sharingbar
 bild.de##.sp-message-open body:style(overflow: visible !important; position: static !important;)
 bild.de##.stage-teaser:has(.teaser__image__premium):style(opacity: 0.7 !important)
 bild.de##[id^="sp_message_container_"][style="display: block;"]:style(display: none !important)
+bild.de##article aside
+bild.de##article aside:has(> h4):has-text(Lesen Sie auch)
 billboard.com###taboola-below-article-thumbnails
 billboard.com##.admz
 billboard.com##.injected-related-story
@@ -409,7 +426,9 @@ blick.ch##.swiper-items-container > div:has([class*=gallery_ad]):remove()
 blick.ch##.tp-backdrop
 blick.ch##.tp-modal
 blick.ch##.tp-modal-open:style(overflow: visible !important; height: auto !important)
+blick.ch##.two-column-article div[class] ~ div[class]:has(> .slot-code-desktop-side-right_ad_1)
 blick.ch##.unblurred > div:has(> button[direction="next"])
+blick.ch##:matches-media((min-width: 994px)) .two-column-article div[class]:has(+ div[class]:has(> .slot-code-desktop-side-right_ad_1)):style(grid-column: 1 / 7 !important)
 blick.ch##[rel*="sponsored"]
 blick.ch##[style="height: 477px;"]:has(> iframe[src*="tagesdeal"])
 blick.ch##[style]:has(> iframe[src^="https://php.blick.ch/static/newsroom/whatsApp"])
@@ -476,7 +495,10 @@ bristolpost.co.uk##section.related-articles-bg
 bsky.app##[data-testid="userAvatarImage"] > div:style(filter: none !imporant)
 bulma.io###carboncontainer
 bunte.de##.mb-6:has(> #share-buttons)
+bunte.de##[aria-label="Anzeige"]
+bunte.de##[id^="sp_message_container"]
 bunte.de##aside
+bunte.de##html.sp-message-open > body:style(overflow: auto !important; position: absolute !important;)
 business-punk.com##.OUTBRAIN
 business-punk.com##.post-item:has(> .gujAd)
 businessinsider.com###l-content.is-right-rail:has(+ #l-rightrail) .post-content:style(width: 100% !important)
@@ -526,6 +548,7 @@ bw24.de##.id-Recommendation
 bw24.de##.id-TBeepSlot
 bw24.de##.id-TBeepSlot--billboard
 bw24.de##.id-TBeepSlot--content
+byteseu.com##.essb_share
 bz-berlin.de##.float-end:has(> #mrec)
 bz-berlin.de##.text-dark-hover.text-decoration-none[href="https://www.bz-berlin.de/newsletter"]
 bz-berlin.de##[aria-label="Social links"]
@@ -676,6 +699,8 @@ coindesk.com##div[style]:has(> #nativehp_mobile:only-child)
 coindesk.com##div[style]:has(> [data-freestar-ad]:only-child)
 collider.com##.related-single
 collider.com##main.w-content ~ div.w-content
+collinsdictionary.com##.socialButtons
+collinsdictionary.com##[class$=-hook]:has(.carousel-title):has-text(You may also like)
 comicsands.com##.ai_recirculation_unit__wrapper
 comicsands.com##.article__shares
 comicsands.com##.rblad-cs_content
@@ -797,8 +822,6 @@ dailymail.co.uk##.mol-fe-related-replace
 dailymail.co.uk##.related-with-thumbs.more
 dailymail.co.uk##.top.social
 darkwebinformer.com##.banner-placeholder
-date.noii.ch##.swiper-wrapper > .swiper-slide:style(float: left)
-date.noii.ch##.swiper-wrapper:style(display: block !important)
 dcrainmaker.com##.nc_wrapper:has(> .swp_social_panel)
 dcrainmaker.com##[data-buy-now-links]
 dcrainmaker.com##li.widget_sp_image:has(> a[href="https://www.dcrainmaker.com/support"])
@@ -895,6 +918,7 @@ dict.leo.org##[id^=adv-]
 dict.leo.org##div:has(> span:has-text(Werbung) ~ [id^=adv-])
 dict.leo.org##div:nth-of-type(4)
 dictionary.cambridge.org###page-content ~ .lmt-10:has(> #rightcol-above-sticky)
+dictionary.cambridge.org##article ~ div [amp-access-template]
 dictionary.cambridge.org##div:has(> .i-facebook)
 dictionary.com##.ad
 dictionary.com##.atw-socials
@@ -1035,13 +1059,21 @@ elpais.com###hamburger_container > [data-ctn-subscription]
 elpais.com##.ad
 elpais.com##.ifr-lot
 elpais.com##.outbrain
+elpais.com##[data-dtm-region="articulo_right-rail"] > [data-dtm-region="articulo_lom"]
+elpais.com##[data-dtm-region="articulo_right-rail"] > [data-dtm-region="articulo_ultimas-noticias"]
 elpais.com##[data-dtm-region="footer_suscripcion"]
 elpais.com##[data-dtm-region="header_areausuario"] > a[data-ctn-subscription]
+elpais.com##[id^="ad-"]
+elpais.com##body:style(overflow: auto !important)
+elpais.com##div:has(> #pmConsentWall:only-child)
+elpais.com##div[class*="_ad-"]
 emedicinehealth.com###ad
 emedicinehealth.com###relatedArt_fmt
 emedicinehealth.com##.article-extra ~ #pageContainer
 emedicinehealth.com##.pageWrapper
+emojicombos.com##.a-ctn
 emojipedia.org##.h-\[312px\]
+emojipedia.org##.items-center:has(> [class^="AdContainer_"]:only-child)
 emojipedia.org##div:has(> p:has-text(Advertisement) ~ [class^="AdContainer_ad"])
 emuparadise.me##.box:has(> span:has-text(Sponsor Message))
 engadget.com###related-content-wrapper
@@ -1156,6 +1188,7 @@ faz.net##.related-articles
 faz.net##.teaser-object:has([data-tb-premium]):style(opacity: 0.7 !important)
 faz.net##.upper-toolbar > button:has-text(Teilen)
 faz.net##.wall::before:style(margin-top:0 !important; height: auto !important)
+faz.net##[data-external-selector="homepage"] article:has(a h3 > div > svg):style(opacity: 0.6 !important)
 faz.net##[data-fsw="market"]
 faz.net##[id^=sp_message_container]
 faz.net##[style="opacity: 1; min-height: 300px;"]
@@ -1163,9 +1196,13 @@ faz.net##[track-element="Abo"]
 faz.net##amp-carousel
 faz.net##article:has(> .tsr-Base_TextWrapper:has(a[data-is-premium=true])):style(opacity: 0.7 !important)
 faz.net##aside.atc-ContainerMore
+faz.net##div:has(> div[class]:only-child > em:only-child > a:only-child > strong:only-child):has-text(Lesen Sie hier:)
 faz.net##div[class$=headline]:has-text(Verlagsangebot)
+faz.net##div[data-selector="body-elements-container"]:has(> aside[data-external-selector="related-articles"])
 faz.net##html.sp-message-open body:style(overflow: visible !important; position: static !important)
 faz.net##html.sp-message-open:style(height: auto !important)
+faz.net##section:has(.section-heading ~ [data-external-selector="recommendations"])
+faz.net##section[data-external-selector="job-recommendations"]
 feiertag.info##.card:has(.card-text:has-text(WEITERE FEIERTAGE))
 feiertag.info##.ezoic-ad
 feiertag.info##.ezoic-autoinsert-video
@@ -1967,8 +2004,11 @@ insider.com##.sticky-rail-exclude-ad
 insider.com##.subnav-ad-layout
 insider.com##.subscribe-btn
 insider.com##vendor-taboola
+instagram.com##+js(set-attr, video, controls)
 instagram.com##+js(set-attr.js, controls, controls, video)
 instagram.com##body:style(overflow-y: auto !important)
+instagram.com##div[role="button"]:has(> div > video)
+instagram.com##video:style(z-index: 9999 !important; position: relative !important;)
 interestingengineering.com###foryou-dataid
 interestingengineering.com###recommended-video
 interestingengineering.com##.col-lg-3.d-none.d-lg-block
@@ -1999,6 +2039,12 @@ jobleads.com##.hide-text--visible:style(text-shadow: 0 0 1px rgba(0,0,0) !import
 jobleads.com##.hide-text:style(filter: none !important; text-shadow: none !important)
 jobleads.com##.hide-text:style(text-shadow: 0 0 2px rgb(0, 0, 0) !important)
 jofogas.hu###page-content:style(margin-top: 0 !important)
+joyclub.de##.image-ui.adult .core-img:style(filter: none !important; -webkit-filter: none !important)
+joyclub.de##.image-ui.adult .simple-picture:style(filter: none !important; -webkit-filter: none !important)
+joyclub.de##.image-ui.blurry-only .core-img:style(filter: none !important; -webkit-filter: none !important)
+joyclub.de##.image-ui.blurry-only .simple-picture:style(filter: none !importat; -webkit-filter: none !important)
+joyclub.de##.profile-sed-card__image--blurred:style(filter: none !important)
+joyclub.de##[class$="--blurred"] .image-ui:style(filter: none !important; cursor: auto !important; -webkit-filter: none !important)
 jsonformatter.curiousconcept.com##.is-active.blocker
 juedische-allgemeine.de##.social-box-wrapper
 juedische-allgemeine.de##.teaserbox-wrapper
@@ -2060,6 +2106,8 @@ knowyourmeme.com##.floating-share-bar
 knowyourmeme.com##article:has(> #entry_body) ~ #spp-gallery
 knpr.org##.Page-above:has(> .AdModule:only-child)
 knpr.org##.RSEP-main ~ .RSEP-aside:has(.AdModule)
+knuddels.de##.Knu-FlexCol.py-base:has-text(Werbung entfernen)
+knuddels.de##[data-index]:has-text(Anzeige):has-text(Werbung entfernen)
 kompass.com##.adsense
 kompass.com##.colPub:has(> .containerWhite > .adsense)
 kompass.com##.megaBanner
@@ -2110,6 +2158,9 @@ levels.fyi##tbody:style(filter: none !important)
 levels.fyi##td:style(filter: none !important; -webkit-filter: none !important)
 levels.fyi##thead:style(filter: none !important)
 libgen.rocks###message:has-text(Ad block is installed and active.)
+lifewire.com##.mm-ads-leaderboard-spacer
+lifewire.com##.recirc
+lifewire.com##.related-link
 lifewire.com##.social-share-block
 lifewire.com##[class*=adunit]
 limetorrents.info##[href^="https://affiliate.rusvpn.com/click.php"]
@@ -2121,6 +2172,7 @@ linkedin.com##.ad-banner-container ~ .mt2:style(margin-top: 0 !important)
 linkedin.com##.artdeco-card:has(.card-upsell-v2__headline)
 linkedin.com##.mn-sales-navigator-upsell
 linkedin.com##.pv-text-details__verification-non-self-promo
+linkedin.com##.pvs-entity--blurred:style(pointer-events: auto !important)
 linkedin.com##[class*=premium-upsell]
 linkedin.com##[componentkey="MynetworkDesktopNav_mynetwork_desktop_nav_ad"]
 linkedin.com##label[for="custom-message"] ~ div:has(> a[href*="upsellOrderOrigin"])
@@ -2159,6 +2211,7 @@ luzernerzeitung.ch###adnz_billboard_2
 luzernerzeitung.ch###adnz_billboard_3
 luzernerzeitung.ch###adnz_billboard_4
 luzernerzeitung.ch###adnz_maxiboard_1
+luzernerzeitung.ch##.before\:bg-transparent-to-b-white::before
 luzernerzeitung.ch##.container > .premium ~ [style*=linear-gradient]
 luzernerzeitung.ch##.container--article ~ .container > .recommendation-list
 luzernerzeitung.ch##.einklinker-trending
@@ -2174,8 +2227,11 @@ luzernerzeitung.ch##.teaser--article:has(.icon--premium):style(opacity: 0.7 !imp
 luzernerzeitung.ch##[componenttype="container--exclusive-municipality"]:has(> .sponsoredcontent)
 luzernerzeitung.ch##[componenttype="sharebox"]
 luzernerzeitung.ch##[componenttype^="advertisement-"]
+luzernerzeitung.ch##[data-analytics-teaser-position-in-container]:has-text(Paid article):style(opacity: 0.6 !important)
 luzernerzeitung.ch##[data-nzz-mainmenuitem="/aboplus"]
+luzernerzeitung.ch##[id^="adnz_"]
 luzernerzeitung.ch##article.teaser--article:has(.icon--premium):style(opacity: 0.65 !important)
+luzernerzeitung.ch##div:has(> .scoped-sticky-bar:only-child)
 luzernerzeitung.ch##div:has(> span:has-text(AUCH INTERESSANT))
 lvz.de###contentMain:has(> [data-element-selector="article"]) ~ #rightRail
 lvz.de###contentMain:has(> [data-element-selector="article"]):has(+ #rightRail) > article > div:style(max-width: none !important)
@@ -2267,12 +2323,14 @@ medjournaldaily.com##html:style(overflow: visible !important)
 meetup.com###__next [inert]:remove-attr(inert)
 meetup.com###modal:has([data-testid="MobileAppPrompt"])
 meetup.com###modal:has(button.text-ds-magenta:has-text(Continue with free plan))
+meetup.com###modal:has-text(Meetup+)
 meetup.com###try-pro-links
 meetup.com##.blur-sm:style(filter: none !important)
 meetup.com##.flex:has(> .rounded-lg > button[data-event-label="profile_try_member_plus_click"])
 meetup.com##.hidden:has(> .items-center > .ml-auto > [data-event-label="profile_try_member_plus_click"])
 meetup.com##.navItem:has(> a[href^="/lp/meetup-pro"])
 meetup.com##.overflow-hidden:has(> div > h3 ~ div > [data-event-label="detailed-attendee-upsell-click"])
+meetup.com##.select-none.blur-sm:style(-moz-user-select: all !important; -webkit-user-select: auto !important; user-select: auto !important;)
 meetup.com##[data-event-label="Group discount"]
 meetup.com##[data-event-label="upcoming-events"] ~ .overflow-hidden:has(> div > div > [data-event-label="member_plus_home_upsell"])
 meetup.com##body:style(overflow: visible !important)
@@ -2544,6 +2602,7 @@ nau.ch##.social-links
 nau.ch##.w-max-content:has(> div > div > h2:has-text(Weiterlesen))
 nau.ch##.w-max-content:has(> div > div > h2:has-text(Weiterlesen)) ~ .w-max-content:has(> div > div > a[title^=Mehr])
 nau.ch##a[aria-label^="Promotion"]:style(opacity: 0.7 !important)
+nau.ch##article ~ .w-max-content:last-child:has(h2:has-text(MEHR ))
 nau.ch##div[class]:has(> div[class]:only-child:empty)
 nau.ch##div[type="v1/article-card"]:has(a[href^="/blog/paid_post"])
 nau.ch##div[type="v1/article-card"]:has(a[href^="/blog/promotion"])
@@ -2817,6 +2876,10 @@ opensource.com##.block-osdc-social-block
 opensubtitles.org##[href="https://casinoalpha.com/"]
 orf.at##.share-dialog
 oshwlab.com##[class^=float_float-window]:has([alt="Reddit"])
+out.com##.body ~ .recirculation-container
+out.com##.body-description > .recirculation__placeholder--hot-stories
+out.com##.footer__bottom-wrapper ~ div:has(.magazine__banner)
+out.com##.widget__shares
 outsideonline.com##.c-magazine-promo
 outsideonline.com##.c-social-share
 outsideonline.com##.o-ad-wrap
@@ -3032,6 +3095,10 @@ pronto.es##.board-module-ads
 pronto.es##.cont-ads
 pronto.es##[id^=o-section-extra-content]
 proofed.com##[data-section-name="subscribe"]
+propublica.org###level1:has(> .post-article) ~ .latest-stories
+propublica.org###sidebar-email-subscribe-module
+propublica.org##.related-stories
+propublica.org##.story-tools:has([title="Share this story on Facebook"])
 prosieben.ch##[data-ad-type]
 prosieben.ch##[data-testid="display-ad"]
 psycatgames.com##.app-promo
@@ -3092,6 +3159,10 @@ rd.com##.pure-u-xl-14-24:has(> .post-content):style(width: 100% !important)
 rd.com##.social-share
 rd.com##.sticky-utility-bar
 rd.com##[data-ad-targeting]
+readingchronicle.co.uk##.social-bar
+readingchronicle.co.uk##[data-uses-js="dfp-top-ad-fixed"]
+realsimple.com##.mm-ads-leaderboard-spacer
+reddit.com###credential_picker_container
 reddit.com##.media-element:style(max-height: 100% !important;)
 reddit.com##.user-hover-card
 reddit.com##[data-click-id="media"] div:style(max-height: 100% !important;)
@@ -3589,6 +3660,7 @@ tagesanzeiger.ch###piano-ribbon
 tagesanzeiger.ch##.abo-button
 tagesanzeiger.ch##.ad-position-sticky
 tagesanzeiger.ch##.ad-unit
+tagesanzeiger.ch##.adunit
 tagesanzeiger.ch##.container:has(> .adcontainer > .adlabel)
 tagesanzeiger.ch##[class^="AboButton_root__"]
 tagesanzeiger.ch##[class^="DynamicTeaserContainer_floatwrapper"] > aside[class^="DynamicTeaser_root__"]
@@ -3938,6 +4010,12 @@ thetimes.co.uk##.js-tracking.GlobalMenu-conversionLink--joinNow.GlobalMenu-conve
 thetimes.co.uk##[class*="NativeAd"]
 thetimes.co.uk#$#body{ overflow: visible !important; height: auto !important; }
 thetimes.co.uk#$#html{ overflow: visible !important; height: auto !important; }
+thetimes.com###related-articles
+thetimes.com##[class^="styles__PromotedContentContainer-"]
+thetimes.com##div[class]:has(> span:first-child ~ div[class] > [data-ad-label])
+thetimes.com##div[class]:has(> style ~ .zephr-homepage-banner)
+thetimes.com##html > body:style(overflow: visible !important; height: auto !important)
+thetimes.com##html:style(overflow: visible !important; height: auto !important)
 theverge.com##.duet--article--article-body-component-container:style(max-width: none !important)
 theverge.com##.duet--article--article-body-component:has(> .duet--recirculation--related-list)
 theverge.com##.duet--article--more-stories
@@ -3960,6 +4038,7 @@ thoughtco.com##.prefooter--outbrain
 thoughtco.com##.spotlight-billboard:has(> div> .mm-ads-sc-sticky-square)
 ticketmaster.com###pageInfo:has(> div:has([aria-hidden="true"] > [id^=ad-]))
 ticketmaster.com##[aria-hidden]:has(> [id^=ad-])
+ticketmaster.com##li:has(span[class^="Badge__Label-"]:has-text(Promoted))
 time.com###article-body:has(> p > i > b:has-text(Read more:))
 time.com###article-content-main ~ #article-content-sidebar
 time.com##.h-sidebar-sticky-container:has(> .sticky > .ad)
@@ -3987,8 +4066,10 @@ tomshardware.com##.listingResult:has(> .sponsored-post)
 tomshardware.com##.newsletter-form__wrapper
 tomshardware.com##.related-articles-block
 tomshardware.com##.socialite-widget-ul
+tonspion.de##steady-paywall
 toplist.raidrush.ws##[href="https://amateure.sexei.net/news/238593.html"]
 toppreise.ch##.Plugin_Offer ~ [id^=Plugin_FilterRecommendation_]
+torrentfreak.com##.o-widget:has(> .o-widget__title ~ p > [rel="nofollow sponsored"])
 torrentgalaxy.mx##.mainmenu:has(> [href="/vpn.php"] > span)
 torrentgalaxy.mx##.panel-body:has(> [style="margin-bottom:10px;"] > center > div > a)
 torrentgalaxy.mx##[align="center"]:has(> a[href^="/hub.php?a="])
@@ -4180,6 +4261,7 @@ vecteezy.com##.download-popup__ad-wrap
 vecteezy.com##.ez-resource-thumb--sponsored:style(opacity: 0.6 !important)
 vecteezy.com##.partner-sponsored-results
 verivox.de##.result-item:has(.advertising-label)
+viadeo.journaldunet.com##.ccmcss_oas_top
 vice.com##.OUTBRAIN
 vice.com##.ai-viewport-1
 vice.com##.inbody-article
@@ -4475,7 +4557,9 @@ x.com##[data-testid="cellInnerDiv"]:has-text(5 days left - save up to 40% on X P
 x.com##[data-testid="cellInnerDiv"]:has-text(Get up to 50% off X Premium)
 x.com##[data-testid="cellInnerDiv"]:has-text(Go ad-free with Premium+)
 x.com##[data-testid="reply-boost-upsell"]
+x.com##[data-testid="verified_profile_visitor_upsell"]
 x.com##aside[aria-label="Expiring soon!"]
+x.com##div:has(> div:only-child > [data-testid="super-upsell-UpsellCardRenderProperties"]:only-child)
 x.com##div[role="status"]:has(a > span):has-text(Upgrade to Premium)
 x.com##nav[role="navigation"] > a[data-testid="premium-signup-tab"]
 x.com##nav[role="navigation"] > a[data-testid="vo-signup-tab"]
@@ -4589,8 +4673,11 @@ zueritoday.ch##.sidebar
 zueritoday.ch##.social-bar-desktop
 zueritoday.ch##.social-bar-mobile
 zueritoday.ch##img[src^="/__stats/"]
+zugerwoche.ch##.mod_artikelLinks
+zugerwoche.ch##.mod_printanzeigen
 zugerzeitung.ch##.article > .articlepromobox ~ .container--bta
 zugerzeitung.ch##.articlepromobox
+zugerzeitung.ch##.before\:bg-transparent-to-b-white::before
 zugerzeitung.ch##.container--article > div:last-child[style*=linear-gradient]
 zugerzeitung.ch##.container--article ~ .container > .pageelement--top-articles
 zugerzeitung.ch##.pageelement--advertisement
@@ -4600,7 +4687,9 @@ zugerzeitung.ch##.regwall__wrapper:style(margin-top: 0 !important)
 zugerzeitung.ch##.resor
 zugerzeitung.ch##[componenttype^="advertisement"]
 zugerzeitung.ch##[componenttype^="advertisement"][class*=widget-] + [class*=widget-]::before:style(border-top: none !important)
+zugerzeitung.ch##[data-analytics-teaser-position-in-container]:has-text(Paid article):style(opacity: 0.6 !important)
 zugerzeitung.ch##[data-nzz-mainmenuitem="/aboplus"]
+zugerzeitung.ch##[id^="adnz_"]
 zugerzeitung.ch##[id^=adnz_maxiboard]
 zugerzeitung.ch##article.teaser--article:has(.icon--premium):style(opacity: 0.65 !important)
 ||accounts.google.com$subdocument
