@@ -88,6 +88,10 @@ airliners.de##.page__section:has(.adl__box)
 airliners.de##[id^=sp_message_container]
 airliners.de##aside:has(.recommend)
 airliners.de##html.sp-message-open > body:style(overflow: auto !important; position: absolute !important)
+alemannische-seiten.de###bodyaz
+alemannische-seiten.de##.azads
+alemannische-seiten.de##.indexaz
+alemannische-seiten.de##.menads
 aljazeera.com###article-more-from-topic
 aljazeera.com###article-most-read
 aljazeera.com###article-newsletter-slot
@@ -114,6 +118,7 @@ allegro.pl##[data-analytics-tags*=advertising]
 allgemeine-zeitung.de##.cmpboxBG:style(backdrop-filter: none !important; -webkit-filter: none !important; -moz-filter: none !important)
 allgemeine-zeitung.de##.storyElementWrapper__blurredContent:style(filter: none !important)
 allgemeine-zeitung.de##body[style="overflow: hidden;"]:style(overflow: auto !important)
+allrecipes.com##.mm-ads-leaderboard-spacer
 allround-pc.com##.informationWrap
 allure.com##.ad-height-hold
 allure.com##[class^=StickyHeroAdWrapper]
@@ -2809,6 +2814,7 @@ nytimes.com##[data-testid="region"]:has([data-testid="signup-button"])
 nytimes.com##[data-testid="vi-gateway-container"] > :last-child:style(background: none !important)
 nytimes.com##[id$="-wrapper"]:has-text(Continue reading the main story)
 nytimes.com##div:has(+div > .NYTAppHideMasthead):has(.ad)
+nytimes.com##div:has(> [data-ad-element]:only-child)
 nytimes.com##header > section > div > a[data-testid="subscribe-button"]
 nytimes.com##header a[aria-label="Subscribe"]
 nytimes.com##html > body:style(overflow: auto !important; position: absolute !important)
@@ -4016,13 +4022,22 @@ thetimes.com##div[class]:has(> span:first-child ~ div[class] > [data-ad-label])
 thetimes.com##div[class]:has(> style ~ .zephr-homepage-banner)
 thetimes.com##html > body:style(overflow: visible !important; height: auto !important)
 thetimes.com##html:style(overflow: visible !important; height: auto !important)
+theverge.com###zephr-overlay
+theverge.com###zephr-zone-footer
 theverge.com##.duet--article--article-body-component-container:style(max-width: none !important)
 theverge.com##.duet--article--article-body-component:has(> .duet--recirculation--related-list)
 theverge.com##.duet--article--more-stories
 theverge.com##.duet--layout--rail
 theverge.com##.m-ad
 theverge.com##[data-concert-ads-name]
+theverge.com##body:style(overflow: visible !important; position: absolute !important; top: 0 !important)
+theverge.com##div[class]:has(> [data-concert="desktop_leaderboard_variable"]:only-child)
+theverge.com##div[class]:has(> [data-concert="outbrain_post_mobile"]:only-child)
 theverge.com##div[class]:has(> [data-concert="outbrain_post_tablet_and_desktop"]:only-child)
+theverge.com##div[class]:has(> div[class]:only-child > .m-ad:only-child)
+theverge.com##div[class]:has(> div[class]:only-child > [data-concert="medrec_frontpage_hero_mobile"]:only-child)
+theverge.com##span:has(> .duet--article--share-buttons:only-child)
+theverge.com##span:has(> .duet--article--share-buttons:only-child) ~ span[class]::before
 thewearify.com##[class^=ezoic-]
 thewrap.com##.article-header-full__social-shares
 thewrap.com##.post:has(span:has-text(Pro)):style(opacity: 0.7 !important)
