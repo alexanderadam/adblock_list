@@ -4,7 +4,7 @@
 ! GitHub issues: https://github.com/alexanderadam/adblock_list/issues
 ! GitHub pull requests: https://github.com/alexanderadam/adblock_list/pulls
 ! Homepage: https://alexanderadam.github.io/adblock_list/
-! Last modified: 2025-07-02
+! Last modified: 2025-08-30
 ! Remove the bottom-sheet promoting the "See Reddit on mobile"
 
 ##.adsbygoogle
@@ -2211,10 +2211,6 @@ latimes.com##article ~ ps-newsletter-module
 latimes.com##html > body:style(overflow: auto !important)
 latimes.com##main ~ aside.rail
 latimes.com##main:has(+ aside.rail):style(width: auto !important)
-latimes.com##.page-above-header:has(> .google-dfp-ad-wrapper:only-child)
-latimes.com##[name="metering-modal"]
-latimes.com##article ~ ps-newsletter-module
-latimes.com##html > body:style(overflow: auto !important)
 latimes.com##main:has(> article.story) ~ aside.rail
 latimes.com##ps-comments ~ .page-content-footer .list
 latintimes.com##.page-content > .block-trending
@@ -3859,7 +3855,6 @@ tarnkappe.info##div:has(> #traffective-ad-Billboard:first-child ~ .mobile-only:l
 tarnkappe.info##div[style]:has(> #traffective-ad-Billboard_2:first-child)
 tarnkappe.info##html.cmp-modal-open:style(overflow: auto !important)
 tarnkappe.info##section[style]:has(> .around-desktop-ad)
-tarnkappe.info##html.cmp-modal-open:style(overflow: auto !important)
 taxi-times.com###adni_widgets-4
 taz.de###adzone_wall
 taz.de###tzi-paywahl-fg
@@ -4727,7 +4722,6 @@ yahoo.com##aside.caas-aside-section
 yahoo.com##div:has(> .uppercase:has-text(Advertisement))
 yahoo.com##div:has(> article ~ .flex > .font-bold:has-text(Up next)) ~ div:has(> article)
 yahoo.com##div:has(> article[id])~ div:has(> article[id])
-yahoo.com##div:has(> article ~ .flex > .font-bold:has-text(Up next)) ~ div:has(> article)
 yahoo.com##p:has-text(Read more)
 yahoo.com##p:has-text(Read more) ~ ul.caas-list
 youtube.com##ytd-engagement-panel-section-list-renderer
