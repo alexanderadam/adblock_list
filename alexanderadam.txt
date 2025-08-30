@@ -4306,10 +4306,20 @@ tvmovie.de##.taboolaWrapper
 tvmovie.de##.top-stories
 tvmovie.de##body header.mainHeader > nav:style(margin-top: 0 !important)
 tvmovie.de##p:empty
+twitch.tv##.channel-info-content div[class]:has(> div[class] > [style^='background-image: url('])
+twitch.tv##.chat-input__textarea div[class]:has(> div[class] > [data-a-target="bits-button"])
+twitch.tv##.chat-room__content > div:has(.channel-leaderboard-header-rotating__users)
+twitch.tv##.chat-room__content div:has(.bits-leaderboard-expanded-top-three-entry)
 twitch.tv##.prime-offer
 twitch.tv##.prime-offers-upsell
 twitch.tv##.prime-upsell__logo-container
+twitch.tv##.top-nav__menu > div[class] > div[class]:has([data-a-target="top-nav-get-bits-button"])
+twitch.tv##.top-nav__menu > div[class] > div[class]:has([data-target="prime-offers-icon"])
+twitch.tv##.top-nav__menu > div[class] > div[class]:has-text(Go Ad-Free)
 twitch.tv##[data-a-target="top-nav-get-bits-button"]:has(> [data-test-selector="subscribe-button__dropdown"])
+twitch.tv##[data-target="channel-header-right"] div[class]:has(> div[class] > div[class]> div[class] > [data-test-selector="subscribe-button__dropdown"])
+twitch.tv##[data-test-selector="channel_panel_test_selector"]:has-text(" (Werbung)")
+twitch.tv##div[class]:has(> div[class]> button.tw-interactable > div[style]):has-text(Go Ad-Free on Every Stream with Turbo)
 twitter.com##[aria-label="Trending"] > div > div:has([aria-label="Subscribe to Premium to write your own longer posts"])
 twitter.com##[aria-label="Trending"] > div > div:has(aside[aria-label="Expiring soon!"])
 twitter.com##[data-testid="UserName"] > div:has([href="/i/premium_sign_up"])
