@@ -204,6 +204,7 @@ apotheken-umschau.de##html.sp-message-open body:style(overflow: visible !importa
 app.asana.com##.Sidebar .BusinessOrAdvancedUpgradeButton
 app.asana.com##.Sidebar .TrialCalloutUpgradeButton
 app.asana.com##div.StaticCard:has(.CurrentUserProfileGoalsWidgetContent-upsellButton):style(opacity: 0.6 !important)
+appgamer.com##.share
 appleinsider.com###article-social
 aptoide.com##[aria-label="main navigation"] [class^="aptoide-installer__InstallerContainer"]
 aptoide.com##div[class^="appcoins-"]
@@ -609,6 +610,14 @@ chefkoch.de##guj-ad
 chefkoch.de##guj-ad-outstream
 chefkoch.de##main.ds-container:has(#recipe-comments.ds-col-m-8 ~ aside.ds-col-m-4):style(max-width: none !important; margin-right: 0 !important)
 chefkoch.de##outbrain-widget
+chess.com###main-banner
+chess.com##.game-over-ad-container-component
+chess.com##.nav-link-component.trial
+chess.com##.notifications-links-trial
+chess.com##[data-cy="custom-data-image"]:has(+ [data-cy="custom-data-message"]:has-text(Perplexity))
+chess.com##[data-cy="custom-data-message"]:has-text(Perplexity)
+chess.com##[data-cy="custom-data-message"]:has-text(Perplexity) ~ .game-over-modal-separator
+chess.com##a[aria-label="Get Comet"]
 chicagotribune.com##.ad--sticky
 chicagotribune.com##.ad_container
 chicagotribune.com##.ad_wrapper
@@ -1312,6 +1321,7 @@ finews.ch##.bannergroup
 finews.ch##.banneritem
 finews.ch##.teaser-element:has(> [id^=div-gpt-ad-])
 finews.ch##[id^=div-gpt-ad-]
+finews.com##.bannergroup
 firstsportz.com##.adPushupAds
 firstsportz.com##.code-block:has(> .adPushupAds)
 firstsportz.com##.code-block:has(> .s2nPlayer)
@@ -1772,6 +1782,10 @@ gq-magazin.de##[data-testid="GenericCallout"]
 gq-magazin.de##section > p > a:has-text(Lesen Sie auch:)
 grabify.link##.fa-exclamation-circle ~ a[href="https://grabify.link/hide"]
 grabify.link##.fa-exclamation-circle:has(+ a[href="https://grabify.link/hide"])
+grunge.com###content article ~ .under-art
+grunge.com##.before-ad
+grunge.com##.nextup-heading
+grunge.com##.nextup-heading ~ article
 guidingtech.com##.content:has(> div > .adsbygoogle)
 guinnessworldrecords.com##.page-controls-share
 guinnessworldrecords.com##.page-controls-share-record
@@ -2147,6 +2161,9 @@ kleinanzeigen.de##.imagegallery--item.ui-swipeslide-slide.active:style(height: a
 kleinanzeigen.de##.j-liberty-wrapper
 kleinanzeigen.de##.j-liberty-wrapper:has(> .banner:only-child)
 kleinanzeigen.de##.site-base--right-banner
+kleinanzeigen.de##[data-liberty-position-name="home-billboard"]
+kleinanzeigen.de##[data-liberty-position-name="srps-top-banner"]
+kleinanzeigen.de##[data-liberty-position-name^="home-teaser-ads-"]
 kleinanzeigen.de##[id^="home-teaser-ads-"]
 kleinezeitung.at###pianoArticleBanner
 kleinezeitung.at##.items-center:has(.js-ad)
@@ -2290,6 +2307,7 @@ livescience.com##.newsletter-signup
 livescience.com##.popular-box
 livescience.com##.related-articles-block
 livescience.com##.slice-container-newsletterForm
+local.ch###topadslot
 logosbynick.com##.legal-info-container
 logosbynick.com##.seva-form.formkit-form
 lowcarbrezepte.org##.mc-global-bar
@@ -2409,27 +2427,15 @@ medjournaldaily.com##.stream-item:has(.ads-label)
 medjournaldaily.com##.tie-popup-is-opend #tie-wrapper:style(filter: none !important; transition: none !important;)
 medjournaldaily.com##.widget_custom_html:has(script)
 medjournaldaily.com##html:style(overflow: visible !important)
-meetup.com###__next [inert]:remove-attr(inert)
-meetup.com###modal:has([data-testid="MobileAppPrompt"])
-meetup.com###modal:has(button.text-ds-magenta:has-text(Continue with free plan))
-meetup.com###modal:has-text(Meetup+)
-meetup.com###try-pro-links
-meetup.com##.blur-sm:style(filter: none !important)
-meetup.com##.flex:has(> .rounded-lg > button[data-event-label="profile_try_member_plus_click"])
-meetup.com##.hidden:has(> .items-center > .ml-auto > [data-event-label="profile_try_member_plus_click"])
-meetup.com##.navItem:has(> a[href^="/lp/meetup-pro"])
-meetup.com##.overflow-hidden:has(> div > h3 ~ div > [data-event-label="detailed-attendee-upsell-click"])
-meetup.com##.select-none.blur-sm:style(-moz-user-select: all !important; -webkit-user-select: auto !important; user-select: auto !important;)
-meetup.com##[data-event-label="Group discount"]
-meetup.com##[data-event-label="upcoming-events"] ~ .overflow-hidden:has(> div > div > [data-event-label="member_plus_home_upsell"])
-meetup.com##body:style(overflow: visible !important)
-meetup.com##html > body:style(overflow: visible !important; position: absolute !important;)
+meetup.com##.relative:has(> #try-pro-links:first-child)
+meetup.com##[class]:has(> .bg-ds2-banner-base-fill-primary-enabled:only-child):has-text(Start 7-day free trial)
 mein-mmo.de##.gp-related-wrapper
 mein-mmo.de##.wp-block-mmo-recirculation-box
 mein-schoener-garten.de###gen_top_wrapper
 mein-schoener-garten.de##.chakra-skeleton
 mein-schoener-garten.de##.outbrain-wrapper-container
 mein-schoener-garten.de##.related-articles
+mein-schoener-garten.de##[data-sentry-component="STFAdSlot"]
 mein-schoener-garten.de##[data-testid="ParagraphChameleonShop"]
 mein-schoener-garten.de##[data-testid="ParagraphTeaser"]:has-text(Anzeige)
 menshealth.de###div-gpt-ad-rectangle
@@ -2623,18 +2629,24 @@ n-joy.de##.sharinglinks
 n-tv.de##.article__aside:has(> .teaser)
 n-tv.de##.article__share
 n-tv.de##.article__share-wrapper
+n-tv.de##.col-md-8:has(> .content > article) ~ .hidden-xs:has(> .sidebar)
+n-tv.de##.col-md-8:has(> .content > article):has(+ .hidden-xs > .sidebar):style(flex-basis: 100% !important; max-width: 100% !important)
 n-tv.de##.col-md-8:has(> .content--article):style(flex-basis: 100% !important; max-width: 100% !important)
+n-tv.de##.ems-slot
 n-tv.de##.extcontent--amazon
 n-tv.de##.footer > .social
 n-tv.de##.hidden-sm:has(> .sidebar)
 n-tv.de##.linklist:has(> .title > .title__ad)
 n-tv.de##.linklist__sec__title
+n-tv.de##.newcontent-note
 n-tv.de##.ob_embed--placeholder.ob_embed
+n-tv.de##.phide:has(.OUTBRAIN)
 n-tv.de##.sidebar__group:has(> .teaser__infos > .teaser__ad)
 n-tv.de##.sitemap__col:has(> .sitemap__group > .sitemap__newsletter)
 n-tv.de##.space--showheroes.space
 n-tv.de##.space.phide:has(> .space__strech)
 n-tv.de##.teaser--newsletter
+n-tv.de##.teaser:has(.teaser__ad)
 n-tv.de##.topbanner-mobile
 n-tv.de##[class^="ad-wrapper-"]
 n-tv.de##[id^="sp_message_container"]
@@ -3493,6 +3505,8 @@ slashgear.com##.infinite[data-post-type="articles"]:remove-class(infinite)
 slashgear.com##.nextup-heading
 slashgear.com##.nextup-heading ~ article
 slashgear.com##article ~ .under-art[data-post-url]
+slate.com##.rr-ad-spacer
+slate.com##.sharing-buttons
 smartdroid.de##.advorp1
 smarthomeassistent.de##.aawp
 smarthomeassistent.de##.adslot_header
@@ -3628,9 +3642,15 @@ stern.de##[id^=sp_message_container_]
 stern.de##html.sp-message-open body:style(overflow: auto !important; position: absolute !important;)
 stern.de##li:has(> .menu__list-icon--stern-plus)
 strava.com##.PaywallModal--overlay--3AZEy
+strava.com##.matched-activities-upsell
+strava.com##.nav-item > .options > li:has(a[href="/subscription/perks"])
+strava.com##.relative-effort-upsell
+strava.com##.social > .sharing
 strava.com##.upgrade.nav-item
 strava.com##.upsell
 strava.com##[class^=Feed--entry-container]:has(> [class^=Card--feed-entry] > [class^=PromoEntry--entry-media-container])
+strava.com##[data-reach-tab-panel]:has([href="/subscribe?origin=dashboard_progress"])
+strava.com##li.premium.opt-group
 streaming.ch##.bounce-in-bottom
 streaming.ch##.content-recommendations
 streaming.ch##.site-header div:has(> a > span:has-text(Abo))
@@ -4279,6 +4299,8 @@ tutti.ch###adv-textlink3
 tutti.ch###adv-textlink4
 tutti.ch###banner-injection-target-01
 tutti.ch##.MuiBox-root:empty
+tutti.ch##.MuiBox-root:has(> .MuiBox-root > [data-ad-unit-id]:only-child)
+tutti.ch##.MuiBox-root:has(> [data-ad-unit-id]:only-child)
 tutti.ch##.MuiBox-root:has(> [data-testid="relevant-ad-slot-container-srp-inside-full-top"])
 tutti.ch##.MuiBox-root:has(> [data-testid^="relevant-ad-slot"])
 tutti.ch##.MuiBox-root:has(> [id^=smg-ad-])
@@ -4463,6 +4485,7 @@ washingtonpost.com##p:has(> .interstitial.hide-for-print)
 washingtonpost.com##span:has(> [data-testid="subs-offer-header-nav"])
 washingtonpost.com##wp-ad
 watson.ch###nps-watson-adblocker
+watson.ch##.bc-ad
 watson.ch##.commercial
 watson.ch##.force_full_width_mobile:style(width: 100% !important)
 watson.ch##.insert:has(> .better_newsletter)
@@ -4480,7 +4503,9 @@ watson.ch##.watson-story__content .md\:w-3\/5 ~ .insert:style(width: 100% !impor
 watson.ch##.watson-story__content .md\:w-3\/5:style(width: auto !important;)
 watson.ch##.watson-story__content .watson-chronicles
 watson.ch##[class^=watson-sharebuttons__]
+watson.ch##[data-tag-types="paid_content,default"]
 watson.ch##[data-type="app-download"]
+watson.ch##article ~ footer .story-recommendations
 watson.de##.article-end ~ .region:has(.watson-little-box__title:has-text(Meistgelesen))
 watson.de##.article-end ~ .watson-next-story
 watson.de##.insert:has(strong:has-text(Auch interessant))
@@ -4669,6 +4694,9 @@ womenshealth.de##.v-A_-abo
 womenshealth.de##.v-A_-article__teaser__booklet
 womenshealth.de##.v-A_-newsletter
 womenshealth.de##div#paid
+worldchess.com##[class^="_right_container_right"] > [class^="_upgrade_upgrade"]
+worldchess.com##[data-component="HeaderToolsItem"]:has-text(Upgrade to PRO)
+worldchess.com##[data-id="subscription"][data-component="AccountPopupItem"]
 worldstar.com##div[style]:has(> [id^=desktop_slot_][style]:only-child)
 worldstarhiphop.com##div[style]:has(> [id^=desktop_slot_][style]:only-child)
 wortbedeutung.info###bannerad
@@ -4839,10 +4867,3 @@ zugerzeitung.ch##[data-nzz-mainmenuitem="/aboplus"]
 zugerzeitung.ch##[id^="adnz_"]
 zugerzeitung.ch##[id^=adnz_maxiboard]
 zugerzeitung.ch##article.teaser--article:has(.icon--premium):style(opacity: 0.65 !important)
-||accounts.google.com$subdocument
-||smartlock.google.com^
-||www.finanzen.ch/Images/b_partner/CR1_Home.jpg$image
-||www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
-||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
-||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
-||www.wiwo.de/contentexport/static/images/hp.png$image
