@@ -122,6 +122,8 @@ allrecipes.com##.mm-ads-leaderboard-spacer
 allround-pc.com##.informationWrap
 allure.com##.ad-height-hold
 allure.com##[class^=StickyHeroAdWrapper]
+alternativeto.net##[style]:has(> [data-testid="adsense-wrapper"])
+alternativeto.net##li:has(> [data-testid="adsense-wrapper"]:first-child ~ .spacer-8:last-child)
 americansongwriter.com##.comments-logged-out ~ .also-like
 americansongwriter.com##.comments-logged-out ~ .more-from
 americansongwriter.com##.entry-content .has-text-align-center:has(> strong:only-child > a:only-child)
@@ -154,6 +156,7 @@ androidpolice.com##.w-article-related
 androidpolice.com##main.w-content ~ .w-content
 apfeltalk.de##.monsterinsights-inline-popular-posts
 apfeltalk.de##.w-sharing
+apk.gold##.adv_text
 apkcombo.com##.seo-widget
 apkcombo.com##.trending-widget
 apkcombo.com##.widget:has-text(APKCombo Installer)
@@ -666,6 +669,10 @@ cio.de##.relatedArticles
 cjr.org###mc_embed_signup_box
 cjr.org##.code-block > center:has(> [id^=div-gpt-ad])
 cjr.org##p:has(> strong:has-text(ICYMI:))
+claudelog.com##[data-sponsor-tip]
+claudelog.com##[data-sponsor-tip] ~ hr
+claudelog.com##a[rel*="sponsored"]
+claudelog.com##hr:has(+ [data-sponsor-tip])
 clavio.de###abAside
 cleverdialer.de##.ad-container
 clockify.me###topbar-menu > div > div > div > div:has(> a:has-text(Request demo))
@@ -951,6 +958,7 @@ dict.leo.org##[href="https://www.advertising.de/leistungen/display/leo-org-displ
 dict.leo.org##[id^=adv-]
 dict.leo.org##div:has(> span:has-text(Werbung) ~ [id^=adv-])
 dict.leo.org##div:nth-of-type(4)
+dict.leo.org##ion-modal
 dictionary.cambridge.org###page-content ~ .lmt-10:has(> #rightcol-above-sticky)
 dictionary.cambridge.org##article ~ div [amp-access-template]
 dictionary.cambridge.org##div:has(> .i-facebook)
@@ -1159,6 +1167,8 @@ evangelische-zeitung.de##[class^="traffective_top-divider"]
 evangelische-zeitung.de##[data-component-type="ad-slot"]
 evangelische-zeitung.de##[data-testid="article-billboard-advertisement"]
 evangelische-zeitung.de##[id^="traffective-ad-Content"]
+eventbrite.co.uk##[class^="EventsBucket_feedCardCell_"]:has([class^="DiscoverVerticalEventCard_promotedLabel"]):style(opacity: 0.6!important)
+eventbrite.co.uk##[data-testid="search-event"]:has([class^="DiscoverHorizontalEventCard-module__promotedLabel_"]):style(opacity: 0.6)
 evernote.design##.column:has(> article:has(.ad-via))
 everydayhealth.com##.article-template__main ~ .article-template__right-rail
 everydayhealth.com##.eh-widget--latest-feed
@@ -1447,8 +1457,10 @@ forbes.com##.recirc-module
 forbes.com##.right-rail
 forbes.com##.xl-recirc-container
 forbes.com##[class^="halfway_hardwall_"]:remove()
+forbes.com##[data-id="ad-container"]
 forbes.com##[data-testid="ad-container"]
 forbes.com##[data-testid="fbs-ad - rightRail"]
+forbes.com##[data-testid="vetted-more-from-forbes-block"]
 forbes.com##[style]:has(> span:last-child:has-text(FORBES’ FEATURED Video))
 fortune.com###__next > [class] > [class]:has(+ #drawer-toggle)
 fortune.com###__next > [class]:first-child:has(+ #drawer-toggle)
@@ -1507,6 +1519,7 @@ fragen.lifeline.de###toast-container
 freecoursesonline.me##.adsbygoogle
 freefontsdownload.net###fb-root
 freefontsdownload.net##.adsbygoogle
+freelance.de##.teaser::after
 freepik.com##[data-cy="resource-thumbnail"] ~ [data-ssm]:has([title="Freepik Pinterest"])
 freepik.com##[data-cy="resource-thumbnail"]:has(.\$text-yellowPremium):style(opacity: 0.5 !important)
 freepik.com##[data-testid="sponsor-banner"]
@@ -1760,6 +1773,7 @@ golem.de##.section-gpure
 golem.de##.social-sticky
 golem.de##.subscribe-newsletter
 golem.de##[class*=grcol]:style(min-height: 0 !important)
+golem.de##[data-sdg-d="banner"]
 golem.de##[id^="iqad"]
 golem.de##[style*="margin: 20px 0; clear: both; min-height: 640px"]
 golem.de##[style="margin:16px 0;"]:has(> [id^="iqad"])
@@ -1881,6 +1895,7 @@ heise.de##.article-newsletter-subscription__title
 heise.de##.article-sidebar
 heise.de##.bcadv
 heise.de##.branding
+heise.de##.curtain--gradient::before
 heise.de##.curtain--gradient::before:style(background: none !important)
 heise.de##.header-logo__plus-group
 heise.de##.newsletter-subscription
@@ -2274,6 +2289,7 @@ limetorrentx.cc##font
 limetorrentx.cc##p > [href^="/leet/"]
 linkedin.com##.ad-banner-container ~ .mt2:style(margin-top: 0 !important)
 linkedin.com##.artdeco-card:has(.card-upsell-v2__headline)
+linkedin.com##.blurred-content:style(filter: none !important)
 linkedin.com##.mn-sales-navigator-upsell
 linkedin.com##.pv-text-details__verification-non-self-promo
 linkedin.com##.pvs-entity--blurred:style(pointer-events: auto !important)
@@ -2427,8 +2443,16 @@ medjournaldaily.com##.stream-item:has(.ads-label)
 medjournaldaily.com##.tie-popup-is-opend #tie-wrapper:style(filter: none !important; transition: none !important;)
 medjournaldaily.com##.widget_custom_html:has(script)
 medjournaldaily.com##html:style(overflow: visible !important)
+meetup.com##.bg-ds2-banner-base-fill-secondary-enabled:has-text(Start your 7 day free trial)
+meetup.com##.blur-sm:style(filter: none !important)
+meetup.com##.relative .-mt-\[60px\]:style(margin-top: 0 !important)
 meetup.com##.relative:has(> #try-pro-links:first-child)
+meetup.com##.w-full.items-center.justify-between:has(button:has-text(Get the deal))
+meetup.com##[class*=blur]:style(filter: none !important)
 meetup.com##[class]:has(> .bg-ds2-banner-base-fill-primary-enabled:only-child):has-text(Start 7-day free trial)
+meetup.com##[data-slot="modal-content"] .flex:has(a):has-text(continue with free plan) ~ .bg-gradient-to-b:style(opacity: 0.7 !important)
+meetup.com##[data-slot="modal-content"] .flex:has(a):has-text(continue with free plan) ~ .flex:style(opacity: 0.7 !important)
+meetup.com##[data-slot="modal-content"] a:has-text(continue with free plan):style(background: linear-gradient(180deg, var(--colors-magenta-500, #D63B63) 0%, var(--colors-magenta-400, #ED4B75) 100%);appearance: button;border-radius: 999px;line-height: 1.75rem;font-weight: 600 !important;font-size: 20px !important;color: var(--colors-grey-0) !important;padding-top: 1.125rem;padding-bottom: 1.125rem;padding-left: 1.5rem;padding-right: 1.5rem;margin-top: 1.3rem)
 mein-mmo.de##.gp-related-wrapper
 mein-mmo.de##.wp-block-mmo-recirculation-box
 mein-schoener-garten.de###gen_top_wrapper
@@ -2609,6 +2633,7 @@ music.apple.com##.upsell-banner
 music.youtube.com##[tab-id="SPunlimited"]:has-text(Upgrade)
 music.youtube.com##ytmusic-mealbar-promo-renderer
 mydealz.de###belowCommentsAdSlotPortal
+mydealz.de###belowDescriptionAdSlotPortal
 mydealz.de###belowDetailsAdSlotPortal
 mydealz.de###belowDetailsFuseZonePortal
 mydealz.de###sidebarBottomAdSlotPortal
@@ -2656,6 +2681,7 @@ n-tv.de##amp-fx-flying-carpet:has(> .i-amphtml-fx-flying-carpet-clip > .i-amphtm
 n-tv.de##div:has(> .gujAd--teaser:first-child:last-child)
 n-tv.de##html.sp-message-open > body:style(overflow: visible !important; position: absolute !important; margin-top: 0 !important)
 n-tv.de##span > .teaser
+nachbelichtet.com##.aawp
 nachhaltigleben.ch###article-newsletter-teaser
 nachhaltigleben.ch###content-article:style(max-width: none !important)
 nachhaltigleben.ch###main-right
@@ -2790,6 +2816,7 @@ news.ycombinator.com##body:matches-media((prefers-color-scheme: dark)) a:visited
 news.ycombinator.com##body:matches-media((prefers-color-scheme: dark)) div.toptext a[href]:style(color: #A2A2A2 !important; text-decoration: underline !important)
 news.ycombinator.com##body:matches-media((prefers-color-scheme: dark)) table.comment-tree .comment a:style(color: #A2A2A2 !important; text-decoration: underline !important)
 news.ycombinator.com##body:matches-media((prefers-color-scheme: dark)):style(background-color: #1a1b21 !important; color: #e3e2e9 !important)
+news.ycombinator.com##form textarea:style(background-color: darkgrey !important)
 newsbomb.gr##.banner-zone
 newsbomb.gr##.main-ad-unit
 newsbomb.gr##.mobile-ad-unit
@@ -2841,6 +2868,7 @@ nintendolife.com##[style]:has(> span:has-text(Disable Adblock) ~ iframe)
 nintendolife.com##aside.object-related
 nintendoworldreport.com###bonus
 njuskalo.hr##.EntityList-bannerContainer
+northdata.de##.ad-container
 noz.de##.article__teaser:has(.paid-content):style(opacity: 0.6 !important)
 noz.de##.container-ob
 noz.de##.msn-ads-frame_outer
@@ -2977,6 +3005,7 @@ onmeda.de##.box--ad
 onmeda.de##.feed ~ .feed
 onmeda.de##[id$=SparkWrapper]
 open.spotify.com##[data-testid="upgrade-button"]
+openalternative.co##div:has(> .outline-transparent > [href="/advertise"])
 opensource.com###block-subscribetoourweeklynewsletterflyin
 opensource.com##.block-osdc-social-block
 opensubtitles.org##[href="https://casinoalpha.com/"]
@@ -3480,6 +3509,8 @@ securityinfowatch.com##.gam-slot-builder
 seevetal-aktuell.de##.adsbygoogle
 seevetal-aktuell.de##.td-a-rec
 seevetal-aktuell.de##.td-adspot-title
+seranking.com##.blured-text:style(filter: none !important)
+seranking.com##.limit-placeholder__area:style(backdrop-filter: none !important)
 serienjunkies.de###trendingsfromstartseite
 serienjunkies.de##.streambox:has(> a[href*=tradedoubler])
 seriouseats.com##.mm-ads-gpt-adunit
@@ -3650,6 +3681,7 @@ strava.com##.upgrade.nav-item
 strava.com##.upsell
 strava.com##[class^=Feed--entry-container]:has(> [class^=Card--feed-entry] > [class^=PromoEntry--entry-media-container])
 strava.com##[data-reach-tab-panel]:has([href="/subscribe?origin=dashboard_progress"])
+strava.com##[role="button"]:has(> [data-testid="web-feed-entry"] [data-testid="promo-img"])
 strava.com##li.premium.opt-group
 streaming.ch##.bounce-in-bottom
 streaming.ch##.content-recommendations
@@ -4033,6 +4065,9 @@ thedodo.com##.right-rail__recommended-video
 thedodo.com##aside[class^="EmailAcquisitonstyles"]
 thedodo.com##aside[class^="RecommendedVideostyles"]
 thedodo.com##div[class^="Headerstyles__HeaderRightSection"]
+thefreedictionary.com##.ju:empty
+thefreedictionary.com##.sticky:has(> .box > ul.social-networks)
+thefreedictionary.com##article > :first-child:empty
 thegamepost.com##.single-post-outer ~ .single-post-outer
 thegamepost.com##.smeta-extra
 thegamer.com###adsninja-below-main-pic
@@ -4337,7 +4372,7 @@ twitch.tv##.prime-offers-upsell
 twitch.tv##.prime-upsell__logo-container
 twitch.tv##.top-nav__menu > div[class] > div[class]:has([data-a-target="top-nav-get-bits-button"])
 twitch.tv##.top-nav__menu > div[class] > div[class]:has([data-target="prime-offers-icon"])
-twitch.tv##.top-nav__menu > div[class] > div[class]:has-text(Go Ad-Free)
+twitch.tv##.top-nav__menu > div[class] > div[class]:has-text(Ad-Free)
 twitch.tv##[data-a-target="top-nav-get-bits-button"]:has(> [data-test-selector="subscribe-button__dropdown"])
 twitch.tv##[data-target="channel-header-right"] div[class]:has(> div[class] > div[class]> div[class] > [data-test-selector="subscribe-button__dropdown"])
 twitch.tv##[data-test-selector="channel_panel_test_selector"]:has-text(" (Werbung)")
