@@ -1,49 +1,49 @@
 name: Update AdBlock List Metadata
 
 on:
- push:
- branches:
- - main
+  push:
+    branches:
+      - main
 
 permissions:
- contents: write
+  contents: write
 
 env:
- FILENAME: alexanderadam.txt
+  FILENAME: alexanderadam.txt
 
 jobs:
- update-metadata:
- runs-on: ubuntu-latest
- steps:
- - name: Checkout repository
- uses: actions/checkout@v4.2.2
+  update-metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
 
- - name: Update metadata
- run: |
- sed -i "s/! Last modified: .*/! Last modified: $(date +%Y-%m-%d)/" ${{ env.FILENAME }}
+      - name: Update metadata
+        run: |
+          sed -i "s/! Last modified: .*/! Last modified: $(date +%Y-%m-%d)/" ${{ env.FILENAME }}
 
- - name: Remove duplicated rules
- run: |
- awk '!seen[$0]++' ${{ env.FILENAME }} > temp && mv temp ${{ env.FILENAME }}
+      - name: Remove duplicated rules
+        run: |
+          awk '!seen[$0]++' ${{ env.FILENAME }} > temp && mv temp ${{ env.FILENAME }}
 
- - name: Sort rules
- run: |
- awk 'BEGIN { header = 1 } /^[[:space:]]*$/ { header = 0 } header { print; next } /^[\[!]/ { print; next } { lines[NR] = $0 } END { n = asort(lines); for (i = 1; i <= n; i++) print lines[i] }' ${{ env.FILENAME }} > temp && mv temp ${{ env.FILENAME }}
+      - name: Sort rules
+        run: |
+          awk 'BEGIN { header = 1 } /^[[:space:]]*$/ { header = 0 } header { print; next } /^[\[!]/ { print; next } { lines[NR] = $0 } END { n = asort(lines); for (i = 1; i <= n; i++) print lines[i] }' ${{ env.FILENAME }} > temp && mv temp ${{ env.FILENAME }}
 
- - name: Install idn
- run: sudo apt-get install -y idn
+      - name: Install idn
+        run: sudo apt-get install -y idn
 
- - name: Extract affected hosts
- run: |
- scripts/update_hosts.sh ${{ env.FILENAME }}
+      - name: Extract affected hosts
+        run: |
+          scripts/update_hosts.sh ${{ env.FILENAME }}
 
- - name: Commit and push if changed
- env:
- ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
- run: |
- git config --global user.email "action@github.com"
- git config --global user.name "GitHub Action"
- git add ${{ env.FILENAME }}
- git add hosts.md
- git commit -m " Update metadata" || exit 0 # Exit gracefully if no changes
- git push https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/alexanderadam/adblock_list.git
+      - name: Commit and push if changed
+        env:
+          ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add ${{ env.FILENAME }}
+          git add hosts.md
+          git commit -m "Update metadata" || exit 0
+          git push https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/alexanderadam/adblock_list.git

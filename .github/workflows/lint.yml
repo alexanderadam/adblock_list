@@ -1,34 +1,33 @@
 name: Lint AdBlock List
 
 on:
- pull_request:
- branches:
- - main
- push:
- branches:
- - main
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
 
 permissions:
- contents: read
+  contents: read
 
 env:
- FILENAME: alexanderadam.txt
+  FILENAME: alexanderadam.txt
 
 jobs:
- lint:
- runs-on: ubuntu-latest
- steps:
- - name: Checkout repository
- uses: actions/checkout@v4.2.2
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
 
- - name: Setup Node.js
- uses: actions/setup-node@v4.1.0
- with:
- node-version: '18'
+      - name: Setup Node.js
+        uses: actions/setup-node@v4.1.0
+        with:
+          node-version: '18'
 
- - name: Install dependencies
- run: yarn install
- # https://github.com/AdguardTeam/AGLint?tab=readme-ov-file#introduction
+      - name: Install dependencies
+        run: npm install
 
- - name: Run linting
- run: yarn aglint ${{ env.FILENAME }}
+      - name: Run linting
+        run: npx aglint ${{ env.FILENAME }}
