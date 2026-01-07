@@ -5,7 +5,7 @@ HOSTS_FILE="hosts.md"
 start_time=$(date +%s)
 
 current_time() {
- date +"%H:%M:%S"
+  date +"%H:%M:%S"
 }
 
 blocklists=("abuse" "vaping" "torrent" "scam" "ransomware" "porn" "piracy" "phishing" "malware" "fraud" "drugs")
@@ -14,7 +14,7 @@ blocklists_count=${#blocklists[@]}
 echo -e " \e[34m[\e[90m$(current_time)\e[34m] Downloading $blocklists_count blocklists\e[0m"
 
 for list in "${blocklists[@]}"; do
- wget -q "https://blocklistproject.github.io/Lists/${list}.txt" -O "${list}.txt" &
+  wget -q "https://blocklistproject.github.io/Lists/${list}.txt" -O "${list}.txt" &
 done
 wait
 
@@ -29,18 +29,18 @@ sort -u combined_blocklist.txt -o combined_blocklist.txt
 echo -e " \e[32m[\e[90m$(current_time)\e[32m] Blocklists combined\e[0m"
 
 save_domain_entry() {
- local domain=$1
- local rule_count=$2
- local count=$3
- local total_domains=$4
- local unicode_domain=$(idn --idna-to-unicode "$domain")
- local favicon_url="https://icons.duckduckgo.com/ip3/${domain}.ico"
- if wget -q --spider "$favicon_url"; then
- echo "- <img src=\"${favicon_url}\" width=\"16\" loading=\"lazy\" />&nbsp;${unicode_domain} (${rule_count})" >> "$HOSTS_FILE"
- else
- echo "- &nbsp;${unicode_domain} (${rule_count})" >> "$HOSTS_FILE"
- fi
- echo -e " \e[35m[\e[90m$(current_time)\e[35m] $count / $total_domains - \e[34m\e[4m${unicode_domain}\e[0m\e[0m"
+  local domain=$1
+  local rule_count=$2
+  local count=$3
+  local total_domains=$4
+  local unicode_domain=$(idn --idna-to-unicode "$domain")
+  local favicon_url="https://icons.duckduckgo.com/ip3/${domain}.ico"
+  if wget -q --spider "$favicon_url"; then
+    echo "- <img src=\"${favicon_url}\" width=\"16\" loading=\"lazy\" />&nbsp;${unicode_domain} (${rule_count})" >> "$HOSTS_FILE"
+  else
+    echo "- &nbsp;${unicode_domain} (${rule_count})" >> "$HOSTS_FILE"
+  fi
+  echo -e " \e[35m[\e[90m$(current_time)\e[35m] $count / $total_domains - \e[34m\e[4m${unicode_domain}\e[0m\e[0m"
 }
 
 # Extract affected hosts and filter against blocklist
@@ -56,12 +56,12 @@ echo -e "# Affected hosts ($total_domains)\n\n" > "$HOSTS_FILE"
 count=0
 
 for domain in $domains; do
- count=$((count + 1))
- if! grep -q "^${domain}$" combined_blocklist.txt; then
- rule_count=$(grep -c "^${domain}##" "${FILENAME}")
- save_domain_entry "$domain" "$rule_count" "$count" "$total_domains"
- affected_hosts+=("$domain")
- fi
+  count=$((count + 1))
+  if ! grep -q "^${domain}$" combined_blocklist.txt; then
+    rule_count=$(grep -c "^${domain}##" "${FILENAME}")
+    save_domain_entry "$domain" "$rule_count" "$count" "$total_domains"
+    affected_hosts+=("$domain")
+  fi
 done
 
 affected_hosts_count=${#affected_hosts[@]}
@@ -70,7 +70,7 @@ echo -e " \e[32m[\e[90m$(current_time)\e[32m] $affected_hosts_count affected hos
 # Clean up
 rm -f combined_blocklist.txt
 for list in "${blocklists[@]}"; do
- rm -f "${list}.txt"
+  rm -f "${list}.txt"
 done
 
 end_time=$(date +%s)
