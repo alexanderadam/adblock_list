@@ -258,6 +258,7 @@ axios.com##h5:has-text(Go deeper)
 axios.com##h5:has-text(Go deeper) ~ div
 azlyrics.com##.top-ad
 baby-vornamen.de##.ad
+badische-zeitung.de##.artikelPreview:style(mask: none !important;-webkit-mask: none !important)
 baerntoday.ch##[class*=adnz_]
 bazonline.ch###piano-abo-button
 bazonline.ch###piano-premium:style(top: 10rem !important; margin-bottom: 5rem !important)
@@ -863,6 +864,8 @@ darkwebinformer.com##.banner-placeholder
 dcrainmaker.com##.nc_wrapper:has(> .swp_social_panel)
 dcrainmaker.com##[data-buy-now-links]
 dcrainmaker.com##li.widget_sp_image:has(> a[href="https://www.dcrainmaker.com/support"])
+de-academic.com###ad_top2
+de-academic.com##.banner
 de.cointelegraph.com##.post__content-shares
 de24live.de##.articleAppendix
 de24live.de##aside.articleTeaser
@@ -2014,6 +2017,7 @@ icr.org###block-jonah-the-latest
 icr.org##.block-related-topics
 idropnews.com###social-share
 ifixit.com##.component-WPCampaignBanner
+iflscience.com###Billboard
 ign.com###pit-below-all-content:has(> .tp-container-inner > [id^="offer"])
 ign.com##.article-content ~ .right-rail
 ign.com##.free-tracker:style(opacity: 0.7 !important)
@@ -2095,6 +2099,7 @@ insider.com##.subscribe-btn
 insider.com##vendor-taboola
 instagram.com##+js(set-attr, video, controls)
 instagram.com##+js(set-attr.js, controls, controls, video)
+instagram.com##[aria-label="Video player"] > div[class]:has([aria-label="Toggle audio"]):style(bottom: 35px !important; z-index: 99999 !important)
 instagram.com##body:style(overflow-y: auto !important)
 instagram.com##div[role="button"]:has(> div > video)
 instagram.com##video:style(z-index: 9999 !important; position: relative !important;)
@@ -2295,6 +2300,7 @@ linkedin.com##.pv-text-details__verification-non-self-promo
 linkedin.com##.pvs-entity--blurred:style(pointer-events: auto !important)
 linkedin.com##[class*=premium-upsell]
 linkedin.com##[componentkey="MynetworkDesktopNav_mynetwork_desktop_nav_ad"]
+linkedin.com##[data-testid="primary-nav"] div[class]:has(> [data-view-name="premium-nav-upsell-text"])
 linkedin.com##label[for="custom-message"] ~ div:has(> a[href*="upsellOrderOrigin"])
 linkedin.com##section:has(> div:first-child:last-child > [componentkey="MynetworkDesktopNav_mynetwork_desktop_nav_ad"]:first-child)
 linux-magazin.de###Ads_BA_VID
@@ -2443,16 +2449,30 @@ medjournaldaily.com##.stream-item:has(.ads-label)
 medjournaldaily.com##.tie-popup-is-opend #tie-wrapper:style(filter: none !important; transition: none !important;)
 medjournaldaily.com##.widget_custom_html:has(script)
 medjournaldaily.com##html:style(overflow: visible !important)
+meetup.com###your-groups-card .bg-ds2-surface-fill-primary-enabled:has-text(Become an organizer)
 meetup.com##.bg-ds2-banner-base-fill-secondary-enabled:has-text(Start your 7 day free trial)
 meetup.com##.blur-sm:style(filter: none !important)
+meetup.com##.inset-0.fixed.pointer-events-none
+meetup.com##.pointer-events-none:style(pointer-events: auto !important)
 meetup.com##.relative .-mt-\[60px\]:style(margin-top: 0 !important)
 meetup.com##.relative:has(> #try-pro-links:first-child)
 meetup.com##.w-full.items-center.justify-between:has(button:has-text(Get the deal))
+meetup.com##.with-scroll-bars-hidden:style(overflow: auto !important)
 meetup.com##[class*=blur]:style(filter: none !important)
 meetup.com##[class]:has(> .bg-ds2-banner-base-fill-primary-enabled:only-child):has-text(Start 7-day free trial)
+meetup.com##[data-event-category="notifications"] .mb-4.w-full:has-text(Start now)
+meetup.com##[data-radix-focus-guard]
+meetup.com##[data-radix-focus-guard]:remove-attr(style)
 meetup.com##[data-slot="modal-content"] .flex:has(a):has-text(continue with free plan) ~ .bg-gradient-to-b:style(opacity: 0.7 !important)
 meetup.com##[data-slot="modal-content"] .flex:has(a):has-text(continue with free plan) ~ .flex:style(opacity: 0.7 !important)
 meetup.com##[data-slot="modal-content"] a:has-text(continue with free plan):style(background: linear-gradient(180deg, var(--colors-magenta-500, #D63B63) 0%, var(--colors-magenta-400, #ED4B75) 100%);appearance: button;border-radius: 999px;line-height: 1.75rem;font-weight: 600 !important;font-size: 20px !important;color: var(--colors-grey-0) !important;padding-top: 1.125rem;padding-bottom: 1.125rem;padding-left: 1.5rem;padding-right: 1.5rem;margin-top: 1.3rem)
+meetup.com##body:style(touch-action: auto !important; height: auto !important)
+meetup.com##body[data-scroll-locked]:remove-attr(data-scroll-locked)
+meetup.com##body[data-scroll-locked]:remove-attr(style)
+meetup.com##div[style^="mask-image: linear-gradient"]:style(mask-image: none !important)
+meetup.com##html:style(touch-action: auto !important; height: auto !important;)
+meetup.com##html[lang] > body[class]:style(overflow: auto !important; overflow-y: auto !important; overscroll-behavior: auto !important; position: static !important; pointer-events: auto !important;)
+meetup.com##iframe[aria-hidden="true"]
 mein-mmo.de##.gp-related-wrapper
 mein-mmo.de##.wp-block-mmo-recirculation-box
 mein-schoener-garten.de###gen_top_wrapper
@@ -4160,9 +4180,9 @@ theregister.com###sharing_widget_overlay_2
 theregister.com###story-bot-col
 theregister.com##.adun
 theregister.com##.sharing_block
+thesaurus.com##div:has(> div > [data-type="games-module"]):has(> div:has-text(Advertisement))
 thesaurus.com##div:has(> p:has-text(Advertisement))
 thesaurus.com##div:has(> p:has-text(Advertisement)) ~ hr
-thesaurus.com##div:has(> div > [data-type="games-module"]):has(> div:has-text(Advertisement))
 theserverside.com###DigDeeperSplash
 theserverside.com###next-steps
 theserverside.com###sponsored-news
@@ -4732,6 +4752,7 @@ womenshealth.de##div#paid
 worldchess.com##[class^="_right_container_right"] > [class^="_upgrade_upgrade"]
 worldchess.com##[data-component="HeaderToolsItem"]:has-text(Upgrade to PRO)
 worldchess.com##[data-id="subscription"][data-component="AccountPopupItem"]
+worldsbacklog.com##.filter.blur-\[6px\]:style(filter: none !important)
 worldstar.com##div[style]:has(> [id^=desktop_slot_][style]:only-child)
 worldstarhiphop.com##div[style]:has(> [id^=desktop_slot_][style]:only-child)
 wortbedeutung.info###bannerad

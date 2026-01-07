@@ -3,8 +3,20 @@
 FILENAME="alexanderadam.txt"
 SCRIPTNAME="$0"
 
+run_linter() {
+  if [ -f "node_modules/.bin/aglint" ]; then
+    node_modules/.bin/aglint "$1"
+  elif npx --version >/dev/null 2>&1; then
+    npx aglint "$1"
+  else
+    echo "Warning: aglint not available, skipping lint check"
+    echo "Run 'npm install' to enable linting"
+    return 0
+  fi
+}
+
 if git diff --cached --name-only | grep -qE "$FILENAME|$SCRIPTNAME"; then
-  if ! yarn aglint "$FILENAME"; then
+  if ! run_linter "$FILENAME"; then
     echo "Linting failed. Aborting."
     exit 1
   fi
