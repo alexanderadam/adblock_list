@@ -84,6 +84,7 @@ agenzianova.com##[data-partner]
 agenzianova.com##[id^=ad_]
 agenzianova.com##[id^=adnative]
 agenzianova.com##aside.widget:has(> [id^=ad])
+agrarheute.com##.socialSharing
 airliners.de##.page__section:has(.adl__box)
 airliners.de##[id^=sp_message_container]
 airliners.de##aside:has(.recommend)
@@ -252,6 +253,7 @@ auto-motor-und-sport.de##[id^=sp_message_container]
 auto-motor-und-sport.de##article ~ [class*=teaserTopFive]
 auto-motor-und-sport.de##div.mb-9:has(> div:only-child > [data-mps_adname]:only-child)
 auto-motor-und-sport.de##html.sp-message-open body:style(overflow: auto !important; position: absolute !important)
+axios.com##.\[\&_\#piano-container\:not\(\:empty\)\]\:before\:to-white #piano-container:not(:empty)::before
 axios.com##.apexAd
 axios.com##.shortFormNativeAd
 axios.com##h5:has-text(Go deeper)
@@ -304,6 +306,8 @@ bbqpit.de##p:empty
 befonts.com##.adsbygoogle
 befonts.com##.download-related-posts
 befonts.com##.you-may-like-down
+beincrypto.com##.text-grey-600:has-text(Sponsored)
+beincrypto.com##[class^="SponsoredContainer"]
 beobachter.ch##[class^=recommendation-slot]
 beobachter.ch##[id^=content-aside-item-]:has(.PianoPlaceholder)
 beobachter.ch##[id^=content-aside-item-]:has(.ad-wrapper)
@@ -925,8 +929,12 @@ derwesten.de##.contentAd--skyl
 derwesten.de##.wp-block-column[style="flex-basis:33%"] > .wp-block-group:only-child > .wp-block-group__inner-container:only-child > article.entry:only-child:has(> .ad)
 derwesten.de##.wp-block-elasticpress-related-posts
 derwesten.de##:matches-media((min-width: 1300px)).entry-content > aside
+derwesten.de##:matches-media((min-width: 1300px)).entry-content:style(display: block !important)
 derwesten.de##article.entry:only-child:has(> .ad)
+derwesten.de##hr ~ p ~ .fd-es-related-with-image
+derwesten.de##hr ~ p:has(+ .fd-es-related-with-image)
 derwesten.de##hr.wp-block-separator.has-alpha-channel-opacity
+derwesten.de##hr:has(+ p + .fd-es-related-with-image)
 derwesten.de##p:has(> a:has-text(+++ ):has-text(+++))
 derwesten.de##p:has-text(Das könnte dich auch interessieren:)
 derwesten.de##p:has-text(Mehr Nachrichten:)
@@ -965,9 +973,12 @@ dict.leo.org##ion-modal
 dictionary.cambridge.org###page-content ~ .lmt-10:has(> #rightcol-above-sticky)
 dictionary.cambridge.org##article ~ div [amp-access-template]
 dictionary.cambridge.org##div:has(> .i-facebook)
+dictionary.com###dcoSide1:empty
 dictionary.com##.ad
 dictionary.com##.atw-socials
+dictionary.com##.box-additional-carambola
 dictionary.com##.widget_ad
+dictionary.com##[id^="dcoContentLeader"]
 dictionary.com##div > div:has(> p:has-text(Advertisement)) ~ hr
 dictionary.com##div > section[data-type$="-dictionary-entries-module"]:has(> ~ div:has-text(Advertisement))
 dictionary.com##div hr:last-child:has(> ~ div > div > script) ~ hr
@@ -1099,6 +1110,7 @@ einfachbacken.de##.paragraph-suggestionbox
 einfachbacken.de##.self-promotion-block
 einfachbacken.de##.social-share-links__link--facebook
 einfachbacken.de##.social-share-links__link--pinterest
+electrive.net##[class^="ad-space_"]
 elektrotanya.com##.ad_kontener
 elotrolado.net###dfp_billboard-extra
 elotrolado.net##.ad-lg
@@ -2150,8 +2162,6 @@ justetf.com##.lineAd
 justetf.com##.wAd
 justetf.com##div:has(> .Ad_disclaimer)
 justetf.com##tr:has([onmousedown*="searchTableAd"])
-kayak.de##.Ui-Kn-Display-InlineResultsDisplayAdSlot-container
-kayak.de##[aria-label^="Anzeige von"]
 kino.de##.alice-adslot
 kino.de##.alice-layout-article-ad
 kino.de##[data-init="module/advert"]
@@ -2613,6 +2623,8 @@ moneyweek.com##.van_vid_carousel
 moneyweek.com##.widget-ads
 mopo.de###wpfront-notification-bar-spacer
 mopo.de##.elementor-column:has(> .elementor-widget-wrap > .elementor-element > .elementor-widget-container > [href="/plus/"])
+mopo.de##.elementor-element:has(> .elementor-widget-container:only-child > .push-ads-frame:only-child)
+mopo.de##.push-ads-frame
 mopo.de##.slick-slide:has(.Anzeige)
 mopo.de##p:has(> strong:has-text(Das könnte Sie auch interessieren:)) + [href]
 moregameslike.com##center:has(> .container > .top.label:has-text(ADVERTISEMENT))
@@ -3216,6 +3228,8 @@ pornhub.com##[id^=\31]
 pornhub.com##[src*="data:image/png;base64,"]
 pornhub.com##video[loop]
 postgresqltutorial.com##.ad
+powerthesaurus.org##.infinite-scroll-component__outerdiv ~ div[class]:has(h3):has(#limit_button)
+powerthesaurus.org##li[data-role="expander"] ~ li[style]
 poz.com##hr ~ .ad-block ~ hr
 praxistipps.chip.de###R1C1
 praxistipps.chip.de###R1C2
@@ -3286,6 +3300,7 @@ quora.com##[style="box-sizing: border-box; display: flex; position: fixed; inset
 quora.com##[style="box-sizing: border-box; filter: blur(3px);"]:style(filter: none !important)
 quora.com##body:style(overflow:auto !important)
 randomlists.com##.adsbygoogle
+randomtools.io##.google_ads-container
 rankedboost.com##.rbgg-in-content-unit-legacy:has(> .rbgg-in-content-unit-label-legacy):has-text(Advertisement)
 rankedboost.com##[aria-label="Advertisement"]
 rapidlydigital.com##.adtester-container
@@ -3708,6 +3723,8 @@ streaming.ch##.content-recommendations
 streaming.ch##.site-header div:has(> a > span:has-text(Abo))
 streaming.ch##[data-key^="paragraph-item-"]:has(> div > .content-recommendations)
 stuttgarter-zeitung.de###pianoEpbContainer
+stuttgarter-zeitung.de###traffective-ad-Billboard
+stuttgarter-zeitung.de###traffective-ad-OutOfPage
 stuttgarter-zeitung.de##.ad
 stuttgarter-zeitung.de##.anzeige
 stuttgarter-zeitung.de##.articleTeaser
@@ -4784,6 +4801,7 @@ x.com##[data-testid="cellInnerDiv"]:has-text(5 days left - save up to 40% on X P
 x.com##[data-testid="cellInnerDiv"]:has-text(Get up to 50% off X Premium)
 x.com##[data-testid="cellInnerDiv"]:has-text(Go ad-free with Premium+)
 x.com##[data-testid="reply-boost-upsell"]
+x.com##[data-testid="tweet"] div[class]:has([data-testid="User-Name"] a[href="/grok"]) ~ [aria-labelledby]:has(> [data-testid="card.wrapper"] > [data-testid="card.layoutLarge.media"] > a)
 x.com##[data-testid="verified_profile_visitor_upsell"]
 x.com##aside[aria-label="Expiring soon!"]
 x.com##div:has(> div:only-child > [data-testid="super-upsell-UpsellCardRenderProperties"]:only-child)
@@ -4843,6 +4861,7 @@ zeit.de##.content-area ~ #colophon > #secondary:has(.widget-title:has-text(Neues
 zeit.de##.iqdcontainer
 zeit.de##.navigation__subscription-link
 zeit.de##.newsletter-signup
+zeit.de##.paragraph--faded::before
 zeit.de##.paragraph--faded::before:style(background: none !important)
 zeit.de##.paragraph--faded:style(max-height: none !important)
 zeit.de##.paywall-footer
