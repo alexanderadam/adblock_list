@@ -4862,7 +4862,6 @@ zeit.de##.iqdcontainer
 zeit.de##.navigation__subscription-link
 zeit.de##.newsletter-signup
 zeit.de##.paragraph--faded::before
-zeit.de##.paragraph--faded::before:style(background: none !important)
 zeit.de##.paragraph--faded:style(max-height: none !important)
 zeit.de##.paywall-footer
 zeit.de##.paywall-footer--narrow.paywall-footer--expandable.paywall-footer
@@ -4937,6 +4936,7 @@ zugerzeitung.ch##.regwall__wrapper:style(margin-top: 0 !important)
 zugerzeitung.ch##.resor
 zugerzeitung.ch##[componenttype^="advertisement"]
 zugerzeitung.ch##[componenttype^="advertisement"][class*=widget-] + [class*=widget-]::before:style(border-top: none !important)
+zugerzeitung.ch##[data-analytics-element-type="teaser"]:has-text(abo plus icon):style(opacity: 0.6 !important)
 zugerzeitung.ch##[data-analytics-teaser-position-in-container]:has-text(Paid article):style(opacity: 0.6 !important)
 zugerzeitung.ch##[data-nzz-mainmenuitem="/aboplus"]
 zugerzeitung.ch##[id^="adnz_"]
