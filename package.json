@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "@adguard/aglint": "^2.1.2"
+    "@adguard/aglint": "^3.0.2"
   }
 }
