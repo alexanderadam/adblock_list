@@ -61,9 +61,17 @@ aargauerzeitung.ch##.regwall__wrapper::before
 aargauerzeitung.ch##.regwall__wrapper:style(margin-top: 0 !important)
 abbreviations.com##.ad-slot
 abbreviations.com##.adunit-middle
+abcnews.go.com###FITTArticle [data-testid="prism-GridRow"] .FITT_Article_main__body:first-child ~ .FITT_Article_main__sidebar:last-child
+abcnews.go.com##.FITT_Article_main .FeaturedMedia:has(fitt-web-player-ui):has([data-testid="prism-caption"]):has-text(News headlines)
+abcnews.go.com##.FeaturedMedia
 abcnews.go.com##.taboola
 abcnews.go.com##[data-testid="prism-Grid-Column"]:has(> [data-testid="prism-ad-wrapper"])
 abcnews.go.com##[data-testid="prism-ad-wrapper"]
+abcnews.go.com##[data-testid="prism-article-body"] > div:has(.MobileContentPromo)
+abcnews.go.com##[data-testid="prism-article-body"] div[class]:has(> [data-testid="prism-divider"]:first-child ~ div ~ [data-testid="prism-divider"]:last-child)
+abcnews.go.com##[data-testid="prism-share"] li:has([data-icon="social-email"])
+abcnews.go.com##[data-testid="prism-share"] li:has([data-icon="social-facebook"])
+abcnews.go.com##[data-testid="prism-share"] li:has([data-icon="social-x"])
 abcnews.go.com##[data-testid="prism-taboola"]
 abendblatt.de###plus-banner--sticky
 abendblatt.de##.article .article__body:style(width: 100% !important)
@@ -445,7 +453,6 @@ blick.ch##.swiper-items-container > div:has([class*=gallery_ad]):remove()
 blick.ch##.tp-backdrop
 blick.ch##.tp-modal
 blick.ch##.tp-modal-open:style(overflow: visible !important; height: auto !important)
-blick.ch##.two-column-article div[class] ~ div[class]:has(> .slot-code-desktop-side-right_ad_1)
 blick.ch##.unblurred > div:has(> button[direction="next"])
 blick.ch##:matches-media((min-width: 994px)) .two-column-article div[class]:has(+ div[class]:has(> .slot-code-desktop-side-right_ad_1)):style(grid-column: 1 / 7 !important)
 blick.ch##[rel*="sponsored"]
@@ -1021,6 +1028,7 @@ doodle.com##.AdsSlot
 doodle.com##.EarthLayout__placement-top
 doodle.com##.SubLayout__top-container:has(> .AdsSlot)
 doodle.com##[data-testid^="jupiter-placement-"]
+doodle.com##div[class*="_upgrade-to-pro-button"]
 doodle.com##div[class]:has(> [data-testid^="jupiter-placement-"]:only-child)
 dr-dsgvo.de###vgzinfo
 dr-dsgvo.de##.mashsb-container:has-text(Newsletter)
@@ -1225,6 +1233,9 @@ express.co.uk##article .newsletter-pure
 express.co.uk##article .read-next
 express.co.uk##aside.right-column
 express.co.uk##div[class]:has(> .div-ow-ad:first-child ~ vf-widget:last-child)
+express.de##.md\:block.hidden:has(> .text-center:first-child ~ .text-center:last-child):has-text(ANZEIGE)
+express.de##[style*="grid-area:ad"]
+express.de##div.items-center:has(> .text-center):has-text(ANZEIGE)
 eztv.re##td > div > div:has(> a:has-text(WARNING! Use a V))
 eztvx.to##img[alt="Anonymous Download"]
 facebook.com###scrollview ~ div:has(> div:only-child > div:only-child > div > div:only-child > div > .__fb-light-mode:only-child #login_popup_cta_form)
@@ -1423,7 +1434,10 @@ focus.de##[class^="cls_hor_prnt"]:has(> [id^="M_TRSCT_hor"])
 focus.de##[class^=Ad-Slot]
 focus.de##[class^=teaserList]:has-text(Lesen Sie auch)
 focus.de##[class^=teaserList]:has-text(Zum Thema)
+focus.de##[data-element-tracking-name="partner-linkbox"]
 focus.de##[data-fbk="FocusHOP2"]
+focus.de##[data-qa-article-links-box]:has(> [data-island="LinksBox"]:only-child > .LinksBox_Container:empty)
+focus.de##[data-qa-article-links-box]:has(> [data-island="LinksBox"]:only-child > .LinksBox_Container:only-child > [data-element-tracking-name="partner-linkbox"]:first-child ~ [data-element-tracking-name="partner-linkbox"]:last-child)
 focus.de##[data-teaser-type="carousel_onlinespiele"]
 focus.de##[data-teaser-type="otbr_SF_1_group"]
 focus.de##[data-teaser-type="seolinkbox"]
@@ -1486,12 +1500,16 @@ fortune.com###article-related
 fortune.com###content > div > div > div > div:has(> #RightRailFlex0)
 fortune.com###content[role="article"] > div:style(width: auto !important)
 fortune.com###navigation-mobile-left ul > li:has(> a:has-text(Subscribe Now))
+fortune.com###outbrain-container
 fortune.com###queryly_resultscontainer .queryly_item_container:has([id^="InstantSearch_InStream"]:empty:first-child:last-child)
+fortune.com##.article-page-wrapper .group\/article ~ [class]:has(#related-articles-modules)
 fortune.com##.article:has(> #text1_wrapper:has-text(Subscribe))
+fortune.com##.empty\:contents:has(> #related-video:only-child)
 fortune.com##.homepage-block ~ :not(.homepage-block):has(> [data-cy^="hp-in-stream"])
 fortune.com##.paywall > div[class]:has(.impression-element ~ div[class] .ad-slot-wrapper)
 fortune.com##.paywall-selector
 fortune.com##.paywall:style(filter: none !important)
+fortune.com##.paywallax-ii-selector
 fortune.com##.product-card-inline-wrapper:has-text(SPONSORED PARTNER)
 fortune.com##.related-articles-rr
 fortune.com##[aria-label="nav-bar"] .subscribeLink
@@ -1677,6 +1695,7 @@ github.com##.BorderGrid-row > .BorderGrid-cell > p:has-text(Provided by indexSto
 gitlab.com##.promotion-issue-sidebar > .hide-collapsed > .js-toggle-content > div:has(> p > a:has-text(Premium plan))
 gitlab.com##.promotion-issue-sidebar > .hide-collapsed:has(> a:has-text(Upgrade plan))
 gitlab.com##div.col-12 > .gl-mt-2:has-text(Approvals are optional.):has-text(Try for free)
+gitlab.com##li[data-testid="upgrade-subscription-item"]
 gizmodo.com###secondScroll
 gizmodo.com##.ad-mobile-dynamic
 gizmodo.com##.instream-native-video
@@ -1852,10 +1871,16 @@ handelsblatt.com##[id^="iqad"]
 handelsblatt.com##[id^=sp_message_container_]
 handelsblatt.com##app-advertisement
 handelsblatt.com##app-commercial-teaser-group
+handelsblatt.com##app-content-advertisement
+handelsblatt.com##app-detail-page-footer:has(> app-outbrain:first-child ~ app-lazy-load-dynamic-component-list:last-child > app-content-advertisement)
+handelsblatt.com##app-loading-spinner:has( > span:empty:first-child ~ svg:last-child)
 handelsblatt.com##app-outbrain
 handelsblatt.com##app-related-content-teaser-group
 handelsblatt.com##app-storyline-advertisement
 handelsblatt.com##app-storyline-element:has(> app-storyline-advertisement)
+handelsblatt.com##app-storyline-element:has(> app-storyline-embed:only-child > app-embed:only-child > app-iframe:only-child > iframe[src*="newsletter"])
+handelsblatt.com##app-storyline-element:has(> app-storyline-paragraph:only-child > app-rich-text:only-child strong:has-text(Mehr))
+handelsblatt.com##app-storyline-element:has(> app-storyline-related-topics:only-child)
 handelsblatt.com##li:has(> .vhb-c-link--special:has-text(Abo))
 handelsblatt.com##p:has(> strong:has-text(>> Lesen Sie hier:))
 handelszeitung.ch###app:style(padding-bottom: 0 !important)
@@ -1971,6 +1996,7 @@ hna.de##html.cmp-modal-open:style(overflow: visible !important)
 home.navigator.gmx.net##.premium.widget
 homeandsmart.de##.col-adsense
 homeandsmart.de##.hs-adsense
+homegate.ch###pdp-branded-listing-desktop
 homegate.ch##[class*=DetailPage_skyscraperAdContainer]
 homegate.ch##[class^=DetailPage_detailPageContent]:style(max-width: none !important)
 homegate.ch##[class^=PartnerCollapsibleContainer_]
@@ -2441,11 +2467,13 @@ mathepower.com###obenbanner
 mathepower.com##.content-area-ads-row-column
 mathepower.com##.content-area-ads-row-column-p
 mathepower.com##.content-area-banner-container
+md5hashing.net##.alert-promo
 mdr.de##.articleMeta-social
 medicalnewstoday.com###read-next
 medicalnewstoday.com##[data-testid="qualtrics-container"]
 medicalnewstoday.com##div:has(> aside > div > div > [data-adbridg-ad-class]):style(min-height: 0 !important; width: auto !important; margin-top: 0 !important)
 medicalnewstoday.com##div:has(> div > [data-article-body="0"]) ~ aside
+medium.com##[data-selectable-paragraph] ~ div[class]:has(#g-recaptcha)
 medium.com##[style="bottom: 0px;"]
 medium.com##article ~ div > div > div:style(background: none !important; margin-top: 0 !important)
 medium.com##article ~ div:has(#paywallButton-programming) > div[class]:first-child > div[class]:first-child:style(background: none !important)
@@ -2463,6 +2491,7 @@ meetup.com###your-groups-card .bg-ds2-surface-fill-primary-enabled:has-text(Beco
 meetup.com##.bg-ds2-banner-base-fill-secondary-enabled:has-text(Start your 7 day free trial)
 meetup.com##.blur-sm:style(filter: none !important)
 meetup.com##.inset-0.fixed.pointer-events-none
+meetup.com##.pointer-events-none:has(> .w-full)
 meetup.com##.pointer-events-none:style(pointer-events: auto !important)
 meetup.com##.relative .-mt-\[60px\]:style(margin-top: 0 !important)
 meetup.com##.relative:has(> #try-pro-links:first-child)
@@ -2705,6 +2734,8 @@ n-tv.de##.space.phide:has(> .space__strech)
 n-tv.de##.teaser--newsletter
 n-tv.de##.teaser:has(.teaser__ad)
 n-tv.de##.topbanner-mobile
+n-tv.de##.wrapper-article [class^="widget-teaser-inline_teaser__"]
+n-tv.de##[class*="Ada_wrapper__"]
 n-tv.de##[class^="ad-wrapper-"]
 n-tv.de##[id^="sp_message_container"]
 n-tv.de##amp-ad
@@ -2832,6 +2863,11 @@ newatlas.com##.OcelotAdModule
 newatlas.com##.Page-above-content > .OcelotAdModule
 newhome.ch##app-property-detail-financing
 newhome.ch##app-property-detail-financing-mortgage-link.ng-star-inserted
+newrepublic.com##.article-body-wrap .article-text-grid > p:style(max-width: 95% !important; width: 100% !important)
+newrepublic.com##.article-body-wrap .article-wrap-grid > p:style(max-width: 95% !important; width: 100% !important)
+newrepublic.com##.post-share ~ div:has(.PostRecirc)
+newrepublic.com##article.article .mostRecent-wrapper
+newrepublic.com##article.post:has(.post-share) ~ article.post
 news.yahoo.com###module-moreStories
 news.yahoo.com###related-content-wrapper
 news.ycombinator.com##body:matches-media((prefers-color-scheme: dark)) #hnmain:style(background-color: #1a1b21 !important; color: #e3e2e9 !important)
@@ -3197,6 +3233,9 @@ podtail.com##aside:has(> a[rel="nofollow noopener"]:first-child:last-child)
 pokemon-go-forum.de##.message--post:has(.username:has-text(Anzeige))
 pokemon-go-forum.de##.message-signature:has(i:has-text(Anzeige))
 politico.com##div:has(> .int-style-Ad__placeholder)
+politico.com##ul li:has([data-share-service="facebook"])
+politico.com##ul li:has([data-share-service="twitter"])
+politico.com##ul li:has([data-testid="share-more"])
 politico.eu##.sidebar-grid__sidebar:has(> .ad:only-child)
 politifact.com##.m-supporter
 politifact.com##.o-disruptor
@@ -3868,6 +3907,7 @@ tagesanzeiger.ch##[class^=PageLayout_leftspace]
 tagesanzeiger.ch##[class^=PageLayout_rightspace]
 tagesanzeiger.ch##[class^=PageLayout_topaddesktop]
 tagesanzeiger.ch##[class^=Teaser_root]:has([class^=Teaser_premium]):style(opacity:0.65 !important)
+tagesanzeiger.ch##article > aside.DynamicTeaser
 tagesanzeiger.ch##article ~ [class^=EndOfArticleSectionList_root]
 tagesanzeiger.ch##body:style(--content-width: 100% !important)
 tagesspiegel.de###ig-code-promo-widget
@@ -4067,12 +4107,24 @@ tgx.sb##div:has(> a[href="/zub.pnp?zpp3r=nord&search"])
 tgx.sb##div:has(> center > a[href^="/hub.php?a="])
 tgx.sb##div[style="margin-bottom:5px;"]:has(> center > div > a)
 tgx.sb##div[style="margin-top:10px;"]:has(> center > div > a)
+the-express.com###push-notification-wrapper
+the-express.com###singleArticle ~ aside.dx-right-column
+the-express.com###singleArticle:has(+ aside.dx-right-column):style(width: 100% !important)
+the-express.com##.google-preferred-source
 the-sun.com###page-social
 the-sun.com##.advert-wrapper
+the-sun.com##.article-readmore
+the-sun.com##.article__content .digital-personalisation
+the-sun.com##.article__content .rail-container:has(.rail__items)
 the-sun.com##.customiser-v2-layout-three-native-ad-container
+the-sun.com##.inline-module--newsletter
+the-sun.com##.module--three-native-ads
 the-sun.com##.rail__cluster
 the-sun.com##.read-more-container
+the-sun.com##.social-icons
 the-sun.com##.widget_thesun_dfp_ad_widget
+the-sun.com##:matches-media((min-width: 64rem)) .single--article .layout--sidebar .layout__item--main ~ .layout__item--sidebar
+the-sun.com##:matches-media((min-width: 64rem)) .single--article .layout--sidebar > .layout__grid:has(.layout__item--main ~.layout__item--sidebar):style(grid-gap: 0 !important; grid-template-columns: 930px !important)
 the-sun.com##[data-aspc="BILL"]
 the-sun.com##[data-id="bottom_rail"]
 the5krunner.com##.widget-area
@@ -4090,6 +4142,11 @@ thecinemaholic.com##.cinemaholic-share-wrapper
 thecinemaholic.com##.code-block:has(> [data-freestar-ad])
 theconversation.com##.react-content-related-container
 theconversation.com##[itemprop="articleBody"] > .slot > .promo
+thedailyadda.com##.l-shared-sec-outer
+thedailyadda.com##.single-standard-1 .s-ct ~ .sidebar-wrap
+thedailyadda.com##.single-standard-1 .s-ct:has(+ .sidebar-wrap) .has-lsl .e-ct-outer:style(max-width: none !important)
+thedailyadda.com##.single-standard-1 .s-ct:has(+ .sidebar-wrap):style(flex: 0 0 100% !important; width: 100% !important)
+thedailyadda.com##.t-shared-sec
 thedailybeast.com##.trending-now
 thedailybeast.com##aside > div:has(> .tdb-ads-block:only-child)
 thedeveloperspace.com##.adsbygoogle
@@ -4505,6 +4562,9 @@ vimeo.com###global-nav .upgrade-cta
 vital.de###infiniteScrollContent
 voip-catalog.com##.adblock
 volksverpetzer.de##.et_pb_post_content:has(> p > .adsbygoogle)
+vox.com###zephr-anchor > div[style]:last-child:empty
+vox.com##.zephr-overlay
+vox.com##body:style(overflow: auto !important; position: absolute !important; top: 0 !important;)
 vuukle.com##div:has(> h4:has-text(Trending Stories))
 w3schools.com###right
 w3schools.com##.sidesection:has(> .sn_ad_label)
@@ -4587,6 +4647,7 @@ watson.de##.watson-sharebuttons
 watson.de##.watson-snippet__shareBubbles
 watson.de##.watson-story__content .watson-autocontext
 watson.de##[id^="sp_message_container"]
+watson.de##header > .min-h-\[60px\]:first-child
 wbir.com##.article__section_type_ad
 wbir.com##.article__sharing
 wbir.com##.grid__section_theme_below-article
@@ -4654,6 +4715,7 @@ what-song.com##.md\:min-h-\[100px\].min-h-\[50px\].bg-slate-100
 what-song.com##.min-h-\[280px\].bg-slate-100
 what-song.com##div:has(> div > p:has-text(REMOVE ADS))
 what-song.com##div:has(> span:has-text(Powered by))
+whatismyip.com###adbannertop
 whatismyipaddress.com##.call-to-action:has-text(Hide My IP Address Now)
 wieistmeineip.de##.location ~ .vpn
 wieistmeineip.de##[data-cmp-id="adsense"]
